@@ -1,0 +1,9 @@
+# secrets and local state
+.env
+*.key
+*.pem
+*secret*
+*token*
+node_modules/
+*.log
+.DS_Store
