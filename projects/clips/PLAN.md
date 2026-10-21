@@ -11,7 +11,7 @@ Rules (decided with William, 2026-10-21):
 Interest areas: top 20 Twitch categories, GTA 6 launch, Pokemon vending clips, POV streamers (IRL walk-around vs first-person gameplay: still to decide).
 
 ## Open questions
-- [ ] POV = IRL walk-around or first-person gameplay?
+- [x] POV streamers: was only a spitballed idea, not a defined track. Revisit after launch window.
 - [ ] Monetization or growth first?
 - [ ] YouTube channel + Google Cloud project exist?
 - [ ] Higgsfield plan: API access or web only?
@@ -19,8 +19,8 @@ Interest areas: top 20 Twitch categories, GTA 6 launch, Pokemon vending clips, P
 - [ ] Spoiler policy for captions/thumbnails
 
 ## Phase 1: Setup (Oct 21 - Oct 27)
-- [ ] Get Twitch developer credentials (store in secrets, never in chat)
-- [ ] Pull live top-25 categories via Twitch API
+- [x] Get Twitch developer credentials (store in secrets, never in chat)
+- [x] Pull live top-25 categories via Twitch API (done 2026-10-21; works in shell via egress proxy sentinels)
 - [ ] Create/confirm YouTube channel
 - [ ] Create Google Cloud project, enable YouTube Data API, request API audit (uploads stay private until it passes)
 - [ ] Read Rockstar's content policy; note what it allows
@@ -49,4 +49,5 @@ Interest areas: top 20 Twitch categories, GTA 6 launch, Pokemon vending clips, P
 - [ ] Add Pokemon vending / POV tracks
 
 ## Log
+- 2026-10-21: Twitch Client ID/Secret stored (TWITCH_CLIENT_ID, TWITCH_CLIENT_SECRET, hosts api.twitch.tv + id.twitch.tv). Shell couldn't see them because secrets.egressProxy was off. Enabling it + Gateway restart. NEXT: after restart, in a fresh turn, get app token via id.twitch.tv/oauth2/token (client_credentials), pull helix/games/top?first=25, then tick the Twitch items in Phase 1.
 - 2026-10-21: Plan created. Backups run daily via `scripts/backup.sh` (GitHub: wdownard-dev/openclaw-workspace).
