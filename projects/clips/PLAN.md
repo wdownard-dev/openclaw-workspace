@@ -26,7 +26,7 @@ Interest areas: top 20 Twitch categories, GTA 6 launch, Pokemon vending clips, P
 - [ ] Read Rockstar's content policy; note what it allows
 
 ## Phase 2: Permissions + pipeline build (Oct 28 - Nov 5)
-- [ ] Shortlist 30-50 streamers (priority: large GTA V / RP streamers likely to move to GTA 6; plus Pokemon vending and POV picks)
+- [ ] Shortlist 30-50 streamers (priority: large GTA V / RP streamers likely to move to GTA 6; plus Pokemon vending and POV picks). STARTED: 22 English GTA V candidates in `permissions.md` (2026-10-21), still need policy/contact research + Pokemon vending picks.
 - [ ] Write outreach message + permission template
 - [ ] Send outreach; track replies in `projects/clips/permissions.md`
 - [ ] Build pipeline: detect moments, cut to 9:16, captions + hook
