@@ -150,3 +150,19 @@ Format: program/platform; who runs it; join/requirements; footage supply; pay; r
 - Campaign briefs (footage, credit, platform lists, monetization language) could not be read without signing up; Content Rewards campaign pages are JavaScript-rendered and returned only navigation text.
 - No program found, verified or otherwise, for Rogan, Lex Fridman, Hormozi, Bartlett, Flagrant, Theo Von, Valuetainment, Kai Cenat or Sidemen. A direct permission email (as in Track 1) is the only route for them.
 - Did not run a live `videoLicense=creativeCommon` search; usefulness is inferred.
+
+---
+## Addendum 2026-10-22 (night): first-hand read of Whop and Vyro (by Morpheus, with William's OK)
+
+### Whop
+- Account CREATED for william.downard@gmail.com (email code sign-in, no password; ToS/Seller/Spend Card/Wallet terms accepted with William's explicit OK). Nothing else done: no payout, card, wallet or campaign application.
+- The Content Rewards directory could not be reached by URL after sign-in (redirects to Whop's own community page), so NO Whop campaign brief was read (Iced Coffee Hour still unverified).
+
+### Vyro (https://vyro.com): NO account created
+- Public campaign list (read without signing in, 2026-10-22): MrBeast Gaming "Escape Call of Duty's DMZ, Win $1,000,000" $1,500 per 1M views (TikTok, YouTube Shorts, Instagram); Total Drama Roblox x5 at $2,500 per 1M; iHeartPodcasts "Don't Lie To Me" $2,000 per 1M; Valorant Champs Shanghai Podcast $1,500 per 1M; Ketone-IQ (sponsored) $1,500 per 1M; MrBeast "Lose 150 Lbs" and SPEED VEGAS marked "Locked for new posts". Rates can change during a campaign; views pay at the rate live when they accrued.
+- Full campaign briefs (footage supply, rules, where to post) are only shown after sign-up.
+- Clipper Terms (https://vyro.com/clipper-terms, modified Dec 20 2025) key points:
+  - Sign-up REQUIRES linking at least one eligible social account (verifying ownership, giving Vyro access to profile, media and insights) AND onboarding with a third-party payment processor. 18+, one account per person.
+  - IP: "if you create a short form clip of long form Client Content, such short clip will be Client Content", i.e. the client owns the clip, not you. Only your own unique additions count as Clipper Content.
+  - Campaigns can be cancelled without payout if the client's funds fail to settle; Vyro/clients can change campaigns anytime; mandatory arbitration.
+- Fit with this project: clips here would be on the clipper's linked accounts, owned by the client, paid per view. That does not build the sticks&bones channel's own library, and linking the channel/other socials is a decision for William. Brand-sponsored campaigns also raise paid-promotion disclosure rules. Treat Vyro as an optional side income track, not the main plan.
