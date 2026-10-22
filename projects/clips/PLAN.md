@@ -12,6 +12,12 @@ Interest areas: top 20 Twitch categories, GTA 6 launch. Focus: Twitch clipping o
 Goal: MONETIZATION (decided 2026-10-21). Higgsfield: deferred, no confirmed public API; maybe later for original intros/B-roll by hand.
 Channel: sticks&bones (UC4BoAATq5PywoIYfClpJDVw), confirmed by William.
 
+## TOP PRIORITY TOMORROW (2026-10-23), do these first in order
+- [ ] A. Create a SEPARATE YouTube channel for Vyro clipping (decided 2026-10-22: keeps strikes, YPP review and the audit description for sticks&bones clean; Vyro clips are client-owned content). Steps for William: YouTube -> profile picture -> Switch account / Create a channel (a brand account, not sticks&bones), pick a name, add a profile picture and one-line description, verify phone (Studio -> Settings -> Channel -> Feature eligibility). Then I give steps to link it to Vyro (William does the Google sign-in himself; Vyro also needs payment onboarding via its processor, which only William can do). Do NOT link sticks&bones to Vyro.
+- [ ] B. Pick 1-2 straight (non-sponsored) Vyro campaigns to start with (candidates: MrBeast Gaming Call of Duty, iHeart 'Don't Lie To Me', Valorant Champs Shanghai Podcast). Skip Ketone-IQ and other sponsored ones (paid-promotion disclosure). Read the full brief after sign-up before posting.
+- [ ] C. Switch the YouTube OAuth app (morpheus-clips) from Testing to In production (Google Auth Platform -> Audience); Testing tokens expire in 7 days (about Oct 28). Takes 2 minutes.
+- [ ] D. TikTok: decide later; Vyro campaigns accept it, but posting would be manual (TikTok posting API needs its own approval). Check TikTok's current rules/availability first.
+
 ## RESUME HERE (pinned 2026-10-22 evening, William on a break)
 Two decisions waiting on William, then continue the pipeline:
 1. [x] DONE 2026-10-22: pip bootstrapped (~/.local/bin/pip), project venv ~/openclaw-sites/clips-venv, faster-whisper 1.2.1 + base.en model (142 MB, ~/openclaw-sites/models, CPU int8). pipeline/transcribe.py runs end to end (tested on a tone clip: no speech detected, as expected). ACCURACY ON REAL SPEECH NOT YET VERIFIED: check on the first real clip.
