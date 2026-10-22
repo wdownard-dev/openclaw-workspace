@@ -45,17 +45,17 @@ Non-English (skip for now unless we add captions/translation): EWROON (pl), ELoT
 ## Batch 2 (Scope A) - researched 2026-10-22, details in research-batch2-1..4.md
 No streamer here states a clip policy (all "not stated, unverified"; image panels, chat commands and Discord rules were unreadable). Nobody has granted permission. Emails come from each streamer's own pages per the research notes; treat as unverified until a send succeeds.
 
-### Wave 1: direct business email, low risk (proposed to send first, awaiting William's approval)
+### Wave 1: SENT 2026-10-22 ~6:47-6:56 PM ET (direct business email, low risk)
 | Streamer | Category | Contact | Status | Date |
 |---|---|---|---|---|
-| taxi2g | ARC Raiders | Taxi2gee@gmail.com | candidate | |
-| Sheiden | League of Legends | sheiden.contact@gmail.com (Dignitas contract may limit reuse) | candidate | |
-| Linkzzey | Minecraft | LinkzzeyTVB@gmail.com | candidate | |
-| summit1g | Just Chatting | sum1gbusiness@gmail.com (posts own highlights/Shorts) | candidate | |
-| risezd | Fortnite | dtrisebusiness@gmail.com | candidate | |
-| ninja | Fortnite | business@teamninja.com (long shot, agency-style) | candidate | |
+| taxi2g | ARC Raiders | Taxi2gee@gmail.com | contacted | 2026-10-22 |
+| Sheiden | League of Legends | sheiden.contact@gmail.com (Dignitas contract may limit reuse) | contacted | 2026-10-22 |
+| Linkzzey | Minecraft | LinkzzeyTVB@gmail.com | contacted | 2026-10-22 |
+| summit1g | Just Chatting | sum1gbusiness@gmail.com (posts own highlights/Shorts) | contacted | 2026-10-22 |
+| risezd | Fortnite | dtrisebusiness@gmail.com | contacted | 2026-10-22 |
+| ninja | Fortnite | business@teamninja.com (long shot, agency-style) | contacted | 2026-10-22 |
 
-### Wave 2: agency/management in the way (slower, lower odds)
+### Wave 2: SENT 2026-10-22 ~6:57-7:03 PM ET, except shotzzy and dashy (no email found, not contacted). Agency/management in the way (slower, lower odds)
 formal (partnerships@opticgaming.com), higgs (higgs@evolved.gg, XSET), humzh (humzh@accelmedia.org), laynalazar (layna@mythictalent.com), feinberg (feinberg@valianttalent.com), zekken (zekken@prodigy-seg.gg), lyric (lyric@pivot-agency.com), shotzzy / dashy (OpTic, CoD League footage rights), ImperialHal__ (imperialhal@liftsm.com, tournament footage), Doublelift (doublelift@mythictalent.com, profanity-heavy)
 
 ### Hold
@@ -67,3 +67,10 @@ formal (partnerships@opticgaming.com), higgs (higgs@evolved.gg, XSET), humzh (hu
 
 ### Skip
 cottontailva (mature, adult-site links), robthemaster1 (predator-sting content), buckefps (crypto-casino link, 2023 disqualification), Subroza (gambling/crypto panels), ShahZaM (!skinclub sponsor), Minny (sponsor-heavy, no email), zoomaa (betting sponsor), cloakzy (Roobet casino sponsor), Dantes (agency, toxic persona), hivise (reuses Jynxzi's footage)
+
+## Batch 2 send record (2026-10-22)
+- Direct (Wave 1): taxi2g, Sheiden, Linkzzey, summit1g, risezd, ninja.
+- Agency (Wave 2): formal, higgs, humzh, laynalazar, feinberg, zekken, lyric, ImperialHal, Doublelift. Agency version of the email (asks 4 questions, no pronouns).
+- NOT contacted: shotzzy, dashy (no email found), and all Hold/Skip entries.
+- Thread ids in outbox/sent.log (20 total incl. first batch). Reply monitor covers all of them.
+- Suggested follow-up: one short nudge to non-responders around Oct 29-Nov 1. Email addresses came from the streamers' own pages via research and are unverified; bounces will appear in the reply monitor.

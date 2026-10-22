@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+cd "$(dirname "$0")"
+D="Permission request: YouTube Shorts clips of your streams"
+M="Clip permission inquiry: YouTube Shorts"
+go() { grep -q "^$1 | .* | SENT to" sent.log && { echo "skip $1 (already sent)"; return; }; out=$(python3 -I ../scripts/send_mail.py --to "$2" --bcc william.downard@me.com --subject "$3" --body-file "$1.txt" 2>&1) && echo "$1 | $(date -u +%Y-%m-%dT%H:%MZ) | $out" >> sent.log || echo "$1 | FAILED | $out" >> send-errors.log; sleep $((20 + RANDOM % 20)); }
+go taxi2g Taxi2gee@gmail.com "$D"
+go sheiden sheiden.contact@gmail.com "$D"
+go linkzzey LinkzzeyTVB@gmail.com "$D"
+go summit1g sum1gbusiness@gmail.com "$D"
+go risezd dtrisebusiness@gmail.com "$D"
+go ninja business@teamninja.com "$D"
+go formal partnerships@opticgaming.com "$M"
+go higgs higgs@evolved.gg "$M"
+go humzh humzh@accelmedia.org "$M"
+go laynalazar layna@mythictalent.com "$M"
+go feinberg feinberg@valianttalent.com "$M"
+go zekken zekken@prodigy-seg.gg "$M"
+go lyric lyric@pivot-agency.com "$M"
+go imperialhal imperialhal@liftsm.com "$M"
+go doublelift doublelift@mythictalent.com "$M"
+echo DONE >> send-wave.done
