@@ -8,13 +8,15 @@ Rules (decided with William, 2026-10-21):
 - Human approval (via Telegram) before every upload.
 - Skip the Slots category (gambling, ad-unfriendly).
 
-Interest areas: top 20 Twitch categories, GTA 6 launch, Pokemon vending clips, POV streamers (IRL walk-around vs first-person gameplay: still to decide).
+Interest areas: top 20 Twitch categories, GTA 6 launch. Focus: Twitch clipping only. (2026-10-21: Pokemon vending and POV tracks scratched for now.)
+Goal: MONETIZATION (decided 2026-10-21). Higgsfield: deferred, no confirmed public API; maybe later for original intros/B-roll by hand.
+Channel: sticks&bones (UC4BoAATq5PywoIYfClpJDVw), confirmed by William.
 
 ## Open questions
 - [x] POV streamers: was only a spitballed idea, not a defined track. Revisit after launch window.
-- [ ] Monetization or growth first?
-- [ ] YouTube channel + Google Cloud project exist?
-- [ ] Higgsfield plan: API access or web only?
+- [x] Monetization or growth first? -> Monetization
+- [x] YouTube channel + Google Cloud project exist? -> yes (sticks&bones, project morpheus-clips)
+- [x] Higgsfield plan: API access or web only? -> deferred, not needed now
 - [ ] Rockstar content policy: what is allowed for monetized gameplay?
 - [ ] Spoiler policy for captions/thumbnails
 
