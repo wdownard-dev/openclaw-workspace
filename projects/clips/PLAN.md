@@ -12,6 +12,13 @@ Interest areas: top 20 Twitch categories, GTA 6 launch. Focus: Twitch clipping o
 Goal: MONETIZATION (decided 2026-10-21). Higgsfield: deferred, no confirmed public API; maybe later for original intros/B-roll by hand.
 Channel: sticks&bones (UC4BoAATq5PywoIYfClpJDVw), confirmed by William.
 
+## RESUME HERE (pinned 2026-10-22 evening, William on a break)
+Two decisions waiting on William, then continue the pipeline:
+1. [ ] Install pip (bootstrapped into user folder) + a small CPU speech-to-text model for auto-commentary? (no pip, no GPU on host; CPU is slower but fine for 30-60 s clips)
+2. [ ] Create free Vyro + Whop accounts so Scout can read real campaign terms (MrBeast Gaming, Iced Coffee Hour, Total Drama Roblox)? Signing up uses William's email, so needs his yes first.
+Then: build the rest of the pipeline (caption writer, Telegram preview, upload glue; clip fetch method still unresolved), watch the reply monitor, send follow-up nudge ~Oct 29-Nov 1, read Rockstar's content policy, switch YouTube OAuth app to production.
+State: 20 streamers contacted, 0 replies yet; Scout agent ready; format_short.py built and tested.
+
 ## TOP PRIORITY (do first, in this order)
 - [x] 1. DONE 2026-10-22 (Gmail connected: scopes gmail.send + gmail.readonly, token verified, secrets GMAIL_OAUTH_CLIENT_ID/_CLIENT_SECRET/_REFRESH_TOKEN; scripts/send_mail.py written, nothing sent yet). Set up the SEPARATE Google Cloud project `morpheus-mail` for sending outreach email via the Gmail API (send-only scope). Steps: new project -> enable Gmail API -> Google Auth Platform wizard (External, test user william.downard@gmail.com) -> Desktop app client -> store ID/secret via masked prompts (William pastes Client ID into the sign-in link himself; it is masked in chat) -> one-time sign-in with gmail.send only. Keep it separate from morpheus-clips (YouTube audit describes that project as upload-only).
 - [x] 2. DONE 2026-10-22 ~6:34 PM ET: all 5 sent (BCC william.downard@me.com), tracked as `contacted`; reply monitor automation runs 9am-9pm every 3h and reports on Telegram. (Original step: show final text once, then send 5 emails in order: xQc (mgmt), PENTA, Enevun, pokelawls, novasobored (drafts in outreach-draft.md). Log each as `contacted` + date in permissions.md. Nobody else is contacted.)
