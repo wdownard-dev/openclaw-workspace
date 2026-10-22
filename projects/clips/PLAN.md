@@ -21,8 +21,8 @@ Interest areas: top 20 Twitch categories, GTA 6 launch, Pokemon vending clips, P
 ## Phase 1: Setup (Oct 21 - Oct 27)
 - [x] Get Twitch developer credentials (store in secrets, never in chat)
 - [x] Pull live top-25 categories via Twitch API (done 2026-10-21; works in shell via egress proxy sentinels)
-- [ ] Create/confirm YouTube channel
-- [ ] Create Google Cloud project, enable YouTube Data API, request API audit (uploads stay private until it passes)
+- [x] Create/confirm YouTube channel (done 2026-10-21)
+- [ ] Create Google Cloud project, enable YouTube Data API, request API audit (uploads stay private until it passes). DONE: project morpheus-clips, OAuth client, OAuth authorization (refresh token stored as GOOGLE_OAUTH_REFRESH_TOKEN, scopes youtube.upload + youtube.readonly). TO DO: confirm YouTube Data API v3 is enabled, verify token with a channels.list call (needs a fresh turn), switch OAuth app Testing -> In production, submit API audit form.
 - [ ] Read Rockstar's content policy; note what it allows
 
 ## Phase 2: Permissions + pipeline build (Oct 28 - Nov 5)
@@ -49,5 +49,6 @@ Interest areas: top 20 Twitch categories, GTA 6 launch, Pokemon vending clips, P
 - [ ] Add Pokemon vending / POV tracks
 
 ## Log
+- 2026-10-21: Google OAuth client (Desktop app, project morpheus-clips) stored as GOOGLE_OAUTH_CLIENT_ID / GOOGLE_OAUTH_CLIENT_SECRET (hosts: accounts.google.com, oauth2.googleapis.com, www.googleapis.com, youtube.googleapis.com). STILL TO DO: one-time user authorization to get a refresh token (scope youtube.upload), store it as GOOGLE_OAUTH_REFRESH_TOKEN; switch OAuth app from Testing to In production before launch (Testing tokens expire in 7 days); submit YouTube API compliance audit form.
 - 2026-10-21: Twitch Client ID/Secret stored (TWITCH_CLIENT_ID, TWITCH_CLIENT_SECRET, hosts api.twitch.tv + id.twitch.tv). Shell couldn't see them because secrets.egressProxy was off. Enabling it + Gateway restart. NEXT: after restart, in a fresh turn, get app token via id.twitch.tv/oauth2/token (client_credentials), pull helix/games/top?first=25, then tick the Twitch items in Phase 1.
 - 2026-10-21: Plan created. Backups run daily via `scripts/backup.sh` (GitHub: wdownard-dev/openclaw-workspace).
