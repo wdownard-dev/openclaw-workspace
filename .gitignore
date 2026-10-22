@@ -7,3 +7,9 @@
 node_modules/
 *.log
 .DS_Store
+
+# pipeline working files (videos are large and belong to streamers)
+projects/clips/pipeline/jobs/
+*.mp4
+*.mkv
+*.mov
