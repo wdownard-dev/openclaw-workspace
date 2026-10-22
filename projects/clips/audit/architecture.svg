@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 820" width="1400" height="820" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#334155"/></marker>
+  </defs>
+  <rect width="1400" height="820" fill="#ffffff"/>
+  <text x="700" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#0f172a">Morpheus Clips - Architecture</text>
+  <text x="700" y="70" text-anchor="middle" font-size="15" fill="#475569">Private tool run by one creator. Uploads to the creator's own YouTube channel only.</text>
+
+  <!-- local boundary -->
+  <rect x="250" y="100" width="900" height="650" rx="14" fill="#f8fafc" stroke="#94a3b8" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="270" y="126" font-size="15" font-weight="700" fill="#475569">Runs locally on the creator's own computer (no public interface, no user accounts)</text>
+
+  <!-- external left -->
+  <rect x="30" y="200" width="190" height="90" rx="10" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+  <text x="125" y="236" text-anchor="middle" font-size="16" font-weight="700" fill="#4c1d95">Twitch API</text>
+  <text x="125" y="258" text-anchor="middle" font-size="13" fill="#4c1d95">public clips + stream</text>
+  <text x="125" y="276" text-anchor="middle" font-size="13" fill="#4c1d95">info of permitted streamers</text>
+
+  <!-- permission list -->
+  <rect x="290" y="150" width="230" height="100" rx="10" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+  <text x="405" y="184" text-anchor="middle" font-size="16" font-weight="700" fill="#78350f">Permission list</text>
+  <text x="405" y="206" text-anchor="middle" font-size="13" fill="#78350f">only streamers who have</text>
+  <text x="405" y="224" text-anchor="middle" font-size="13" fill="#78350f">given explicit permission</text>
+
+  <!-- fetcher -->
+  <rect x="290" y="300" width="230" height="100" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="405" y="334" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a8a">1. Clip fetcher</text>
+  <text x="405" y="356" text-anchor="middle" font-size="13" fill="#1e3a8a">selects clips from</text>
+  <text x="405" y="374" text-anchor="middle" font-size="13" fill="#1e3a8a">permitted streamers only</text>
+
+  <!-- editor -->
+  <rect x="580" y="300" width="230" height="100" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="695" y="334" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a8a">2. Editor</text>
+  <text x="695" y="356" text-anchor="middle" font-size="13" fill="#1e3a8a">vertical crop, captions,</text>
+  <text x="695" y="374" text-anchor="middle" font-size="13" fill="#1e3a8a">title + original commentary</text>
+
+  <!-- approval -->
+  <rect x="870" y="300" width="250" height="100" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+  <text x="995" y="334" text-anchor="middle" font-size="16" font-weight="700" fill="#14532d">3. Manual approval</text>
+  <text x="995" y="356" text-anchor="middle" font-size="13" fill="#14532d">preview sent to the creator;</text>
+  <text x="995" y="374" text-anchor="middle" font-size="13" fill="#14532d">nothing uploads without a yes</text>
+
+  <!-- uploader -->
+  <rect x="870" y="480" width="250" height="100" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="995" y="514" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a8a">4. Uploader</text>
+  <text x="995" y="536" text-anchor="middle" font-size="13" fill="#1e3a8a">YouTube Data API</text>
+  <text x="995" y="554" text-anchor="middle" font-size="13" fill="#1e3a8a">videos.insert (OAuth 2.0)</text>
+
+  <!-- status reader -->
+  <rect x="580" y="480" width="230" height="100" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="695" y="514" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a8a">5. Status reader</text>
+  <text x="695" y="536" text-anchor="middle" font-size="13" fill="#1e3a8a">read-only: channels.list,</text>
+  <text x="695" y="554" text-anchor="middle" font-size="13" fill="#1e3a8a">videos.list (own channel)</text>
+
+  <!-- credential store -->
+  <rect x="290" y="480" width="230" height="100" rx="10" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+  <text x="405" y="514" text-anchor="middle" font-size="16" font-weight="700" fill="#7f1d1d">Protected credential store</text>
+  <text x="405" y="536" text-anchor="middle" font-size="13" fill="#7f1d1d">OAuth refresh token, local,</text>
+  <text x="405" y="554" text-anchor="middle" font-size="13" fill="#7f1d1d">restricted file permissions</text>
+
+  <!-- creator / telegram -->
+  <rect x="870" y="160" width="250" height="90" rx="10" fill="#f1f5f9" stroke="#475569" stroke-width="2"/>
+  <text x="995" y="196" text-anchor="middle" font-size="16" font-weight="700" fill="#0f172a">Creator (channel owner)</text>
+  <text x="995" y="218" text-anchor="middle" font-size="13" fill="#0f172a">reviews preview, approves or</text>
+  <text x="995" y="236" text-anchor="middle" font-size="13" fill="#0f172a">rejects via private chat</text>
+
+  <!-- external bottom right: YouTube -->
+  <rect x="1180" y="480" width="190" height="100" rx="10" fill="#fee2e2" stroke="#b91c1c" stroke-width="2"/>
+  <text x="1275" y="516" text-anchor="middle" font-size="16" font-weight="700" fill="#7f1d1d">YouTube</text>
+  <text x="1275" y="538" text-anchor="middle" font-size="13" fill="#7f1d1d">creator's own channel</text>
+  <text x="1275" y="556" text-anchor="middle" font-size="13" fill="#7f1d1d">(Shorts)</text>
+
+  <!-- Google OAuth -->
+  <rect x="1180" y="640" width="190" height="80" rx="10" fill="#fee2e2" stroke="#b91c1c" stroke-width="2"/>
+  <text x="1275" y="676" text-anchor="middle" font-size="15" font-weight="700" fill="#7f1d1d">Google OAuth 2.0</text>
+  <text x="1275" y="698" text-anchor="middle" font-size="13" fill="#7f1d1d">one-time owner consent</text>
+
+  <!-- arrows -->
+  <path d="M220 245 L290 330" stroke="#334155" stroke-width="2.5" fill="none" marker-end="url(#a)"/>
+  <path d="M405 250 L405 300" stroke="#334155" stroke-width="2.5" fill="none" marker-end="url(#a)"/>
+  <path d="M520 350 L580 350" stroke="#334155" stroke-width="2.5" fill="none" marker-end="url(#a)"/>
+  <path d="M810 350 L870 350" stroke="#334155" stroke-width="2.5" fill="none" marker-end="url(#a)"/>
+  <path d="M995 300 L995 250" stroke="#334155" stroke-width="2.5" fill="none" marker-end="url(#a)" marker-start="url(#a)"/>
+  <path d="M995 400 L995 480" stroke="#334155" stroke-width="2.5" fill="none" marker-end="url(#a)"/>
+  <path d="M1120 530 L1180 530" stroke="#334155" stroke-width="2.5" fill="none" marker-end="url(#a)"/>
+  <path d="M810 530 L870 530" stroke="#334155" stroke-width="2.5" fill="none" marker-start="url(#a)" marker-end="url(#a)"/>
+  <path d="M520 530 L580 530" stroke="#334155" stroke-width="2.5" fill="none" stroke-dasharray="6 4" marker-end="url(#a)"/>
+  <path d="M1180 680 L995 680 L995 580" stroke="#334155" stroke-width="2.5" fill="none" stroke-dasharray="6 4" marker-end="url(#a)"/>
+
+  <text x="1000" y="445" font-size="12" fill="#475569">approved</text>
+  <text x="525" y="520" font-size="11" fill="#475569">token</text>
+  <text x="1130" y="520" font-size="11" fill="#475569">upload</text>
+
+  <text x="700" y="790" text-anchor="middle" font-size="13" fill="#475569">Dashed arrows: credential / one-time authorization use. The app accesses only the authorizing creator's own channel; no other users' data.</text>
+</svg>

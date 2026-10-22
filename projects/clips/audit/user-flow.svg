@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 760" width="1400" height="760" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#334155"/></marker>
+  </defs>
+  <rect width="1400" height="760" fill="#ffffff"/>
+  <text x="700" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#0f172a">Morpheus Clips - User Flow</text>
+  <text x="700" y="70" text-anchor="middle" font-size="15" fill="#475569">The only user is the channel owner. There are no other users, sign-ups or public accounts.</text>
+
+  <!-- Row 1: one-time setup -->
+  <text x="40" y="118" font-size="16" font-weight="700" fill="#475569">ONE-TIME SETUP</text>
+  <rect x="40" y="130" width="300" height="110" rx="10" fill="#fee2e2" stroke="#b91c1c" stroke-width="2"/>
+  <text x="190" y="164" text-anchor="middle" font-size="16" font-weight="700" fill="#7f1d1d">A. Owner signs in with Google</text>
+  <text x="190" y="188" text-anchor="middle" font-size="13" fill="#7f1d1d">OAuth 2.0 consent screen lists the two</text>
+  <text x="190" y="206" text-anchor="middle" font-size="13" fill="#7f1d1d">permissions: upload videos,</text>
+  <text x="190" y="224" text-anchor="middle" font-size="13" fill="#7f1d1d">read-only channel access</text>
+
+  <rect x="420" y="130" width="300" height="110" rx="10" fill="#fee2e2" stroke="#b91c1c" stroke-width="2"/>
+  <text x="570" y="164" text-anchor="middle" font-size="16" font-weight="700" fill="#7f1d1d">B. Owner approves access</text>
+  <text x="570" y="188" text-anchor="middle" font-size="13" fill="#7f1d1d">token stored in a protected local</text>
+  <text x="570" y="206" text-anchor="middle" font-size="13" fill="#7f1d1d">credential store; access can be</text>
+  <text x="570" y="224" text-anchor="middle" font-size="13" fill="#7f1d1d">revoked any time in Google settings</text>
+
+  <path d="M340 185 L420 185" stroke="#334155" stroke-width="2.5" fill="none" marker-end="url(#a)"/>
+
+  <!-- Row 2: per clip -->
+  <text x="40" y="300" font-size="16" font-weight="700" fill="#475569">FOR EVERY VIDEO</text>
+
+  <rect x="40" y="316" width="240" height="120" rx="10" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+  <text x="160" y="350" text-anchor="middle" font-size="15" font-weight="700" fill="#78350f">1. Check permission</text>
+  <text x="160" y="374" text-anchor="middle" font-size="13" fill="#78350f">streamer must be on the</text>
+  <text x="160" y="392" text-anchor="middle" font-size="13" fill="#78350f">permission list, otherwise</text>
+  <text x="160" y="410" text-anchor="middle" font-size="13" fill="#78350f">the clip is skipped</text>
+
+  <rect x="330" y="316" width="240" height="120" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="450" y="350" text-anchor="middle" font-size="15" font-weight="700" fill="#1e3a8a">2. Select clip</text>
+  <text x="450" y="374" text-anchor="middle" font-size="13" fill="#1e3a8a">pick a highlight from the</text>
+  <text x="450" y="392" text-anchor="middle" font-size="13" fill="#1e3a8a">permitted streamer's</text>
+  <text x="450" y="410" text-anchor="middle" font-size="13" fill="#1e3a8a">public clips</text>
+
+  <rect x="620" y="316" width="240" height="120" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="740" y="350" text-anchor="middle" font-size="15" font-weight="700" fill="#1e3a8a">3. Edit</text>
+  <text x="740" y="374" text-anchor="middle" font-size="13" fill="#1e3a8a">vertical crop, captions, title</text>
+  <text x="740" y="392" text-anchor="middle" font-size="13" fill="#1e3a8a">and the creator's own</text>
+  <text x="740" y="410" text-anchor="middle" font-size="13" fill="#1e3a8a">commentary</text>
+
+  <rect x="910" y="316" width="240" height="120" rx="10" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+  <text x="1030" y="350" text-anchor="middle" font-size="15" font-weight="700" fill="#14532d">4. Owner reviews</text>
+  <text x="1030" y="374" text-anchor="middle" font-size="13" fill="#14532d">preview sent privately to the</text>
+  <text x="1030" y="392" text-anchor="middle" font-size="13" fill="#14532d">owner, who approves or</text>
+  <text x="1030" y="410" text-anchor="middle" font-size="13" fill="#14532d">rejects it</text>
+
+  <path d="M280 376 L330 376" stroke="#334155" stroke-width="2.5" fill="none" marker-end="url(#a)"/>
+  <path d="M570 376 L620 376" stroke="#334155" stroke-width="2.5" fill="none" marker-end="url(#a)"/>
+  <path d="M860 376 L910 376" stroke="#334155" stroke-width="2.5" fill="none" marker-end="url(#a)"/>
+
+  <!-- Row 3 -->
+  <rect x="910" y="520" width="240" height="120" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="1030" y="554" text-anchor="middle" font-size="15" font-weight="700" fill="#1e3a8a">5. Upload (if approved)</text>
+  <text x="1030" y="578" text-anchor="middle" font-size="13" fill="#1e3a8a">YouTube Data API videos.insert</text>
+  <text x="1030" y="596" text-anchor="middle" font-size="13" fill="#1e3a8a">to the owner's own channel</text>
+
+  <rect x="620" y="520" width="240" height="120" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="740" y="554" text-anchor="middle" font-size="15" font-weight="700" fill="#1e3a8a">6. Check status</text>
+  <text x="740" y="578" text-anchor="middle" font-size="13" fill="#1e3a8a">read-only videos.list: processing</text>
+  <text x="740" y="596" text-anchor="middle" font-size="13" fill="#1e3a8a">state and basic performance</text>
+
+  <rect x="330" y="520" width="240" height="120" rx="10" fill="#fee2e2" stroke="#b91c1c" stroke-width="2"/>
+  <text x="450" y="554" text-anchor="middle" font-size="15" font-weight="700" fill="#7f1d1d">7. Video live on YouTube</text>
+  <text x="450" y="578" text-anchor="middle" font-size="13" fill="#7f1d1d">published as a Short on the</text>
+  <text x="450" y="596" text-anchor="middle" font-size="13" fill="#7f1d1d">owner's channel</text>
+
+  <path d="M1030 436 L1030 520" stroke="#334155" stroke-width="2.5" fill="none" marker-end="url(#a)"/>
+  <path d="M910 580 L860 580" stroke="#334155" stroke-width="2.5" fill="none" marker-end="url(#a)"/>
+  <path d="M620 580 L570 580" stroke="#334155" stroke-width="2.5" fill="none" marker-end="url(#a)"/>
+
+  <text x="1040" y="480" font-size="12" fill="#475569">approved</text>
+
+  <!-- rejected -->
+  <rect x="1190" y="316" width="180" height="120" rx="10" fill="#f1f5f9" stroke="#475569" stroke-width="2"/>
+  <text x="1280" y="356" text-anchor="middle" font-size="15" font-weight="700" fill="#0f172a">Rejected</text>
+  <text x="1280" y="380" text-anchor="middle" font-size="13" fill="#0f172a">clip is discarded;</text>
+  <text x="1280" y="398" text-anchor="middle" font-size="13" fill="#0f172a">nothing is uploaded</text>
+  <path d="M1150 376 L1190 376" stroke="#334155" stroke-width="2.5" fill="none" stroke-dasharray="6 4" marker-end="url(#a)"/>
+  <text x="1153" y="366" font-size="11" fill="#475569">no</text>
+
+  <!-- revoke note -->
+  <rect x="40" y="520" width="240" height="120" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="160" y="554" text-anchor="middle" font-size="15" font-weight="700" fill="#0f172a">Revoke any time</text>
+  <text x="160" y="578" text-anchor="middle" font-size="13" fill="#0f172a">owner can revoke access at</text>
+  <text x="160" y="596" text-anchor="middle" font-size="13" fill="#0f172a">myaccount.google.com/permissions</text>
+</svg>
