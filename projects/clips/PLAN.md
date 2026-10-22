@@ -14,7 +14,7 @@ Channel: sticks&bones (UC4BoAATq5PywoIYfClpJDVw), confirmed by William.
 
 ## RESUME HERE (pinned 2026-10-22 evening, William on a break)
 Two decisions waiting on William, then continue the pipeline:
-1. [ ] Install pip (bootstrapped into user folder) + a small CPU speech-to-text model for auto-commentary? (no pip, no GPU on host; CPU is slower but fine for 30-60 s clips)
+1. [x] DONE 2026-10-22: pip bootstrapped (~/.local/bin/pip), project venv ~/openclaw-sites/clips-venv, faster-whisper 1.2.1 + base.en model (142 MB, ~/openclaw-sites/models, CPU int8). pipeline/transcribe.py runs end to end (tested on a tone clip: no speech detected, as expected). ACCURACY ON REAL SPEECH NOT YET VERIFIED: check on the first real clip.
 2. [ ] Create free Vyro + Whop accounts so Scout can read real campaign terms (MrBeast Gaming, Iced Coffee Hour, Total Drama Roblox)? Signing up uses William's email, so needs his yes first.
 Then: build the rest of the pipeline (caption writer, Telegram preview, upload glue; clip fetch method still unresolved), watch the reply monitor, send follow-up nudge ~Oct 29-Nov 1, read Rockstar's content policy, switch YouTube OAuth app to production.
 State: 20 streamers contacted, 0 replies yet; Scout agent ready; format_short.py built and tested.
