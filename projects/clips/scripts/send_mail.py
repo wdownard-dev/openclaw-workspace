@@ -39,11 +39,14 @@ def main():
     ap.add_argument("--to", required=True)
     ap.add_argument("--subject", required=True)
     ap.add_argument("--body-file", required=True)
+    ap.add_argument("--bcc", default="")
     ap.add_argument("--dry-run", action="store_true")
     a = ap.parse_args()
 
     msg = EmailMessage()
     msg["To"] = a.to
+    if a.bcc:
+        msg["Bcc"] = a.bcc
     msg["Subject"] = a.subject
     msg.set_content(open(a.body_file, encoding="utf-8").read())
 
