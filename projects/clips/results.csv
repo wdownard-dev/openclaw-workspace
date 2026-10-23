@@ -1,7 +1,7 @@
 clip_id,campaign,platform,posted_date,post_url,views_48h,approved_by_client,paid_usd,hook,length_s,notes
-mw4-01,mrbeast-gaming-mw4,youtube_shorts,2026-10-22 22:00 ET (scheduled),https://youtube.com/shorts/xsH0XOWEbho,,,,"Eight tags. $500,000.",34.5,"scheduled by William to go public 10:00 PM ET; before that the API correctly showed nothing; Vyro submissions 0; category was People & Blogs (should be Gaming)"
-mw4-02,mrbeast-gaming-mw4,,,,,,,"If Tim dies, they get nothing",44.1,
-mw4-03,mrbeast-gaming-mw4,,,,,,,"Walked in on another team",43.2,
-mw4-04,mrbeast-gaming-mw4,,,,,,,"The helicopter is about to leave",31.4,
-mw4-05,mrbeast-gaming-mw4,,,,,,,"Race to find the extraction point",41.9,test: real-life footage
-mw4-06,mrbeast-gaming-mw4,,,,,,,"Can two teams trust each other?",36.6,test: dialogue drama
+mw4-01,mrbeast-gaming-mw4,youtube_shorts,2026-10-22 22:00 ET,https://youtube.com/shorts/xsH0XOWEbho,,,,"Eight tags. $500,000.",34.5,"submitted to Vyro 2026-10-22 22:05 ET, pending (1 pending, 0 approved); category was People & Blogs (should be Gaming)"
+mw4-02,mrbeast-gaming-mw4,youtube_shorts,2026-10-22 22:15 ET (scheduled),https://youtube.com/shorts/nde0XKR6rQg,,,,"If Tim dies, they get nothing",44.1,
+mw4-03,mrbeast-gaming-mw4,,,,,,,Walked in on another team,43.2,
+mw4-04,mrbeast-gaming-mw4,,,,,,,The helicopter is about to leave,31.4,
+mw4-05,mrbeast-gaming-mw4,,,,,,,Race to find the extraction point,41.9,test: real-life footage
+mw4-06,mrbeast-gaming-mw4,,,,,,,Can two teams trust each other?,36.6,test: dialogue drama
