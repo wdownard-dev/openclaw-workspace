@@ -12,6 +12,15 @@ Interest areas: top 20 Twitch categories, GTA 6 launch. Focus: Twitch clipping o
 Goal: MONETIZATION (decided 2026-10-21). Higgsfield: deferred, no confirmed public API; maybe later for original intros/B-roll by hand.
 Channel: sticks&bones (UC4BoAATq5PywoIYfClpJDVw), confirmed by William.
 
+## CAMPAIGN COMPARISON (read in the logged-in Vyro session, 2026-10-22 ~9:20 PM ET)
+| Campaign | Ends | Paid out | Rate | Notes |
+|---|---|---|---|---|
+| Valorant Champs Shanghai Podcast (JOINED) | 7 days | 2% | $1.50/1k | min 5,000 views/post; only #valorantchamps; source Frame.io; podcast, 2h24m file downloaded; only 2% paid after ~6 days: either low participation or the 5k bar is hard |
+| MrBeast Gaming: Escape Call of Duty's DMZ (NOT joined) | 14 days | 21% | $1.50/1k | partnered with Call of Duty MW4; REQUIRED tags #MW4 + disclosure #MW4partner (or native paid-promotion label); min length 15 s; min 5,000 views/post; no collab; Frame.io sources ('Escape Abandoned City.mp4' https://f.io/_a1-OEVL); budget draining ~7%/day |
+| iHeart 'Don't Lie To Me' (NOT joined) | 6 days | 31% | $2.00/1k | dating/women's-relationship podcast (poor niche fit for a gaming channel); strict caption template incl. 'Don't Lie To Me, an iHeart podcast' + CTA + #DontLieToMe #ad; every clip AND caption must be unique; footage only from provided folders |
+Not read yet: Total Drama Roblox (x5, $2.50/1k; Roblox audience skews young), Valorant Microdrama, Ketone-IQ (sponsored, skip).
+Leaning: MW4/MrBeast Gaming as primary (14 days, big YouTube-native audience, same gaming niche), keep Valorant as secondary (footage ready). Joining a campaign = accepting its terms: William's call.
+
 ## RESULTS FEED (William: Editor must read results and adapt clip choice AND posting times; "everything")
 Editor now has standing authority to adapt (see its AGENTS.md). BLOCKER: data does not flow in yet. Options, best first:
 1. [x] DONE 2026-10-22 ~9:10 PM: Vyro signed-in browser session. Account email william.downard@gmail.com (same account William joined the campaign with); sign-in = email code, which I read from Gmail (no password exists/was shared). Session persists in the OpenClaw browser profile (verified in a fresh tab). TO BUILD: a sync job that reads https://app.vyro.com/campaigns/add-clips ('My campaigns' card: Earned, Views, Left, Paid out %; 'My submissions' Pending/Approved; leaderboard) into results.csv. If the session expires, repeat the email-code login.
