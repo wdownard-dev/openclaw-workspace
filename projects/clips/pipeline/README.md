@@ -9,7 +9,7 @@ Hard rule: nothing runs for a streamer unless `permissions.md` shows the exact s
 | 1. Prepare | script | `python3 -I pipeline/prepare_clip.py CLIP --streamer NAME --game GAME --clip-url URL` (guard + local transcript + job.json) |
 | 2. Write | agent | Read `job.json` (`transcript`, `game`, `streamer`), write `hook` and `caption` into it (rules below) |
 | 3. Render | script | `python3 -I pipeline/render_job.py pipeline/jobs/<id>` -> `short.mp4`, title, description |
-| 4. Preview | agent | Send `short.mp4` + title to William on Telegram (message tool, media), ask approve / reject / edit |
+| 4. Preview | agent | Send `short.mp4` + title to William on Telegram as a FILE (message tool, media=<path under the workspace>, forceDocument=true). In-chat Telegram video looks stretched on his phone; files play correctly. |
 | 5. Publish | script | After a clear yes: `python3 -I pipeline/publish_job.py pipeline/jobs/<id> --approved-by-william` (private by default) |
 
 ## Writing rules (stage 2)
