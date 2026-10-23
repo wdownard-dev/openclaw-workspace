@@ -12,6 +12,14 @@ Interest areas: top 20 Twitch categories, GTA 6 launch. Focus: Twitch clipping o
 Goal: MONETIZATION (decided 2026-10-21). Higgsfield: deferred, no confirmed public API; maybe later for original intros/B-roll by hand.
 Channel: sticks&bones (UC4BoAATq5PywoIYfClpJDVw), confirmed by William.
 
+## RESULTS FEED (William: Editor must read results and adapt clip choice AND posting times; "everything")
+Editor now has standing authority to adapt (see its AGENTS.md). BLOCKER: data does not flow in yet. Options, best first:
+1. [ ] Vyro signed-in browser session (William signs in once in the Control UI browser panel; no password to me). A job reads the Posts table (views, approval, earnings per post, all platforms) into results.csv. Ground truth for pay.
+2. [ ] YouTube Data API key (Cloud console, project morpheus-clips, restricted to YouTube Data API v3) -> stored as a secret; videos.list returns PUBLIC view counts for the Vyro channel's Shorts by video id, no OAuth, no audit needed. Gives hourly-ish view velocity for posting-time learning.
+3. [ ] TikTok/Instagram: no official read access without app review; William pastes views weekly (or Vyro table covers it).
+4. [ ] Posting log: each post (clip id, platform, post URL, UTC time) appended to results.csv when William posts (Morpheus asks via Telegram, or William pastes).
+Then: automation (main-owned, spawns Editor) = daily results sync, weekly playbook update + next-batch plan + posting schedule reminders on Telegram.
+
 ## VYRO EXPERIMENT (started 2026-10-22 night)
 - Separate YouTube channel linked to Vyro: handle robertovalencia-z9n (William confirmed new channel; NOT sticks&bones). Payouts NOT set up yet (do only after a clip clears the threshold).
 - First campaign: 'Valorant Champs Shanghai Podcast' ($1,500 per 1M views = $1.50/1k). Platforms: TikTok videos, YouTube Shorts, Instagram Reels (no carousels). Source: Frame.io share https://f.io/1XI8aRT3 ('Only FOUR teams remain! LIVE in Shanghai.mp4', posted by the campaign). Example moments: 31:59, 36:14, 55:09, 1:04:34, 2:07:00.
