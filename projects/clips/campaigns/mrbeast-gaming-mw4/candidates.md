@@ -84,7 +84,15 @@ Pattern key. Default pattern = "gameplay with visible money/stakes and a clear p
 - Caption: "The last teams converge on the extraction point with a million dollars in play."
 - Risk: Transcript for 1313-1345 has the rapid callouts that whisper may have scrambled. Not a test.
 
-### 9. "What would $300,000 do for you?" (TEST: emotional stakes)
+### 9. How someone wins $1,000,000 (TEST: explainer)
+- Time: 62.0-90.0 s (1:02-1:30), 28 s
+- Scores: H3 S5 P2 E3 R4 = 17
+- Why: Clean standalone setup: 10 teams, $100,000 each, kill a team to take their $100,000, "someone could win one million dollars". Map overlay and the $100,000 bag give visuals.
+- Hook: "How someone wins $1,000,000 here"
+- Caption: "Every team starts with $100,000 and can take another's by winning a fight."
+- Risk: Low drama; the later student-loans lines are personal, so end the cut before 78 s. Test.
+
+### 10. "What would $300,000 do for you?" (TEST: emotional stakes)
 - Time: 724.0-752.0 s (12:04-12:32), 28 s
 - Scores: H3 S3 P3 E4 R3 = 16
 - Why: Real people, real money: "I'm taking care of my entire family", "if someone eliminates you now, you lose a third of a million". Visuals jump between gameplay and the studio so the scene is unclear on mute.
@@ -92,21 +100,13 @@ Pattern key. Default pattern = "gameplay with visible money/stakes and a clear p
 - Caption: "Asked what $300,000 would change, one player answers about their family."
 - Risk: Transcript uncertain who is speaking; do not name anyone. Test.
 
-### 10. The lieutenant tag bait (trap)
+### 11. The lieutenant tag bait (trap)
 - Time: 376.0-421.0 s (6:16-7:01), 45 s
 - Scores: H3 S3 P3 E3 R4 = 16
 - Why: Plan: leave the lieutenant tag in the open so other teams come, then steal it. Aerial and rooftop POVs with map icons are clear, but the many facecams make it busy.
 - Hook: "They left a trap in the open"
 - Caption: "Plant the tag in the open, wait for the other teams, then steal it back."
 - Risk: Plot depends on narrator lines 399-421; whisper garbled "Drink and match, just stole" (probably a name). Not a test.
-
-### 11. What is DMZ's $1,000,000 about? (TEST: explainer)
-- Time: 62.0-90.0 s (1:02-1:30), 28 s
-- Scores: H3 S5 P2 E3 R4 = 17 (listed after 10 since it has no moment)
-- Why: Clean standalone setup: 10 teams, $100,000 each, kill a team to take their $100,000, "someone could win one million dollars". Map overlay and the $100,000 bag give visuals.
-- Hook: "How someone wins $1,000,000 here"
-- Caption: "Every team starts with $100,000 and can take another's by winning a fight."
-- Risk: Low drama; the later student-loans lines are personal, so end the cut before 78 s. Test.
 
 ### 12. Four dog tags: 200k on us
 - Time: 257.0-282.0 s (4:17-4:42), 25 s
