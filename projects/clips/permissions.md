@@ -15,7 +15,7 @@ Leads worth checking first (title/panels hint at clip culture, not confirmed per
 | erobb221 | en | 3,281 | NoPixel V | candidate | erobb221@evolved.gg (agency-style; unverified) | |
 | AnthonyZ | en | 3,209 | NoPixel V | candidate | X DM @anthonyz / Discord only | |
 | OfficerMesser | en | 3,105 | The Academy RP | candidate | Discord / Instagram DM only | |
-| Enevun | en | 2,501 | NoPixel V | contacted | Enevun@gmail.com (own X bio) | 2026-10-22 |
+| Enevun | en | 2,501 | NoPixel V | replied | Enevun@gmail.com (own X bio) | 2026-10-22 |
 | novasobored | en | 1,913 | NoPixel V | contacted | novasobusiness@gmail.com (own Linktree) | 2026-10-22 |
 | GEEGA | en | 1,837 | NoPixel V | candidate | | |
 | carmen | en | 1,810 | NoPixel V | candidate | | |
