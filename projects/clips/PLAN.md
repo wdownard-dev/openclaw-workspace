@@ -12,6 +12,18 @@ Interest areas: top 20 Twitch categories, GTA 6 launch. Focus: Twitch clipping o
 Goal: MONETIZATION (decided 2026-10-21). Higgsfield: deferred, no confirmed public API; maybe later for original intros/B-roll by hand.
 Channel: sticks&bones (UC4BoAATq5PywoIYfClpJDVw), confirmed by William.
 
+## AUTOMATION CHAIN (William's design, approved 2026-10-22 night)
+William's standing decisions: (1) he posts manually but wants everything else automatic or one-touch; (2) low-res PREVIEW downloads of campaign footage are OK before joining, for evaluation only (never post from a preview); (3) he will post whatever volume maximizes profit (Editor sets the daily batch size from data, starting ~5/day, within each campaign's quality/uniqueness rules); (4) joining a campaign stays his tap (it accepts legal terms), via a direct campaign link in Telegram.
+Chain:
+1. [built] Scout scans Vyro daily 7:30 AM ET (read-only) -> campaigns/scout-report.md.
+2. [to wire] New/unevaluated open campaigns -> Editor evaluates: scripts/prepare_campaign.py SLUG URL --preview (smallest proxy + local transcript), judges the content and the campaign rules, writes campaigns/<slug>/evaluation.md with a recommendation -> Morpheus sends William a Telegram message 'Join this one? <why> <link>'. State file campaigns/evaluated.json prevents repeats.
+3. [to wire] Join detection: Scout's scan sees the campaign under My campaigns (or William replies 'joined') -> scripts/prepare_campaign.py SLUG URL (Original + transcript) runs automatically.
+4. [to wire] Editor renders the daily batch -> Telegram previews with the exact caption + required hashtags (copy/paste), posting order and window.
+5. [needs API key + results sync] YouTube Shorts on the Vyro channel are detected via the YouTube Data API (public, API key) -> link auto-submitted in Vyro (Add Posts -> Submit post) using the signed-in session. William's standing OK needed for that ONE action (Submit post with a URL of a post that is on his own channel); TikTok/Instagram links are pasted by William.
+6. [needs API key + results sync] results.csv fills automatically; Editor updates playbook.md weekly.
+7. Cleanup: delete campaign sources 3 days after a campaign ends or after William leaves it.
+Honest limits: posting stays manual (no approved posting APIs); Editor's picks are guesses until results exist; preview-before-join legality is unconfirmed (low risk: public Frame.io links shown in the public brief).
+
 ## CAMPAIGN COMPARISON (read in the logged-in Vyro session, 2026-10-22 ~9:20 PM ET)
 | Campaign | Ends | Paid out | Rate | Notes |
 |---|---|---|---|---|

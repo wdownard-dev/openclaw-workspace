@@ -39,7 +39,20 @@ def main():
             # Frame.io opens a menu: 'Original' (size text like '3.01 GB') and 'Proxy' options.
             # --pick SIZE_TEXT chooses the row showing that size (default: the Original row, 1st size shown).
             pick = sys.argv[sys.argv.index("--pick") + 1] if "--pick" in sys.argv else None
-            if pick:
+            if "--smallest" in sys.argv:
+                import re as _re
+                rows = page.get_by_text(_re.compile(r"^\s*\d+(\.\d+)?\s*(GB|MB|KB)\s*$"))
+                best, best_bytes = None, None
+                unit = {"KB": 1e3, "MB": 1e6, "GB": 1e9}
+                for i in range(rows.count()):
+                    m = _re.match(r"\s*([\d.]+)\s*(GB|MB|KB)", rows.nth(i).inner_text())
+                    if m and (best_bytes is None or float(m[1]) * unit[m[2]] < best_bytes):
+                        best, best_bytes = rows.nth(i), float(m[1]) * unit[m[2]]
+                if best is None:
+                    raise SystemExit("no size rows found in the download menu")
+                pick = "smallest"
+                target = best
+            elif pick:
                 target = page.get_by_text(pick, exact=False).first
             else:
                 target = page.locator("text=Original").locator("xpath=following::*[contains(text(),'GB') or contains(text(),'MB')][1]")
