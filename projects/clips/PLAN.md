@@ -12,6 +12,15 @@ Interest areas: top 20 Twitch categories, GTA 6 launch. Focus: Twitch clipping o
 Goal: MONETIZATION (decided 2026-10-21). Higgsfield: deferred, no confirmed public API; maybe later for original intros/B-roll by hand.
 Channel: sticks&bones (UC4BoAATq5PywoIYfClpJDVw), confirmed by William.
 
+## MONITORING (built 2026-10-22 ~10:40 PM ET)
+- Every 3 h (:10 past, ET): 'Clip stats snapshot' runs scripts/sync_results.py -> appends views/likes/comments per clip to results-snapshots.csv (time series Editor learns from); Telegram ONLY when a clip first crosses 5,000 views, or on an error. Key YOUTUBE_API_KEY sees PUBLIC videos only.
+- Daily 8:15 AM ET: 'Morning clips digest' = snapshot + report + read-only look at Vyro (Earned, Views, Left, Paid out %, Pending/Approved, any rejection) -> vyro-snapshots.csv + one Telegram digest.
+- Daily 7:30 AM ET: Scout scans all Vyro campaigns (read-only) -> scout-report.md; silent unless new/ending soon/over 80% paid/changes on joined campaign.
+- Every 3 h 9AM-9PM ET: reply monitor for the 20 streamer emails. 8:30/14:30/20:30 ET: YouTube API audit watcher (Google mail).
+- One-off Vyro submit jobs for clips 2-6 tonight (William's scoped OK).
+- NOT covered: TikTok/Instagram view counts (no read access; William pastes or Vyro table), Vyro per-post approval detail beyond what the page shows, posting times other than William's reports.
+- TODO: weekly Editor playbook update from results-snapshots.csv + vyro-snapshots.csv (start once there are 48h+ results for several clips); auto-submit of future clips (needs the post URL from William or channel detection via API key).
+
 ## AUTOMATION CHAIN (William's design, approved 2026-10-22 night)
 William's standing decisions: (1) he posts manually but wants everything else automatic or one-touch; (2) low-res PREVIEW downloads of campaign footage are OK before joining, for evaluation only (never post from a preview); (3) he will post whatever volume maximizes profit (Editor sets the daily batch size from data, starting ~5/day, within each campaign's quality/uniqueness rules); (4) joining a campaign stays his tap (it accepts legal terms), via a direct campaign link in Telegram.
 Chain:
