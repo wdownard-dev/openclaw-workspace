@@ -12,6 +12,9 @@ Hard rule: nothing runs for a streamer unless `permissions.md` shows the exact s
 | 4. Preview | agent | Send `short.mp4` + title to William on Telegram as a FILE (message tool, media=<path under the workspace>, forceDocument=true). In-chat Telegram video looks stretched on his phone; files play correctly. |
 | 5. Publish | script | After a clear yes: `python3 -I pipeline/publish_job.py pipeline/jobs/<id> --approved-by-william` (private by default) |
 
+## Upload kit (required with every rendered clip)
+Editor writes `campaigns/<campaign>/kits/<clip-id>.md`: title (<=70 chars), description (context + required tags only), thumbnail (best of 3 frames, `previews/thumbnail-<clip-id>.jpg`), upload-settings checklist (not made for kids; paid promotion when the brief requires disclosure; no altered content; Gaming; comments on; Public), and TikTok/Reels captions. Morpheus sends William the video AND thumbnail as files plus the text. William's standing rule, 2026-10-22.
+
 ## Writing rules (stage 2)
 - Hook: 3 to 8 words, specific to what actually happens in the clip, no clickbait the clip does not pay off.
 - Caption: one or two sentences of real context from the transcript and game: what is happening, why it matters. Do not quote the streamer in a way that changes meaning.
