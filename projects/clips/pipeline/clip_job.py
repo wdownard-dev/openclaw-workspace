@@ -7,6 +7,7 @@ Usage:
   clip_job.py SPEC.json --dry-run             print what would happen, change nothing external (no upload, no Buffer call)
   clip_job.py SPEC.json --unschedule          delete this clip's scheduled Buffer posts (only status=scheduled) and clear state
   clip_job.py SPEC.json --status              show state
+  clip_job.py SPEC.json --approve CHECKS      Morpheus's review gate (see below); required before host/schedule
 
 Spec (JSON), see specs/example.json:
   id, campaign, source (absolute mp4), start, end (seconds in source), hook, caption, style (1-3),
@@ -14,6 +15,11 @@ Spec (JSON), see specs/example.json:
   schedule: {"tiktok": "2026-10-24T12:30-04:00", "instagram": "..."}  (ISO with offset),
   footage: "campaign-supplied" | {"streamer": "Name"}  (streamers must be `approved` in permissions.md),
   notes (optional), pattern ("default" or "test: <what varies>").
+
+Review gate (William, 2026-10-23: Morpheus approves clips; William gets a summary): hosting and scheduling refuse until
+`--approve hook,truth,rules,safety,audio` has been recorded in jobs/<id>/review.json by the reviewer after actually viewing
+jobs/<id>/contact.jpg plus frames, and reading the transcript for the clip's range. Editor (who made the clip) never approves.
+`--approve` also fails automatically if the clip's source range overlaps another spec from the same source.
 
 Safety rules enforced here:
   - Nothing is scheduled less than MIN_LEAD_MIN minutes ahead, so William can review in Buffer first.
@@ -24,7 +30,7 @@ Safety rules enforced here:
 State and artifacts: pipeline/jobs/<id>/ (cut.mp4, <id>.mp4, contact.jpg, thumbnail.jpg, state.json). Previews are copied to
 projects/clips/previews/ (git-ignored) so the message tool can send them to William as files.
 """
-import argparse, csv, json, os, re, shutil, subprocess, sys, urllib.error, urllib.request
+import argparse, csv, glob, hashlib, json, os, re, shutil, subprocess, sys, urllib.error, urllib.request
 from datetime import datetime, timedelta, timezone
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -32,6 +38,7 @@ ROOT = os.path.abspath(os.path.join(HERE, ".."))
 FFMPEG = os.path.expanduser("~/openclaw-sites/bin/ffmpeg")
 STAGES = ["cut", "format", "verify", "thumbnail", "host", "schedule", "log"]
 MIN_LEAD_MIN = 45
+REVIEW_CHECKS = ["hook", "truth", "rules", "safety", "audio"]
 CLOUD, PRESET = "e5wsi8wu", "clips_unsigned"
 CHANNELS = {"tiktok": "6adbec46778b240e2fa670dd", "instagram": "6adbea4e778b240e2fa63f1c"}
 sys.path.insert(0, HERE)
@@ -125,6 +132,9 @@ def main():
     ap.add_argument("--unschedule", action="store_true")
     ap.add_argument("--status", action="store_true")
     ap.add_argument("--allow-question-hook", action="store_true")
+    ap.add_argument("--approve", metavar="CHECKS", help="comma list; must include " + ",".join(REVIEW_CHECKS))
+    ap.add_argument("--reviewer", default="morpheus")
+    ap.add_argument("--note", default="")
     a = ap.parse_args()
     spec = json.load(open(a.spec))
     cid = spec["id"]
@@ -154,6 +164,24 @@ def main():
         json.dump(posts, open(bp, "w"), indent=1)
         st["done"] = [s for s in st["done"] if s not in ("schedule", "log")]
         save_state(d, st)
+        return
+
+    if a.approve:
+        got = set(a.approve.split(","))
+        missing = set(REVIEW_CHECKS) - got
+        if missing:
+            sys.exit(f"REFUSED: approval must confirm every check; missing {sorted(missing)}")
+        if not os.path.exists(os.path.join(d, f"{cid}.mp4")) or not os.path.exists(os.path.join(d, "contact.jpg")):
+            sys.exit("REFUSED: render first (--until verify) so there is something to review")
+        for other in sorted(glob.glob(os.path.join(ROOT, "specs", "*.json"))):
+            o = json.load(open(other))
+            if o["id"] != cid and o.get("source") == spec["source"] and o["start"] < spec["end"] and spec["start"] < o["end"]:
+                sys.exit(f"REFUSED: source range overlaps {o['id']} ({o['start']}-{o['end']} s)")
+        json.dump({"approved": True, "reviewer": a.reviewer, "checks": sorted(got), "note": a.note,
+                   "at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+                   "short_sha": hashlib.sha256(open(os.path.join(d, f"{cid}.mp4"), "rb").read()).hexdigest()},
+                  open(os.path.join(d, "review.json"), "w"), indent=1)
+        print(f"[{cid}] approved by {a.reviewer}")
         return
 
     errs = lint(spec, a.allow_question_hook)
@@ -215,6 +243,14 @@ def main():
             shutil.copy(short, os.path.join(prev_dir, f"{cid}.mp4"))
             shutil.copy(thumb, os.path.join(prev_dir, f"thumbnail-{cid}.jpg"))
         elif stage == "host":
+            rp_ = os.path.join(d, "review.json")
+            if not os.path.exists(rp_):
+                sys.exit(f"[{cid}] NOT APPROVED: review the clip, then run --approve " + ",".join(REVIEW_CHECKS))
+            rv = json.load(open(rp_))
+            if rv.get("reviewer") == "editor" or not rv.get("approved"):
+                sys.exit(f"[{cid}] review invalid (reviewer {rv.get('reviewer')})")
+            if rv["short_sha"] != hashlib.sha256(open(short, "rb").read()).hexdigest():
+                sys.exit(f"[{cid}] clip changed after review; re-review and --approve again")
             out = run(["curl", "-sS", "-F", f"file=@{short}", "-F", f"upload_preset={PRESET}",
                        f"https://api.cloudinary.com/v1_1/{CLOUD}/video/upload"], timeout=900).stdout
             r = json.loads(out)

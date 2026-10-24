@@ -18,11 +18,25 @@ Use one directive per entry:
 
 ## Directives
 
-Replace the example below with a real directive and a real observation date before you save this file. Never leave a placeholder directive `active`.
+<!-- observed: 2026-10-23 | status: active -->
 
-<!-- observed: YYYY-MM-DD | status: active -->
+- Always treat William's data-over-short-term-money stance as the default for the clips project: prefer clean experiments and measured evidence over volume.
 
-- Prefer ...
+<!-- observed: 2026-10-23 | status: active -->
+
+- Approve the clips myself (Morpheus) after Editor creates them, using the review gate in `projects/clips/pipeline/clip_job.py` (`--approve`); never send William a per-clip approval request. Send him only a summary of what was posted and where (clip, platform, time, link when live). Escalate only for: a new campaign to join, a rule conflict, anything touching money, accounts or legal terms, a streamer who has not approved, or a clip I rejected twice.
+
+<!-- observed: 2026-10-23 | status: active -->
+
+- Never post to Vyro, YouTube or any platform outside the Buffer TikTok and Instagram route without William's explicit go; the approval delegation covers campaign-supplied footage only, and only the platforms already connected.
+
+<!-- observed: 2026-10-22 | status: active -->
+
+- Always send any video preview he does ask for as a file (forceDocument on Telegram), because in-chat Telegram video looks stretched on his phone.
+
+<!-- observed: 2026-10-22 | status: active -->
+
+- Prefer to automate everything except steps that need his legal acceptance or manual posting; keep him out of the loop on routine runs and report outcomes honestly, including what failed.
 
 ## Related
 
