@@ -1,0 +1,23 @@
+{
+ "id": "tdr-03",
+ "campaign": "total-drama-roblox",
+ "source": "/home/williamdownard/openclaw-sites/clips-work/campaigns/total-drama-roblox/source-1080p.mp4",
+ "start": 2767.0,
+ "end": 2788.5,
+ "hook": "\"They took my voice,\" reads the chat bubble",
+ "caption": "The bubble over one camper's head says their voice was taken.",
+ "style": 1,
+ "required_tags": [
+  "#TotalDramaRoblox",
+  "#paidpartnership"
+ ],
+ "tiktok_caption": "One camper's chat bubble says it all: they took my voice. #TotalDramaRoblox #paidpartnership",
+ "instagram_caption": "Total Drama Island in Roblox: right after a challenge ends, the bubble over one camper's head says their voice was taken. #TotalDramaRoblox #paidpartnership",
+ "schedule": {
+  "tiktok": "2026-10-29T19:00:00-04:00",
+  "instagram": "2026-10-29T19:30:00-04:00"
+ },
+ "footage": "campaign-supplied",
+ "pattern": "default (same as tdr-01): spoken gag with readable on-screen chat bubble proof, ~21 s, quote-from-bubble hook",
+ "notes": "Proof on screen: chat bubble 'they took my v oice' over the character labelled Ezekiel (~2768-2771 s). Whisper hears the facecam player say 'they took Ezekiel's voice' (~2772-2780 s); speech unverified. Facecam alternates between two people: nobody named from the facecam. A later spoken joke about another camper (~2781 s) is cut off."
+}

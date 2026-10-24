@@ -25,3 +25,9 @@ ts_utc,key,post_id,status,sent_at,link,error,views,reach,reactions,comments,shar
 2026-10-24T01:01:33+00:00,mw4-07-instagram,6adbf87abd33ce99c3f88ee9,scheduled,,,,,,,,,,,
 2026-10-24T01:01:33+00:00,mw4-08-tiktok,6adbf87bbd33ce99c3f88f17,scheduled,,,,0,0,0,0,0,0,0,0
 2026-10-24T01:01:33+00:00,mw4-08-instagram,6adbf87b0b5343d070584bc2,scheduled,,,,,,,,,,,
+2026-10-24T01:10:06+00:00,mw4-01-tiktok,6adbf330e4be8a4d862f1648,sent,2026-10-24T01:01:52.118Z,https://tiktok.com/@rvclips6/video/7700032805165632782,,0,0,0,0,0,0,0,0
+2026-10-24T01:10:06+00:00,mw4-01-instagram,6adbf32f3d5b27036b5933bf,sent,2026-10-24T01:02:27.018Z,https://www.instagram.com/reel/De253P9ImjK/,,,,,,,,,
+2026-10-24T01:10:06+00:00,mw4-07-tiktok,6adbf87a0b5343d070584b51,scheduled,,,,0,0,0,0,0,0,0,0
+2026-10-24T01:10:06+00:00,mw4-07-instagram,6adbf87abd33ce99c3f88ee9,scheduled,,,,,,,,,,,
+2026-10-24T01:10:06+00:00,mw4-08-tiktok,6adbf87bbd33ce99c3f88f17,scheduled,,,,0,0,0,0,0,0,0,0
+2026-10-24T01:10:06+00:00,mw4-08-instagram,6adbf87b0b5343d070584bc2,scheduled,,,,,,,,,,,

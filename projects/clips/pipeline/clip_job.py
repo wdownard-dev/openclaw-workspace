@@ -60,6 +60,18 @@ def ffinfo(path):
     return info
 
 
+BLACK_MIN_S = 0.5
+
+
+def black_runs(path):
+    """Black runs longer than BLACK_MIN_S in the source-format cut, as [(start, end)] in clip seconds.
+    Looks at the right 75% of the frame only, so a facecam overlay on the left (often still live during a game
+    black screen) does not hide a black game view."""
+    err = subprocess.run([FFMPEG, "-i", path, "-vf", f"crop=iw*0.75:ih:iw*0.25:0,blackdetect=d={BLACK_MIN_S}:pic_th=0.92:pix_th=0.12",
+                          "-an", "-f", "null", "-"], capture_output=True, text=True).stderr
+    return [(float(a), float(b)) for a, b in re.findall(r"black_start:([\d.]+) black_end:([\d.]+)", err)]
+
+
 def load_state(d):
     p = os.path.join(d, "state.json")
     return json.load(open(p)) if os.path.exists(p) else {"done": [], "hosted": {}, "buffer": {}}
@@ -234,10 +246,22 @@ def main():
             # contact sheet: frames at 0,1,2,3,5,10 s so a human/agent can confirm the hook matches the opening
             run([FFMPEG, "-y", "-loglevel", "error", "-i", short, "-vf",
                  "select='eq(n,0)+eq(n,60)+eq(n,120)+eq(n,180)+eq(n,300)+eq(n,600)',scale=270:480,tile=6x1", "-frames:v", "1", contact])
+            # second sheet: 8 evenly spaced frames across the whole clip (payoffs later than 10 s are otherwise unseen)
+            contact_full = os.path.join(d, "contact_full.jpg")
+            run([FFMPEG, "-y", "-loglevel", "error", "-i", short, "-vf",
+                 f"fps=8/{i['duration']:.3f},scale=360:640,tile=4x2", "-frames:v", "1", contact_full])
+            blacks = black_runs(cut)
+            with open(os.path.join(d, "blackdetect.txt"), "w") as f:
+                f.write("\n".join(f"{a:.1f}-{b:.1f}" for a, b in blacks) + ("\n" if blacks else ""))
             if bad:
                 sys.exit(f"[{cid}] VERIFY FAILED: " + "; ".join(bad))
             print(f"[{cid}] verify ok: 1080x1920, {i['duration']:.1f}s, audio mean {m[1] if m else '?'} dB. "
-                  f"Look at {contact} to confirm the hook matches the first 3 s (not automated).")
+                  f"Look at {contact} to confirm the hook matches the first 3 s (not automated), and {contact_full} for the whole clip.")
+            if blacks:
+                print(f"[{cid}] WARNING black frames over {BLACK_MIN_S}s (clip time, s): "
+                      + ", ".join(f"{a:.1f}-{b:.1f} ({b - a:.1f}s)" for a, b in blacks) + " - trim or accept consciously")
+            else:
+                print(f"[{cid}] blackdetect: no black run over {BLACK_MIN_S}s")
         elif stage == "thumbnail":
             run([FFMPEG, "-y", "-loglevel", "error", "-ss", "0.6", "-i", short, "-frames:v", "1", "-q:v", "2", thumb])
             shutil.copy(short, os.path.join(prev_dir, f"{cid}.mp4"))

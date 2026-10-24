@@ -169,3 +169,24 @@ Test mw4-08 varies: clip pattern (funny premise instead of money stakes) and, as
 - YouTube Shorts: same windows, but evidence none AND the channel currently shows zero distribution, so no timing choice can be evaluated until that is resolved.
 - Suggested schedule for clean comparisons (same clip on all three platforms at the same minute; spread clips across different windows): mw4-07 on Sat Oct 24 12:30 PM ET (TikTok, Reels, Shorts); mw4-08 on Sun Oct 25 7:00 PM ET (TikTok, Reels, Shorts). Confounder: clip and time-of-day are mixed between 07 and 08, so a difference between them cannot be attributed to either.
 - Vyro limits: new account is capped at 3 pending with 0 approved, so these clips may need to go out unsubmitted (data-first mode, same as mw4-04..06); never count them toward approval/earnings analysis.
+
+
+---
+
+# Batch 3 (2026-10-23, TikTok + Instagram only): mw4-09, mw4-10
+
+Used ranges so far: 101.7-144.9, 169.4-192.0, 519.6-561.5, 797.1-836.4, 972.6-1016.7, 1096.0-1132.6, 1406.6-1438.0, 1449.5-1484.0. Batch 3 adds 933.7-972.4 (mw4-09) and 735.55-752.0 (mw4-10); no overlap.
+
+| id | source | length | pattern | score | hook |
+|---|---|---|---|---|---|
+| mw4-09 | 933.7-972.4 s (15:34-16:12) | 38.7 s | default: stakes, ambush payoff, studio overlays; the long half of a length pair | H3 S4 P4 E4 R4 = 19 | Tim and Fatboy were doing well so far |
+| mw4-10 | 735.55-752.0 s (12:15-12:32) | 16.4 s | TEST: length (short); stakes interview with the $300,000 overlay | H4 S4 P3 E4 R4 = 19 (content differs from mw4-09: flagged) | Four tags means $300,000 |
+
+Left over for later: #8 (1297-1340 million-dollar stakes, thin payoff), #9 explainer (62-90), #11 lieutenant tag bait (376-421, whose tag unclear), #12-14 low scores.
+
+## What changed since last batch and why
+- Evidence: none to act on (results.csv has no views). Process changes only: (1) vary exactly one factor per pair (length) and hold tags, style number and posting window constant; (2) hooks quote what the first 3 s say or show (mw4-09 uses the narrator's opening line, mw4-10 uses the on-screen exchange); (3) no money amount is stated when the transcript and overlay disagree about who holds it (mw4-09).
+- Exploration: 1 of 2 MW4 clips is a labelled test (50%).
+
+## Recommended posting windows (evidence: none)
+- TikTok and Instagram Reels: weekday 6-9 PM ET, plus 12-1 PM. mw4-09 Wed 10-28 7:00 PM TikTok / 7:30 PM Reels; mw4-10 Fri 10-30 7:00 PM / 7:30 PM. Same window for both on purpose; the day differs (Wed vs Fri), which is the one confounder left.

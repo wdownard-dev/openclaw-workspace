@@ -1,0 +1,17 @@
+{
+  "id": "tdr-01",
+  "campaign": "total-drama-roblox",
+  "source": "/home/williamdownard/openclaw-sites/clips-work/campaigns/total-drama-roblox/source-1080p.mp4",
+  "start": 1957.8,
+  "end": 1981.4,
+  "hook": "The muted player's excuse: soup",
+  "caption": "Everyone wants to know what kind of soup.",
+  "style": 1,
+  "required_tags": ["#TotalDramaRoblox", "#paidpartnership"],
+  "tiktok_caption": "Everyone wondered why one camper was so quiet in voice chat. The answer was soup, and the next question was what kind. #TotalDramaRoblox #paidpartnership",
+  "instagram_caption": "Total Drama Island in Roblox, voice chat edition: a muted camper explains the silence with soup, and turkey comes up. #TotalDramaRoblox #paidpartnership",
+  "schedule": {"tiktok": "2026-10-26T19:00:00-04:00", "instagram": "2026-10-26T19:30:00-04:00"},
+  "footage": "campaign-supplied",
+  "pattern": "default: spoken gag with on-screen proof (chat bubbles), ~24 s, reason/excuse hook",
+  "notes": "Speech unverified (Editor cannot hear audio): on-screen chat bubbles 'been muted eating soup' (~1967 s) and 'turkey' (~1974 s) support the hook. Facecam alternates between two people: no speaker named."
+}

@@ -30,6 +30,14 @@ Use one directive per entry:
 
 - Never post to Vyro, YouTube or any platform outside the Buffer TikTok and Instagram route without William's explicit go; the approval delegation covers campaign-supplied footage only, and only the platforms already connected.
 
+<!-- observed: 2026-10-23 | status: active -->
+
+- Own the "go" for starting clip work (Editor jobs, rendering, scheduling) on campaigns William has already joined: do not wait for his go on routine clip batches. Same limits as the approval delegation (campaign-supplied footage, Buffer TikTok and Instagram only); the go does not cover joining new campaigns, YouTube, Vyro submissions, money, accounts or legal terms. Delegated 2026-10-23 ("The 'go' is now your responsibility").
+
+<!-- observed: 2026-10-23 | status: active -->
+
+- Submit each live TikTok and Instagram post to its Vyro campaign as soon as it goes live ("Submit when they go live for tiktok and instagram", 2026-10-23), using only the Submit post form with "Use a link instead"; one submission per post, never twice. Scope: posts made through the Buffer route for campaigns William has joined (MW4, Total Drama Roblox). Still excluded: Join, payouts, connect/cash out/settings, YouTube posts beyond the earlier MW4 OK, anything money/account/legal. Stop and tell William on any unexpected prompt; if Vyro shows a "wait before posting again" or pending-limit dialog, stop, log it, and retry later (do not work around it).
+
 <!-- observed: 2026-10-22 | status: active -->
 
 - Always send any video preview he does ask for as a file (forceDocument on Telegram), because in-chat Telegram video looks stretched on his phone.

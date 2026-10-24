@@ -1,0 +1,23 @@
+{
+ "id": "mw4-09",
+ "campaign": "mrbeast-gaming-mw4",
+ "source": "/home/williamdownard/openclaw-sites/clips-work/mrbeast-mw4-source.mp4",
+ "start": 933.7,
+ "end": 972.4,
+ "hook": "Tim and Fatboy were doing well so far",
+ "caption": "Then a rival team takes out Fatboy, and the tags get counted.",
+ "style": 2,
+ "required_tags": [
+  "#MW4",
+  "#MW4partner"
+ ],
+ "tiktok_caption": "Tim and Fatboy had been doing well until a rival team took Fatboy out, and then the tags were counted. #MW4 #MW4partner",
+ "instagram_caption": "A strong run for Tim and Fatboy ends when a rival team takes Fatboy out, and the tag count comes right after. #MW4 #MW4partner",
+ "schedule": {
+  "tiktok": "2026-10-28T19:00:00-04:00",
+  "instagram": "2026-10-28T19:30:00-04:00"
+ },
+ "footage": "campaign-supplied",
+ "pattern": "default: gameplay with stakes overlay and a payoff (ambush), LONG ~39 s; pair control for mw4-10",
+ "notes": "Length-test control (39.1 s). Narrator line at start 'Tim and Fatboy have been doing well so far'; elimination 'Amazing. You killed Fatboy' ~953 s; studio overlay shows $0 / $300,000 near the end. Who owns the $300,000 is ambiguous in transcript and overlay, so no money claim is made. Speech unverified (Editor cannot hear audio); names Tim/Fatboy from facecam labels and narrator."
+}

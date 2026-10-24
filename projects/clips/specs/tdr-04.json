@@ -1,0 +1,23 @@
+{
+ "id": "tdr-04",
+ "campaign": "total-drama-roblox",
+ "source": "/home/williamdownard/openclaw-sites/clips-work/campaigns/total-drama-roblox/source-1080p.mp4",
+ "start": 2086.9,
+ "end": 2114.9,
+ "hook": "Host tells campers: make opponents' lives harder",
+ "caption": "It's always more fun to win dirty, says the host.",
+ "style": 3,
+ "required_tags": [
+  "#TotalDramaRoblox",
+  "#paidpartnership"
+ ],
+ "tiktok_caption": "Before the race the host tells the campers to hit buttons that make their opponents' lives harder, because it is always more fun to win dirty. #TotalDramaRoblox #paidpartnership",
+ "instagram_caption": "Total Drama Island in Roblox: the host's pre-race advice is to make opponents' lives harder, and he says winning dirty is more fun. #TotalDramaRoblox #paidpartnership",
+ "schedule": {
+  "tiktok": "2026-10-31T12:30:00-04:00",
+  "instagram": "2026-10-31T13:00:00-04:00"
+ },
+ "footage": "campaign-supplied",
+ "pattern": "test (same as tdr-02): host dialogue-box contrast, proof is on-screen game text, ~28 s, paraphrase hook + quote caption",
+ "notes": "Host boxes in order (on screen): 'Hit those buttons to make your opponents' lives harder.' then 'it's always more fun to win dirty!' then a 3-2-1 countdown and the race start. Does not show who wins. Source has its own jump cuts (timer jumps). Speech unverified."
+}

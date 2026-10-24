@@ -1,0 +1,17 @@
+{
+  "id": "tdr-02",
+  "campaign": "total-drama-roblox",
+  "source": "/home/williamdownard/openclaw-sites/clips-work/campaigns/total-drama-roblox/source-1080p.mp4",
+  "start": 2672.2,
+  "end": 2700.0,
+  "hook": "The \"relaxing\" challenge: jump off a cliff",
+  "caption": "The host calls it easy, as long as you don't fall.",
+  "style": 3,
+  "required_tags": ["#TotalDramaRoblox", "#paidpartnership"],
+  "tiktok_caption": "The host says today's challenge is a nice, relaxing three-part course, then starts with jumping off a cliff. #TotalDramaRoblox #paidpartnership",
+  "instagram_caption": "Total Drama Island in Roblox opens its challenge with nice and relaxing, then reads the rules. Easy, as long as nobody falls to their doom. #TotalDramaRoblox #paidpartnership",
+  "schedule": {"tiktok": "2026-10-27T19:00:00-04:00", "instagram": "2026-10-27T19:30:00-04:00"},
+  "footage": "campaign-supplied",
+  "pattern": "test: host dialogue-box contrast (setup/payoff), proof is on-screen game text, ~28 s, quote-contrast hook",
+  "notes": "TEST: hook and caption are carried by the game's own host text boxes, not by speech. Spoken reactions (including any voice-chat loss around 2690-2700 s) unverified."
+}

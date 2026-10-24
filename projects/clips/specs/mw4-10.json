@@ -1,0 +1,23 @@
+{
+ "id": "mw4-10",
+ "campaign": "mrbeast-gaming-mw4",
+ "source": "/home/williamdownard/openclaw-sites/clips-work/mrbeast-mw4-source.mp4",
+ "start": 735.55,
+ "end": 752.0,
+ "hook": "Four tags means $300,000",
+ "caption": "Asked what that would change, one player says their whole family.",
+ "style": 2,
+ "required_tags": [
+  "#MW4",
+  "#MW4partner"
+ ],
+ "tiktok_caption": "Four tags puts $300,000 on one team, and asked what that money would do, one player says it would take care of their entire family. #MW4 #MW4partner",
+ "instagram_caption": "Four tags, $300,000 on the line, and one player explains what it would mean for their family. #MW4 #MW4partner",
+ "schedule": {
+  "tiktok": "2026-10-30T19:00:00-04:00",
+  "instagram": "2026-10-30T19:30:00-04:00"
+ },
+ "footage": "campaign-supplied",
+ "pattern": "test: SHORT ~17 s (vs mw4-09 ~39 s), dialogue stakes with $300,000 overlay instead of a fight; length is the intended variable, content type is a flagged confound",
+ "notes": "Length test. On-screen $200,000 -> $300,000 overlay on a player HUD supports the hook. Speaker of the family line unverified (whisper), so no name used. Spoken lines ~735-748 s; last ~3 s is gameplay after the line."
+}

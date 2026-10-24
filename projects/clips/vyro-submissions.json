@@ -1,0 +1,15 @@
+{
+ "_note": "Queue of live Buffer posts to submit to Vyro (William's go 2026-10-23: submit each TikTok/Instagram post when it goes live). Status: pending | submitted | blocked. Source of links: buffer-state.json (sync_buffer.py). Never submit twice; set submitted only after My submissions count rises.",
+ "mw4-01-tiktok": {
+  "campaign": "Call of Duty: Modern Warfare 4",
+  "link": "https://tiktok.com/@rvclips6/video/7700032805165632782",
+  "status": "submitted",
+  "note": "2026-10-23 ~9:25 PM ET submitted by Morpheus after William deleted 2 YouTube submissions (block cleared). Vyro checks passed (disclosure, length, hashtags, no collaborators). MW4 submissions then 2 (1 YouTube + TikTok)."
+ },
+ "mw4-01-instagram": {
+  "campaign": "Call of Duty: Modern Warfare 4",
+  "link": "https://www.instagram.com/reel/De253P9ImjK/",
+  "status": "submitted",
+  "note": "2026-10-23 ~9:30 PM ET submitted by Morpheus; all 5 Vyro checks passed. MW4 submissions then 3 (1 YouTube + TikTok + Instagram), 0 approved."
+ }
+}
