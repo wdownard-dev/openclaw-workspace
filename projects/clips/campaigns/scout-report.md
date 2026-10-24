@@ -1,69 +1,75 @@
 # Vyro campaign scout report
 
-Run: 2026-10-23 ~8:00-8:04 PM ET, by Scout (E2E test, stage 1). Source: signed-in app.vyro.com session, one dedicated browser tab, read-only (only clicked campaign cards, "Load more" and "Show more"; nothing joined, submitted, typed or changed). Every campaign figure below was read from its detail dialog on this date. Percent paid and days left change hourly.
+Run: 2026-10-24 ~10:17-10:25 AM ET, by Scout (subagent scan). Source: signed-in app.vyro.com session, one dedicated browser tab (targetId 2F9115E0C0083F63C11F13A1B7FCF1A4), read-only. Only clicked campaign cards, "Load more" and "Show more", and navigated to My campaigns. Nothing joined, submitted, typed or changed. Every figure below was read from its detail dialog on this date. Percent paid and days left change hourly.
 
-15 campaigns listed after one "Load more": 11 open, 4 "Locked for new posts". Joined: only MrBeast Gaming MW4 (My campaigns page: Live 1, Past 0; 3 submissions pending, 0 approved; Earned $0, Views 0, 13d left, 26% paid out).
+16 campaigns listed after "Load more" (list now complete): 13 open, 3 "Locked for new posts". Joined: MrBeast Gaming MW4 and TDR Sinjin (see the join change below).
 
 ## Ranked: best campaigns for a gaming-oriented Shorts channel
-All open campaigns accept TikTok videos, YouTube Shorts and Instagram Reels unless noted. Every one requires 5,000 views/post for payout (max $1,000/post), likes/comments ON, no boosting, no botting, and every footage source is a PUBLIC Frame.io share (f.io link returns HTTP 200 without login; verified by curl, nothing downloaded).
+Open campaigns accept TikTok videos, YouTube Shorts and Instagram Reels unless noted. Every campaign requires 5,000 views per post for payout (max $1,000/post), likes and comments ON, no boosting, no botting, and footage from a PUBLIC Frame.io share (not downloaded or previewed in this run unless noted).
 
 | # | Campaign | Ends | Paid | Rate/1k | Min len | Joined | Collab | Footage | Verdict |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | MrBeast Gaming: Escape Call of Duty's DMZ (CoD MW4) | 13d | 26% | $1.50 | 15 s | YES | not allowed | 1 file, already local (25m12s) | Best: gaming fit, joined, footage and 6 clips already made, longest runway |
-| 2 | Total Drama Roblox: Sinjin "ROBLOX TOTAL DRAMA ISLAND is mean…" (NEW, 7h old) | 13d | 0% | $2.50 | 15 s | no | allowed (story banned) | 1 Frame.io video | Highest rate, full budget, longest runway. Roblox audience skews young; needs join |
-| 3 | Valorant Champs Shanghai Podcast | 6d | 2% | $1.50 | 15 s | no | allowed in settings, text says "Collab & story posts are NOT allowed" (follow stricter) | 2h24m podcast, already local | Footage ready, 5 suggested moments; 6d and only 2% paid after 7d suggests the bar is hard |
-| 4 | Total Drama Roblox: Mitch Gaming | 9d | 1% | $2.50 | 15 s | no | not allowed | 1 Frame.io video | Same terms as #2, shorter runway |
-| 5 | Total Drama Roblox: StinkyAsher | 9d | 10% | $2.50 | 15 s | no | not allowed | 1 Frame.io video | Same terms as #2 |
-| 6 | Total Drama Roblox: Flamingo | 9d | 6% | $2.50 | 15 s | no | not allowed | 1 Frame.io video | Same terms as #2 |
-| 7 | Valorant Microdrama series | 9d | 4% | $1.50 | 15 s | no | not allowed | episodes (Frame.io) | Scripted drama; split in "Part 1, 2, 3" or brand-safe memes; weaker clip fit |
-| 8 | Total Drama Roblox: Streamer Tournament (Jenny Hoyos upload) | 5d | 5% | $2.50 | 15 s | no | not allowed | 1 Frame.io video | Same terms, only 5d left |
+| 1 | MrBeast Gaming: Escape Call of Duty's DMZ (CoD MW4) | 12d | 30% | $1.50 | 15 s | YES | not allowed | 1 file, already local (25m12s) | Best: gaming fit, joined, footage and clips already made, longest-running gaming option |
+| 2 | Total Drama Roblox: Sinjin "ROBLOX TOTAL DRAMA ISLAND is mean…" | 12d | 0% | $2.50 | 15 s | YES (My campaigns, see below) | allowed (story banned) | 1 Frame.io video (f.io/Y1AoLXR8), unverified | Highest rate, full budget, longest runway. Roblox audience skews young |
+| 3 | Total Drama Roblox: StinkyAsher | 8d | 10% | $2.50 | 15 s | no | not allowed | 1 Frame.io video (f.io/7acN1ASv), unverified | Same TDR terms as #2, shorter runway, some money already paid |
+| 4 | Valorant Champs Shanghai Podcast | 5d | 2% | $1.50 | 15 s | no | CONFLICT: details say "NOT allowed", settings say "Allowed" (follow stricter) | 2h24m podcast, already local | Footage ready, 5 suggested moments; 5d and 2% paid is a warning on payout |
+| 5 | Kevin Langue: 4 Imposters vs 1 Real Ghost Hunter (RELISTED) | 5d | 67% | $2.00 | 20 s | no | not allowed | 1 Frame.io video (f.io/58zYKG1t), unverified | Gaming/entertainment fit, but 67% paid with 5d left: dilution risk |
+| 6 | Total Drama Roblox: Flamingo | 8d | 10% | $2.50 | 15 s | no | not allowed | 1 Frame.io video (f.io/k1aKSCNp), unverified | Same TDR terms |
+| 7 | Total Drama Roblox: Mitch Gaming | 8d | 0% | $2.50 | 15 s | no | not allowed | 1 Frame.io video (f.io/cn710FBZ), unverified | Same TDR terms |
+| 8 | Ground Stop Podcast: Aviation Podcast, Episodes 1-3 (RELISTED) | 4d | 33% | $1.05 | 8 s | no | allowed | Frame.io share (next.frame.io), unverified | Edgy airline-pilot podcast; required @GroundStopPodcast tag, #GroundStopPodcast, #VyroPartner. Watch: 4d left |
 
-## Top 5 detail for the end-to-end test (the five extra checks)
-Hashtags: MW4 = #MW4 required, #MW4partner disclosure (or native label). TDR (all) = #TotalDramaRoblox required, #paidpartnership disclosure (or native label). Valorant Champs = no required hashtag, disclosure #valorantchamps only.
+## Top 5 detail
+1. MW4 (JOINED). (a) Footage supplied: yes, https://f.io/_a1-OEVL, one file 'Escape Abandoned City.mp4'. Already downloaded by scripts/fetch_frameio.py (7.5 GB, local). (b) Joined: yes (My campaigns: 3 submissions, 3 pending, 0 approved). (c) Platforms: TikTok videos, YouTube Shorts, Instagram Reels. (d) No automation/scheduling wording in the brief; Vyro-wide Clipper Terms apply (see below). (e) Clips already made at 31-44 s; collab and tags not allowed; likes/comments ON.
+2. TDR Sinjin. (a) https://f.io/Y1AoLXR8, public; duration and content NOT checked (unverified). (b) JOINED per My campaigns page this run (status Live, 0 submissions). Not recorded as joined in the Oct 23 report. (c) All 3 platforms. (d) No automation wording. (e) Feasible in principle; needs a preview.
+3. TDR StinkyAsher. (a) https://f.io/7acN1ASv, public, unverified. (b) not joined. (c) all 3. (d) none in brief. (e) unverified.
+4. Valorant Champs Shanghai. (a) https://f.io/1XI8aRT3, already downloaded (3.0 GB) and transcribed. (b) not joined. (c) all 3. (d) none in brief. Disclosure #valorantchamps; no required hashtag. (e) Feasible (5 suggested timestamps: 31:59, 36:14, 55:09, 1:04:34, 2:07:00).
+5. Kevin Langue 4 Imposters. (a) https://f.io/58zYKG1t, unverified. (b) not joined. (c) TikTok, Shorts, Reels. (d) none in brief. Required #kevinlangue, disclosure #kevinlanguepartner, min 20 s, collab/tags not allowed.
 
-1. MW4 (JOINED). (a) Footage supplied: yes, https://f.io/_a1-OEVL, one file 'Escape Abandoned City.mp4'. Download is a manual-style Frame.io "Download" button, but scripts/fetch_frameio.py (Playwright) already automated it and the 7.5 GB file is local (clips-work/mrbeast-mw4-source.mp4 + transcript). No plain direct file URL exists; a script must click through Frame.io. (b) Joined: yes (My campaigns). (c) Platforms: TikTok videos, YouTube Shorts, Instagram Reels. (d) Brief wording on automation/scheduling/third-party tools: NONE (read the full brief; the closest lines are "We review every post for botted views" and "Clips running as a paid ad will be rejected (e.g. 'boosting' your clip as a promoted post)"). Vyro-wide wording (Clipper Terms and Content Requirements s.10) does apply, see below. (e) 20-40 s vertical clip: yes, already proven (mw4-01..06 are 31-44 s, 1080x1920). Note: collab/tags not allowed; likes/comments ON.
-2. TDR Sinjin. (a) Frame.io https://f.io/Y1AoLXR8, public, same click-through download (no script run yet for this file; durations unverified). (b) not joined. (c) all 3 platforms. (d) No automation wording in the brief (checked the full text). (e) Feasible in principle (tournament vlog footage); duration and content NOT checked (unverified, requires a preview).
-3. Valorant Champs Shanghai. (a) Frame.io https://f.io/1XI8aRT3, already downloaded (3.0 GB, 2h24m) and transcribed. (b) not joined (dialog has no "You've joined" line; PLAN.md notes William closed it). (c) all 3 platforms. (d) No automation wording in the brief. (e) Feasible (podcast, 5 suggested timestamps 31:59, 36:14, 55:09, 1:04:34, 2:07:00), needs reframing from landscape talking heads; no logos/watermarks/other hashtags.
-4. TDR Mitch Gaming. (a) https://f.io/cn710FBZ (public). (b) not joined. (c) all 3. (d) none in brief. (e) unverified (not previewed).
-5. TDR StinkyAsher. (a) https://f.io/7acN1ASv (public). (b) not joined. (c) all 3. (d) none in brief. (e) unverified (not previewed).
-
-### Vyro-wide wording on automation (applies to every campaign, exact quotes)
-- Clipper Content Requirements s.10 (https://vyro.com/content-requirements, fetched Oct 23): "Clippers may promote their own content and campaigns, but must not: Promote Client or its campaigns through spam (e.g., mass messaging, comment spam, or automated posting)."
-- Clipper Terms (https://vyro.com/clipper-terms, last modified Dec 20, 2025): "Neither you nor anyone working on your behalf may (A) promote or advertise Client, a Client Campaign, Client Content, or Clipper Content through spam (e.g., mass messaging, comment spam, or automated posting); or (B) run paid advertisements…" Also: "(vii) engage in data mining, scraping, AI/LLM-training or other unauthorized data collection" and Content Requirements s.8: "Unauthorized Data Access: Using bots, scrapers, or automation to collect or manipulate platform data."
-- Read: no sentence bans scheduling tools or third-party tools by name. "Automated posting" appears only as an example of SPAM. Whether a scheduler like Buffer posting one clip per platform counts is NOT stated (unverified, open question for Vyro support). The "scrapers/automation to collect or manipulate platform data" line could cover scripted reads of the Vyro site; I use the signed-in browser read-only.
+### Vyro-wide wording on automation (applies to every campaign, from the Oct 23 read)
+- Clipper Content Requirements s.10: "Clippers may promote their own content and campaigns, but must not: Promote Client or its campaigns through spam (e.g., mass messaging, comment spam, or automated posting)."
+- Clipper Terms: no promotion "through spam (e.g., mass messaging, comment spam, or automated posting)"; also bans "data mining, scraping" and "automation to collect or manipulate platform data."
+- No sentence bans scheduling tools by name. Whether a scheduler posting one clip per platform counts is NOT stated (unverified; open question for Vyro support).
 
 ## Avoid / skip
-- iHeart "Don't Lie To Me" (5d, 40% paid, $2.00/1k): dating/relationships podcast (poor fit), strict caption template (CTA + "Don't Lie To Me, an iHeart podcast" + #DontLieToMe #ad), every clip/caption must be unique, min 30 s, review takes days.
-- Ketone-IQ "Shark Tank Edits" (13d, 2%, $1.50) and "YT Only: Cinematic edits" (6d, 1%, $1.50, YouTube Shorts only): sponsored brand deals (#KetoneIQPartner), provided edit must be posted untrimmed, mandatory caption lines. Skip per the sponsored-campaign rule.
-- Locked (no new posts): MrBeast "Lose 150 Lbs Together" (7d, 100%, $1.00), SPEED VEGAS 1 (5d, 100%, $2.10, Reels only, 7 s min), Shark Tank S18 E3 (4d, 100%, $2.00, 30 s min, Disney work-for-hire + AI-tool restriction, unique clips), Valorant Microdrama Episode 1 (12h, 6%, $1.50).
+- Don't Lie To Me (iHeart; 4d, 44% paid, $2.00/1k): dating/relationships fit is poor; required CTA caption template and #ad; every clip and caption must be unique; min 30 s; review may take several days.
+- Ketone-IQ "Shark Tank Edits" (12d, 1%, $1.50) and "YT Only: Cinematic edits" (5d, 1%, $1.50): sponsored brand deal (#KetoneIQPartner), mandatory caption lines, no trimming or editing of the provided clip bank. Skip per the sponsored-campaign rule.
+- Valorant Microdrama series (8d, 4%, $1.50): scripted drama, weak clip fit; "Part 1, 2, 3" or brand-safe memes only.
+- Locked (no new posts): MrBeast "Lose 150 Lbs Together" (6d, 100%, $1.00); SPEED VEGAS 1 (4d, 100%, $2.10); Shark Tank S18 E3 (3d, 100%, $2.00, 30 s min, unique clips, Disney work-for-hire and AI-tool restriction).
+- Not seen in this scan: Valorant Microdrama Episode 1 (locked, was 12h left in Oct 23 report), MrBeast x Kizik (gone since Oct 22).
+
+## Campaign lines (facts for every listed campaign)
+- MrBeast MW4 (JOINED): 12d, 30% paid, $1.50/1k, 15 s, #MW4 + #MW4partner, collab/story not allowed, likes/comments ON, no logos/other hashtags. Source https://f.io/_a1-OEVL.
+- TDR Sinjin: 12d, 0%, $2.50/1k, 15 s, #TotalDramaRoblox + #paidpartnership, collab allowed, story banned. Source https://f.io/Y1AoLXR8. (JOINED per My campaigns.)
+- Ketone-IQ Shark Tank Edits: 12d, 1%, $1.50/1k, 10 s min, sponsored. Skip.
+- TDR StinkyAsher: 8d, 10%, $2.50/1k, 15 s, #TotalDramaRoblox + #paidpartnership, collab and story banned. Source https://f.io/7acN1ASv.
+- TDR Mitch Gaming: 8d, 0%, $2.50/1k, same TDR terms. Source https://f.io/cn710FBZ.
+- TDR Flamingo: 8d, 10%, $2.50/1k, same TDR terms. Source https://f.io/k1aKSCNp.
+- Valorant Microdrama series: 8d, 4%, $1.50/1k, #valorant + #ValorantPartner, sequence or brand-safe memes, story banned. Source https://f.io/ySICjlo0.
+- Valorant Champs Shanghai Podcast: 5d, 2%, $1.50/1k, #valorantchamps disclosure, collab conflict (see table). Source https://f.io/1XI8aRT3.
+- Ketone-IQ YT Only Cinematic edits: 5d, 1%, $1.50/1k, YouTube Shorts only, sponsored. Skip.
+- iHeart Don't Lie To Me: 4d, 44%, $2.00/1k, see Avoid.
+- TDR Streamer Tournament (Jenny Hoyos upload): 4d, 3%, $2.50/1k, same TDR terms, collab and story banned. Source https://f.io/bxcDZy3B.
+- Ground Stop Podcast (Aviation Podcast): 4d, 33%, $1.05/1k, 8 s min, #GroundStopPodcast required, tag @GroundStopPodcast, #VyroPartner disclosure, hosts must not be portrayed negatively, TikTok and YouTube open (Instagram closed). Source next.frame.io share (not previewed).
+- Kevin Langue 4 Imposters: 5d, 67%, $2.00/1k, 20 s min, #kevinlangue + #kevinlanguepartner, collab/story not allowed. Source https://f.io/58zYKG1t.
+- Locked: Lose 150 Lbs (6d, 100%), SPEED VEGAS 1 (4d, 100%), Shark Tank S18 E3 (3d, 100%). See Avoid.
 
 ## Warnings
-- Ending within 3 days: only Valorant Microdrama Episode 1 (12h left, locked). No open campaign ends within 3 days; shortest open: iHeart and TDR Streamer Tournament (5d), Valorant Champs (6d), Ketone Cinematic (6d).
-- Over 80% paid out: Lose 150 Lbs, SPEED VEGAS, Shark Tank S18 (all 100%, locked). No open campaign is over 70%.
+- Ending within 3 days (open): none. Shark Tank S18 E3 ends in 3d but is locked at 100%.
+- Over 80% paid: Lose 150 Lbs, SPEED VEGAS 1, Shark Tank S18 E3 (all locked, 100%). None open.
+- Over 70% paid (open): none. Kevin Langue is at 67%, close to that line.
+- Joined campaign MW4: 30% paid (was 26%, +4 points since Oct 23), 12d left, 3 pending / 0 approved. Earned and Views still show $0 and 0.
+- Joined campaign TDR Sinjin: appears on My campaigns as Live with 0 submissions, 0% paid, 12d left. See the join change below.
 - Near the end of every campaign, if earnings exceed the remaining budget, payouts are split evenly across eligible clips (dilution).
-- Joined campaign MW4: 26% paid (was 21% on Oct 22 ~9:40 PM, about +5 points per day, 13d left), 3 pending / 0 approved ~22 h after the first submissions.
 
-## What changed since the last report (Oct 22 ~9:40 PM)
-- NEW: Total Drama Roblox, Sinjin 'ROBLOX TOTAL DRAMA ISLAND is mean…' (posted 7h ago, 13d, 0%, $2.50, collab allowed).
-- No longer listed: Kevin Langue "4 Imposters vs 1 Real Ghost Hunter", Ground Stop Podcast, MrBeast x Kizik (ended or removed; reason unverified).
-- MW4 21% to 26% paid; 14d to 13d. iHeart 31% to 40%. Valorant Champs 7d to 6d, 2% unchanged. TDR Mitch 0% to 1%; StinkyAsher 9% to 10%; Flamingo 6%; Streamer Tournament 3% to 5% (6d to 5d). Microdrama 2% to 4%. Ketone Shark Tank Edits 0% to 2%.
-- Correction: Mitch Gaming was recorded as 0% paid, today 1%. The TDR Mitch collab rule is "not allowed" (earlier notes agree).
-- The 'Payouts active' text on My campaigns is a tab label, not an account status (confirmed earlier).
-
-## Campaign details (one block each)
-### 1. MrBeast Gaming: Escape Call of Duty's DMZ, Win $1,000,000 (Call of Duty: MW4) JOINED
-13d, 26% paid, $1.50/1k. TikTok videos, YouTube Shorts, Instagram Reels (no carousels/images). Min 15 s. Required #MW4; disclosure #MW4partner (hashtag or native label). Collab and story not allowed. Likes/comments ON. No logos, other hashtags, watermarks. No misrepresenting MrBeast or Call of Duty. Source https://f.io/_a1-OEVL.
-### 2. TDR Sinjin
-13d, 0%, $2.50/1k. All 3 platforms, 15 s. #TotalDramaRoblox, #paidpartnership. Collab allowed, story banned. Source 'NEW Total Drama Roblox With YOUTUBERS is a MESSSSS.mp4' https://f.io/Y1AoLXR8.
-### 3. Valorant Champs Shanghai Podcast
-6d, 2%, $1.50/1k. All 3 platforms, 15 s. Disclosure #valorantchamps. Source https://f.io/1XI8aRT3. Own moments allowed.
-### 4-6, 8. Total Drama Roblox (Mitch Gaming https://f.io/cn710FBZ; StinkyAsher https://f.io/7acN1ASv; Flamingo https://f.io/k1aKSCNp; Streamer Tournament https://f.io/bxcDZy3B)
-Same rules: $2.50/1k, all 3 platforms, 15 s, #TotalDramaRoblox + #paidpartnership, collab and story banned, no outside logos/hashtags/watermarks. Paid/ends: Mitch 1%/9d, StinkyAsher 10%/9d, Flamingo 6%/9d, Streamer Tournament 5%/5d.
-### 7. Valorant Microdrama series
-9d, 4%, $1.50/1k. All 3 platforms, 15 s. Required #valorant; disclosure #ValorantPartner; no unrelated/general hashtags. Option 1: sequential "Part 1, 2, 3"; option 2: brand-safe memes (no profanity, NSFW, derogatory content). Collab and story banned. Source https://f.io/ySICjlo0.
-### iHeart, Ketone-IQ x2, locked campaigns: see Avoid.
+## What changed since the last report (Oct 23, ~8:04 PM)
+- JOIN CHANGE: My campaigns now lists TDR Sinjin as joined (Live, 0 submissions). The Oct 23 report recorded it as not joined. Scout did not click Join. Morpheus should confirm whether this join was authorized (JOIN-PROCEDURE.md).
+- MW4 (joined): 26% to 30% paid; 13d to 12d; 3 pending / 0 approved unchanged.
+- RELISTED: Kevin Langue 4 Imposters and Ground Stop Podcast reappeared in the list. Both were absent from the Oct 23 report.
+- Not listed this run: Valorant Microdrama Episode 1 (locked). MrBeast x Kizik is still gone.
+- Paid and days changes: Flamingo 6% to 10%; StinkyAsher 10% (9d to 8d); Mitch 1% to 0%; Streamer Tournament 5% to 3% (5d to 4d); Valorant Champs 2% (6d to 5d); Microdrama 4% (9d to 8d); Shark Tank Edits 2% to 1% (13d to 12d); YT Only 1% (6d to 5d); iHeart 40% to 44% (5d to 4d); Lose 150 Lbs 100% (7d to 6d); SPEED VEGAS 1 (4d); Shark Tank S18 E3 (4d to 3d).
+- Valorant Champs: the dialog text says "Collab & story posts are NOT allowed", while the settings say collab "Allowed". The Oct 23 report had this conflict too.
 
 ## Method and scan limits
-- Whole scan took about 4 minutes by the system clock (8:00 to ~8:04 PM ET) in one tab, targetId pinned on every call, no tab recycling.
-- Dialog text read via an in-page script (click card, click "Show more", read [role=dialog]). The URL returned right after a click lags one campaign behind, so each reading was matched by the title inside the dialog.
-- Not read: durations/content of the non-MW4 Frame.io files (no previews fetched); Vyro clipper-terms page was read only the first 20,000 of 67,687 characters plus a keyword search of the rest.
+- One tab, targetId pinned on every call. "Load more" clicked once; the list then showed no further "Load more".
+- Dialog text read via in-page script (click card, "Show more", read [role=dialog]); each reading matched by the title inside the dialog, since the URL lags one click behind.
+- Not done: no Frame.io file previews or downloads for non-MW4 campaigns (durations and content unverified). Vyro clipper-terms page not re-read this run (Oct 23 quotes still apply).

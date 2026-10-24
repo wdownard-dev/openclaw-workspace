@@ -28,5 +28,65 @@
   "status": "scheduled",
   "link": "",
   "error": ""
+ },
+ "tdr-01-tiktok": {
+  "status": "scheduled",
+  "link": "",
+  "error": ""
+ },
+ "tdr-01-instagram": {
+  "status": "scheduled",
+  "link": "",
+  "error": ""
+ },
+ "tdr-02-tiktok": {
+  "status": "scheduled",
+  "link": "",
+  "error": ""
+ },
+ "tdr-02-instagram": {
+  "status": "scheduled",
+  "link": "",
+  "error": ""
+ },
+ "mw4-09-tiktok": {
+  "status": "scheduled",
+  "link": "",
+  "error": ""
+ },
+ "mw4-09-instagram": {
+  "status": "scheduled",
+  "link": "",
+  "error": ""
+ },
+ "mw4-10-tiktok": {
+  "status": "scheduled",
+  "link": "",
+  "error": ""
+ },
+ "mw4-10-instagram": {
+  "status": "scheduled",
+  "link": "",
+  "error": ""
+ },
+ "tdr-03-tiktok": {
+  "status": "scheduled",
+  "link": "",
+  "error": ""
+ },
+ "tdr-03-instagram": {
+  "status": "scheduled",
+  "link": "",
+  "error": ""
+ },
+ "tdr-04-tiktok": {
+  "status": "scheduled",
+  "link": "",
+  "error": ""
+ },
+ "tdr-04-instagram": {
+  "status": "scheduled",
+  "link": "",
+  "error": ""
  }
 }
