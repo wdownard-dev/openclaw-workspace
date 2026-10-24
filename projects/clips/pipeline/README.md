@@ -25,3 +25,11 @@ Editor writes `campaigns/<campaign>/kits/<clip-id>.md`: title (<=70 chars), desc
 
 ## Transcripts and models
 Local only: `~/openclaw-sites/clips-venv/bin/python pipeline/transcribe.py` (faster-whisper base.en, CPU). Accuracy on real gameplay audio is unverified until the first real clip.
+
+## One-command route for campaign clips: `clip_job.py` (2026-10-23)
+`python3 -I pipeline/clip_job.py specs/<clip-id>.json` runs cut -> format -> verify -> thumbnail -> host (Cloudinary) -> schedule (Buffer: TikTok + Instagram Reels) -> log (results.csv, buffer-posts.json). See the docstring and `specs/example.json`.
+- Editor picks the moment and writes the spec (hook, caption, start/end, captions, required tags, schedule). Editor may run it only with `--until thumbnail` (local, no external effects). Morpheus runs the full job: hosting and scheduling are outward-facing.
+- Lint refuses: hook not 3-8 words, wrong or extra hashtags, engagement-bait wording, clip length outside 15-59 s, streamer not `approved`, campaign without a brief, schedule less than 45 min ahead (leaves William time to review in Buffer).
+- `--dry-run` runs the local stages only. `--unschedule` deletes this clip's still-scheduled Buffer posts. Reruns are idempotent (state in `pipeline/jobs/<id>/state.json`); a hosted file or Buffer post is never created twice.
+- Still manual: choosing the moment, checking `jobs/<id>/contact.jpg` that the hook matches the opening seconds, Cloudinary cleanup, Vyro submission. Does not touch YouTube or Vyro.
+- Buffer also supports deletePost/editPost, so a bad scheduled post can be removed or changed before it publishes.

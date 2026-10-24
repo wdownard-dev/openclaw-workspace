@@ -1,6 +1,6 @@
 # Vyro campaign scout report
 
-Run: 2026-10-23 ~8:00-8:08 PM ET, by Scout (E2E test, stage 1). Source: signed-in app.vyro.com session, one dedicated browser tab, read-only (only clicked campaign cards, "Load more" and "Show more"; nothing joined, submitted, typed or changed). Every campaign figure below was read from its detail dialog on this date. Percent paid and days left change hourly.
+Run: 2026-10-23 ~8:00-8:04 PM ET, by Scout (E2E test, stage 1). Source: signed-in app.vyro.com session, one dedicated browser tab, read-only (only clicked campaign cards, "Load more" and "Show more"; nothing joined, submitted, typed or changed). Every campaign figure below was read from its detail dialog on this date. Percent paid and days left change hourly.
 
 15 campaigns listed after one "Load more": 11 open, 4 "Locked for new posts". Joined: only MrBeast Gaming MW4 (My campaigns page: Live 1, Past 0; 3 submissions pending, 0 approved; Earned $0, Views 0, 13d left, 26% paid out).
 
@@ -64,6 +64,6 @@ Same rules: $2.50/1k, all 3 platforms, 15 s, #TotalDramaRoblox + #paidpartnershi
 ### iHeart, Ketone-IQ x2, locked campaigns: see Avoid.
 
 ## Method and scan limits
-- Whole scan took about 8 minutes of wall time (8:00 to ~8:08 PM ET) in one tab, targetId pinned on every call, no tab recycling.
+- Whole scan took about 4 minutes by the system clock (8:00 to ~8:04 PM ET) in one tab, targetId pinned on every call, no tab recycling.
 - Dialog text read via an in-page script (click card, click "Show more", read [role=dialog]). The URL returned right after a click lags one campaign behind, so each reading was matched by the title inside the dialog.
 - Not read: durations/content of the non-MW4 Frame.io files (no previews fetched); Vyro clipper-terms page was read only the first 20,000 of 67,687 characters plus a keyword search of the rest.

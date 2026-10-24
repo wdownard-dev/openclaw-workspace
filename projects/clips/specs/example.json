@@ -1,0 +1,17 @@
+{
+  "id": "mw4-08",
+  "campaign": "mrbeast-gaming-mw4",
+  "source": "/home/williamdownard/openclaw-sites/clips-work/mrbeast-mw4-source.mp4",
+  "start": 169.4,
+  "end": 192.0,
+  "hook": "Their plan to fool proximity chat",
+  "caption": "If another team is close, they switch to Arabic.",
+  "style": 3,
+  "required_tags": ["#MW4", "#MW4partner"],
+  "tiktok_caption": "Proximity chat means other teams can hear you, so this duo's plan is to switch languages when someone gets close. #MW4 #MW4partner",
+  "instagram_caption": "Other teams can hear you in proximity chat, so these two plan to speak Arabic when someone is near. #MW4 #MW4partner",
+  "schedule": {"tiktok": "2026-10-25T19:00:00-04:00", "instagram": "2026-10-25T19:00:00-04:00"},
+  "footage": "campaign-supplied",
+  "pattern": "test: funny premise, no money overlay, shorter",
+  "notes": "example spec (mirrors the already-scheduled mw4-08)"
+}

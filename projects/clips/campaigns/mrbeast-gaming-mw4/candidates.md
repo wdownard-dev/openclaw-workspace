@@ -142,3 +142,30 @@ Pattern key. Default pattern = "gameplay with visible money/stakes and a clear p
 ## Recommended order and posting window (evidence: none/thin)
 Order: #1, #2, #3, #4, then tests #5, #6. Mix a test early (day 2) rather than last so data arrives before the 14-day campaign ends.
 Window: no results, so evidence level **none**. As a thin, convention-only guess: TikTok/Reels/Shorts weekday evening 6-9 PM ET, plus a second lunchtime slot (12-1 PM ET). Record the real posting time in `results.csv` to test this.
+
+---
+
+# Batch 2 (2026-10-23, end-to-end flow test): 2 clips, mw4-07 and mw4-08
+
+Picked from the unrendered ranks of batch 1 plus one new scene. No overlap with mw4-01..06 (101.7-144.9, 519.6-561.5, 972.6-1016.7, 1096-1132.6, 1406.6-1438, 1449.5-1484).
+
+| id | source | length | pattern | score | hook |
+|---|---|---|---|---|---|
+| mw4-07 | 797.1-836.4 s (13:17-13:56) | 39.3 s | default: gameplay with a stakes overlay ($400,000) and a fight | H3 S4 P3 E4 R4 = 18 | Holding this tag makes you a target |
+| mw4-08 | 169.4-192.0 s (2:49-3:12) | 22.6 s | TEST: funny premise, no money overlay, short | H4 S4 P3 E4 R3 = 18 (R lowered for the language mention) | Their plan to fool proximity chat |
+
+Why these two: mw4-07 is a different scene, different players (MissRockLee/MediaStorm side, not Tim/Fatboy) and a mid-game "hunted" setup, so it is not a copy of mw4-01..04. I rejected rank 11 (lieutenant tag bait, 376-421) because I could not tell from the transcript or frames whose tag was stolen, and a hook would have risked misrepresenting it. mw4-08 is rank 7 shortened from 27 s to 22.6 s to end on its punchline ("go silent") instead of an unclear tail.
+
+Test mw4-08 varies: clip pattern (funny premise instead of money stakes) and, as an uncontrolled confounder, length (22.6 s vs 31-44 s). Two variables changed because only two clips fit the brief; a cleaner length-only test needs a second short clip of the default pattern.
+
+## What changed since last batch and why
+- Evidence: none to act on. results.csv has no views and no approvals; YouTube Shorts for mw4-01..06 had zero distribution (William confirmed in Studio), so that is not a content signal; mw4-01 on TikTok/Reels is only scheduled (0 views, 21:00 ET). Selection weights are unchanged.
+- Changes that are not data-driven: (1) added length as a deliberate variable (all six first clips were 31-44 s; mw4-08 is 22.6 s); (2) the hook text must describe what the first 3 seconds show or say (I re-rendered both clips once after finding the first hooks described a beat that happens 13 s in); (3) avoid scenes where the speaker or whose tag it is cannot be confirmed.
+- Exploration share: 1 of 2 clips is a labelled test (50%, above the usual 30% because a batch of two cannot do 30%).
+
+## Recommended posting windows (evidence: none)
+- TikTok: weekday 6-9 PM ET, weekend ~12-1 PM ET. Evidence none (convention only). One data point arrives from mw4-01 (Fri 9 PM ET).
+- Instagram Reels: same windows. Evidence none.
+- YouTube Shorts: same windows, but evidence none AND the channel currently shows zero distribution, so no timing choice can be evaluated until that is resolved.
+- Suggested schedule for clean comparisons (same clip on all three platforms at the same minute; spread clips across different windows): mw4-07 on Sat Oct 24 12:30 PM ET (TikTok, Reels, Shorts); mw4-08 on Sun Oct 25 7:00 PM ET (TikTok, Reels, Shorts). Confounder: clip and time-of-day are mixed between 07 and 08, so a difference between them cannot be attributed to either.
+- Vyro limits: new account is capped at 3 pending with 0 approved, so these clips may need to go out unsubmitted (data-first mode, same as mw4-04..06); never count them toward approval/earnings analysis.
