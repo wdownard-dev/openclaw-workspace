@@ -33,3 +33,4 @@ Local only: `~/openclaw-sites/clips-venv/bin/python pipeline/transcribe.py` (fas
 - `--dry-run` runs the local stages only. `--unschedule` deletes this clip's still-scheduled Buffer posts. Reruns are idempotent (state in `pipeline/jobs/<id>/state.json`); a hosted file or Buffer post is never created twice.
 - Still manual: choosing the moment, checking `jobs/<id>/contact.jpg` that the hook matches the opening seconds, Cloudinary cleanup, Vyro submission. Does not touch YouTube or Vyro.
 - Buffer also supports deletePost/editPost, so a bad scheduled post can be removed or changed before it publishes.
+- After `clip_job.py` finishes, Morpheus sends William the Short as a FILE (message tool, media=previews/<id>.mp4, forceDocument=true) with the hook, platforms, scheduled time and TikTok caption, and offers "change" (fix via Buffer editPost/deletePost). This step is Morpheus's, not the script's (scripts cannot send messages).
