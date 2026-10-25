@@ -46,9 +46,13 @@ Use one directive per entry:
 
 - Prefer to automate everything except steps that need his legal acceptance or manual posting; keep him out of the loop on routine runs and report outcomes honestly, including what failed.
 
-<!-- observed: 2026-10-23 | status: active -->
+<!-- observed: 2026-10-23 | status: superseded -->
 
-- Join Vyro campaigns for William only through the per-campaign accept flow in `projects/clips/JOIN-PROCEDURE.md`: send him the campaign terms and a flag list on Telegram, and click Join only after his explicit written "Accept <campaign name>" for that campaign. Never treat silence, "ok", "sure" or an older accept as consent; never accept anything the package did not show him; stop on any payment, identity, payout or unexpected terms prompt.
+- (Superseded 2026-10-24: previously required him to type "Accept <full campaign name>".)
+
+<!-- observed: 2026-10-24 | status: active -->
+
+- Join Vyro campaigns for William only through the accept flow in `projects/clips/JOIN-PROCEDURE.md`: send one campaign package at a time (terms and flag list) on Telegram; he replies just "Accept" (no campaign name needed), I reply with a one-line restatement of campaign, creator and rate, and click Join only after his "Confirm". Never treat silence, "ok", "sure", "yes" or an older accept as consent; never accept anything the package did not show him; stop on any payment, identity, payout or unexpected terms prompt.
 
 ## Related
 
