@@ -59,3 +59,13 @@ Next batch: the only clearly shock-yes candidate is mw4-08 (already posted), so 
 
 ## Snapshot caveat
 Search popularity and growth are one screenshot set (2026-10-26). Re-check before each batch; the list changes daily. TDR: no matching gap, nothing to fit.
+
+## New-moment pass (Editor, 2026-10-26; read-only, see candidates.md)
+| Clip | Range | Pattern | Search fit | Shock | Note |
+|---|---|---|---|---|---|
+| A | 435.2-453.0 | narrator-stated language switch by a second team | Modern Warfare 4 | yes (narrator line at 446.5; language not named in the transcript) | Closest to mw4-08's premise; thin payoff; keep the hook to the narrator's words. |
+| B | 1134.5-1167.7 | alliance + vehicle chase | Modern Warfare 4 | mild | Same theme as mw4-06; check that mw4-06 is not scheduled. |
+| C | 476.0-500.0 (approx.) | elimination, then boat chase | Modern Warfare 4 | mild | Timing needs an audio check before any render. |
+| D | 601.0-624.0 | buggy encounter, spectating | Modern Warfare 4 | mild | Speakers unconfirmed; check corner pop-up cards for third-party names. |
+| E | 1188.1-1210.0 | lead + "not done yet", $300,000 counter | Modern Warfare 4 | no | Weakest payoff. |
+No "edit", "trailer" or "multiplayer" phrase fits any of these. No clip is a phrase-free control; mw4-05 / mw4-06 stay the controls.

@@ -2,25 +2,19 @@
  "id": "mw4-14",
  "campaign": "mrbeast-gaming-mw4",
  "source": "/home/williamdownard/openclaw-sites/clips-work/mrbeast-mw4-source.mp4",
- "start": 0.0,
- "end": 31.8,
- "hook": "MW4 edit: a night camp, ten teams",
- "caption": "MW4 edit of the video's opening: a night camp, ten teams, one extraction helicopter.",
- "style": 2,
- "required_tags": [
-  "#MW4",
-  "#MW4partner"
- ],
- "tiktok_caption": "MW4 edit of the opening minute: a night camp built for a $1,000,000 prize, ten teams dropped on one map, and a helicopter that only takes the ones who make it. #MW4 #MW4partner",
- "instagram_caption": "MW4 edit: the video's own opening montage, from the camp and the $1,000,000 sign to ten teams, a 40-minute clock and the extraction helicopter. #MW4 #MW4partner",
- "schedule": {
-  "tiktok": "2026-10-27T12:30:00-04:00",
-  "instagram": "2026-10-27T13:00:00-04:00"
- },
+ "start": 435.2,
+ "end": 452.8,
+ "hook": "Across the map, another team wasn't so lucky",
+ "caption": "The narrator says this team is speaking in another language to throw off other teams.",
+ "style": 3,
+ "required_tags": ["#MW4", "#MW4partner"],
+ "tiktok_caption": "Modern Warfare 4: after an escape, the narrator says another team across the map wasn't so lucky, and that this team is also speaking in another language to throw off other teams. #MW4 #MW4partner",
+ "instagram_caption": "Modern Warfare 4: a player moves through a building while the narrator explains her team is speaking in another language to throw off other teams. The subtitle reads \"I'm moving very gently.\" #MW4 #MW4partner",
+ "schedule": {"tiktok": "2026-11-03T19:00:00-05:00", "instagram": "2026-11-03T19:30:00-05:00"},
  "footage": "campaign-supplied",
- "search_phrase": "mw4 edits",
- "shock": "no",
- "shock_note": "Setup/explainer montage; no surprising or concerning premise.",
- "pattern": "test (edits batch): source-native intro montage, 31.8 s, no gameplay for the first ~6 s; phrase test 'mw4 edits'",
- "notes": "Source 0.0-31.8 s, the video's own opening montage (set b-roll, $1,000,000 sign, teams dropped on the map, helicopter) under narration ending at 'leaves with their money'. 'Modern Warfare 4' is only spoken at 31.8 s, so it is NOT claimed. Hook describes the first 3 s (night camp, soldiers; narration opens 'Jeez, 10 teams!'); the $1,000,000 sign only appears at ~4 s, so it is left out of the hook (first version said $1,000,000 and was changed). Schedule is a proposal (Tue 10-27 12:30 PM ET TikTok, 1:00 PM IG); Morpheus can move it. Weekday-noon slot differs from the 7 PM slots of other MW4 clips: confounder. Not submitted to Vyro."
+ "search_phrase": "Modern Warfare 4",
+ "shock": "yes",
+ "shock_note": "Narrator at 446.4-450.2 s (word-timed re-transcription, small.en): 'This team is also speaking in another language to throw off other teams.' The language is never named in the narration or the on-screen text; subtitle 'I'm moving very gently / let me just take a look' appears ~450-453 s. No violence or elimination is shown or implied.",
+ "pattern": "test (batch 5): shock-yes premise (narrator-stated language switch), no money overlay, 17.6 s; second instance of the mw4-08 premise",
+ "notes": "shock=yes; phrase=Modern Warfare 4; Source 435.2-452.8 s (audio re-transcribed with word timestamps: 'We escaped with our lives' starts 435.2; 'another team wasn't so lucky' 438.3-440.2; language line 446.4-450.2; cut at the 452.7-452.9 gap). KNOWN DEVIATION from Morpheus's brief: the language line plays over ~3 s of studio cutaway (about 447-450 s: MrDaft, GamerGyal in the dark room), the narrator and the subtitle are on screen only across those seconds. The first 3 s show a road, then an aerial map, while the narrator says 'we escaped with our lives, but across the map'. Hook is the narrator's line (spoken 3.1-5.0 s). Confounders vs mw4-08: carries the search phrase, different moment, slot and age, thinner payoff, studio cutaway. Proposed slot Tue 11-03 7 PM ET TikTok / 7:30 PM IG (weekday evening, no collision; Sat 10-31 7 PM is free but Halloween). Not submitted to Vyro."
 }

@@ -30,3 +30,6 @@ No evidence yet. Rule: do not generalize from fewer than ~10 posts per pattern.
 
 ## Spec tags for every new clip (2026-10-26)
 Each new spec carries `search_phrase` (or null) and `shock: yes/no` (+ optional `shock_note` stating the exact footage basis). Shock = a surprising or mildly concerning premise stated in the clip's own words or action; mild or implied shock is logged "no" with a note, never upgraded. Hook and caption describe only what the footage shows. Record both tags in results.csv `notes` as `shock=..; phrase=..` so views can be split by shock vs funny vs length vs slot. mw4-08 live caption stays untouched. Existing specs (mw4-01..13) are not retagged unless Morpheus asks; Scout's search-fit.md holds their shock reads.
+
+## Edits batch (2026-10-26): CANCELLED
+mw4-14 (intro montage) and mw4-15 (composed edit A) were rendered, then cancelled by Morpheus because search-fit.md rules out "edit" phrases for this footage. Renders, specs, kits and jobs deleted; nothing was hosted or scheduled; no data exists. Multi-segment support in clip_job.py was reverted; the held version and its tests are in outbox/held-multisegment/ for Morpheus to keep or drop.

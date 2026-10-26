@@ -212,3 +212,60 @@ Posting suggestion (evidence: thin, n=1): for a clean read, test the new clips i
 - mw4-12 RENDERED (new premise, found by transcript pass with small.en): 44.5-60.3 s, "Losing would waste all those childhood CoD hours". The car bit (1062-1096) was not used.
 - mw4-13 RENDERED (control): 1303-1340 s.
 - Other funny moment noted, not rendered: 725-735 s "Did you guys eliminate me? ... I'm so sorry, Mr. B" (who eliminated whom unconfirmed; ends where mw4-10 starts).
+
+
+---
+
+# New-moment pass (2026-10-26, scan only: no renders, specs or posting)
+
+Windows scanned: 197-257, 330-376, 421-519, 561-720, 836-933, 1132-1232 s of `mrbeast-mw4-source.mp4`. Method: transcript text plus contact sheets every 1.5-2 s (frames read, audio NOT listened to; whisper timings in long segments are loose). Skipped on purpose: rank 8 (mw4-13 covers it), rank 11 (held, tag owner unconfirmed, 354-421), the extended intro (held), 585-600 (brand praise). Scores H S P E R (R5 = lowest risk).
+Used ranges so far for overlap: 44.5-60.3, 101.7-144.9, 169.4-192, 519.6-561.5, 735.55-752, 797.1-836.4, 933.7-1016.7, 1096-1132.6, 1303-1340, 1406.6-1484. No overlap with any pick below.
+
+| Rank | Source range | Len | Scores | Total | Modern Warfare 4 fit | Shock | Funny | Suggested slot |
+|---|---|---|---|---|---|---|---|---|
+| A | 435.2-453.0 | 17.8 s | H4 S4 P3 E4 R3 | 18 | honest (gameplay) | yes (narrator-stated) | mild | Sun 7 PM style slot, but a new day for a clean read |
+| B | 1134.5-1167.7 | 33.2 s | H4 S3 P3 E4 R4 | 18 | honest (gameplay) | mild | no | weekday 7 PM |
+| C | 476.0-500.0 (timing approx.) | 24 s | H3 S3 P3 E4 R4 | 17 | honest (gameplay) | mild | no | weekday 12:30 PM |
+| D | 601.0-624.0 | 23 s | H3 S3 P3 E4 R3 | 16 | honest (gameplay) | mild | no | weekend noon |
+| E | 1188.1-1210.0 | 21.9 s | H3 S3 P2 E4 R4 | 16 | honest (gameplay, $300,000 counter) | no | no | weekday 7 PM |
+
+Real count: 5 are usable; only A is clearly stronger than the others, and none of them has a funny premise as clean as mw4-08's. B-E are a step down. Do not treat the list as five equally strong clips.
+
+## A. "Another team wasn't so lucky": a second team switches language (435.2-453.0)
+- Transcript: 435.2 "We escaped with our lives, but across the map," -> 438.2 "another team wasn't so lucky." -> 446.5 "This team is also speaking in another language to throw off other teams."
+- Frames: MrDaft, PrincessUnicorn and GamerGyal facecams; a team sneaking into a building with on-screen subtitles ("I'm moving very gently", "let's see if I can get in through their windows"). Subtitles make it readable on mute.
+- Why it works: same premise family as mw4-08 (the live n=1 signal), stated by the narrator, not by me. The language is NOT named in the transcript, so no language is claimed.
+- Risk: the premise can be read as being about a language; keep the hook to the narrator's words. Payoff is thin (they sneak in; the result is not in the window). Cut ends at 453.0 because 453-465 is garbled speech.
+- Hook idea: "This team is speaking another language" (6 words, matches the narrator line; first 3 s show the escape line and a facecam, so keep the hook's first appearance after the setup or use "Across the map, another team wasn't so lucky" instead).
+- Search phrase: "Modern Warfare 4" (honest). Shock: yes, basis = narrator line at 446.5.
+
+## B. "Do not backstab us!": a temporary alliance goes after a target (1134.5-1167.7)
+- Transcript: 1134.5 "...we're gonna help you get this tank, do not backstab us!" -> 1141.2 narrator "Now with a temporary alliance, these two teams set out to fight a team..." -> 1152 "The tag is moving. Let's go get these guys... we have ten minutes to get out" -> 1161 "Right front right front... I'm driving, you shoot".
+- Frames: Fatboy, TimTheTatman, BreakfastBoo and Realistik in vehicles chasing a white van across a road, aerial map pings.
+- Why: continues the alliance theme of mw4-06 (studio talk) with real action. Payoff open (the kill is at ~1178-1181, which would push the clip past 45 s).
+- Risk: two alliance clips in one account can look repeated; mw4-06 is rendered (not posted on TikTok/IG). Check mw4-06 is not scheduled before using this.
+- Search phrase: "Modern Warfare 4". Shock: mild (backstab warning is the premise, but nothing shown beyond the chase).
+
+## C. Eliminated, then the chase moves to the water (476.0-500.0, timing approximate)
+- Frames: Smirky's POV takes damage and goes to "SPECTATING" (~478-484); cut to Smirky in the studio; GamerGyal and MrDaft with subtitles "They're in the water. Let's go after them"; MrDaft in an inflatable boat under a bridge. Narrator line near 485-504: "Three teams have been eliminated with only 20 minutes until the final helicopter would arrive."
+- Why: a clear visual story (elimination, then a boat chase). Weak spot: the transcript for 473-485 is garbled ("Blind"), the 485-504 segment is a single loose 19 s block, so cut points must be checked by ear before rendering. Do not name who is eliminated beyond what the facecam labels show.
+- Search phrase: "Modern Warfare 4". Shock: mild.
+
+## D. A buggy on the road, then someone is spectating (601.0-624.0)
+- Transcript: 600.1 "Call of Duty wait is this a player?" -> 602 "It's a person." -> 606 "Mr. B! Get up!... they're about to kill me, I gotta go" -> 619 "I'm dead, I'm dead".
+- Frames: MrBeast's buggy on a forest road, Fatboy facecam goes red with "SPECTATING" ~621; Tim and Nolan POVs; small pop-up cards in the top corner of the first frames (cannot read them; check for third-party channel names before rendering).
+- Risk: speaker of each line is unconfirmed (do not name anyone). Start after 600.1 so the cut does not open on the brand-praise line (585-600). Mild hook: "Wait, is that a player?" (spoken at 600.1).
+- Search phrase: "Modern Warfare 4". Shock: mild.
+
+## E. "It's not done yet": a lead the team is not sure about (1188.1-1210.0)
+- Transcript: 1188.1 "I'm gonna feel like Tim and Fatboy gonna win" -> 1194 "Tag, let's go" -> 1200 "Yo, we got this... this could go so smooth and we can all walk rich" -> 1207 "Listen, it's not done yet."
+- Frames: studio counter $300,000 and the DMZ roster board, then Fatboy and Tim POVs in a building.
+- Why it is last: payoff open, similar in shape to mw4-02; the $300,000 counter helps readability.
+- Search phrase: "Modern Warfare 4". Shock: no.
+
+## Rejected in this pass
+- 845-868 (roof "we can kill them"): callouts without a clear payoff; Tim/Fatboy/Majd/Tared facecams swap constantly, so the premise is not readable on mute.
+- 880-905 ("they shot me down"): unclear who is speaking; jump/parachute visuals do not match the lines.
+- 644-672 ("pick up the winners"): good line at 657.9, but the setup is a timer and driving; thin.
+- 198-211 (alliance narration): too short and overlaps mw4-06's theme; 223-257 ("Anyone alone? Hello!"): house clearing with no readable payoff.
+- 354-377 ("sprung a trap"): rank 11 territory, held.

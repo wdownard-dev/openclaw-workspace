@@ -10,13 +10,11 @@ Usage:
   clip_job.py SPEC.json --approve CHECKS      Morpheus's review gate (see below); required before host/schedule
 
 Spec (JSON), see specs/example.json:
-  id, campaign, source (absolute mp4), start, end (seconds in source) OR segments (list of [start, end] pairs, cut and
-  concatenated in the order given; start/end are then ignored), hook, caption, style (1-3),
+  id, campaign, source (absolute mp4), start, end (seconds in source), hook, caption, style (1-3),
   required_tags (list, e.g. ["#MW4","#MW4partner"]), tiktok_caption, instagram_caption,
   schedule: {"tiktok": "2026-10-24T12:30-04:00", "instagram": "..."}  (ISO with offset),
   footage: "campaign-supplied" | {"streamer": "Name"}  (streamers must be `approved` in permissions.md),
-  notes (optional), pattern ("default" or "test: <what varies>"), search_phrase (string or null), shock ("yes"/"no"),
-  shock_note, allow_overlap_with (list of spec ids whose source ranges this composed edit may deliberately reuse).
+  notes (optional), pattern ("default" or "test: <what varies>").
 
 Review gate (William, 2026-10-23: Morpheus approves clips; William gets a summary): hosting and scheduling refuse until
 `--approve hook,truth,rules,safety,audio` has been recorded in jobs/<id>/review.json by the reviewer after actually viewing
@@ -44,47 +42,6 @@ REVIEW_CHECKS = ["hook", "truth", "rules", "safety", "audio"]
 CLOUD, PRESET = "e5wsi8wu", "clips_unsigned"
 CHANNELS = {"tiktok": "6adbec46778b240e2fa670dd", "instagram": "6adbea4e778b240e2fa63f1c"}
 sys.path.insert(0, HERE)
-
-
-def ranges(spec):
-    """Source ranges of a spec as [(start, end)], in playback order. `segments` wins over start/end."""
-    if spec.get("segments"):
-        return [(float(a), float(b)) for a, b in spec["segments"]]
-    return [(float(spec["start"]), float(spec["end"]))]
-
-
-def total_length(spec):
-    return sum(b - a for a, b in ranges(spec))
-
-
-def cut_ranges(source, rngs, out, ffmpeg=FFMPEG):
-    """Cut one or more source ranges into `out`. One range: identical to the original single cut (re-encode, 0.4 s
-    audio fade-out). Several: each part is cut with the same encode settings (0.15 s audio fades inside, 0.4 s on the
-    last), then the parts are joined in order with the concat demuxer."""
-    enc = ["-c:v", "libx264", "-preset", "fast", "-crf", "18", "-c:a", "aac", "-b:a", "192k"]
-
-    def part(a, b, fade, dest):
-        ln = b - a
-        subprocess.run([ffmpeg, "-y", "-loglevel", "error", "-ss", str(a), "-t", str(ln), "-i", source,
-                        "-af", f"afade=t=out:st={ln - fade:.2f}:d={fade}", *enc, dest],
-                       check=True, capture_output=True, text=True)
-
-    if len(rngs) == 1:
-        part(rngs[0][0], rngs[0][1], 0.4, out)
-        return
-    base = os.path.splitext(out)[0]
-    parts = []
-    for i, (a, b) in enumerate(rngs):
-        dest = f"{base}.part{i}.mp4"
-        part(a, b, 0.4 if i == len(rngs) - 1 else 0.15, dest)
-        parts.append(dest)
-    lst = f"{base}.parts.txt"
-    with open(lst, "w") as f:
-        f.write("".join(f"file '{p}'\n" for p in parts))
-    subprocess.run([ffmpeg, "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", lst, "-c", "copy", out],
-                   check=True, capture_output=True, text=True)
-    for p in parts + [lst]:
-        os.remove(p)
 
 
 def run(cmd, **kw):
@@ -126,19 +83,12 @@ def save_state(d, st):
 
 def lint(spec, allow_question):
     errs = []
-    for k in ("id", "campaign", "source", "hook", "caption", "required_tags", "tiktok_caption",
+    for k in ("id", "campaign", "source", "start", "end", "hook", "caption", "required_tags", "tiktok_caption",
               "instagram_caption", "schedule", "footage"):
         if k not in spec:
             errs.append(f"spec missing '{k}'")
-    if not spec.get("segments") and not ("start" in spec and "end" in spec):
-        errs.append("spec needs 'start' and 'end', or 'segments'")
     if errs:
         return errs
-    for a, b in ranges(spec):
-        if b <= a:
-            errs.append(f"range {a}-{b} is empty or reversed")
-    if spec.get("segments") and len(spec["segments"]) < 2:
-        errs.append("'segments' needs at least 2 ranges (use start/end for one)")
     if not os.path.exists(spec["source"]):
         errs.append(f"source not found: {spec['source']}")
     n = len(spec["hook"].split())
@@ -146,8 +96,8 @@ def lint(spec, allow_question):
         errs.append(f"hook has {n} words (rule: 3-8)")
     if spec["hook"].strip().endswith("?") and not allow_question:
         errs.append("hook ends with '?': pass --allow-question-hook if it describes a dilemma, not asks for engagement")
-    if not 15 <= total_length(spec) <= 59:
-        errs.append(f"clip length {total_length(spec):.1f}s outside 15-59s")
+    if not 15 <= spec["end"] - spec["start"] <= 59:
+        errs.append(f"clip length {spec['end'] - spec['start']:.1f}s outside 15-59s")
     req = {t.lower() for t in spec["required_tags"]}
     for k in ("tiktok_caption", "instagram_caption"):
         tags = {t.lower() for t in re.findall(r"#\w+", spec[k])}
@@ -237,12 +187,8 @@ def main():
             sys.exit("REFUSED: render first (--until verify) so there is something to review")
         for other in sorted(glob.glob(os.path.join(ROOT, "specs", "*.json"))):
             o = json.load(open(other))
-            if o["id"] == cid or o.get("source") != spec["source"] or o["id"] in spec.get("allow_overlap_with", []):
-                continue
-            for a, b in ranges(spec):
-                for oa, ob in ranges(o):
-                    if oa < b and a < ob:
-                        sys.exit(f"REFUSED: source range {a}-{b} s overlaps {o['id']} ({oa}-{ob} s)")
+            if o["id"] != cid and o.get("source") == spec["source"] and o["start"] < spec["end"] and spec["start"] < o["end"]:
+                sys.exit(f"REFUSED: source range overlaps {o['id']} ({o['start']}-{o['end']} s)")
         json.dump({"approved": True, "reviewer": a.reviewer, "checks": sorted(got), "note": a.note,
                    "at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
                    "short_sha": hashlib.sha256(open(os.path.join(d, f"{cid}.mp4"), "rb").read()).hexdigest()},
@@ -277,7 +223,10 @@ def main():
                   "log": "append results.csv rows and buffer-posts.json"}[stage])
             continue
         if stage == "cut":
-            cut_ranges(spec["source"], ranges(spec), cut)
+            ln = spec["end"] - spec["start"]
+            run([FFMPEG, "-y", "-loglevel", "error", "-ss", str(spec["start"]), "-t", str(ln), "-i", spec["source"],
+                 "-af", f"afade=t=out:st={ln - 0.4:.2f}:d=0.4", "-c:v", "libx264", "-preset", "fast", "-crf", "18",
+                 "-c:a", "aac", "-b:a", "192k", cut])
         elif stage == "format":
             run([sys.executable, os.path.join(HERE, "format_short.py"), cut, short, "--hook", spec["hook"],
                  "--caption", spec["caption"], "--style", str(spec.get("style", 1))])
