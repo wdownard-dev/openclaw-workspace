@@ -1,0 +1,17 @@
+{
+ "id": "mw4-13",
+ "campaign": "mrbeast-gaming-mw4",
+ "source": "/home/williamdownard/openclaw-sites/clips-work/mrbeast-mw4-source.mp4",
+ "start": 1303.0,
+ "end": 1340.0,
+ "hook": "A million dollars in a couple minutes",
+ "caption": "The last teams close in on the extraction point with a million dollars in play.",
+ "style": 2,
+ "required_tags": ["#MW4", "#MW4partner"],
+ "tiktok_caption": "Two teams collide near the final extraction point while a million dollars is still on the table. #MW4 #MW4partner",
+ "instagram_caption": "The last teams converge on the extraction point, and a million dollars could change hands in the next few minutes. #MW4 #MW4partner",
+ "schedule": {"tiktok": "2026-11-02T19:00:00-05:00", "instagram": "2026-11-02T19:30:00-05:00"},
+ "footage": "campaign-supplied",
+ "pattern": "CONTROL (batch 4): default pattern, money overlay, 37 s fight build-up",
+ "notes": "Source 1303-1340 s, rank 8. Narrator: 'You can literally win a million dollars in the next couple minutes. How bad do you want it?' then sniping callouts. Payoff is thin (ends mid-fight), accepted as control. $1,000,000 overlay appears at ~1305 s (2 s in)."
+}

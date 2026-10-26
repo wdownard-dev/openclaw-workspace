@@ -20,13 +20,13 @@
   "error": ""
  },
  "mw4-08-tiktok": {
-  "status": "scheduled",
-  "link": "",
+  "status": "sent",
+  "link": "https://tiktok.com/@rvclips6/video/7700744342280965390",
   "error": ""
  },
  "mw4-08-instagram": {
-  "status": "scheduled",
-  "link": "",
+  "status": "sent",
+  "link": "https://www.instagram.com/reel/De71wqjKDTa/",
   "error": ""
  },
  "tdr-01-tiktok": {
@@ -85,6 +85,26 @@
   "error": ""
  },
  "tdr-04-instagram": {
+  "status": "scheduled",
+  "link": "",
+  "error": ""
+ },
+ "mw4-13-tiktok": {
+  "status": "scheduled",
+  "link": "",
+  "error": ""
+ },
+ "mw4-13-instagram": {
+  "status": "scheduled",
+  "link": "",
+  "error": ""
+ },
+ "mw4-12-tiktok": {
+  "status": "scheduled",
+  "link": "",
+  "error": ""
+ },
+ "mw4-12-instagram": {
   "status": "scheduled",
   "link": "",
   "error": ""

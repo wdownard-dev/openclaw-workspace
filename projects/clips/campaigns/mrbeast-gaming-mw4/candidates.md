@@ -190,3 +190,25 @@ Left over for later: #8 (1297-1340 million-dollar stakes, thin payoff), #9 expla
 
 ## Recommended posting windows (evidence: none)
 - TikTok and Instagram Reels: weekday 6-9 PM ET, plus 12-1 PM. mw4-09 Wed 10-28 7:00 PM TikTok / 7:30 PM Reels; mw4-10 Fri 10-30 7:00 PM / 7:30 PM. Same window for both on purpose; the day differs (Wed vs Fri), which is the one confounder left.
+
+
+---
+
+# Batch 4 plan (2026-10-25): repeat the mw4-08 style (not rendered yet, awaiting Morpheus go-ahead)
+
+Reason: mw4-08 reached 8,041 TikTok views in ~2.75 h vs 751 (mw4-07) and 122 (mw4-01) (manual readings, see playbook). Hypothesis: funny/specific premise + ~20-25 s + no money overlay. Used ranges so far: 62-90 not used; used 101.7-144.9, 169.4-192.0, 519.6-561.5, 735.55-752.0, 797.1-836.4, 933.7-972.6, 972.6-1016.7, 1096.0-1132.6, 1406.6-1438.0, 1449.5-1484.0.
+
+| id | source | length | pattern | role | status |
+|---|---|---|---|---|---|
+| mw4-11 | ~1232.0-1256.0 s ("Is that a person?... Help me! ... I don't have a team!") | ~24 s | funny premise, no money overlay | TEST (repeat of mw4-08 style) | Frames show MissRockLee/Stiner POVs on open ground; the joke is audio-only, so the hook must say "A lone player begs to join a team" only after I confirm the speaker/scene from frames (whisper cannot say who). R3. |
+| mw4-12 | needs a new transcript pass: look at 700-720 and 1060-1100 s for another one-idea human moment (e.g. the "don't say anything the whole time" car bit) | 20-25 s | funny premise, no money overlay | TEST | Not confirmed; 1062-1096 frames show Tim/MrDaft at a truck and studio cutaways, payoff unclear. Rejected unless a clear punchline shows up. |
+| mw4-13 | rank 1-4 leftover, e.g. rank 8 "A million dollars in the next couple of minutes" (1297-1340) or a fresh fight with $ overlay | 35-40 s | default pattern | CONTROL | Cut to default length so length and pattern differ from the tests exactly as before. |
+
+Selection weight change (cheap to reverse): add +1 to H for a premise that is understandable from the first on-screen text and facecam alone; do NOT raise score for "short" by itself. Evidence level: thin (n=1).
+Posting suggestion (evidence: thin, n=1): for a clean read, test the new clips in the same Sunday 7 PM ET TikTok slot (Sun 11-01) and weekday 7 PM, not all in one slot.
+
+## Batch 4 outcome (2026-10-25)
+- mw4-11 HELD: speaker of "I don't have a team!" (1245 s) cannot be confirmed; facecams show MissRockLee/Stiner/SnowbikeMike POVs, the speaker is off-screen.
+- mw4-12 RENDERED (new premise, found by transcript pass with small.en): 44.5-60.3 s, "Losing would waste all those childhood CoD hours". The car bit (1062-1096) was not used.
+- mw4-13 RENDERED (control): 1303-1340 s.
+- Other funny moment noted, not rendered: 725-735 s "Did you guys eliminate me? ... I'm so sorry, Mr. B" (who eliminated whom unconfirmed; ends where mw4-10 starts).
