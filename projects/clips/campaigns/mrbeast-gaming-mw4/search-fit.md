@@ -42,5 +42,20 @@ Recommendation: render 2 new gameplay clips (rank 8 plus one more from the trans
 - mw4-09/10/12/13 carry the phrase; mw4-01/07/08 (and mw4-02/03/04 on YouTube) do not. Any comparison mixes caption change with clip, slot and age (already noted in content-gaps.md).
 - mw4-10 and mw4-12 are not gameplay; a phrase-match result for them is weaker evidence than for 09/13.
 
+## Shock note (added 2026-10-26, per Morpheus/William; hypothesis, n=1)
+Shock = a premise in the footage that is surprising or slightly alarming in its own words or action (secret plan, unexpected language, "wait, what?" line). Scored only from what the transcript and frames show. Separate from funny, length and slot.
+
+| Clip | Shock | Honest basis |
+|---|---|---|
+| mw4-08 (Arabic proximity chat) | yes | Players switch to Arabic to hide their plan from proximity chat. The premise is the surprise. Live; do not edit. |
+| mw4-06 (alliance, backstab) | mild | Narrator warns nothing stops either side backstabbing before extraction. Real tension, no violence shown beyond the talk. |
+| mw4-11 (lone player, HELD) | mild | "I don't have a team!" reads as a plea, but the speaker is not confirmed. Not rendered. |
+| rank 11 (lieutenant tag "trap", not rendered) | mild | A planned trap is a secret plan, but whose tag is stolen is unclear. Would need confirmation before a hook. |
+| mw4-03 (walked in on another team) | mild | A team is already inside the house: a surprise beat, normal game event. |
+| mw4-04, mw4-07, mw4-10 | mild | Stakes or elimination lines ("no one gets in", "holding this makes you a target", "lose a third of a million"). Surprise is in the stakes, not a hidden premise. |
+| mw4-01, 02, 05, 09, 12, 13 | no | Outcome or payoff clips; no surprising premise. mw4-05 says "North Korea" as a map reference only; not a shock beat, and the phrase is banned from hooks. |
+
+Next batch: the only clearly shock-yes candidate is mw4-08 (already posted), so a shock test needs new footage. Do not use mild as a shock signal in the same batch as a clear premise; log it as mild.
+
 ## Snapshot caveat
 Search popularity and growth are one screenshot set (2026-10-26). Re-check before each batch; the list changes daily. TDR: no matching gap, nothing to fit.

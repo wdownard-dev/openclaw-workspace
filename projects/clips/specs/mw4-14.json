@@ -1,0 +1,26 @@
+{
+ "id": "mw4-14",
+ "campaign": "mrbeast-gaming-mw4",
+ "source": "/home/williamdownard/openclaw-sites/clips-work/mrbeast-mw4-source.mp4",
+ "start": 0.0,
+ "end": 31.8,
+ "hook": "MW4 edit: a night camp, ten teams",
+ "caption": "MW4 edit of the video's opening: a night camp, ten teams, one extraction helicopter.",
+ "style": 2,
+ "required_tags": [
+  "#MW4",
+  "#MW4partner"
+ ],
+ "tiktok_caption": "MW4 edit of the opening minute: a night camp built for a $1,000,000 prize, ten teams dropped on one map, and a helicopter that only takes the ones who make it. #MW4 #MW4partner",
+ "instagram_caption": "MW4 edit: the video's own opening montage, from the camp and the $1,000,000 sign to ten teams, a 40-minute clock and the extraction helicopter. #MW4 #MW4partner",
+ "schedule": {
+  "tiktok": "2026-10-27T12:30:00-04:00",
+  "instagram": "2026-10-27T13:00:00-04:00"
+ },
+ "footage": "campaign-supplied",
+ "search_phrase": "mw4 edits",
+ "shock": "no",
+ "shock_note": "Setup/explainer montage; no surprising or concerning premise.",
+ "pattern": "test (edits batch): source-native intro montage, 31.8 s, no gameplay for the first ~6 s; phrase test 'mw4 edits'",
+ "notes": "Source 0.0-31.8 s, the video's own opening montage (set b-roll, $1,000,000 sign, teams dropped on the map, helicopter) under narration ending at 'leaves with their money'. 'Modern Warfare 4' is only spoken at 31.8 s, so it is NOT claimed. Hook describes the first 3 s (night camp, soldiers; narration opens 'Jeez, 10 teams!'); the $1,000,000 sign only appears at ~4 s, so it is left out of the hook (first version said $1,000,000 and was changed). Schedule is a proposal (Tue 10-27 12:30 PM ET TikTok, 1:00 PM IG); Morpheus can move it. Weekday-noon slot differs from the 7 PM slots of other MW4 clips: confounder. Not submitted to Vyro."
+}
