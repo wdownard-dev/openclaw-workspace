@@ -7,11 +7,17 @@
  "hook": "A million dollars in a couple minutes",
  "caption": "The last teams close in on the extraction point with a million dollars in play.",
  "style": 2,
- "required_tags": ["#MW4", "#MW4partner"],
+ "required_tags": [
+  "#MW4",
+  "#MW4partner"
+ ],
  "tiktok_caption": "Modern Warfare 4: two teams collide near the final extraction point while a million dollars is still on the table. #MW4 #MW4partner",
  "instagram_caption": "Modern Warfare 4: the last teams converge on the extraction point, and a million dollars could change hands in the next few minutes. #MW4 #MW4partner",
- "schedule": {"tiktok": "2026-11-02T19:00:00-05:00", "instagram": "2026-11-02T19:30:00-05:00"},
+ "schedule": {
+  "tiktok": "2026-10-28T12:30:00-04:00",
+  "instagram": "2026-10-28T13:00:00-04:00"
+ },
  "footage": "campaign-supplied",
  "pattern": "CONTROL (batch 4): default pattern, money overlay, 37 s fight build-up",
- "notes": "Source 1303-1340 s, rank 8. Narrator: 'You can literally win a million dollars in the next couple minutes. How bad do you want it?' then sniping callouts. Payoff is thin (ends mid-fight), accepted as control. $1,000,000 overlay appears at ~1305 s (2 s in)."
+ "notes": "Source 1303-1340 s, rank 8. Narrator: 'You can literally win a million dollars in the next couple minutes. How bad do you want it?' then sniping callouts. Payoff is thin (ends mid-fight), accepted as control. $1,000,000 overlay appears at ~1305 s (2 s in). | Rescheduled by Morpheus 2026-10-26 to 2026-10-28 12:30 PM/1:00 PM ET (was 7 PM slot) because MW4 budget burns ~8-15 pts/day; time-of-day is now a confounder."
 }

@@ -17,5 +17,29 @@
   "link": "https://tiktok.com/@rvclips6/video/7700744342280965390",
   "status": "blocked",
   "note": "2026-10-25 ~9:55 PM ET William said 'release the hold and submit it'. Vyro refused at the Submit post button: 'Wait before posting again - since you're new here, you'll need to wait for one of your posts to be approved before you can submit another.' (MW4: 3 pending, 0 approved). Platform rule, not our hold; nothing was submitted. Retry as soon as any MW4 post is approved. Views before submission do not count toward payout. MW4 budget paid out 46% (was 38% at 08:17 ET), 11d left."
+ },
+ "tdr-01-tiktok": {
+  "campaign": "Total Drama Roblox",
+  "link": "https://tiktok.com/@rvclips6/video/7701115717906746637",
+  "status": "submitted",
+  "note": "2026-10-26 ~9:30 PM ET submitted by Morpheus; Vyro checks passed (disclosure, length, hashtags). TDR submissions then 1 (TikTok). TDR is not blocked by the new-account rule (nothing pending there before)."
+ },
+ "tdr-01-instagram": {
+  "campaign": "Total Drama Roblox",
+  "link": "https://www.instagram.com/reel/De-d5OrBYiG/",
+  "status": "submitted",
+  "note": "2026-10-26 ~9:35 PM ET submitted by Morpheus on second attempt (first attempt hung on 'Verifying submission', nothing sent). All checks passed. TDR submissions then 2 (TikTok + Instagram), 0 approved."
+ },
+ "mw4-16-tiktok": {
+  "campaign": "Call of Duty: Modern Warfare 4",
+  "link": "https://tiktok.com/@rvclips6/video/7701014835135352078",
+  "status": "blocked",
+  "note": "2026-10-26 ~9:50 PM ET Vyro refused at Submit post: 'Wait before posting again - since you're new here, you'll need to wait for one of your posts to be approved'. MW4: 3 pending, 0 approved. All 4 checks passed. Nothing submitted. Retry when any MW4 post is approved. Views before submission do not count toward payout. Instagram link not attempted (same block)."
+ },
+ "mw4-16-instagram": {
+  "campaign": "Call of Duty: Modern Warfare 4",
+  "link": "https://www.instagram.com/reel/De9xXs6NO4z/",
+  "status": "blocked",
+  "note": "2026-10-26 ~9:50 PM ET Vyro refused at Submit post: 'Wait before posting again - since you're new here, you'll need to wait for one of your posts to be approved'. MW4: 3 pending, 0 approved. All 4 checks passed. Nothing submitted. Retry when any MW4 post is approved. Views before submission do not count toward payout. Instagram link not attempted (same block)."
  }
 }
