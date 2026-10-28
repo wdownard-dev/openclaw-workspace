@@ -1,7 +1,7 @@
 {
  "mw4-01-tiktok": {
   "status": "sent",
-  "link": "https://tiktok.com/@rvclips6/video/7700032805165632782",
+  "link": "https://www.tiktok.com/@rvclips6/video/7700032805165632782?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
   "error": ""
  },
  "mw4-01-instagram": {
@@ -11,7 +11,7 @@
  },
  "mw4-07-tiktok": {
   "status": "sent",
-  "link": "https://tiktok.com/@rvclips6/video/7700296053383384333",
+  "link": "https://www.tiktok.com/@rvclips6/video/7700296053383384333?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
   "error": ""
  },
  "mw4-07-instagram": {
@@ -21,7 +21,7 @@
  },
  "mw4-08-tiktok": {
   "status": "sent",
-  "link": "https://tiktok.com/@rvclips6/video/7700744342280965390",
+  "link": "https://www.tiktok.com/@rvclips6/video/7700744342280965390?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
   "error": ""
  },
  "mw4-08-instagram": {
@@ -31,7 +31,7 @@
  },
  "tdr-01-tiktok": {
   "status": "sent",
-  "link": "https://tiktok.com/@rvclips6/video/7701115717906746637",
+  "link": "https://www.tiktok.com/@rvclips6/video/7701115717906746637?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
   "error": ""
  },
  "tdr-01-instagram": {
@@ -40,13 +40,13 @@
   "error": ""
  },
  "tdr-02-tiktok": {
-  "status": "scheduled",
-  "link": "",
+  "status": "sent",
+  "link": "https://www.tiktok.com/@rvclips6/video/7701486753688915214?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
   "error": ""
  },
  "tdr-02-instagram": {
-  "status": "scheduled",
-  "link": "",
+  "status": "sent",
+  "link": "https://www.instagram.com/reel/DfBCtIUsKWS/",
   "error": ""
  },
  "mw4-09-tiktok": {
@@ -100,18 +100,18 @@
   "error": ""
  },
  "mw4-12-tiktok": {
-  "status": "scheduled",
-  "link": "",
+  "status": "sent",
+  "link": "https://www.tiktok.com/@rvclips6/video/7701386171678493966?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
   "error": ""
  },
  "mw4-12-instagram": {
-  "status": "scheduled",
-  "link": "",
+  "status": "sent",
+  "link": "https://www.instagram.com/reel/DfAWbn-g-Y-/",
   "error": ""
  },
  "mw4-16-tiktok": {
   "status": "sent",
-  "link": "https://tiktok.com/@rvclips6/video/7701014835135352078",
+  "link": "https://www.tiktok.com/@rvclips6/video/7701014835135352078?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
   "error": ""
  },
  "mw4-16-instagram": {

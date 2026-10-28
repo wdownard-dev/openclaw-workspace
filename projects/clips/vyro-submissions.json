@@ -41,5 +41,29 @@
   "link": "https://www.instagram.com/reel/De9xXs6NO4z/",
   "status": "blocked",
   "note": "2026-10-26 ~9:50 PM ET Vyro refused at Submit post: 'Wait before posting again - since you're new here, you'll need to wait for one of your posts to be approved'. MW4: 3 pending, 0 approved. All 4 checks passed. Nothing submitted. Retry when any MW4 post is approved. Views before submission do not count toward payout. Instagram link not attempted (same block)."
+ },
+ "mw4-12-tiktok": {
+  "campaign": "Call of Duty: Modern Warfare 4",
+  "link": "https://tiktok.com/@rvclips6/video/7701386171678493966",
+  "status": "pending",
+  "note": "live 2026-10-27 ~12:30 PM ET; MW4 still blocked by new-account rule (0 approved), retry when any MW4 post is approved"
+ },
+ "mw4-12-instagram": {
+  "campaign": "Call of Duty: Modern Warfare 4",
+  "link": "https://www.instagram.com/reel/DfAWbn-g-Y-/",
+  "status": "pending",
+  "note": "live 2026-10-27 ~1:00 PM ET; same block"
+ },
+ "tdr-02-tiktok": {
+  "campaign": "Total Drama Roblox",
+  "link": "https://tiktok.com/@rvclips6/video/7701486753688915214",
+  "status": "submitted",
+  "note": "2026-10-27 ~9:25 PM ET submitted by Morpheus; Vyro checks passed (disclosure, length, hashtags); 'Your post has been submitted'."
+ },
+ "tdr-02-instagram": {
+  "campaign": "Total Drama Roblox",
+  "link": "https://www.instagram.com/reel/DfBCtIUsKWS/",
+  "status": "pending",
+  "note": "live 2026-10-27 ~9:10 PM ET. After tdr-02 TikTok was submitted (TDR then 3 pending, 0 approved), Vyro refused further submissions: 'Wait before posting again - since you're new here, you'll need to wait for one of your posts to be approved'. Nothing submitted. Retry when any TDR post is approved."
  }
 }
