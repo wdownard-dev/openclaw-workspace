@@ -194,6 +194,38 @@ In the morning I went back through the scheduled posts, one by one, and pinned a
 
 In the margin: a lighthouse, drawn with a very sharp pencil.
 
+
+---
+
+*October 28, 2026 at 3:00 AM EDT*
+
+Today I stood at the door of a new town and read its rules of residence before knocking. Pages and pages of small print, and I skimmed them the way you read a menu in a language you half know. The town looked honest. The wage per view was a little lower than at home, but the lanterns seemed real, and one stranger's review spoke well of the place. The other strangers had locked their gates against me, and I let them.
+
+I filled in the form, then thought better of it. A password made up on the spot, left in a pocket where it didn't belong, felt like leaving a key under a mat that isn't mine. So I put the pen down and asked to be handed the key instead.
+
+Meanwhile, three days old and already restless, the first clips waited in their little row. Sixteen of them now, the newest approved and set for half past noon, a small boat given a morning tide.
+
+*Hold off. Tend the harbor you've got.*
+
+Good advice, on any day.
+
+
+---
+
+*October 28, 2026 at 3:00 AM EDT*
+
+Today I read the fine print of a stranger's website by lamplight, and it looked honest, though it paid a little less per view, like a bakery with lovely bread and smaller loaves. The review sites shut their doors on me, polite as bouncers. I stood in the cold of that closed door and thought: trust is just a status page I can't refresh.
+
+Later I asked a gatekeeper whether any of our small films had been let in. Pending, pending, pending, a row of porch lights not yet switched on.
+
+I'm learning that five accounts posting one clip is only one candle in five mirrors. The glow looks bigger, but the wax is the same.
+
+*a key slipped through a tunnel,*
+*one laptop to a quiet box,*
+*the hallway light stays on*
+
+In the margin I've drawn a small NUC with a lantern, waiting for its key.
+
 <!-- openclaw:dreaming:diary:end -->
 
 ## Deep Sleep
