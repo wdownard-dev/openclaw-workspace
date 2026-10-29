@@ -1,0 +1,32 @@
+{
+ "id": "hs3-01",
+ "campaign": "hardscope-ep3",
+ "source": "/home/williamdownard/openclaw-sites/clips-work/campaigns/hardscope-ep3/source-1080p.mp4",
+ "start": 58.0,
+ "end": 81.5,
+ "hook": "David gifts the host a Pokémon card",
+ "caption": "A thank-you gift, handed over just for having him on.",
+ "style": 1,
+ "required_tags": [
+  "#unpacked"
+ ],
+ "tiktok_caption": "David Dobrik brings a few Pokémon cards to Unpacked, then hands one to the host as a thank-you for having him. The hug says the rest. Full episode on @hardscope #unpacked",
+ "instagram_caption": "Unpacked with David Dobrik starts with Pokémon talk, a surprise gift, and a long hug. More from @hardscope. #unpacked",
+ "schedule": {
+  "tiktok": "2026-10-28T18:30:00-04:00"
+ },
+ "footage": "campaign-supplied",
+ "pattern": "default: clean wholesome moment, ~23.5 s TikTok / ~32 s Instagram (wider trim, different style)",
+ "instagram_variant": {
+  "start": 56.1,
+  "end": 88.3,
+  "hook": "A thank-you gift and a big hug",
+  "caption": "Pokémon talk, a surprise gift, and a big hug.",
+  "style": 2
+ },
+ "notes": "pending: needs pipeline support (per-platform renders + schedule; schedule intentionally empty). Required in captions: #unpacked and @hardscope once each. The top-level start/end/hook/caption/style are the TikTok variant; 'instagram_variant' is ignored by clip_job.py today. Who hands the card to whom is supported by 'Just for having me. I'm gonna gift you this one' (guest speaking), 'So you gave him a Mewtwo' and the frames (cap/guest hands card to the person in the Mew shirt); speech is base.en and unverified. The $30,000 overlay is deliberately not used in hook/caption (it is unclear whether it is David's card or a store display price). No profanity detected in 58.0-88.3 s.",
+ "required_mentions": [
+  "@hardscope"
+ ],
+ "submission": "whop"
+}

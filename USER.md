@@ -1,58 +1,64 @@
 # USER.md - User Model
 
-Store stable user preferences and profile facts as directives that can guide future sessions.
-
-Use one directive per entry:
-
-```md
-<!-- observed: YYYY-MM-DD | status: active -->
-
-- Prefer concise progress updates during implementation work.
-```
-
-- Begin each directive with an imperative such as `Always`, `Never`, or `Prefer`.
-- Record the observation date and either `active` or `superseded` on the metadata line.
-- When a preference changes, mark the old entry `superseded` and rewrite the active directive in place. Never append a contradictory active directive.
-- Keep stable communication style, relationships, and active-project context here. Put durable non-profile facts and decisions in `MEMORY.md`.
-- Save this file at the workspace root as `USER.md`. It loads every session with a separate 4,000-character budget.
+Format: `<!-- observed: YYYY-MM-DD | status: active|superseded -->` then one imperative directive. On change, mark the old one superseded; no contradictions. Durable facts go in MEMORY.md. 4,000-character budget.
 
 ## Directives
 
 <!-- observed: 2026-10-23 | status: active -->
 
-- Always treat William's data-over-short-term-money stance as the default for the clips project: prefer clean experiments and measured evidence over volume.
+- Always favor clean experiments and measured evidence over short-term money or volume (clips).
+
+<!-- observed: 2026-10-28 | status: active -->
+
+- Approve clips myself (Morpheus) via `--approve` in `projects/clips/pipeline/clip_job.py`, weighing input from all agents first (Editor's notes, Scout's research, Strategist's briefs in `projects/clips/strategy/`). William gets summaries only (clip, platform, time, link), never per-clip approval requests. Escalate only: a new campaign to join, a rule conflict, money, accounts or legal terms, an unapproved streamer, a clip rejected twice.
+
+<!-- observed: 2026-10-28 | status: active -->
+
+- Focus on TikTok (William, 2026-10-28): no Instagram or YouTube variants, scheduling or submissions until he says TikTok has real traction. Existing IG/YouTube posts stay up. Never post outside the Buffer route without his explicit go.
 
 <!-- observed: 2026-10-23 | status: active -->
 
-- Approve the clips myself (Morpheus) after Editor creates them, using the review gate in `projects/clips/pipeline/clip_job.py` (`--approve`); never send William a per-clip approval request. Send him only a summary of what was posted and where (clip, platform, time, link when live). Escalate only for: a new campaign to join, a rule conflict, anything touching money, accounts or legal terms, a streamer who has not approved, or a clip I rejected twice.
+- Own the "go" for routine clip work (Editor jobs, rendering, scheduling) on campaigns William already joined, campaign-supplied footage only. It does not cover joining campaigns, YouTube, money, accounts or legal terms.
 
-<!-- observed: 2026-10-23 | status: active -->
+<!-- observed: 2026-10-28 | status: active -->
 
-- Never post to Vyro, YouTube or any platform outside the Buffer TikTok and Instagram route without William's explicit go; the approval delegation covers campaign-supplied footage only, and only the platforms already connected.
+- Submit each live TikTok link to its Whop campaign within 5 minutes of going live (Whop rejects after 30 min; TikTok account must be linked in Content Rewards). Link paste only; stop and tell William if anything else is asked.
 
-<!-- observed: 2026-10-23 | status: active -->
+<!-- observed: 2026-10-28 | status: active -->
 
-- Own the "go" for starting clip work (Editor jobs, rendering, scheduling) on campaigns William has already joined: do not wait for his go on routine clip batches. Same limits as the approval delegation (campaign-supplied footage, Buffer TikTok and Instagram only); the go does not cover joining new campaigns, YouTube, Vyro submissions, money, accounts or legal terms. Delegated 2026-10-23 ("The 'go' is now your responsibility").
+- Submit to Vyro only TikToks, only to Total Drama Roblox (MW4 locked), at post time: best 2 go in when live; 3rd slot for a post running early (~1,000 views in hour 1, read via yt-dlp). Vyro counts only post-submission views and approves at 5,000 of them (Vyro chat), so late submission forfeits views. Only "Submit post" > "Use a link instead"; once per post; never Join/payouts/settings. Never delete a pending submission (wrong row deleted 2026-10-28). On a "wait before posting again" dialog, stop and log.
 
-<!-- observed: 2026-10-23 | status: active -->
+<!-- observed: 2026-10-28 | status: active -->
 
-- Submit each live TikTok and Instagram post to its Vyro campaign as soon as it goes live ("Submit when they go live for tiktok and instagram", 2026-10-23), using only the Submit post form with "Use a link instead"; one submission per post, never twice. Scope: posts made through the Buffer route for campaigns William has joined (MW4, Total Drama Roblox). Still excluded: Join, payouts, connect/cash out/settings, YouTube posts beyond the earlier MW4 OK, anything money/account/legal. Stop and tell William on any unexpected prompt; if Vyro shows a "wait before posting again" or pending-limit dialog, stop, log it, and retry later (do not work around it).
+- Post at most 2 TikToks per day, 4+ hours apart, from 2026-10-29 for 7 days (Strategist's recommendation, William agreed); log TikToks in the previous 4 hours with each post.
 
 <!-- observed: 2026-10-22 | status: active -->
 
-- Always send any video preview he does ask for as a file (forceDocument on Telegram), because in-chat Telegram video looks stretched on his phone.
+- Send any video preview he asks for as a file (forceDocument on Telegram); in-chat video looks stretched on his phone.
 
 <!-- observed: 2026-10-22 | status: active -->
 
-- Prefer to automate everything except steps that need his legal acceptance or manual posting; keep him out of the loop on routine runs and report outcomes honestly, including what failed.
-
-<!-- observed: 2026-10-23 | status: superseded -->
-
-- (Superseded 2026-10-24: previously required him to type "Accept <full campaign name>".)
+- Automate everything except legal acceptance; keep him out of routine runs; report outcomes honestly, including failures.
 
 <!-- observed: 2026-10-24 | status: active -->
 
-- Join Vyro campaigns for William only through the accept flow in `projects/clips/JOIN-PROCEDURE.md`: send one campaign package at a time (terms and flag list) on Telegram; he replies just "Accept" (no campaign name needed), I reply with a one-line restatement of campaign, creator and rate, and click Join only after his "Confirm". Never treat silence, "ok", "sure", "yes" or an older accept as consent; never accept anything the package did not show him; stop on any payment, identity, payout or unexpected terms prompt.
+- Join campaigns only via `projects/clips/JOIN-PROCEDURE.md`: package on Telegram, he replies "Accept", I restate campaign, creator, rate, click Join only after "Confirm". Silence or an older accept is not consent. Stop on any payment, identity or payout prompt.
+
+<!-- observed: 2026-10-28 | status: active -->
+
+- Rank campaigns on likely views (niche fit, footage, runway, audience), not rate per 1k: he distrusts high rates.
+
+<!-- observed: 2026-10-28 | status: active -->
+
+- When he is mobile, message him on Telegram (`telegram:5390086974`) for posts going live, submissions, decisions, blockers, results. Short; no no-news pings.
+
+<!-- observed: 2026-10-28 | status: active -->
+
+- Treat profanity as acceptable ("clean audio" means audio quality; swears give shock value). Still apply each campaign's brief rules (no slurs, NSFW, FaZe, politics, minors).
+
+<!-- observed: 2026-10-23 | status: superseded -->
+
+- (Superseded: submit-every-post-to-Vyro, now traction-gated; "Accept <full name>"; "Prioritize TikTok", now the focus rule.)
 
 ## Related
 

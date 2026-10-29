@@ -1,0 +1,32 @@
+{
+ "id": "hs3-02",
+ "campaign": "hardscope-ep3",
+ "source": "/home/williamdownard/openclaw-sites/clips-work/campaigns/hardscope-ep3/source-1080p.mp4",
+ "start": 901.4,
+ "end": 946.8,
+ "hook": "He risked four prizes for one comic",
+ "caption": "Four right answers in, then one last Spider-Man question.",
+ "style": 3,
+ "required_tags": [
+  "#unpacked"
+ ],
+ "tiktok_caption": "After four correct Marvel answers, David Dobrik chooses to risk his prizes for a 1984 black-suit Spider-Man comic. The last question is a Spider-Man: Far From Home deep cut. Watch the full Unpacked episode on @hardscope #unpacked",
+ "instagram_caption": "Leave with four prizes or go for a 1984 black-suit Spider-Man comic? David picks the comic and gets a Spider-Man question to answer. Catch up on Unpacked at @hardscope. #unpacked",
+ "schedule": {
+  "tiktok": "2026-10-28T20:30:00-04:00"
+ },
+ "footage": "campaign-supplied",
+ "pattern": "test: decision-tension trivia, ~45 s TikTok / ~52 s Instagram (IG includes the offer; TikTok starts at the decision)",
+ "instagram_variant": {
+  "start": 894.4,
+  "end": 946.8,
+  "hook": "Walk away or risk it all",
+  "caption": "Take four prizes, or play for a 1984 comic.",
+  "style": 1
+ },
+ "notes": "pending: needs pipeline support (per-platform renders + schedule; schedule intentionally empty). Required in captions: #unpacked and @hardscope once each. The top-level start/end/hook/caption/style are the TikTok variant; 'instagram_variant' is ignored by clip_job.py today. Contains one profanity (~932 s, 'Fuck'); no other. Whisper heard 'four for four' at 890.6 (not in either cut) and the offer 'risk it all right now... or leave with these four' at 894.6-900.6. Outcome in clip: 'Night monkey. Congrats. You did it.' (941.5-946); who answered is not spoken, frames show the guest smiling; captions do not state the answer.",
+ "required_mentions": [
+  "@hardscope"
+ ],
+ "submission": "whop"
+}

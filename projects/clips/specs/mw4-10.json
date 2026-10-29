@@ -14,8 +14,7 @@
  "tiktok_caption": "Modern Warfare 4: four tags puts $300,000 on one team, and asked what that money would do, one player says it would take care of their entire family. #MW4 #MW4partner",
  "instagram_caption": "Modern Warfare 4: four tags, $300,000 on the line, and one player explains what it would mean for their family. #MW4 #MW4partner",
  "schedule": {
-  "tiktok": "2026-10-30T19:00:00-04:00",
-  "instagram": "2026-10-30T19:30:00-04:00"
+  "tiktok": "2026-10-30T19:00:00-04:00"
  },
  "footage": "campaign-supplied",
  "pattern": "test: SHORT ~17 s (vs mw4-09 ~39 s), dialogue stakes with $300,000 overlay instead of a fight; length is the intended variable, content type is a flagged confound",

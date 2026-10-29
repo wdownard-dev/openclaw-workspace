@@ -122,3 +122,6 @@ Add conventions, style, and rules as you learn what works for this workspace.
 - [Default AGENTS.md](/reference/AGENTS.default)
 - [Automations vs heartbeat](/automation#automations-vs-heartbeat)
 - [Heartbeat](/gateway/heartbeat)
+
+## Lesson (2026-10-28): no duplicate Telegram messages
+My final reply to William already goes to Telegram. Do not also send the same summary with the `message` tool. Use `message` only for short mid-task progress notes (final=false) or when no reply is otherwise delivered (automation results); never repeat in the final reply what a message already said.

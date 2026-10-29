@@ -1,0 +1,32 @@
+{
+ "id": "hs3-03",
+ "campaign": "hardscope-ep3",
+ "source": "/home/williamdownard/openclaw-sites/clips-work/campaigns/hardscope-ep3/source-1080p.mp4",
+ "start": 1117.3,
+ "end": 1141.0,
+ "hook": "David gets his own Unpacked trading card",
+ "caption": "A custom one-of-one card, and a spot in the Hall of Fame.",
+ "style": 2,
+ "required_tags": [
+  "#unpacked"
+ ],
+ "tiktok_caption": "David Dobrik gets a custom one-of-one Unpacked trading card and a place in the show's guest Hall of Fame. See the full episode on @hardscope #unpacked",
+ "instagram_caption": "The Unpacked guest Hall of Fame gets a new name: David Dobrik, with a one-of-one card, right before checkout. Unpacked on @hardscope. #unpacked",
+ "schedule": {
+  "tiktok": "2026-10-29T12:30:00-04:00"
+ },
+ "footage": "campaign-supplied",
+ "pattern": "default: shortest clip (~23.5 s TikTok / ~22 s Instagram), payoff-first reveal",
+ "instagram_variant": {
+  "start": 1119.0,
+  "end": 1141.0,
+  "hook": "Welcome to the Unpacked Hall of Fame",
+  "caption": "One more Iron Man pack, then the surprise.",
+  "style": 3
+ },
+ "notes": "pending: needs pipeline support (per-platform renders + schedule; schedule intentionally empty). Required in captions: #unpacked and @hardscope once each. The top-level start/end/hook/caption/style are the TikTok variant; 'instagram_variant' is ignored by clip_job.py today. Contains one profanity ('Holy shit', ~1126.7 s). The card art is an illustrated figure; do not claim it looks like anyone. IG trims the first ~1.7 s ('Before we check out, I have a gift for you').",
+ "required_mentions": [
+  "@hardscope"
+ ],
+ "submission": "whop"
+}

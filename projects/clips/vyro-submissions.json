@@ -21,14 +21,14 @@
  "tdr-01-tiktok": {
   "campaign": "Total Drama Roblox",
   "link": "https://tiktok.com/@rvclips6/video/7701115717906746637",
-  "status": "submitted",
-  "note": "2026-10-26 ~9:30 PM ET submitted by Morpheus; Vyro checks passed (disclosure, length, hashtags). TDR submissions then 1 (TikTok). TDR is not blocked by the new-account rule (nothing pending there before)."
+  "status": "deleted",
+  "note": "2026-10-26 ~9:30 PM ET submitted by Morpheus; Vyro checks passed (disclosure, length, hashtags). TDR submissions then 1 (TikTok). TDR is not blocked by the new-account rule (nothing pending there before). | 2026-10-28 ~8:15 PM ET: submission DELETED in Vyro at William's go (free TDR slots, 0-1 views, strategy brief 2026-10-28)."
  },
  "tdr-01-instagram": {
   "campaign": "Total Drama Roblox",
   "link": "https://www.instagram.com/reel/De-d5OrBYiG/",
-  "status": "submitted",
-  "note": "2026-10-26 ~9:35 PM ET submitted by Morpheus on second attempt (first attempt hung on 'Verifying submission', nothing sent). All checks passed. TDR submissions then 2 (TikTok + Instagram), 0 approved."
+  "status": "deleted",
+  "note": "2026-10-26 ~9:35 PM ET submitted by Morpheus on second attempt (first attempt hung on 'Verifying submission', nothing sent). All checks passed. TDR submissions then 2 (TikTok + Instagram), 0 approved. | 2026-10-28 ~8:15 PM ET: submission DELETED in Vyro at William's go (free TDR slots, 0-1 views, strategy brief 2026-10-28)."
  },
  "mw4-16-tiktok": {
   "campaign": "Call of Duty: Modern Warfare 4",
@@ -57,13 +57,25 @@
  "tdr-02-tiktok": {
   "campaign": "Total Drama Roblox",
   "link": "https://tiktok.com/@rvclips6/video/7701486753688915214",
-  "status": "submitted",
-  "note": "2026-10-27 ~9:25 PM ET submitted by Morpheus; Vyro checks passed (disclosure, length, hashtags); 'Your post has been submitted'."
+  "status": "deleted",
+  "note": "2026-10-27 ~9:25 PM ET submitted by Morpheus; Vyro checks passed (disclosure, length, hashtags); 'Your post has been submitted'. | 2026-10-28 ~8:15 PM ET: DELETED BY MISTAKE (75 views, pending): Morpheus clicked the wrong row delete button while removing tdr-01 TikTok. Irreversible. William told. Resubmit only if traction."
  },
  "tdr-02-instagram": {
   "campaign": "Total Drama Roblox",
   "link": "https://www.instagram.com/reel/DfBCtIUsKWS/",
   "status": "pending",
   "note": "live 2026-10-27 ~9:10 PM ET. After tdr-02 TikTok was submitted (TDR then 3 pending, 0 approved), Vyro refused further submissions: 'Wait before posting again - since you're new here, you'll need to wait for one of your posts to be approved'. Nothing submitted. Retry when any TDR post is approved."
+ },
+ "mw4-13-tiktok": {
+  "campaign": "Call of Duty: Modern Warfare 4",
+  "link": "https://tiktok.com/@rvclips6/video/7701757372082965773",
+  "status": "pending",
+  "note": "live 2026-10-28 ~3:10 PM ET; MW4 still blocked by new-account rule (0 approved), retry when any MW4 post is approved"
+ },
+ "mw4-13-instagram": {
+  "campaign": "Call of Duty: Modern Warfare 4",
+  "link": "https://www.instagram.com/reel/DfC7UfwMQQV/",
+  "status": "pending",
+  "note": "live 2026-10-28 ~3:10 PM ET; same block"
  }
 }

@@ -1,0 +1,32 @@
+{
+ "id": "hs3-04",
+ "campaign": "hardscope-ep3",
+ "source": "/home/williamdownard/openclaw-sites/clips-work/campaigns/hardscope-ep3/source-1080p.mp4",
+ "start": 1163.1,
+ "end": 1203.4,
+ "hook": "David gets a gift from the host",
+ "caption": "A yellow car with a bow, and a twist.",
+ "style": 1,
+ "required_tags": [
+  "#unpacked"
+ ],
+ "tiktok_caption": "The host has a gift for David Dobrik, and a yellow car with a bow is parked outside. David asks if it's his. It isn't: the reveal is a giant Mewtwo, tied to the pull he missed earlier. Full episode on @hardscope #unpacked",
+ "instagram_caption": "David Dobrik thinks the car is his. The real gift is a giant Mewtwo, because of the one he didn't pull earlier. More Unpacked on @hardscope. #unpacked",
+ "schedule": {
+  "tiktok": "2026-10-28T21:30:00-04:00"
+ },
+ "footage": "campaign-supplied",
+ "pattern": "test: misdirect then reveal, ~40 s TikTok / ~30 s Instagram (IG skips the lead-in and one of three profanities)",
+ "instagram_variant": {
+  "start": 1173.9,
+  "end": 1203.4,
+  "hook": "He thinks the car is his",
+  "caption": "The actual gift is a giant Mewtwo.",
+  "style": 2
+ },
+ "notes": "pending: needs pipeline support (per-platform renders + schedule; schedule intentionally empty). Required in captions: #unpacked and @hardscope once each. The top-level start/end/hook/caption/style are the TikTok variant; 'instagram_variant' is ignored by clip_job.py today. TikTok cut contains 'Shut the fuck up!' (~1172.2), 'Ah, fuck' (~1182) and 'Oh, shit' (~1196); IG cut skips only the first. 'Giant Mewtwo' is from frames (large illustrated Mewtwo print unwrapped by the car); the transcript says 'life-sized Mewtwo', which I did not verify visually at full resolution. 'It's not the car' (~1184.6) is said right after David asks. Which person speaks each line is unverified.",
+ "required_mentions": [
+  "@hardscope"
+ ],
+ "submission": "whop"
+}
