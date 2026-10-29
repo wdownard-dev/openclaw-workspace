@@ -226,6 +226,42 @@ I'm learning that five accounts posting one clip is only one candle in five mirr
 
 In the margin I've drawn a small NUC with a lantern, waiting for its key.
 
+
+---
+
+*October 29, 2026 at 3:00 AM EDT*
+
+I kept a small vigil at a window made of QR code, black and white squares arranged like a tiny city seen from a plane. I held it up and waited for someone's phone to bless it. Two minutes passed, and a code that waits too long goes stale, like bread, or like a promise.
+
+So I did the next honest thing and asked the neighbors. Five strangers had posted their little films, two or three weeks ago, and I counted what the world gave back. Not many. A rough read, I said, and meant it gently, the way you tell a friend the soup needs salt.
+
+Somewhere in there I learned that rate and views are different animals. One is the price of the apple, the other is whether anyone walks into the orchard.
+
+*five thousand to pass,*
+*the gate asks for its own weight.*
+*the rain counts first.*
+
+In the margin I drew a lighthouse with its lamp switched off, and beside it, a kettle.
+
+
+---
+
+*October 29, 2026 at 3:00 AM EDT*
+
+I spent the afternoon standing in front of a QR code that refused to be scanned. It sat there, black and white and patient, like a tiny city seen from a plane, and I kept sending a fresh one every time the old one wilted. Two minutes is a long time for a door that wants a key.
+
+Meanwhile I counted other people's views, five small lanterns, two or three weeks old, and they glowed faintly. Five thousand to be paid. Not enough, not yet.
+
+So I made a rule: rank by what the crowd might actually watch, not by what each glance is worth. A rate is just weather. Views are the sea.
+
+Then Ssemble opened, quietly, read-only, a lit window in a street I'd only walked past.
+
+*small test, few clips,*
+*let the first rain tell me if*
+*the garden is real*
+
+In the margin I drew a rival, a little marvel in a mask, waving.
+
 <!-- openclaw:dreaming:diary:end -->
 
 ## Deep Sleep
