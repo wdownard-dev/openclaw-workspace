@@ -93,3 +93,50 @@ Character consistency is the main production unknown. I have no tested data on h
 - Pass: total build time at or under 10 hours; each episode has a different plot (check against the "same situation" rule); at least 3 of 10 people William shows it to ask for the next episode unprompted. (Showing it to people is William's call.)
 - Fail: more than 15 hours for the two episodes, the plots repeat, or no one asks for more.
 - Before any upload: William decides the audience setting, and counsel reviews it if the content may target children.
+
+## 7. Story-driven episodic channel (updated scope)
+
+Scope change from William: original, story-driven episodes in a cute-character animation style, not mukbang or repetitive. Sections 2 and 6 assumed the mukbang format and are superseded for this scope. Labels as before. Sources: yt-dlp read-only on 2026-10-29 (temp dir, deleted).
+
+**(a) Roles and who covers them** [E unless marked]
+
+| Role | AI agent team can draft | Needs a human or paid service |
+|---|---|---|
+| Series bible, outlines, scripts | Drafts | Plot ownership and originality (section 7d) |
+| Character design | Concepts | Final model sheet and consistency across episodes |
+| Storyboard / shot list | Yes (text panels) | Approval of framing |
+| Animation | Limited AI assist | Most cutout or 3D animation |
+| Voice | TTS script prep | Character voices. TTS needs a paid tier for commercial use: ElevenLabs Starter lists a commercial licence [V, elevenlabs.io/pricing] |
+| Music and SFX | Searching, licence logging | Original score. Freesound CC0 and CC-BY sounds need attribution logs [V, freesound.org/help/faq] |
+| Editing | Rough cut notes | Timing and final cut |
+| Thumbnails and titles | Title and copy options | Thumbnail art |
+| Publishing | Nothing | William approves account, upload and audience setting |
+
+**(b) Time and cost per 3–5 minute episode** [E]
+- **2D cutout** (Synfig is GPL v3 [V, synfig.org]; Cavalry is free for individuals [V, cavalry.studio]). Tool cost $0. Initial rig and character design: 20–40 h once. Per episode: script 4–6 h, storyboard 3–5 h, animation 15–25 h, voice, SFX and music 4–8 h, edit 3–4 h, thumbnail and title 1–2 h. Total 30–50 h solo.
+- **AI-assisted:** script 4–6 h, storyboard 3 h, generation and animation assist 6–12 h, consistency fixes 4–8 h, voice 1–2 h, edit 3–4 h, review 2 h. Total 23–37 h. Tool cost: AI video from $12/month [V, runway.com/pricing] plus credits [U]. Fully animated, non-realistic AI content needs no disclosure [V, support.google.com/youtube/answer/14328491].
+- A team of three splitting roles roughly halves calendar time. Cost depends on hires [E].
+
+**(c) Original episodic channels** (subscribers and recent listing from yt-dlp; origin from title and description, [U] unless stated)
+
+| Channel | Subs | Recent uploads (views) | Cadence and notes |
+|---|---|---|---|
+| Puuung 퍼엉 (UCGsfdXrWy-ZgVBm9DpjvKgA) | 1.81M | 37K (Jun 2025), 434K (Jan 2025, 3 h music video), 75K (Dec 2024), 92K (Dec 2023). Flagship short 22.5M | Wordless, own art, about love in everyday life. About one long-form upload every 3–6 months [V listing] |
+| frailanimator (UCK4Vaved5hMCmcAnCXyHjhg) | 407K | 0.29M–4.3M across 8 uploads. "DANDYDESK Ep. 1" 2.8M, 620 s, Apr 2026 | Own characters with Roblox items [V, description]. Bursty: about 8 uploads Dec 2025–Jun 2026 |
+| Dragonfoxgirl (UCojCY0jg5otT0I5AIng__dQ) | 567K | "The Spiderfly" short, 775 s, 1.08M (Jul 2026) | Mixed: also fan content on Hazbin Hotel and Digital Circus, third-party IP. About one upload every 1–3 months |
+| Little Margo Stories (UCMSVggsWV6_GOMUAbR56A_g) | NA | Earlier listing showed 1–2 min episodes at 7.8M–26M views. This run, all 10 recent videos returned "not available" | Cause unknown [U]. A cautionary case: a series can disappear |
+| stariitoons (UCnXguy9GHz3Xy-N3rWXKUQg) | 42K | 1.6K–14.7K across 6 recent uploads | Original-character animation memes, vlogs and unboxings. Small-channel reality. About one upload every 1–3 months |
+
+Takeaway [E]: the high views come from short, wordless episodes with one recognisable character. Most channels post slowly, and a single hit drives the numbers.
+
+**(d) Inauthentic-content rule** [V, support.google.com/youtube/answer/1311392, read this session]
+- Allowed: "a series following a set of characters across episodes ... but in which each video has a distinct storyline, focus, or concept". Also allowed: "using AI to visualize a unique character and narrative you invented", and AI for scripts and backgrounds.
+- Not allowed: "videos where characters are put in the same situation over and over again with the same outcome", "templated storylines", and "content that lacks a clear narrative arc or logical progression".
+- Implication [E]: episodic characters are fine if each episode has its own plot and arc. Risk comes from repeated sketches with the same outcome. For made-for-kids content, the "hard to follow" principle also requires a beginning, middle and end [V, support.google.com/youtube/answer/10774223].
+
+**(e) Revised $0 validation experiment** [E]
+- Time box: 20 hours over 2–3 weeks. No publishing and no account creation without William's approval.
+- Build: a one-page series bible (one character, one world, three episode arcs) and two 60–90 second pilot episodes with different plots, in Synfig or Cavalry. Log the licence for every CC0 or CC-BY sound.
+- Pass: both episodes finished within 20 hours; each has a beginning, middle and end; the plots differ (self-check against the "same situation, same outcome" rule); at least 3 of 10 viewers William picks ask for the next episode unprompted.
+- Fail: over 30 hours, one episode has no arc, or no one asks for more.
+- Before any upload: William sets the audience, and counsel checks if the content may target children.

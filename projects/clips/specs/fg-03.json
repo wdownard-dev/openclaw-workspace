@@ -1,0 +1,24 @@
+{
+ "id": "fg-03",
+ "campaign": "family-guy-halloween",
+ "source": "/home/williamdownard/.openclaw/workspace/projects/clips/campaigns/family-guy-halloween/source/fg-p5.mp4",
+ "start": 34.5,
+ "end": 49.5,
+ "hook": "New devils, first problem: the title",
+ "caption": "Stewie and Brian try to share one job.",
+ "style": 3,
+ "required_tags": [
+  "#FamilyGuy",
+  "#HuluPartner"
+ ],
+ "tiktok_caption": "Family Guy Halloween: Stewie and Brian, brand-new devils, argue about the title. Stream the Family Guy Halloween Special on Hulu and Hulu on Disney+ for bundle subscribers #FamilyGuy #HuluPartner",
+ "instagram_caption": "Not for use: this campaign is TikTok-only and the pipeline requires the field. #FamilyGuy #HuluPartner",
+ "schedule": {},
+ "footage": "campaign-supplied",
+ "pattern": "test: pure Stewie/Brian banter, no Satan, flat visuals (voice-actor-safest)",
+ "platform": "tiktok",
+ "shock": "no",
+ "search_phrase": "Family Guy Halloween",
+ "notes": "p5 34.5-49.5: 'what should our first changes be as the new devil... co-devils?... how dumb that sounds'. Only Stewie/Brian speak. Alternate not built: p6 84.9-99.9 Satan 'back in the office' announcement (crowd voices unverified).",
+ "submission": "vyro"
+}

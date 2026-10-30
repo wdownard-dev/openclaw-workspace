@@ -1,0 +1,26 @@
+{
+ "id": "fg-02",
+ "campaign": "family-guy-halloween",
+ "source": "/home/williamdownard/.openclaw/workspace/projects/clips/campaigns/family-guy-halloween/source/fg-p4.mp4",
+ "start": 161.65,
+ "end": 176.65,
+ "hook": "Satan quits and hands over the job",
+ "caption": "Stewie and Brian are in charge of hell now.",
+ "style": 1,
+ "required_tags": [
+  "#FamilyGuy",
+  "#HuluPartner"
+ ],
+ "tiktok_caption": "Family Guy Halloween: Satan hands Brian and Stewie the keys to hell. Stream the Family Guy Halloween Special on Hulu and Hulu on Disney+ for bundle subscribers #FamilyGuy #HuluPartner",
+ "instagram_caption": "Not for use: this campaign is TikTok-only and the pipeline requires the field. #FamilyGuy #HuluPartner",
+ "schedule": {
+  "tiktok": "2026-10-29T10:25:00-04:00"
+ },
+ "footage": "campaign-supplied",
+ "pattern": "test: quit/handoff with visible beat (trident handoff, outfit change)",
+ "platform": "tiktok",
+ "shock": "no",
+ "search_phrase": "Family Guy Halloween",
+ "notes": "p4 161.65-176.65: Satan 'cowboy up, man... I quit. Enjoy this thankless job!' then Stewie 'Whoa, we're in charge of hell?'. Cut before the '1980s ABC promo' line (brand mention). Check no 'lost him' line at the start.",
+ "submission": "vyro"
+}

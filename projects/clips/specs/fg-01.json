@@ -1,0 +1,26 @@
+{
+ "id": "fg-01",
+ "campaign": "family-guy-halloween",
+ "source": "/home/williamdownard/.openclaw/workspace/projects/clips/campaigns/family-guy-halloween/source/fg-p6.mp4",
+ "start": 28.7,
+ "end": 43.7,
+ "hook": "Satan misses the fire and torture",
+ "caption": "The devil's job turned into admin work.",
+ "style": 2,
+ "required_tags": [
+  "#FamilyGuy",
+  "#HuluPartner"
+ ],
+ "tiktok_caption": "Family Guy Halloween: Satan on why hell stopped being fun. Stream the Family Guy Halloween Special on Hulu and Hulu on Disney+ for bundle subscribers #FamilyGuy #HuluPartner",
+ "instagram_caption": "Not for use: this campaign is TikTok-only and the pipeline requires the field. #FamilyGuy #HuluPartner",
+ "schedule": {
+  "tiktok": "2026-10-29T11:00:00-04:00"
+ },
+ "footage": "campaign-supplied",
+ "pattern": "default: Satan (Kieran Culkin) monologue, 15.0 s, fireball visual, payoff last line",
+ "platform": "tiktok",
+ "shock": "no",
+ "search_phrase": "Family Guy Halloween",
+ "notes": "p6 28.7-43.7: Satan 'I used to be [an amazing devil]... I came to hell to start fires, not put them out.' Brian/Stewie only otherwise. Passing mention of Ohio State (casual).",
+ "submission": "vyro"
+}

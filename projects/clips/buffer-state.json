@@ -70,8 +70,8 @@
   "error": ""
  },
  "tdr-03-tiktok": {
-  "status": "scheduled",
-  "link": "",
+  "status": "sent",
+  "link": "https://tiktok.com/@rvclips6/video/7702228810007170318",
   "error": ""
  },
  "tdr-03-instagram": {
@@ -150,13 +150,33 @@
   "error": ""
  },
  "hs3-03-tiktok": {
-  "status": "scheduled",
-  "link": "",
+  "status": "sent",
+  "link": "https://tiktok.com/@rvclips6/video/7702128386151337230",
   "error": ""
  },
  "hs3-03-instagram": {
   "status": "scheduled",
   "link": "",
+  "error": ""
+ },
+ "fg-02-tiktok": {
+  "status": "sent",
+  "link": "https://tiktok.com/@rvclips6/video/7702095688833797390",
+  "error": ""
+ },
+ "fg-01-tiktok": {
+  "status": "sent",
+  "link": "https://tiktok.com/@rvclips6/video/7702104947403263245",
+  "error": ""
+ },
+ "fg-04-tiktok": {
+  "status": "sent",
+  "link": "https://tiktok.com/@rvclips6/video/7702138365092711694",
+  "error": ""
+ },
+ "fg-05-tiktok": {
+  "status": "sent",
+  "link": "https://tiktok.com/@rvclips6/video/7702147302856674573",
   "error": ""
  }
 }

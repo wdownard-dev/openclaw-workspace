@@ -1,0 +1,27 @@
+{
+ "id": "fg-04",
+ "campaign": "family-guy-halloween",
+ "source": "/home/williamdownard/.openclaw/workspace/projects/clips/campaigns/family-guy-halloween/source/fg-p4.mp4",
+ "start": 61.25,
+ "end": 76.25,
+ "hook": "Jack the Ripper gets skipped in hell",
+ "caption": "Hell's new arrivals confess, and it escalates.",
+ "style": 1,
+ "required_tags": [
+  "#FamilyGuy",
+  "#HuluPartner"
+ ],
+ "tiktok_caption": "Family Guy Halloween: the line in hell gets darker with every confession. Stream the Family Guy Halloween Special on Hulu and Hulu on Disney+ for bundle subscribers #FamilyGuy #HuluPartner",
+ "instagram_caption": "Not for use: this campaign is TikTok-only and the pipeline requires the field. #FamilyGuy #HuluPartner",
+ "footage": "campaign-supplied",
+ "pattern": "shock test: dark-humor confession escalation (shock=yes)",
+ "platform": "tiktok",
+ "shock": "yes",
+ "search_phrase": "Family Guy Halloween",
+ "notes": "p4 61.25-76.25: newcomers confess in hell. Excludes the priest line (51-55) and Matt Rife line (97). Cut ends after 'let's just say the second thing'. Speakers are ensemble background voices (not verified against cast list).",
+ "submission": "vyro",
+ "shock_note": "Footage line: \"I'm also Jack the Ripper.\" -> \"Okay, blowing by that.\" ... \"I'm Catholic and I ate meat on a Friday.\" ... \"I also strangled 19 nursing students to death.\" Stated in the clip's own words (dark-comic confession escalation).",
+ "schedule": {
+  "tiktok": "2026-10-29T13:10:00-04:00"
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "id": "fg-05",
+ "campaign": "family-guy-halloween",
+ "source": "/home/williamdownard/.openclaw/workspace/projects/clips/campaigns/family-guy-halloween/source/fg-p1.mp4",
+ "start": 245.3,
+ "end": 260.3,
+ "hook": "His last memory: driving off a cliff",
+ "caption": "Stewie and Brian meet a man who remembers how it ended.",
+ "style": 3,
+ "required_tags": [
+  "#FamilyGuy",
+  "#HuluPartner"
+ ],
+ "tiktok_caption": "Family Guy Halloween: the last thing he remembers is driving his family off a cliff. Stream the Family Guy Halloween Special on Hulu and Hulu on Disney+ for bundle subscribers #FamilyGuy #HuluPartner",
+ "instagram_caption": "Not for use: this campaign is TikTok-only and the pipeline requires the field. #FamilyGuy #HuluPartner",
+ "footage": "campaign-supplied",
+ "pattern": "shock test: dark-humor reveal of how he died (shock=yes)",
+ "platform": "tiktok",
+ "shock": "yes",
+ "search_phrase": "Family Guy Halloween",
+ "notes": "p1 245.3-260.3: Stewie/Brian ask a man floating on a ring what he last remembers. Ends on his drop and 'NOOOO'. Starts after 'we're dead' to avoid a clipped word.",
+ "submission": "vyro",
+ "shock_note": "Footage line: \"What's the last thing you remember?\" -> \"Uh, having ice cream? Then driving my family off a cliff?\" -> \"Yeah, wow.\" Stated in the clip's own words.",
+ "schedule": {
+  "tiktok": "2026-10-29T13:45:00-04:00"
+ }
+}

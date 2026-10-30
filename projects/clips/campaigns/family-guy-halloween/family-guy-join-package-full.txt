@@ -1,0 +1,238 @@
+# Join package: Family Guy, "Family Guy - Halloween Special" (Vyro, client: Disney / Hulu)
+
+Assembled by Morpheus 2026-10-29 ~9:40 AM ET. READ-ONLY. Nothing clicked except opening the campaign card and "Show more". Join NOT clicked. Nothing typed, submitted, paid or changed.
+William's request (9:19 AM): "Let's try and catch some fire with family guy ... give it a shot." That is intent, not consent; this package starts the Accept/Confirm process in projects/clips/JOIN-PROCEDURE.md.
+
+## 1. Facts (campaign details dialog, read 2026-10-29 ~9:35 AM ET)
+| Item | Value |
+|---|---|
+| Campaign | Family Guy - Halloween Special (client: Family Guy / Disney, "now streaming on Hulu and Hulu on Disney+") |
+| Status | Live, posted ~11h ago. Language English |
+| Ends | **1 day** ("Ends 1d"). Lifecycle: after the end date "In Review: Closed. Views earned before the end date still count." |
+| Paid out | **20%** (was 16% at 9:15 AM; rising) |
+| Rate | $2.00 per 1,000 views (live rate; views pay at the rate live when they accrued) |
+| Eligibility | 5,000 views per post to be eligible for payout; max $1,000 per post |
+| Platforms | TikTok videos, YouTube Shorts, Instagram Reels |
+| Length | "Minimum video length: 15 seconds". The Terms section says "limit the run time of your final piece to no more than fifteen (15) seconds". So exactly 15 s is the safe length |
+| Collab / Story posts | NOT allowed |
+| Required hashtag | #FamilyGuy. FTC: #HuluPartner (or native paid-partnership label) |
+| Mandatory caption | "Stream the Family Guy Halloween Special on Hulu and Hulu on Disney+ for bundle subscribers" |
+| Uniqueness | "Do not post the same video on multiple accounts. Each submission should be unique." |
+| Footage | https://f.io/KRp19K9C ("Family Guy: Halloween"), Frame.io share, loads (HTTP 200). Clips must come exclusively from the provided folder |
+| Approval | Client reviews each post in its discretion; "review times may take several days"; performance tracked from time of submission; only approved posts count |
+| Joined | No ("Join campaign" shown) |
+
+## 2. Rules that differ from our usual campaigns
+- 15 seconds max; no new plots/storylines/characters; no altering "the DNA" of the content.
+- Avoid all other guest voice actors; Kieran Culkin as Satan is fair game; do NOT clip the Hulu password-sharing gag ("People who share passwords are going to Hell"); avoid direct third-party brand/celebrity call-outs (examples: P. Diddy parties, Drano); casual passing references OK.
+- Music: only music library cues provided by Disney, or commercially clear music from the social platform. No licensed songs from the episode.
+- Audio from the clip must stay with its own clip (no overlaying audio from one clip over another).
+- Added text must be appropriate for, and not negative toward, Disney, Hulu and Family Guy.
+- AI tools while editing: "only use tools that do not train on, or otherwise reuse, the material you upload."
+- Likes and comments must be on. No boosting. No logos or hashtags not affiliated with the campaign.
+
+## 3. Flags (quoted)
+1. **Brand-safe account clause:** "Disney reserves the right to reject content from accounts that are not brand-safe based on username, content, or overall presence." @rvclips6 posts profanity-heavy gaming clips (William OK'd profanity for other campaigns). Real rejection risk.
+2. **IP, work-for-hire, perpetual assignment:** "all of the results and proceeds of your services hereunder, from inception, are and shall be deemed a 'work made-for-hire' for Disney ... you assign to Disney all right, title and interest ... in perpetuity, in any and all media". Disney may "withdraw its license ... for any other reason determined by Disney in its good faith discretion". Sits on top of Vyro's own work-for-hire, perpetual licence and likeness terms (Clipper Terms; see ../total-drama-roblox/join-package.md section 4, read 2026-10-23, not re-checked for changes today).
+3. **AI-tool clause:** our Editor pipeline uses ffmpeg plus AI agents for selection and review. Whether any step "trains on or reuses" uploaded footage is not verified; Claude/Anthropic API data is not used for training by default, but I have not confirmed this for every tool used.
+4. **Conflict rule:** "In the event of any conflict ... this Brief and the Vyro Clipper Terms, the terms and conditions of this Brief shall govern."
+5. **Automation/scheduling wording** in Vyro's Clipper Terms and Content Requirements ("automated posting" as an example of spam; bots/scrapers/automation to collect platform data): unresolved; William knows and owns the risk (see JOIN-PROCEDURE Limits).
+6. Vyro payout terms (>= $10 to withdraw, once per 7 days, Stripe/PayPal, holds, clawbacks, tax responsibility): same as previous campaigns (see TDR package section 4B/4D).
+
+## 4. Practical view (Morpheus)
+- Time: ends in about a day. Join -> fetch footage -> Editor cut (15 s, Disney music rules) -> review -> post -> submit to Vyro, all today. Views earned before the end date count, but a post needs 5,000 views to be paid and the client approves "within several days".
+- Odds are low: only 1 of our recent TikToks (mw4-08) has passed 5,000 views; recent posts mostly sit under 800. Treat this as a cheap experiment, not income. Expected cost: time plus the IP/brand-safety exposure above.
+- Cadence: today already has hs3-03 at 12:30 PM and tdr-03 at 7:00 PM. A third TikTok today breaks the 2-per-day, 4-hours-apart rule William set for 10/29-11/4. It needs his OK (and the post should sit 4+ hours from the others, e.g. ~4:30 PM).
+- Vyro: 0 posts approved so far; cap is 3 pending per campaign.
+
+## 5. Verbatim campaign text
+See verbatim.txt (complete dialog text copied from the page).
+
+=========== VERBATIM ===========
+Campaign details dialog, complete visible text, copied 2026-10-29 ~9:35 AM ET (app.vyro.com/campaigns?c=family-guy-GhEXQOKY), "Show more" expanded.
+
+Campaign details
+Family Guy
+Family Guy - Halloween Special
+11h ago
+Live
+
+Ends
+
+1d
+
+20% PAID OUT
+
+Language
+
+English
+
+Platforms
+
+Pay type
+
+Per View
+
+Payout
+
+$2.00 cpm
+
+LIVE RATE
+
+Campaign lifecycle
+1
+Live
+Now
+
+Open now. Submit posts and start earning.
+
+2
+In Review
+
+Closed. Views earned before the end date still count.
+
+3
+Completed
+
+Done. Earnings are finalized and paid out.
+
+Details
+
+This campaign promotes the Family Guy Halloween Special (2026), now streaming on Hulu and Hulu on Disney+, through short-form clips posted across social platforms. The goal is to drive large-scale reach and cultural relevance around this year's special, while encouraging viewers to watch the full episode on Hulu and Hulu on Disney+.
+
+*Collab posts and Story posts are NOT allowed.*
+
+*Do not post the same video on multiple accounts. Each submission should be unique.*
+
+What to Clip
+
+You have a lot of creative freedom with how you post the 2026 Halloween Special. Get creative with your posts. Some formats are listed below:
+
+Make memes or add POV text
+Create edits
+Top 5 moments compilation with the funniest or best moments from the episode
+Top 5 moments compilation with the funniest or best moments for a specific character
+Post clips as-is
+
+Rules
+
+Mandatory Caption Requirements
+
+"Stream the Family Guy Halloween Special on Hulu and Hulu on Disney+ for bundle subscribers”
+
+Allowed Content
+
+Clips must come exclusively from the provided content folders
+No unrelated footage or outside visuals
+Edits should not misrepresent the original scene
+Do not create new plots, storylines, or characters, or change the core of the original content
+Avoid all other guest voice actors (for example, Glen Powell in the 2024 Halloween special).
+Kieran Culkin as Satan in Halloween 2026 is fair game and should be used.
+Do not clip the Hulu password-sharing gag from the 2026 Halloween Special ("People who share passwords are going to Hell")
+Avoid direct third-party brand or celebrity call-outs. For example, references to P. Diddy parties or visual use of Drano are not allowed. Casual passing references are fine, such as "Brian, go get your Prius to take us to the store" or "I loved that Glenn Close movie."
+Do not reference or incorporate any third-party intellectual property, including characters, franchises, or brands from other games, movies, TV shows, or companies. Do not mix in characters from other Disney franchises or titles.
+
+Editing Guidelines
+
+You may add POV or meme text. Any added text must be appropriate for, and not negative toward, Disney, Hulu, and Family Guy.
+Only use music library cues provided by Disney or commercially clear music directly from the social platform. Do not use any licensed songs from the episodes.
+If you use any AI tools while editing, only use tools that do not train on, or otherwise reuse, the material you upload.
+
+Reminders
+Your post's likes and comments must be turned on.
+Do not make negative content or content that misrepresents Disney, Family Guy, Hulu, or its content.
+Do not use any logos, hashtags, or content that is not affiliated with this campaign.
+Clips running as paid ads will be rejected (e.g., boosting your post as a promoted ad).
+We review all posts for inauthentic engagement. Accounts flagged for artificial views or activity may be removed from the campaign.
+Due to a high volume of submissions, review times may take several days. Your performance will still be tracked from the time of submission.
+Near the end of the campaign: if total earnings exceed the remaining budget, payouts may be distributed across eligible clips.
+Disney reserves the right to reject content from accounts that are not brand-safe based on username, content, or overall presence.
+All Disney content provided remains Disney's property, and your clips are made under the campaign's license terms. Disney may withdraw that license for any violation of this brief or the Clipper Terms (https://www.vyro.com/clipper-terms).
+
+TERMS AND CONDITIONS:
+You agree that the intellectual property rights in and to any copyrighted content provided by Disney, or by Disney-authorized third parties, to you in connection with this campaign ("Disney Content") are exclusively owned by Disney.
+Disney hereby grants you a limited, revocable, non-exclusive, non-transferable, non-sublicensable license to create a derivative work using the Disney Content as required for the sole purpose of creating such work within, and during the term of, this Campaign, provided that such license shall be conditioned upon your agreement that (1) all of the results and proceeds of your services hereunder, from inception, are and shall be deemed a "work made-for-hire" for Disney, as a work specifically ordered and/or commissioned by Disney (or commissioned through authorized third parties); and (2) in the event that such work is not deemed to be a "work made-for-hire" for Disney, you assign to Disney all right, title and interest in and to the same and all rights to exploit the same throughout the universe, in perpetuity, in any and all media, whether now or hereafter known or devised, including for use with Disney products and services and on third-party sites and platforms. If such rights are not assigned to Disney, your license to create a work using Disney Content shall be null and void.
+Disney reserves the right to withdraw its license to you for violations of the terms of this Brief, the Clipper Terms, the Clipper Content Requirements, or for any other reason determined by Disney in its good faith discretion.
+In clipping Disney Content, if you are using any programs, services, software, or tools that include artificial intelligence functionality (the "AI Tools"), you shall use only AI Tools that do not allow training on material inputted by users, or that otherwise use such inputted material to improve any aspect of the AI Tools.
+
+In clipping content:
+
+Please limit the run time of your final piece to no more than fifteen (15) seconds.
+Do not use any unauthorized Disney intellectual property or third-party content.
+Do not intermingle characters from other companies or individuals, or from other Disney-owned franchises or titles.
+With respect to music, please only use music library cues as provided by Disney.
+Do not use any licensed songs from the episodes.
+If using audio from the Disney Content, do not overlay audio from one clip over another (i.e. keep audio contained within the clip it originated from).
+Do not extrapolate or ideate new plots, storylines, or characters.
+Do not edit the Disney Content by altering the DNA of the underlying Disney Content.
+
+In the event of any conflict between the terms and conditions of this Brief and the Vyro Clipper
+
+Terms & Conditions (currently found here: https://www.vyro.com/clipper-terms), the terms and
+
+conditions of this Brief shall govern.
+
+Show less
+What to include
+Caption, tags, text
+
+REQUIRED HASHTAGS
+
+#FamilyGuy
+
+FTC DISCLOSURE HASHTAGS
+
+#HuluPartner
+
+HASHTAG OR NATIVE PLATFORM LABEL
+
+Video length
+
+Minimum video length: 15 seconds
+
+Post settings
+Collab posting: Not allowed
+
+You cannot add other collaborators or tag accounts in this post.
+
+Instagram content: Reels
+
+You can submit Reels. Carousel and image posts aren't accepted.
+
+YouTube content: Shorts
+
+You can submit YouTube Shorts.
+
+TikTok content: Videos
+
+You can submit TikTok videos.
+
+Content to use
+Family Guy: Halloween
+https://f.io/KRp19K9C
+CAMPAIGNS ON VYRO
+How it works
+Post approval
+
+After you post, clients review to confirm your post complies with all stated requirements, in its discretion. Only approved posts count toward your views, so be sure to follow all of the campaign instructions.
+
+View requirements
+
+Each post must reach 5,000 views to be eligible for payout.
+Max earnings per post: $1,000.
+
+No botting, stealing, or reposting
+•
+Using bots to inflate views is strictly prohibited and will result in a ban.
+•
+Posts must be your own. Posting someone else's posts is not allowed.
+•
+Posting the same post multiple times on the same social account is not allowed.
+
+All posts must comply with the Content Policy.
+
+Questions? Let us know.
+
+Rates can change during a campaign. Views always pay at the rate that was live when they accrued.
+
+Join campaign
