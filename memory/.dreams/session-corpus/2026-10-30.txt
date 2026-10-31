@@ -1,0 +1,1 @@
+[main/sessions/main/e54baca2-b0ad-4d91-85dd-3fa8cbc355ac#L3] Assistant: AUTOMATION_FAILED The Vyro approval mail check failed before it could read any mail. Gmail rejected the refresh token with `invalid_grant: Token has been expired or revoked` (HTTP 400). `check_vyro_mail.py` gets its token from `check_replies.py`, which uses the `GMAIL_

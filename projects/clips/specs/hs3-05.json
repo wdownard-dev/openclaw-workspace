@@ -1,0 +1,27 @@
+{
+ "id": "hs3-05",
+ "campaign": "hardscope-ep3",
+ "source": "/home/williamdownard/openclaw-sites/clips-work/campaigns/hardscope-ep3/source-1080p.mp4",
+ "start": 570.8,
+ "end": 586.0,
+ "hook": "A Scarlet Witch pull sets off a story",
+ "caption": "A pack hit leads to a Scarlet Witch sighting story.",
+ "style": 1,
+ "required_tags": [
+  "#unpacked"
+ ],
+ "tiktok_caption": "A Scarlet Witch pull at Unpacked brings out a story about a possible sighting on Ventura. Full episode on @hardscope #unpacked",
+ "schedule": {
+  "tiktok": "2026-10-31T12:30:00-04:00"
+ },
+ "footage": "campaign-supplied",
+ "pattern": "test1 layout=band: Scarlet Witch pull, then a Ventura/Prius sighting story (570.8-586.0 s); blind send-it rating 4; slot Sat 10/31 12:30 PM ET",
+ "layout": "band",
+ "notes": "Words (small.en word timestamps): 'We just got a hit already, Scarlet Witch.' 570.9-572.3; story 575.1-584.0; 'Dang it.' 585.2 (next pull) sits in the 0.4 s fade tail. Starts after the dark UNPACKED card on the table (568-570.5). Speaker of the Prius story not verified (David is on screen), so hook/caption do not name one. Profanity: none.",
+ "required_mentions": [
+  "@hardscope"
+ ],
+ "submission": "whop",
+ "slot": "Sat 10/31 12:30 PM ET",
+ "moment_rating": 4
+}

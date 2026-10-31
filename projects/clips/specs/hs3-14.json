@@ -1,0 +1,25 @@
+{
+ "id": "hs3-14",
+ "campaign": "hardscope-ep3",
+ "source": "/home/williamdownard/openclaw-sites/clips-work/campaigns/hardscope-ep3/source-1080p.mp4",
+ "start": 550.9,
+ "end": 566.2,
+ "hook": "Why open a sealed box at all",
+ "caption": "A new Marvel box, and a reminder that the show only works if they open them.",
+ "style": 1,
+ "required_tags": [
+  "#unpacked"
+ ],
+ "tiktok_caption": "At Unpacked, a brand-new Marvel box raises the question of why open it at all, and the answer is that the show needs the packs opened. Full episode on @hardscope #unpacked",
+ "schedule": {},
+ "footage": "campaign-supplied",
+ "pattern": "test1 layout=band: 'Keep one sealed' Marvel box debate (550.9-566.2 s); blind send-it rating 2.5; slot Wed 11/04 7:00 PM ET",
+ "layout": "band",
+ "notes": "Words: 'What incentive do I have to open this now? As opposed to just giving this to my kids? What would you recommend? Keep one sealed, open one. Or in your case, gift one. I can't keep them all sealed because then the show kind of ends like here. We're opening all of them.' 550.9-566.1. Ends before 'Ten cards only' (566.9) and hs3-05 (570.8). 'kids' is the host's own children (said in the speech), nobody under 18 on screen. No profanity.",
+ "required_mentions": [
+  "@hardscope"
+ ],
+ "submission": "whop",
+ "slot": "Wed 11/04 7:00 PM ET",
+ "moment_rating": 2.5
+}

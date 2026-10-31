@@ -1,0 +1,75 @@
+{
+ "id": "hs3-13",
+ "campaign": "hardscope-ep3",
+ "source": "/home/williamdownard/.openclaw/workspace/projects/clips/campaigns/hardscope-ep3/source/UNPACKED_103_FINAL.mp4",
+ "start": 40.0,
+ "end": 55.3,
+ "hook": "He swore off cards after losing money",
+ "caption": "He tried the card world once, lost money, and wants a second chance.",
+ "style": 1,
+ "required_tags": [
+  "#unpacked"
+ ],
+ "tiktok_caption": "On Unpacked, the guest admits he lost a lot of money in the card world and swore off it, then asks to be taught how to get back in. Full episode on @hardscope #unpacked",
+ "schedule": {},
+ "footage": "campaign-supplied",
+ "pattern": "test1 layout=reframe: Guest says he lost money in the card world and swore off it (40.0-55.3 s); replaces the Yu-Gi-Oh battle, see plan; blind send-it rating 3; slot Wed 11/04 12:30 PM ET",
+ "layout": "reframe",
+ "notes": "Words: 'Huge fan of the card world, even though I really like larped it. I did it just because everybody else was doing it. So I just took a stab at it, lost a lot of money, told myself I'd never do it again. But I think if you teach me the ways today, I may be able to get back into it.' 40.2-54. Frames 38-39 s are a LATER ON teaser card, so the clip starts at 40.0 on the aisle shot. Rating is the blind rating assigned before layouts. No profanity. Speaker is David on screen (not named in hook).",
+ "required_mentions": [
+  "@hardscope"
+ ],
+ "submission": "whop",
+ "slot": "Wed 11/04 12:30 PM ET",
+ "moment_rating": 3,
+ "reframe": [
+  {
+   "t0": 0.0,
+   "t1": 2.54,
+   "cx": 0.42,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "why": "close two-shot, David speaking"
+  },
+  {
+   "t0": 2.54,
+   "t1": 4.25,
+   "cx": 0.22,
+   "cy": 0.45,
+   "zoom": 1.2,
+   "why": "wide aisle, David at left"
+  },
+  {
+   "t0": 4.25,
+   "t1": 5.76,
+   "cx": 0.47,
+   "cy": 0.45,
+   "zoom": 1.25,
+   "why": "David centre, host's back at right"
+  },
+  {
+   "t0": 5.76,
+   "t1": 8.8,
+   "cx": 0.3,
+   "cy": 0.45,
+   "zoom": 1.2,
+   "why": "wide aisle"
+  },
+  {
+   "t0": 8.8,
+   "t1": 13.89,
+   "cx": 0.44,
+   "cy": 0.45,
+   "zoom": 1.25,
+   "why": "over-the-shoulder, David"
+  },
+  {
+   "t0": 13.89,
+   "t1": 15.3,
+   "cx": 0.5,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "why": "store-map b-roll at the end of the line"
+  }
+ ]
+}

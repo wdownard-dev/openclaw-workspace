@@ -1,0 +1,157 @@
+{
+ "id": "hs3-06",
+ "campaign": "hardscope-ep3",
+ "source": "/home/williamdownard/.openclaw/workspace/projects/clips/campaigns/hardscope-ep3/source/UNPACKED_103_FINAL.mp4",
+ "start": 1093.3,
+ "end": 1117.85,
+ "hook": "A signed card from the first Iron Man",
+ "caption": "A signed Iron Man card, then trying to place the role.",
+ "style": 1,
+ "required_tags": [
+  "#unpacked"
+ ],
+ "tiktok_caption": "Pulling a signed Iron Man card turns into a quick check on which character the actor played. Full episode on @hardscope #unpacked",
+ "schedule": {
+  "tiktok": "2026-10-31T19:00:00-04:00"
+ },
+ "footage": "campaign-supplied",
+ "pattern": "test1 layout=reframe: Signed Iron Man card (Faran Tahir / Raza), 'the pack I'm in' (1093.3-1117.85 s); blind send-it rating 4; slot Sat 10/31 7:00 PM ET",
+ "layout": "reframe",
+ "notes": "Words (small.en): 'Faran Tahir, fuck yeah. I mean, let's go. He played Raza.' 1093.5-1100.3; 'Do we know who Raza is? ... I actually don't remember Raza.' 1102-1104; 'Was he one of the guys holding him in the cave? I think so.' 1105-1108; 'I'm sorry, Raza, for that reaction. I am actually excited.' 1109-1111; 'He loves card opening videos and he's watching this one. He's like, finally, the pack I'm in.' 1112.9-1117.8. One profanity at the open. Speaker is David (on screen talking in every shot) but the hook and caption do not name one. Ends on the source cut at 1117.85, right after 'the pack I'm in' (the 0.4 s audio fade softens the last word). Film-still insert of the character 1104-1109.",
+ "required_mentions": [
+  "@hardscope"
+ ],
+ "submission": "whop",
+ "slot": "Sat 10/31 7:00 PM ET",
+ "moment_rating": 4,
+ "reframe": [
+  {
+   "t0": 0.0,
+   "t1": 2.21,
+   "cx": 0.17,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "why": "overhead: signed card + VALUE label at left"
+  },
+  {
+   "t0": 2.21,
+   "t1": 3.2,
+   "cx": 0.276,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "why": "David in the two-shot, speaking"
+  },
+  {
+   "t0": 3.2,
+   "t1": 3.6,
+   "cx": 0.276,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "cx_to": 0.276,
+   "cy_to": 0.43,
+   "zoom_to": 1.2,
+   "why": "punch-in on 'let's go'"
+  },
+  {
+   "t0": 3.6,
+   "t1": 8.38,
+   "cx": 0.276,
+   "cy": 0.43,
+   "zoom": 1.2,
+   "why": "David talking, card in hand"
+  },
+  {
+   "t0": 8.38,
+   "t1": 10.68,
+   "cx": 0.3,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "cx_to": 0.38,
+   "cy_to": 0.5,
+   "zoom_to": 1.0,
+   "why": "David holds the card up: start on the card, drift to his face"
+  },
+  {
+   "t0": 10.68,
+   "t1": 12.2,
+   "cx": 0.28,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "cx_to": 0.37,
+   "cy_to": 0.5,
+   "zoom_to": 1.0,
+   "why": "film still, face moves right"
+  },
+  {
+   "t0": 12.2,
+   "t1": 13.7,
+   "cx": 0.37,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "cx_to": 0.31,
+   "cy_to": 0.5,
+   "zoom_to": 1.0,
+   "why": "film still, face moves back left"
+  },
+  {
+   "t0": 13.7,
+   "t1": 15.6,
+   "cx": 0.31,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "cx_to": 0.28,
+   "cy_to": 0.5,
+   "zoom_to": 1.0,
+   "why": "film still"
+  },
+  {
+   "t0": 15.6,
+   "t1": 19.77,
+   "cx": 0.294,
+   "cy": 0.45,
+   "zoom": 1.25,
+   "why": "David apologising to the actor, wide shot tightened"
+  },
+  {
+   "t0": 19.77,
+   "t1": 22.11,
+   "cx": 0.44,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "cx_to": 0.44,
+   "cy_to": 0.5,
+   "zoom_to": 1.1,
+   "why": "David close-up, slow push"
+  },
+  {
+   "t0": 22.11,
+   "t1": 23.3,
+   "cx": 0.31,
+   "cy": 0.45,
+   "zoom": 1.25,
+   "why": "wide, David"
+  },
+  {
+   "t0": 23.3,
+   "t1": 23.7,
+   "cx": 0.31,
+   "cy": 0.45,
+   "zoom": 1.25,
+   "cx_to": 0.67,
+   "cy_to": 0.45,
+   "zoom_to": 1.25,
+   "why": "pan to the host laughing at the payoff line"
+  },
+  {
+   "t0": 23.7,
+   "t1": 24.55,
+   "cx": 0.67,
+   "cy": 0.45,
+   "zoom": 1.25,
+   "why": "host laughs ('the pack I'm in')"
+  }
+ ],
+ "overlap_waived": {
+  "hs3-03": "0.55 s boundary overlap (the word 'in' of 'the pack I'm in'); William waived it 2026-10-30 21:20 ET"
+ }
+}

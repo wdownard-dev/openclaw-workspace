@@ -1,0 +1,25 @@
+{
+ "id": "hs3-12",
+ "campaign": "hardscope-ep3",
+ "source": "/home/williamdownard/openclaw-sites/clips-work/campaigns/hardscope-ep3/source-1080p.mp4",
+ "start": 722.9,
+ "end": 740.2,
+ "hook": "One card to change the whole day",
+ "caption": "A Pixar pack, a big promise, and an Olive Garden joke.",
+ "style": 1,
+ "required_tags": [
+  "#unpacked"
+ ],
+ "tiktok_caption": "A Pixar pack at Unpacked comes with a promise of one card that changes the entire day, and a joke about celebrating at Olive Garden. Full episode on @hardscope #unpacked",
+ "schedule": {},
+ "footage": "campaign-supplied",
+ "pattern": "test1 layout=band: Pixar pack: Olive Garden / Emperor Zurg (722.9-740.2 s); blind send-it rating 3; slot Tue 11/03 7:00 PM ET",
+ "layout": "band",
+ "notes": "Words: 'One card in here to change the entire day. Are we celebrating tonight going to Olive Garden? We find out right here. Oh! Emperor Zurg! Out of a hundred. I'm really excited we switched over to Pixar. What an audible' 723.0-739.2. Ends at 740.2 so 'audible' (738.8-739.3) is not caught in the 0.4 s fade; 'David? Welcome to the vault' starts at 740.7. No profanity.",
+ "required_mentions": [
+  "@hardscope"
+ ],
+ "submission": "whop",
+ "slot": "Tue 11/03 7:00 PM ET",
+ "moment_rating": 3
+}

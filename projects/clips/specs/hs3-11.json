@@ -1,0 +1,78 @@
+{
+ "id": "hs3-11",
+ "campaign": "hardscope-ep3",
+ "source": "/home/williamdownard/.openclaw/workspace/projects/clips/campaigns/hardscope-ep3/source/UNPACKED_103_FINAL.mp4",
+ "start": 519.6,
+ "end": 541.3,
+ "hook": "Why he calls Robert Downey Jr. a superhero",
+ "caption": "A Marvel fan explains why Iron Man's actor counts as a superhero.",
+ "style": 1,
+ "required_tags": [
+  "#unpacked"
+ ],
+ "tiktok_caption": "At Unpacked, a Marvel superfan explains why he thinks Robert Downey Jr., the real person who plays Iron Man, counts as a superhero. Full episode on @hardscope #unpacked",
+ "schedule": {},
+ "footage": "campaign-supplied",
+ "pattern": "test1 layout=reframe: Robert Downey Jr. 'is a superhero' take (519.6-541.3 s); blind send-it rating 3; slot Tue 11/03 12:30 PM ET",
+ "layout": "reframe",
+ "notes": "Words: 'I genuinely think Robert Downey is a superhero because that is like the only perception we have and he is a real human that plays a superhero' 519.8-527.3; 'I genuinely like believe that shit with my ass' 528-530.5; 'such a big deal to me, the most moving thing' 536.9-540.9. Starts after 'Yeah, well, for sure it's Iron Man' (517.3-519.0). One profanity ('shit'). Speaker is David on screen (not named in hook/caption). Frames include stinger inserts with RDJ/Iron Man film stills and a woman (adult) in the store.",
+ "required_mentions": [
+  "@hardscope"
+ ],
+ "submission": "whop",
+ "slot": "Tue 11/03 12:30 PM ET",
+ "moment_rating": 3,
+ "reframe": [
+  {
+   "t0": 0.0,
+   "t1": 3.5,
+   "cx": 0.36,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "why": "wide, David with the signed card"
+  },
+  {
+   "t0": 3.5,
+   "t1": 6.55,
+   "cx": 0.27,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "why": "split screen: David left, Iron Man still right; follow the speaker"
+  },
+  {
+   "t0": 6.55,
+   "t1": 11.14,
+   "cx": 0.2,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "why": "split screen: David left, store wide, Iron Man mask right; follow the speaker"
+  },
+  {
+   "t0": 11.14,
+   "t1": 12.93,
+   "cx": 0.55,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "why": "host laughing"
+  },
+  {
+   "t0": 12.93,
+   "t1": 17.0,
+   "cx": 0.5,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "why": "David close-up, gesturing"
+  },
+  {
+   "t0": 17.0,
+   "t1": 21.7,
+   "cx": 0.5,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "why": "David close-up, slow push to the last line",
+   "cx_to": 0.5,
+   "cy_to": 0.46,
+   "zoom_to": 1.15
+  }
+ ]
+}

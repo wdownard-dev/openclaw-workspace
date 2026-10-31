@@ -60,8 +60,8 @@
   "error": ""
  },
  "mw4-10-tiktok": {
-  "status": "scheduled",
-  "link": "",
+  "status": "sent",
+  "link": "https://tiktok.com/@rvclips6/video/7702600109837569294",
   "error": ""
  },
  "mw4-10-instagram": {
@@ -177,6 +177,16 @@
  "fg-05-tiktok": {
   "status": "sent",
   "link": "https://tiktok.com/@rvclips6/video/7702147302856674573",
+  "error": ""
+ },
+ "hs3-05-tiktok": {
+  "status": "scheduled",
+  "link": "",
+  "error": ""
+ },
+ "hs3-06-tiktok": {
+  "status": "scheduled",
+  "link": "",
   "error": ""
  }
 }

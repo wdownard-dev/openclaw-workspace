@@ -21,6 +21,9 @@ Spec (JSON), see specs/example.json:
     uses each platform's own file. Specs without it render once into jobs/<id>/ exactly as before.
   required_mentions (optional): e.g. ["@hardscope"]; each must appear exactly once (case-insensitive) in tiktok_caption and
     instagram_caption and no other @handle may appear. Not linted when absent.
+  layout (optional, default "band"): "band" = blurred-band format_short.py (unchanged control); "reframe" = full-frame 9:16 crop
+    following the speaker (reframe_short.py), rendered from a 4K `source`, needs a `reframe` crop plan list in the spec.
+  instagram_caption is optional (TikTok-only specs omit it; every check that touches it is skipped).
   submission (optional, default "vyro"): where the post link is submitted; sets the note written by the `log` stage.
 
 Review gate (William, 2026-10-23: Morpheus approves clips; William gets a summary): hosting and scheduling refuse until
@@ -142,7 +145,7 @@ def other_specs(spec):
 def lint(spec, allow_question):
     errs = []
     for k in ("id", "campaign", "source", "start", "end", "hook", "caption", "required_tags", "tiktok_caption",
-              "instagram_caption", "footage"):
+              "footage"):
         if k not in spec:
             errs.append(f"spec missing '{k}'")
     if errs:
@@ -171,7 +174,8 @@ def lint(spec, allow_question):
         for _, op in variants(o):
             if isinstance(op.get("hook"), str) and norm_hook(op["hook"]) in mine:
                 errs.append(f"hook {op['hook']!r} is already used by {o['id']} (same campaign)")
-    if norm_caption(spec["tiktok_caption"]) == norm_caption(spec["instagram_caption"]):
+    caps = [k for k in ("tiktok_caption", "instagram_caption") if k in spec]  # TikTok-only specs have no instagram_caption
+    if len(caps) == 2 and norm_caption(spec["tiktok_caption"]) == norm_caption(spec["instagram_caption"]):
         errs.append("tiktok_caption and instagram_caption are the same once tags/mentions are removed")
     if not re.fullmatch(r"[a-z0-9_-]+", str(spec.get("submission", "vyro"))):
         errs.append("submission must be a lowercase word such as 'vyro' or 'whop'")
@@ -181,7 +185,7 @@ def lint(spec, allow_question):
             errs.append("required_mentions must be a list of @handles")
         else:
             req_m = [m.lower() for m in rm]
-            for k in ("tiktok_caption", "instagram_caption"):
+            for k in caps:
                 found = [m.lower() for m in re.findall(HANDLE_RE, spec[k])]
                 for m in req_m:
                     if found.count(m) != 1:
@@ -190,12 +194,21 @@ def lint(spec, allow_question):
                 if extra:
                     errs.append(f"{k}: unexpected @handles {extra}")
     req = {t.lower() for t in spec["required_tags"]}
-    for k in ("tiktok_caption", "instagram_caption"):
+    for k in caps:
         tags = {t.lower() for t in re.findall(r"#\w+", spec[k])}
         if tags != req:
             errs.append(f"{k}: hashtags {sorted(tags)} must be exactly {sorted(req)}")
         if re.search(r"\b(like|comment|share|follow|subscribe)\b[^.]*\b(this|below|now|if)\b", spec[k], re.I):
             errs.append(f"{k}: looks like engagement bait")
+    layout = spec.get("layout", "band")
+    if layout not in ("band", "reframe"):
+        errs.append("layout must be 'band' (default, blurred band) or 'reframe' (full-frame crop, pipeline/reframe_short.py)")
+    elif layout == "reframe":
+        rf = spec.get("reframe")
+        if not isinstance(rf, list) or not rf or not all(isinstance(e, dict) and "t0" in e and "t1" in e for e in rf):
+            errs.append("layout 'reframe' needs a 'reframe' crop plan: a list of {t0,t1,cx,cy,zoom,...} entries (see reframe_short.py)")
+        elif os.path.exists(spec["source"]) and ffinfo(spec["source"]).get("h", 0) < 2160:
+            errs.append("layout 'reframe' must render from the 4K original, not a 1080p copy")
     f = spec["footage"]
     if isinstance(f, dict):
         from guard import is_approved, DEFAULT
@@ -299,10 +312,14 @@ def main():
         mine = source_ranges(spec)
         for other in sorted(glob.glob(os.path.join(ROOT, "specs", "*.json"))):
             o = json.load(open(other))
-            if o["id"] == cid or o.get("source") != spec["source"]:
+            if o["id"] == cid or o.get("campaign") != spec["campaign"]:
                 continue  # a spec's own variants are never compared with each other
             for os_, oe in source_ranges(o):
                 if any(os_ < me and ms < oe for ms, me in mine):
+                    waived = (spec.get("overlap_waived") or {}).get(o["id"])
+                    if waived:
+                        print(f"overlap with {o['id']} ({os_}-{oe} s) waived: {waived}")
+                        continue
                     sys.exit(f"REFUSED: source range overlaps {o['id']} ({os_}-{oe} s)")
         at = datetime.now(timezone.utc).isoformat(timespec="seconds")
         for plat, _ in vs:
@@ -355,8 +372,14 @@ def main():
             if stage == "cut":
                 ln = p["end"] - p["start"]
                 run([FFMPEG, "-y", "-loglevel", "error", "-ss", str(p["start"]), "-t", str(ln), "-i", spec["source"],
-                     "-af", f"afade=t=out:st={ln - 0.4:.2f}:d=0.4", "-c:v", "libx264", "-preset", "fast", "-crf", "18",
+                     "-af", f"afade=t=out:st={ln - 0.4:.2f}:d=0.4", "-c:v", "libx264", "-preset", "fast",
+                     "-crf", "14" if spec.get("layout") == "reframe" else "18",
                      "-c:a", "aac", "-b:a", "192k", cut])
+            elif stage == "format" and spec.get("layout") == "reframe":
+                json.dump(spec["reframe"], open(os.path.join(vd, "reframe-plan.json"), "w"), indent=1)
+                run([sys.executable, os.path.join(HERE, "reframe_short.py"), "render", cut, short,
+                     "--plan", os.path.join(vd, "reframe-plan.json"), "--hook", p["hook"],
+                     "--caption", p["caption"], "--style", str(p["style"])])
             elif stage == "format":
                 run([sys.executable, os.path.join(HERE, "format_short.py"), cut, short, "--hook", p["hook"],
                      "--caption", p["caption"], "--style", str(p["style"])])

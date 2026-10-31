@@ -1,0 +1,78 @@
+{
+ "id": "hs3-10",
+ "campaign": "hardscope-ep3",
+ "source": "/home/williamdownard/.openclaw/workspace/projects/clips/campaigns/hardscope-ep3/source/UNPACKED_103_FINAL.mp4",
+ "start": 151.9,
+ "end": 171.5,
+ "hook": "One last pack to win it all back",
+ "caption": "The last Pokémon pack of the round, with a lot of hope riding on it.",
+ "style": 1,
+ "required_tags": [
+  "#unpacked"
+ ],
+ "tiktok_caption": "The Pokémon round at Unpacked comes down to the last pack, with every dollar once spent on Pokémon riding on it. Full episode on @hardscope #unpacked",
+ "schedule": {},
+ "footage": "campaign-supplied",
+ "pattern": "test1 layout=reframe: Last Pokemon pack: 'every dollar I spent' (151.9-171.5 s); blind send-it rating 3.5; slot Mon 11/02 7:00 PM ET",
+ "layout": "reframe",
+ "notes": "Words: 'Yeah, last chance right here, last pack' 151.4-154.2; 'Come on. Every dollar I spent on Pokemon could come back to me. It's all been leading up to this moment' 157.3-163.4; 'So close. Hey, these are some hits. No. Fuck. Zapdos.' 166.7-170.2. Ends before 'This kid looks like me...' (172.6) so no minor. 'fucking adorable' (148.3) is before the start. One profanity ('Fuck', 169.5). Speaker not attributed in the hook/caption.",
+ "required_mentions": [
+  "@hardscope"
+ ],
+ "submission": "whop",
+ "slot": "Mon 11/02 7:00 PM ET",
+ "moment_rating": 3.5,
+ "reframe": [
+  {
+   "t0": 0.0,
+   "t1": 1.96,
+   "cx": 0.49,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "why": "two-shot at the table"
+  },
+  {
+   "t0": 1.96,
+   "t1": 3.629,
+   "cx": 0.185,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "why": "overhead: card and VALUE at left"
+  },
+  {
+   "t0": 3.629,
+   "t1": 6.506,
+   "cx": 0.53,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "why": "two-shot"
+  },
+  {
+   "t0": 6.506,
+   "t1": 13.764,
+   "cx": 0.185,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "why": "overhead pack opening, long"
+  },
+  {
+   "t0": 13.764,
+   "t1": 15.599,
+   "cx": 0.2,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "why": "greyscale overhead"
+  },
+  {
+   "t0": 15.599,
+   "t1": 19.6,
+   "cx": 0.45,
+   "cy": 0.5,
+   "zoom": 1.0,
+   "why": "David close-up, slow push on the 'Zapdos' reaction",
+   "cx_to": 0.45,
+   "cy_to": 0.46,
+   "zoom_to": 1.15
+  }
+ ]
+}

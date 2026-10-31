@@ -1,0 +1,25 @@
+{
+ "id": "hs3-07",
+ "campaign": "hardscope-ep3",
+ "source": "/home/williamdownard/openclaw-sites/clips-work/campaigns/hardscope-ep3/source-1080p.mp4",
+ "start": 289.8,
+ "end": 310.4,
+ "hook": "What he thought Mbappe was",
+ "caption": "A packed Paris club, a panicking crowd, and a wrong guess about a name.",
+ "style": 1,
+ "required_tags": [
+  "#unpacked"
+ ],
+ "tiktok_caption": "At Unpacked, a story about hearing Mbappe's name for the first time in a Paris club ends with a very different guess about who he was. Full episode on @hardscope #unpacked",
+ "schedule": {},
+ "footage": "campaign-supplied",
+ "pattern": "test1 layout=band: Mbappe = 'some Spanish artist' story (289.8-310.4 s); blind send-it rating 4; slot Sun 11/01 12:30 PM ET",
+ "layout": "band",
+ "notes": "Words (small.en): 'There was like 200 people there and everyone started panicking that, like, Mbappe's here' 289.9-295.3; 'if you hear that name for the first time, it's definitely like some Spanish artist' 295.9-299.3; 'amazing tunes' 302.6; 'one of the most legendary soccer players of all time' 303-306.6; 'I am gravitated towards him' 307.3-310.1. Starts after 'tiny club in Paris' (286-289.3) so it opens on the crowd panic; the Paris setting is in the caption. Soccer broadcast b-roll is part of the supplied footage. No minors on screen (Toby appears from 318 s). No profanity. Speaker is David on screen (not named in hook/caption).",
+ "required_mentions": [
+  "@hardscope"
+ ],
+ "submission": "whop",
+ "slot": "Sun 11/01 12:30 PM ET",
+ "moment_rating": 4
+}

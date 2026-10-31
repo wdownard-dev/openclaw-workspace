@@ -1,0 +1,25 @@
+{
+ "id": "hs3-09",
+ "campaign": "hardscope-ep3",
+ "source": "/home/williamdownard/openclaw-sites/clips-work/campaigns/hardscope-ep3/source-1080p.mp4",
+ "start": 1143.8,
+ "end": 1159.0,
+ "hook": "Checkout day: time to see the damage",
+ "caption": "A card terminal times out, then the total shows up on screen.",
+ "style": 1,
+ "required_tags": [
+  "#unpacked"
+ ],
+ "tiktok_caption": "At the end of the Unpacked shop run, the card terminal times out and the total finally appears on screen. Full episode on @hardscope #unpacked",
+ "schedule": {},
+ "footage": "campaign-supplied",
+ "pattern": "test1 layout=band: Checkout: terminal times out, total shows on screen (1143.8-1159.0 s); blind send-it rating 3.5; slot Mon 11/02 12:30 PM ET",
+ "layout": "band",
+ "notes": "Words: 'Now it's time to check out. Oh shit, it's a transaction timed out' 1143.8-1147.3; 'What's the damage today? All right guys, it's a 12.7' 1150-1154.5; 'Here we go, I guess' 1157.5-1158.6. The on-screen total reads $12,700 TOTAL COST (seen in a frame). The amount is deliberately not in the hook/caption. Ends before 1163.1 (hs3-04 starts there). Last ~0.6 s is silence under the fade. One profanity ('shit', 1145.8).",
+ "required_mentions": [
+  "@hardscope"
+ ],
+ "submission": "whop",
+ "slot": "Mon 11/02 12:30 PM ET",
+ "moment_rating": 3.5
+}

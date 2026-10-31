@@ -56,6 +56,10 @@ Format: `<!-- observed: YYYY-MM-DD | status: active|superseded -->` then one imp
 
 - Treat profanity as acceptable ("clean audio" means audio quality; swears give shock value). Still apply each campaign's brief rules (no slurs, NSFW, FaZe, politics, minors).
 
+<!-- observed: 2026-10-30 | status: active -->
+
+- Never tap Appeal on a TikTok restriction (hs3-01 flagged 'unoriginal content'): William said no appeal. Fix the format instead.
+
 <!-- observed: 2026-10-23 | status: superseded -->
 
 - (Superseded: submit-every-post-to-Vyro, now traction-gated; "Accept <full name>"; "Prioritize TikTok", now the focus rule.)

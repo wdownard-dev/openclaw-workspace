@@ -1,0 +1,17 @@
+{
+  "run_id": "hqZgrF1W5RnWYUn75",
+  "actor": "clockworks/tiktok-hashtag-scraper",
+  "status": "SUCCEEDED",
+  "usage_total_usd": 0.45,
+  "dataset_id": "C8Y4li4hCNCLK7GgZ",
+  "tags": [
+    "unpacked",
+    "TotalDramaRoblox",
+    "MW4",
+    "MW4partner",
+    "FamilyGuy"
+  ],
+  "results_per_tag_requested": 30,
+  "item_count": 150,
+  "max_charge_cap_usd": 1.0
+}

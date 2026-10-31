@@ -1,0 +1,16 @@
+{
+  "run_id": "G0nfqw2SiltmFIevO",
+  "actor": "clockworks/tiktok-scraper",
+  "status": "SUCCEEDED",
+  "usage_total_usd": 0.1416,
+  "dataset_id": "n7VEhliE1fUSqxkwP",
+  "queries": [
+    "Total Drama Island Roblox",
+    "HardScope unpacked clip",
+    "MrBeast Gaming MW4 clip",
+    "Family Guy Halloween hell"
+  ],
+  "results_per_query_requested": 25,
+  "item_count": 38,
+  "max_charge_cap_usd": 0.75
+}
