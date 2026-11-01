@@ -11,7 +11,9 @@
   "#unpacked"
  ],
  "tiktok_caption": "Unpacked: one tennis pack, about 300 cards, and a hope that Taylor Fritz is in it. Full episode on @hardscope #unpacked",
- "schedule": {},
+ "schedule": {
+  "tiktok": "2026-11-01T19:00:00-05:00"
+ },
  "footage": "campaign-supplied",
  "pattern": "test1 layout=reframe: One tennis pack for $1,200, run of hits and a quad autograph (439.9-484.7 s); blind send-it rating 4; slot Sun 11/01 7:00 PM ET",
  "layout": "reframe",
