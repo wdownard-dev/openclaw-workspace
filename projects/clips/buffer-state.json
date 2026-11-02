@@ -190,11 +190,21 @@
   "error": ""
  },
  "hs3-07-tiktok": {
+  "status": "sent",
+  "link": "https://tiktok.com/@rvclips6/video/7703256785683074317",
+  "error": ""
+ },
+ "hs3-08-tiktok": {
+  "status": "sent",
+  "link": "https://tiktok.com/@rvclips6/video/7703357487574945037",
+  "error": ""
+ },
+ "hs3-09-tiktok": {
   "status": "scheduled",
   "link": "",
   "error": ""
  },
- "hs3-08-tiktok": {
+ "hs3-10-tiktok": {
   "status": "scheduled",
   "link": "",
   "error": ""

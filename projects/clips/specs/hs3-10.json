@@ -5,13 +5,15 @@
  "start": 151.9,
  "end": 171.5,
  "hook": "One last pack to win it all back",
- "caption": "The last Pokémon pack of the round, with a lot of hope riding on it.",
+ "caption": "The last Pok\u00e9mon pack of the round, with a lot of hope riding on it.",
  "style": 1,
  "required_tags": [
   "#unpacked"
  ],
- "tiktok_caption": "The Pokémon round at Unpacked comes down to the last pack, with every dollar once spent on Pokémon riding on it. Full episode on @hardscope #unpacked",
- "schedule": {},
+ "tiktok_caption": "The Pok\u00e9mon round at Unpacked comes down to the last pack, with every dollar once spent on Pok\u00e9mon riding on it. Full episode on @hardscope #unpacked",
+ "schedule": {
+  "tiktok": "2026-11-02T19:00:00-05:00"
+ },
  "footage": "campaign-supplied",
  "pattern": "test1 layout=reframe: Last Pokemon pack: 'every dollar I spent' (151.9-171.5 s); blind send-it rating 3.5; slot Mon 11/02 7:00 PM ET",
  "layout": "reframe",

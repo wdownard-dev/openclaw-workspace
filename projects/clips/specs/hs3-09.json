@@ -11,7 +11,9 @@
   "#unpacked"
  ],
  "tiktok_caption": "At the end of the Unpacked shop run, the card terminal times out and the total finally appears on screen. Full episode on @hardscope #unpacked",
- "schedule": {},
+ "schedule": {
+  "tiktok": "2026-11-02T12:30:00-05:00"
+ },
  "footage": "campaign-supplied",
  "pattern": "test1 layout=band: Checkout: terminal times out, total shows on screen (1143.8-1159.0 s); blind send-it rating 3.5; slot Mon 11/02 12:30 PM ET",
  "layout": "band",
