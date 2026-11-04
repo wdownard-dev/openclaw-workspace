@@ -1,0 +1,560 @@
+[
+ {
+  "lane": "lead-creator",
+  "channel": "AsmonTV",
+  "video": "D-iTlKucbf0",
+  "submitted_at": 1793753559,
+  "resp": {
+   "id": "P3110400qVIR",
+   "sourcePlatform": "YOUTUBE",
+   "sourceId": "YT_D-iTlKucbf0",
+   "sourceInfo": {
+    "type": "YOUTUBE",
+    "videoId": "D-iTlKucbf0",
+    "title": "This MMO is in BIG Trouble..",
+    "thumbnailUrl": "https://signed-ext.cdn.opus.pro/import/YT_D-iTlKucbf0/source/video/thumbnail.webp?v=1793753558735948&hdnts=FullPath~Expires=1793839949~Signature=Dfd1Qqi402Re32tPQ5vKaXQnKy5erocMbWMIIOBCbzwzPg41G-M4-yQRIfBcrkNZlzrxsAN7qdf4xzPWk7DqDA",
+    "durationMs": 850000,
+    "publishAt": "2026-11-04T00:52:39.308Z"
+   },
+   "userId": "user_01M6H1EKEC1MV3QC9B1WNH895Y",
+   "orgId": "org_1k6h1ejuban8vxpsP895Y",
+   "productTier": "PRO",
+   "stage": "QUEUED",
+   "model": "ClipBasic",
+   "isPrivate": false,
+   "importPref": {
+    "hasScreenplay": false,
+    "enableUnifiedGenre": true
+   },
+   "curationPref": {
+    "clipDurations": [
+     [
+      15,
+      60
+     ]
+    ],
+    "genre": "Auto",
+    "disableJudgeModel": false,
+    "disableSwitchModel": false,
+    "countScaler": 1,
+    "model": "ClipBasic"
+   },
+   "renderPref": {
+    "skipReframe": false,
+    "enableWatermark": false,
+    "layoutAspectRatio": "portrait",
+    "disableFitBackgroundBlur": false
+   },
+   "storageSize": 0,
+   "storageExpireAt": "2026-12-04T00:52:39.308Z",
+   "storageStatus": "TEMPORARY",
+   "createdAt": "2026-11-04T00:52:39.316Z",
+   "updatedAt": "2026-11-04T00:52:39.316Z",
+   "title": "This MMO is in BIG Trouble..",
+   "projectId": "P3110400qVIR",
+   "visibility": "DEFAULT",
+   "permissions": [
+    "PROJECT_SHARE",
+    "PROJECT_EDIT",
+    "PROJECT_VIEW"
+   ],
+   "promptRecommendations": []
+  }
+ },
+ {
+  "lane": "lead-creator",
+  "channel": "Mizkif",
+  "video": "Z6dybYngmso",
+  "submitted_at": 1793753571,
+  "resp": {
+   "id": "P3110400qgop",
+   "sourcePlatform": "YOUTUBE",
+   "sourceId": "YT_Z6dybYngmso",
+   "sourceInfo": {
+    "type": "YOUTUBE",
+    "videoId": "Z6dybYngmso",
+    "title": "H3H3 IS  GETTING DIVORCED",
+    "thumbnailUrl": "https://signed-ext.cdn.opus.pro/import/YT_Z6dybYngmso/source/video/thumbnail.jpg?v=1793753569737745&hdnts=FullPath~Expires=1793839960~Signature=X5dBcx28z6lY-afb_TiyvZ5FsTGWc9ig78RmZj0vcUeJiih12tHUCBtsytudZvtkaQ7Jv7o4rvVFXntNtUSwAw",
+    "durationMs": 1000000,
+    "publishAt": "2026-11-04T00:52:50.453Z"
+   },
+   "userId": "user_01M6H1EKEC1MV3QC9B1WNH895Y",
+   "orgId": "org_1k6h1ejuban8vxpsP895Y",
+   "productTier": "PRO",
+   "stage": "QUEUED",
+   "model": "ClipBasic",
+   "isPrivate": false,
+   "importPref": {
+    "hasScreenplay": false,
+    "enableUnifiedGenre": true
+   },
+   "curationPref": {
+    "clipDurations": [
+     [
+      15,
+      60
+     ]
+    ],
+    "genre": "Auto",
+    "disableJudgeModel": false,
+    "disableSwitchModel": false,
+    "countScaler": 1,
+    "model": "ClipBasic"
+   },
+   "renderPref": {
+    "skipReframe": false,
+    "enableWatermark": false,
+    "layoutAspectRatio": "portrait",
+    "disableFitBackgroundBlur": false
+   },
+   "storageSize": 0,
+   "storageExpireAt": "2026-12-04T00:52:50.453Z",
+   "storageStatus": "TEMPORARY",
+   "createdAt": "2026-11-04T00:52:50.461Z",
+   "updatedAt": "2026-11-04T00:52:50.461Z",
+   "title": "H3H3 IS  GETTING DIVORCED",
+   "projectId": "P3110400qgop",
+   "visibility": "DEFAULT",
+   "permissions": [
+    "PROJECT_SHARE",
+    "PROJECT_EDIT",
+    "PROJECT_VIEW"
+   ],
+   "promptRecommendations": []
+  }
+ },
+ {
+  "lane": "lead-creator",
+  "channel": "xQcOW",
+  "video": "dYPiqKPxkj0",
+  "submitted_at": 1793753582,
+  "resp": {
+   "id": "P3110400qrO2",
+   "sourcePlatform": "YOUTUBE",
+   "sourceId": "YT_dYPiqKPxkj0",
+   "sourceInfo": {
+    "type": "YOUTUBE",
+    "videoId": "dYPiqKPxkj0",
+    "title": "The Dumbest Way to Rob a Bank | xQc Reacts",
+    "thumbnailUrl": "https://signed-ext.cdn.opus.pro/import/YT_dYPiqKPxkj0/source/video/thumbnail.jpg?v=1793753581479106&hdnts=FullPath~Expires=1793839972~Signature=5KZWXfz_r98glGj9YkY6985CdqSvGzMjIrNhSvh3Bw4eYHWU1jW98iZNoA10HHV0nM0Z5RB77EeScl3fyAphCQ",
+    "durationMs": 685000,
+    "publishAt": "2026-11-04T00:53:02.211Z"
+   },
+   "userId": "user_01M6H1EKEC1MV3QC9B1WNH895Y",
+   "orgId": "org_1k6h1ejuban8vxpsP895Y",
+   "productTier": "PRO",
+   "stage": "QUEUED",
+   "model": "ClipBasic",
+   "isPrivate": false,
+   "importPref": {
+    "hasScreenplay": false,
+    "enableUnifiedGenre": true
+   },
+   "curationPref": {
+    "clipDurations": [
+     [
+      15,
+      60
+     ]
+    ],
+    "genre": "Auto",
+    "disableJudgeModel": false,
+    "disableSwitchModel": false,
+    "countScaler": 1,
+    "model": "ClipBasic"
+   },
+   "renderPref": {
+    "skipReframe": false,
+    "enableWatermark": false,
+    "layoutAspectRatio": "portrait",
+    "disableFitBackgroundBlur": false
+   },
+   "storageSize": 0,
+   "storageExpireAt": "2026-12-04T00:53:02.211Z",
+   "storageStatus": "TEMPORARY",
+   "createdAt": "2026-11-04T00:53:02.220Z",
+   "updatedAt": "2026-11-04T00:53:02.220Z",
+   "title": "The Dumbest Way to Rob a Bank | xQc Reacts",
+   "projectId": "P3110400qrO2",
+   "visibility": "DEFAULT",
+   "permissions": [
+    "PROJECT_SHARE",
+    "PROJECT_EDIT",
+    "PROJECT_VIEW"
+   ],
+   "promptRecommendations": []
+  }
+ },
+ {
+  "lane": "news",
+  "channel": "NTSBgov",
+  "video": "_7aLwIMptyc",
+  "submitted_at": 1793753594,
+  "resp": {
+   "id": "P3110400r5SK",
+   "sourcePlatform": "YOUTUBE",
+   "sourceId": "YT__7aLwIMptyc",
+   "sourceInfo": {
+    "type": "YOUTUBE",
+    "videoId": "_7aLwIMptyc",
+    "title": "NTSB Media Briefing 2 - Palm Beach County, FL Learjet 60 Airplane Crash",
+    "thumbnailUrl": "https://signed-ext.cdn.opus.pro/import/YT__7aLwIMptyc/source/video/thumbnail.jpg?v=1793753593103169&hdnts=FullPath~Expires=1793839984~Signature=YCjdBaKrkW1abBD5l-evDQjSNyUAkfmHfIUbOOYka1ycAukTzwq1ACdNKaVy2GnzemWYWcksA9hIHA89utiaBA",
+    "durationMs": 855000,
+    "publishAt": "2026-11-04T00:53:13.821Z"
+   },
+   "userId": "user_01M6H1EKEC1MV3QC9B1WNH895Y",
+   "orgId": "org_1k6h1ejuban8vxpsP895Y",
+   "productTier": "PRO",
+   "stage": "QUEUED",
+   "model": "ClipBasic",
+   "isPrivate": false,
+   "importPref": {
+    "hasScreenplay": false,
+    "enableUnifiedGenre": true
+   },
+   "curationPref": {
+    "clipDurations": [
+     [
+      15,
+      60
+     ]
+    ],
+    "genre": "Auto",
+    "disableJudgeModel": false,
+    "disableSwitchModel": false,
+    "countScaler": 1,
+    "model": "ClipBasic"
+   },
+   "renderPref": {
+    "skipReframe": false,
+    "enableWatermark": false,
+    "layoutAspectRatio": "portrait",
+    "disableFitBackgroundBlur": false
+   },
+   "storageSize": 0,
+   "storageExpireAt": "2026-12-04T00:53:13.821Z",
+   "storageStatus": "TEMPORARY",
+   "createdAt": "2026-11-04T00:53:13.829Z",
+   "updatedAt": "2026-11-04T00:53:13.829Z",
+   "title": "NTSB Media Briefing 2 - Palm Beach County, FL Learjet 60 Airplane Crash",
+   "projectId": "P3110400r5SK",
+   "visibility": "DEFAULT",
+   "permissions": [
+    "PROJECT_SHARE",
+    "PROJECT_EDIT",
+    "PROJECT_VIEW"
+   ],
+   "promptRecommendations": []
+  }
+ },
+ {
+  "lane": "news",
+  "channel": "CaptainSteeeve",
+  "video": "P7As4gYRE8M",
+  "submitted_at": 1793753606,
+  "resp": {
+   "id": "P3110400rGyR",
+   "sourcePlatform": "YOUTUBE",
+   "sourceId": "YT_P7As4gYRE8M",
+   "sourceInfo": {
+    "type": "YOUTUBE",
+    "videoId": "P7As4gYRE8M",
+    "title": "Understanding the Learjet Crash in Palm Beach | Captain Steeeve",
+    "thumbnailUrl": "https://signed-ext.cdn.opus.pro/import/YT_P7As4gYRE8M/source/video/thumbnail.jpg?v=1793688768983032&hdnts=FullPath~Expires=1793839995~Signature=ADtpW75agKpW3JMNIUNGT0eDSRBuWMA6dEAVqo2vqT1b0u8By51X3VxwkFY9FBV06cF3a_JJjwmybE0JDUFDCw",
+    "durationMs": 1302000,
+    "publishAt": "2026-11-04T00:53:25.441Z"
+   },
+   "userId": "user_01M6H1EKEC1MV3QC9B1WNH895Y",
+   "orgId": "org_1k6h1ejuban8vxpsP895Y",
+   "productTier": "PRO",
+   "stage": "QUEUED",
+   "model": "ClipBasic",
+   "isPrivate": false,
+   "importPref": {
+    "hasScreenplay": false,
+    "enableUnifiedGenre": true
+   },
+   "curationPref": {
+    "clipDurations": [
+     [
+      15,
+      60
+     ]
+    ],
+    "genre": "Auto",
+    "disableJudgeModel": false,
+    "disableSwitchModel": false,
+    "countScaler": 1,
+    "model": "ClipBasic"
+   },
+   "renderPref": {
+    "skipReframe": false,
+    "enableWatermark": false,
+    "layoutAspectRatio": "portrait",
+    "disableFitBackgroundBlur": false
+   },
+   "storageSize": 0,
+   "storageExpireAt": "2026-12-04T00:53:25.441Z",
+   "storageStatus": "TEMPORARY",
+   "createdAt": "2026-11-04T00:53:25.450Z",
+   "updatedAt": "2026-11-04T00:53:25.450Z",
+   "title": "Understanding the Learjet Crash in Palm Beach | Captain Steeeve",
+   "projectId": "P3110400rGyR",
+   "visibility": "DEFAULT",
+   "permissions": [
+    "PROJECT_SHARE",
+    "PROJECT_EDIT",
+    "PROJECT_VIEW"
+   ],
+   "promptRecommendations": []
+  }
+ },
+ {
+  "lane": "ai",
+  "channel": "NateHerk",
+  "video": "DByAR5Su1Yw",
+  "submitted_at": 1793753618,
+  "resp": {
+   "id": "P3110400rSTR",
+   "sourcePlatform": "YOUTUBE",
+   "sourceId": "YT_DByAR5Su1Yw",
+   "sourceInfo": {
+    "type": "YOUTUBE",
+    "videoId": "DByAR5Su1Yw",
+    "title": "I Told Claude to \"Make it better\" 100 Times (It Went Too Far)",
+    "thumbnailUrl": "https://signed-ext.cdn.opus.pro/import/YT_DByAR5Su1Yw/source/video/thumbnail.webp?v=1793551353263331&hdnts=FullPath~Expires=1793840007~Signature=EL8EuA2d5pCH58vp32nCjnf8DzPyPeO2YqOhN9xRe6KVNHEb2hH5o7mBNlFvlX6DNAmkGKFyJBDeSw7q3FpHCA",
+    "durationMs": 830000,
+    "publishAt": "2026-11-04T00:53:37.483Z"
+   },
+   "userId": "user_01M6H1EKEC1MV3QC9B1WNH895Y",
+   "orgId": "org_1k6h1ejuban8vxpsP895Y",
+   "productTier": "PRO",
+   "stage": "QUEUED",
+   "model": "ClipBasic",
+   "isPrivate": false,
+   "importPref": {
+    "hasScreenplay": false,
+    "enableUnifiedGenre": true
+   },
+   "curationPref": {
+    "clipDurations": [
+     [
+      15,
+      60
+     ]
+    ],
+    "genre": "Auto",
+    "disableJudgeModel": false,
+    "disableSwitchModel": false,
+    "countScaler": 1,
+    "model": "ClipBasic"
+   },
+   "renderPref": {
+    "skipReframe": false,
+    "enableWatermark": false,
+    "layoutAspectRatio": "portrait",
+    "disableFitBackgroundBlur": false
+   },
+   "storageSize": 0,
+   "storageExpireAt": "2026-12-04T00:53:37.483Z",
+   "storageStatus": "TEMPORARY",
+   "createdAt": "2026-11-04T00:53:37.490Z",
+   "updatedAt": "2026-11-04T00:53:37.490Z",
+   "title": "I Told Claude to \"Make it better\" 100 Times (It Went Too Far)",
+   "projectId": "P3110400rSTR",
+   "visibility": "DEFAULT",
+   "permissions": [
+    "PROJECT_SHARE",
+    "PROJECT_EDIT",
+    "PROJECT_VIEW"
+   ],
+   "promptRecommendations": []
+  }
+ },
+ {
+  "lane": "gaming-gta6",
+  "channel": "T5G",
+  "video": "4uzcHgsE-xM",
+  "submitted_at": 1793753622,
+  "resp": {
+   "id": "P3110400reey",
+   "sourcePlatform": "YOUTUBE",
+   "sourceId": "YT_4uzcHgsE-xM",
+   "sourceInfo": {
+    "type": "YOUTUBE",
+    "videoId": "4uzcHgsE-xM",
+    "title": "GTA 6 - BIGGEST REVEAL YET!",
+    "thumbnailUrl": "https://signed-ext.cdn.opus.pro/import/YT_4uzcHgsE-xM/source/video/thumbnail.webp?v=1793312547746619&hdnts=FullPath~Expires=1793840011~Signature=l6_PrPtQN8CifB4SxibRU0waTr1DvJ9m5qe9Xa47wg900MtNqWNjJGgCLPeJlXfUQEp1gViVW9JNlV5_Z9ETBQ",
+    "durationMs": 542475,
+    "publishAt": "2026-11-04T00:53:41.474Z"
+   },
+   "userId": "user_01M6H1EKEC1MV3QC9B1WNH895Y",
+   "orgId": "org_1k6h1ejuban8vxpsP895Y",
+   "productTier": "PRO",
+   "stage": "QUEUED",
+   "model": "ClipBasic",
+   "isPrivate": false,
+   "importPref": {
+    "hasScreenplay": false,
+    "enableUnifiedGenre": true
+   },
+   "curationPref": {
+    "clipDurations": [
+     [
+      15,
+      60
+     ]
+    ],
+    "genre": "Auto",
+    "disableJudgeModel": false,
+    "disableSwitchModel": false,
+    "countScaler": 1,
+    "model": "ClipBasic"
+   },
+   "renderPref": {
+    "skipReframe": false,
+    "enableWatermark": false,
+    "layoutAspectRatio": "portrait",
+    "disableFitBackgroundBlur": false
+   },
+   "storageSize": 0,
+   "storageExpireAt": "2026-12-04T00:53:41.474Z",
+   "storageStatus": "TEMPORARY",
+   "createdAt": "2026-11-04T00:53:41.481Z",
+   "updatedAt": "2026-11-04T00:53:41.482Z",
+   "title": "GTA 6 - BIGGEST REVEAL YET!",
+   "projectId": "P3110400reey",
+   "visibility": "DEFAULT",
+   "permissions": [
+    "PROJECT_SHARE",
+    "PROJECT_EDIT",
+    "PROJECT_VIEW"
+   ],
+   "promptRecommendations": []
+  }
+ },
+ {
+  "lane": "gaming-gta6",
+  "channel": "TmarTn2",
+  "video": "wlNow3XlnDc",
+  "submitted_at": 1793753635,
+  "resp": {
+   "id": "P3110400ri9v",
+   "sourcePlatform": "YOUTUBE",
+   "sourceId": "YT_wlNow3XlnDc",
+   "sourceInfo": {
+    "type": "YOUTUBE",
+    "videoId": "wlNow3XlnDc",
+    "title": "Another Real Life City in GTA 6 (Gay, Georgia)",
+    "thumbnailUrl": "https://signed-ext.cdn.opus.pro/import/YT_wlNow3XlnDc/source/video/thumbnail.webp?v=1793753634616863&hdnts=FullPath~Expires=1793840025~Signature=sW3cqEcga0HRu8yumeYJiHuBF4XVQruQxvfpWGlNLZVnQiqrwCrreY7Ad3rbGEiNdM3eOFLVeQZwIPSuv0O9DA",
+    "durationMs": 891000,
+    "publishAt": "2026-11-04T00:53:55.302Z"
+   },
+   "userId": "user_01M6H1EKEC1MV3QC9B1WNH895Y",
+   "orgId": "org_1k6h1ejuban8vxpsP895Y",
+   "productTier": "PRO",
+   "stage": "QUEUED",
+   "model": "ClipBasic",
+   "isPrivate": false,
+   "importPref": {
+    "hasScreenplay": false,
+    "enableUnifiedGenre": true
+   },
+   "curationPref": {
+    "clipDurations": [
+     [
+      15,
+      60
+     ]
+    ],
+    "genre": "Auto",
+    "disableJudgeModel": false,
+    "disableSwitchModel": false,
+    "countScaler": 1,
+    "model": "ClipBasic"
+   },
+   "renderPref": {
+    "skipReframe": false,
+    "enableWatermark": false,
+    "layoutAspectRatio": "portrait",
+    "disableFitBackgroundBlur": false
+   },
+   "storageSize": 0,
+   "storageExpireAt": "2026-12-04T00:53:55.302Z",
+   "storageStatus": "TEMPORARY",
+   "createdAt": "2026-11-04T00:53:55.309Z",
+   "updatedAt": "2026-11-04T00:53:55.310Z",
+   "title": "Another Real Life City in GTA 6 (Gay, Georgia)",
+   "projectId": "P3110400ri9v",
+   "visibility": "DEFAULT",
+   "permissions": [
+    "PROJECT_SHARE",
+    "PROJECT_EDIT",
+    "PROJECT_VIEW"
+   ],
+   "promptRecommendations": []
+  }
+ },
+ {
+  "lane": "gaming-funny",
+  "channel": "SMii7Y",
+  "video": "5cS8Rw9cWZU",
+  "submitted_at": 1793753639,
+  "resp": {
+   "id": "P3110400rwp0",
+   "sourcePlatform": "YOUTUBE",
+   "sourceId": "YT_5cS8Rw9cWZU",
+   "sourceInfo": {
+    "type": "YOUTUBE",
+    "videoId": "5cS8Rw9cWZU",
+    "title": "This Video is Bananas",
+    "thumbnailUrl": "https://signed-ext.cdn.opus.pro/import/YT_5cS8Rw9cWZU/source/video/thumbnail.webp?v=1793740156629073&hdnts=FullPath~Expires=1793840029~Signature=3gXTugaF4TcKMqMyBm9qRAOLrgjO1bH80mXxxcwzvQYGquDHxo4IFU2wf7ew3TFK_4-UR2N3LVsgSMjZLWriDA",
+    "durationMs": 1498966.667,
+    "publishAt": "2026-11-04T00:53:58.579Z"
+   },
+   "userId": "user_01M6H1EKEC1MV3QC9B1WNH895Y",
+   "orgId": "org_1k6h1ejuban8vxpsP895Y",
+   "productTier": "PRO",
+   "stage": "QUEUED",
+   "model": "ClipBasic",
+   "isPrivate": false,
+   "importPref": {
+    "hasScreenplay": false,
+    "enableUnifiedGenre": true
+   },
+   "curationPref": {
+    "clipDurations": [
+     [
+      15,
+      60
+     ]
+    ],
+    "genre": "Auto",
+    "disableJudgeModel": false,
+    "disableSwitchModel": false,
+    "countScaler": 1,
+    "model": "ClipBasic"
+   },
+   "renderPref": {
+    "skipReframe": false,
+    "enableWatermark": false,
+    "layoutAspectRatio": "portrait",
+    "disableFitBackgroundBlur": false
+   },
+   "storageSize": 0,
+   "storageExpireAt": "2026-12-04T00:53:58.579Z",
+   "storageStatus": "TEMPORARY",
+   "createdAt": "2026-11-04T00:53:58.587Z",
+   "updatedAt": "2026-11-04T00:53:58.587Z",
+   "title": "This Video is Bananas",
+   "projectId": "P3110400rwp0",
+   "visibility": "DEFAULT",
+   "permissions": [
+    "PROJECT_SHARE",
+    "PROJECT_EDIT",
+    "PROJECT_VIEW"
+   ],
+   "promptRecommendations": []
+  }
+ }
+]

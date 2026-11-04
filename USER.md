@@ -14,7 +14,7 @@ Format: `<!-- observed: YYYY-MM-DD | status: active|superseded -->` then one imp
 
 <!-- observed: 2026-10-28 | status: active -->
 
-- Focus on TikTok (William, 2026-10-28): no Instagram or YouTube variants, scheduling or submissions until he says TikTok has real traction. Existing IG/YouTube posts stay up. Never post outside the Buffer route without his explicit go.
+- Focus on TikTok (William, 2026-10-28; campaign project only, NOT projects/opusclip): no Instagram or YouTube variants, scheduling or submissions until he says TikTok has real traction. Existing IG/YouTube posts stay up. Never post outside the Buffer route without his explicit go.
 
 <!-- observed: 2026-10-23 | status: active -->
 
@@ -59,6 +59,14 @@ Format: `<!-- observed: YYYY-MM-DD | status: active|superseded -->` then one imp
 <!-- observed: 2026-10-30 | status: active -->
 
 - Never tap Appeal on a TikTok restriction (hs3-01 flagged 'unoriginal content'): William said no appeal. Fix the format instead.
+
+<!-- observed: 2026-11-03 | status: active -->
+
+- Project Red Pill (William's name, 2026-11-03) = the OpusClip/YouTube experiment in projects/opusclip; use the name to keep it separate from the TikTok/campaign project. Rules: OpusClip score threshold is >= 90 (William, 2026-11-03; supersedes 9.7; API scores are 0-100 curved integers): at or above 90 a clip is a posting candidate; below 90, deliberate with William and Strategist. Fact-stating clips (GTA 6, news) still get a human accuracy pass; before posting a batch, audit whether the clips will actually perform. This project is YouTube-first (William, 2026-11-03): the main goal is growing a YouTube channel, and its matching TikTok account only drives viewers to it. The campaign project is unchanged. Source channels come from Strategist's niche picks, not top creators. William may revise the threshold later. Permission policy (William, 2026-11-03): ignore source permission unless a wait rule (e.g. a 24-hour rule) is plainly posted by the source; if one is, respect it and wait before posting. Then be first: have the clip generated and approved during the wait and schedule it (opus.py schedule --at) to go live as soon as the wait expires (source upload time + wait, plus a few minutes of buffer). Lead lanes: creator/streamer moments AND gaming; news and AI make-money are tests. GTA 6 is a HUGE push (plan: projects/opusclip/gta6-push-plan.md; credit cap 450; YouTube Shorts 3/day from 11/10 and 4/day 11/19-21; TikTok 2/day, 3 on 11/19-20, revert to 2 on any warning). No watermark on Red Pill clips: leave OpusClip watermark off as generated (William, 2026-11-03, supersedes the keep-watermark note). Rockstar footage is allowed for GTA 6 clips (William, 2026-11-03).
+
+<!-- observed: 2026-11-03 | status: active -->
+
+- Project Red Pill is a LEARNING experiment (William, 2026-11-03, 'imperative'): the goal is to find what works (which niches, which video types, which formats and hooks), not to back a specific creator. Always track every post's results and what we did right and wrong; keep the experiment log and LEARNINGS.md current (projects/opusclip/experiment-log.csv, projects/opusclip/LEARNINGS.md), vary niche/type/format on purpose so results are comparable, and keep testing until a niche or video type can be pinpointed to focus on. Source creators are interchangeable test material; never treat a creator as the strategy. Hook-text test (frozen plan: projects/opusclip/hook-test-plan.md) runs 11/6-11/8; discuss results with William before adding enableAutoHook. TikTok for Red Pill = wrdclipz TikTok Business via OpusClip (not @rvclips6); posting only when William releases it, except the 4 hook-test posts he approved.
 
 <!-- observed: 2026-10-23 | status: superseded -->
 
