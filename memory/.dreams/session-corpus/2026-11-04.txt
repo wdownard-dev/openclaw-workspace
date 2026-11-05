@@ -1,0 +1,1 @@
+[main/sessions/main/2f92e05f-e5af-4008-94e9-a4e2167ce436#L3] Assistant: AUTOMATION_FAILED Clip buffer sync failed: Buffer API returned HTTP 429 (too many requests, rate limited). Results sync succeeded: 6/6 clips public, no new threshold crossings. Buffer will be retried on the next 3-hour run.
