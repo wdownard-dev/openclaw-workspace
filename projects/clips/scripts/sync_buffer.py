@@ -8,7 +8,7 @@ Usage:
 buffer-posts.json maps "<clip_id>-<platform>" -> Buffer post id. Add an entry whenever a post is created.
 Prints NOTICE lines for status changes (scheduled->sent, error) and when a live link first appears.
 """
-import csv, json, os, sys, time, urllib.error, urllib.request
+import csv, http.client, json, os, sys, time, urllib.error, urllib.request
 from datetime import datetime, timezone
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
@@ -26,10 +26,16 @@ def gql(q):
             time.sleep(1.5)  # spread the ~35 per-post calls so Buffer does not rate-limit the burst
             return json.load(urllib.request.urlopen(req, timeout=60))
         except urllib.error.HTTPError as e:
-            if e.code == 429 and attempt < 3:
+            if (e.code == 429 or e.code >= 500) and attempt < 3:
                 time.sleep(20 * (attempt + 1))
                 continue
             sys.exit(f"HTTP {e.code}: {e.read().decode(errors='replace')[:200]}")
+        except (urllib.error.URLError, OSError, http.client.HTTPException) as e:
+            # dropped connection / proxy hiccup: retry instead of aborting the whole snapshot
+            if attempt < 3:
+                time.sleep(5 * (attempt + 1))
+                continue
+            sys.exit(f"Buffer request failed after retries: {type(e).__name__}: {e}")
 
 
 def main():
