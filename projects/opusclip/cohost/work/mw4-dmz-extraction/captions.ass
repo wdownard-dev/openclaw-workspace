@@ -1,0 +1,56 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Cap,Fira Sans Condensed,84,&H00FFFFFF,&H000000FF,&H00281E1C,&H00000000,-1,0,0,0,100,100,0,0,1,7,2,8,50,50,1060,1
+Style: CapOut,Fira Sans Condensed,82,&H00FFFFFF,&H000000FF,&H00281E1C,&H00000000,-1,0,0,0,100,100,0,0,1,7,2,8,50,50,1310,1
+Style: Tag,Fira Sans Condensed,60,&H00FFFFFF,&H00000000,&H004AFF9B,&H004AFF9B,-1,0,0,0,100,100,3,0,3,14,0,8,0,0,95,1
+Style: Part,Fira Sans Condensed,56,&H0028281C,&H00000000,&H004AFF9B,&H004AFF9B,-1,0,0,0,100,100,3,0,3,12,0,8,0,0,1180,1
+Style: Name,Fira Sans Condensed,66,&H00FF9CC9,&H00000000,&H00281E1C,&H00000000,-1,0,0,0,100,100,6,0,1,4,0,2,0,0,1630,1
+Style: Credit,Fira Sans Condensed,44,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,1,0,1,4,1,1,48,0,70,1
+Style: CardHead,Fira Sans Condensed,58,&H004AFF9B,&H00000000,&H00281E1C,&H00000000,-1,0,0,0,100,100,3,0,1,5,0,8,60,60,1560,1
+Style: CardBody,Fira Sans Condensed,50,&H00FFFFFF,&H00000000,&H00281E1C,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,8,60,60,1630,1
+Style: CardSrc,Fira Sans Condensed,32,&H00E0E0E0,&H00000000,&H00281E1C,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,60,60,1740,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:50.02,Tag,,0,0,0,,AI CO-HOST
+Dialogue: 0,0:00:00.00,0:00:50.02,Credit,,0,0,0,,Source: @MrBeastGaming  (clip footage)
+Dialogue: 0,0:00:25.30,0:00:50.02,Name,,0,0,0,,{\an8\pos(540,215)}NULL//SMIRK
+Dialogue: 0,0:00:01.82,0:00:03.73,Cap,,0,0,0,,{\an8\pos(540,1060)}REPEATED SHOUTING. I'M
+Dialogue: 0,0:00:03.73,0:00:05.24,Cap,,0,0,0,,{\an8\pos(540,1060)}KEEPING SCORE.
+Dialogue: 0,0:00:07.32,0:00:10.27,Cap,,0,0,0,,{\an8\pos(540,1060)}COUNTING OUT LOUD. BOLD.
+Dialogue: 0,0:00:18.74,0:00:21.02,Cap,,0,0,0,,{\an8\pos(540,1060)}OFFICIAL DMZ WORDING: PLAYERS
+Dialogue: 0,0:00:21.02,0:00:22.28,Cap,,0,0,0,,{\an8\pos(540,1060)}"HOPE TO EXTRACT
+Dialogue: 0,0:00:22.28,0:00:24.16,Cap,,0,0,0,,{\an8\pos(540,1060)}WITH THEIR REWARDS."
+Dialogue: 0,0:00:24.85,0:00:26.77,CapOut,,0,0,0,,{\an8\pos(540,1310)}TIMELINE. OCTOBER 20:
+Dialogue: 0,0:00:26.77,0:00:28.23,CapOut,,0,0,0,,{\an8\pos(540,1310)}DMZ EARLY ACCESS
+Dialogue: 0,0:00:28.23,0:00:30.45,CapOut,,0,0,0,,{\an8\pos(540,1310)}OPENS FOR PRE-ORDERS.
+Dialogue: 1,0:00:24.85,0:00:30.50,Part,,0,0,0,,{\an8\pos(540,1180)}TAKEAWAY
+Dialogue: 1,0:00:24.85,0:00:30.64,CardHead,,0,0,0,,{\an8\pos(540,1560)}OCT 20, 2026
+Dialogue: 1,0:00:24.85,0:00:30.64,CardBody,,0,0,0,,{\an8\pos(540,1630)}DMZ early access, digital pre-orders
+Dialogue: 1,0:00:24.85,0:00:30.64,CardSrc,,0,0,0,,{\an8\pos(540,1700)}Source: callofduty.com - Call of Duty Blog: DMZ Deep Dive, Part 2 (2026-10-09)
+Dialogue: 0,0:00:30.50,0:00:33.13,CapOut,,0,0,0,,{\an8\pos(540,1310)}OCTOBER 23: MODERN WARFARE
+Dialogue: 0,0:00:33.13,0:00:35.46,CapOut,,0,0,0,,{\an8\pos(540,1310)}4 IS LIVE WORLDWIDE.
+Dialogue: 1,0:00:30.50,0:00:35.52,Part,,0,0,0,,{\an8\pos(540,1180)}TAKEAWAY
+Dialogue: 1,0:00:30.50,0:00:35.66,CardHead,,0,0,0,,{\an8\pos(540,1560)}OCT 23, 2026
+Dialogue: 1,0:00:30.50,0:00:35.66,CardBody,,0,0,0,,{\an8\pos(540,1630)}Modern Warfare 4 live worldwide
+Dialogue: 1,0:00:30.50,0:00:35.66,CardSrc,,0,0,0,,{\an8\pos(540,1700)}Source: callofduty.com - Call of Duty Blog: Modern Warfare 4 is Live Worldwide (2026-10-23)
+Dialogue: 0,0:00:35.52,0:00:37.52,CapOut,,0,0,0,,{\an8\pos(540,1310)}NOVEMBER 6: SEASON 1
+Dialogue: 0,0:00:37.52,0:00:38.93,CapOut,,0,0,0,,{\an8\pos(540,1310)}ADDS A NEW DMZ
+Dialogue: 0,0:00:38.93,0:00:40.83,CapOut,,0,0,0,,{\an8\pos(540,1310)}AREA AND BOSSES.
+Dialogue: 1,0:00:35.52,0:00:40.88,Part,,0,0,0,,{\an8\pos(540,1180)}TAKEAWAY
+Dialogue: 1,0:00:35.52,0:00:41.03,CardHead,,0,0,0,,{\an8\pos(540,1560)}NOV 6, 2026
+Dialogue: 1,0:00:35.52,0:00:41.03,CardBody,,0,0,0,,{\an8\pos(540,1630)}Season 1: new DMZ area and bosses
+Dialogue: 1,0:00:35.52,0:00:41.03,CardSrc,,0,0,0,,{\an8\pos(540,1700)}Source: callofduty.com - Call of Duty Blog: Warzone Season 1, Everything You Need to Know (2026-11-02)
+Dialogue: 0,0:00:40.88,0:00:42.19,CapOut,,0,0,0,,{\an8\pos(540,1310)}MY TAKE: THEY GOT
+Dialogue: 0,0:00:42.19,0:00:43.10,CapOut,,0,0,0,,{\an8\pos(540,1310)}THE MONEY. I
+Dialogue: 0,0:00:43.10,0:00:44.70,CapOut,,0,0,0,,{\an8\pos(540,1310)}GOT THE CALENDAR.
+Dialogue: 1,0:00:40.88,0:00:44.75,Part,,0,0,0,,{\an8\pos(540,1180)}MY TAKE
+Dialogue: 0,0:00:44.75,0:00:46.60,CapOut,,0,0,0,,{\an8\pos(540,1310)}YOUR TURN: WHICH DATE
+Dialogue: 0,0:00:46.60,0:00:48.82,CapOut,,0,0,0,,{\an8\pos(540,1310)}MATTERED MOST FOR DMZ?
+Dialogue: 1,0:00:44.75,0:00:48.87,Part,,0,0,0,,{\an8\pos(540,1180)}YOUR TURN

@@ -1,0 +1,58 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Cap,Fira Sans Condensed,62,&H00FFFFFF,&H000000FF,&H00281E1C,&H00000000,-1,0,0,0,100,100,0,0,1,5,1,8,50,50,1215,1
+Style: CapOut,Fira Sans Condensed,74,&H00FFFFFF,&H000000FF,&H00281E1C,&H00000000,-1,0,0,0,100,100,0,0,1,7,2,8,50,50,1310,1
+Style: Tag,Fira Sans Condensed,30,&H00FFFFFF,&H00000000,&H90281E1C,&H90281E1C,-1,0,0,0,100,100,2,0,3,8,0,9,0,32,34,1
+Style: Part,Fira Sans Condensed,56,&H0028281C,&H00000000,&H004AFF9B,&H004AFF9B,-1,0,0,0,100,100,3,0,3,12,0,8,0,0,1180,1
+Style: Name,Fira Sans Condensed,66,&H00FF9CC9,&H00000000,&H00281E1C,&H00000000,-1,0,0,0,100,100,6,0,1,4,0,2,0,0,1630,1
+Style: Credit,Fira Sans Condensed,44,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,1,0,1,4,1,1,48,0,70,1
+Style: CardHead,Fira Sans Condensed,58,&H004AFF9B,&H00000000,&H00281E1C,&H00000000,-1,0,0,0,100,100,3,0,1,5,0,8,60,60,1560,1
+Style: CardBody,Fira Sans Condensed,50,&H00FFFFFF,&H00000000,&H00281E1C,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,8,60,60,1630,1
+Style: Box,Fira Sans Condensed,40,&HE0281E1C,&H00000000,&H004AFF9B,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,0,0,0,1
+Style: CardLabel,Fira Sans Condensed,30,&H004AFF9B,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,3,0,0,0,0,7,0,0,0,1
+Style: CardText,Fira Sans Condensed,42,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,0,0,0,7,0,0,0,1
+Style: CardSrc2,Fira Sans Condensed,28,&H00D8D8D8,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,0,0,0,7,0,0,0,1
+Style: CardSrc,Fira Sans Condensed,32,&H00E0E0E0,&H00000000,&H00281E1C,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,60,60,1740,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:36.20,Credit,,0,0,0,,Source: @MrBeastGaming  (clip footage)
+Dialogue: 0,0:00:26.90,0:00:36.20,Name,,0,0,0,,{\an8\pos(540,215)}NULL//SMIRK
+Dialogue: 0,0:00:00.00,0:00:36.20,Tag,,0,0,0,,AI CO-HOST
+Dialogue: 0,0:00:05.36,0:00:06.56,Cap,,0,0,0,,{\an8\pos(540,1225)}MATH.
+Dialogue: 0,0:00:17.68,0:00:19.05,Cap,,0,0,0,,{\an8\pos(540,1225)}HEFTY.
+Dialogue: 0,0:00:26.60,0:00:30.30,CapOut,,0,0,0,,{\an8\pos(540,1200)}ONE NUMBER: 20 POINTS PER\NSUCCESSFUL EXFIL.
+Dialogue: 1,0:00:26.60,0:00:30.30,Part,,0,0,0,,{\an8\pos(540,1120)}TAKEAWAY
+Dialogue: 1,0:00:26.60,0:00:30.35,CardHead,,0,0,0,,{\an8\pos(540,1560)}20 POINTS = 1 EXFIL
+Dialogue: 1,0:00:26.60,0:00:30.35,CardBody,,0,0,0,,{\an8\pos(540,1630)}BlackCell challenge: obtain 100 Points
+Dialogue: 1,0:00:26.60,0:00:30.35,CardSrc,,0,0,0,,{\an8\pos(540,1700)}Source: callofduty.com - Call of Duty Blog: Season 1 Battle Pass, BlackCell and Store Bundles (2026-11-05)
+Dialogue: 0,0:00:30.10,0:00:33.55,CapOut,,0,0,0,,{\an8\pos(540,1200)}FIVE EXFILS. SURVIVAL\NNOT INCLUDED.
+Dialogue: 1,0:00:30.10,0:00:33.55,Part,,0,0,0,,{\an8\pos(540,1120)}MY TAKE
+Dialogue: 0,0:00:33.35,0:00:36.05,CapOut,,0,0,0,,{\an8\pos(540,1200)}FIVE EXFILS, OR\NONE BAG?
+Dialogue: 1,0:00:33.35,0:00:36.05,Part,,0,0,0,,{\an8\pos(540,1120)}YOUR TURN
+Dialogue: 2,0:00:01.56,0:00:04.56,Box,,0,0,0,,{\an7\pos(36,1502)\p1\fad(160,160)}m 0 0 l 548 0 548 296 0 296{\p0}
+Dialogue: 2,0:00:01.56,0:00:04.56,Box,,0,0,0,,{\an7\pos(584,1628)\p1\fad(160,160)}m 0 0 l 30 22 0 44{\p0}
+Dialogue: 3,0:00:01.56,0:00:04.56,CardLabel,,0,0,0,,{\an7\pos(54,1510)\fad(160,160)}WHAT'S AT STAKE
+Dialogue: 3,0:00:01.56,0:00:04.56,CardText,,0,0,0,,{\an7\pos(54,1546)\fad(160,160)}In DMZ, anything not\Nplaced in a Secure Slot\Nis lost if you fail to\NExfil.
+Dialogue: 3,0:00:01.56,0:00:04.56,CardSrc2,,0,0,0,,{\an7\pos(54,1748)\fad(160,160)}callofduty.com (2026-10-09)
+Dialogue: 2,0:00:11.62,0:00:14.62,Box,,0,0,0,,{\an7\pos(36,1527)\p1\fad(160,160)}m 0 0 l 548 0 548 246 0 246{\p0}
+Dialogue: 2,0:00:11.62,0:00:14.62,Box,,0,0,0,,{\an7\pos(584,1628)\p1\fad(160,160)}m 0 0 l 30 22 0 44{\p0}
+Dialogue: 3,0:00:11.62,0:00:14.62,CardLabel,,0,0,0,,{\an7\pos(54,1535)\fad(160,160)}HOW EXFIL WORKS
+Dialogue: 3,0:00:11.62,0:00:14.62,CardText,,0,0,0,,{\an7\pos(54,1571)\fad(160,160)}Call in the helicopter,\Nthen hold the site until\Nit arrives.
+Dialogue: 3,0:00:11.62,0:00:14.62,CardSrc2,,0,0,0,,{\an7\pos(54,1723)\fad(160,160)}callofduty.com (2026-10-05)
+Dialogue: 2,0:00:18.74,0:00:21.54,Box,,0,0,0,,{\an7\pos(36,1527)\p1\fad(160,160)}m 0 0 l 548 0 548 246 0 246{\p0}
+Dialogue: 2,0:00:18.74,0:00:21.54,Box,,0,0,0,,{\an7\pos(584,1628)\p1\fad(160,160)}m 0 0 l 30 22 0 44{\p0}
+Dialogue: 3,0:00:18.74,0:00:21.54,CardLabel,,0,0,0,,{\an7\pos(54,1535)\fad(160,160)}NULL NOTES
+Dialogue: 3,0:00:18.74,0:00:21.54,CardText,,0,0,0,,{\an7\pos(54,1571)\fad(160,160)}Half a million, not yet\Nextracted. The official\Nword is "hope."
+Dialogue: 3,0:00:18.74,0:00:21.54,CardSrc2,,0,0,0,,{\an7\pos(54,1723)\fad(160,160)}callofduty.com (2026-10-05)
+Dialogue: 2,0:00:22.30,0:00:25.10,Box,,0,0,0,,{\an7\pos(36,1552)\p1\fad(160,160)}m 0 0 l 548 0 548 196 0 196{\p0}
+Dialogue: 2,0:00:22.30,0:00:25.10,Box,,0,0,0,,{\an7\pos(584,1628)\p1\fad(160,160)}m 0 0 l 30 22 0 44{\p0}
+Dialogue: 3,0:00:22.30,0:00:25.10,CardLabel,,0,0,0,,{\an7\pos(54,1560)\fad(160,160)}WHAT'S NEXT
+Dialogue: 3,0:00:22.30,0:00:25.10,CardText,,0,0,0,,{\an7\pos(54,1596)\fad(160,160)}Season 1 adds a new DMZ\Narea and bosses.
+Dialogue: 3,0:00:22.30,0:00:25.10,CardSrc2,,0,0,0,,{\an7\pos(54,1698)\fad(160,160)}callofduty.com (2026-11-02)

@@ -1,0 +1,40 @@
+[
+ {
+  "at": 7.0,
+  "text": "Counting to eight out loud? The tension is real.",
+  "part": "clip",
+  "start": 7.0,
+  "end": 10.22
+ },
+ {
+  "at": 15.0,
+  "text": "And there's the payoff. Pure hype.",
+  "part": "clip",
+  "start": 15.0,
+  "end": 17.395
+ },
+ {
+  "at": 0.8,
+  "label": "TAKEAWAY",
+  "text": "Quick takeaway: the best clips show the payoff fast.",
+  "part": "outro",
+  "start": 18.8,
+  "end": 22.17
+ },
+ {
+  "at": 0,
+  "label": "MY TAKE",
+  "text": "My take? A good co-host adds a real opinion, not just noise.",
+  "part": "outro",
+  "start": 22.520000000000003,
+  "end": 26.590000000000003
+ },
+ {
+  "at": 0,
+  "label": "YOUR TURN",
+  "text": "Your turn: do you want hype or analysis from me next time?",
+  "part": "outro",
+  "start": 26.940000000000005,
+  "end": 30.685000000000006
+ }
+]

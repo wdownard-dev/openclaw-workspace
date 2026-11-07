@@ -1,0 +1,20 @@
+[
+ {"id": "what_we_know_vs_rumor", "name": "What we know vs rumor",
+  "guide": "Takeaway lays out ONE confirmed official fact, then states plainly what is still Unknown or unconfirmed (only say 'unconfirmed' about things you can name from the transcript or sources; never repeat a rumor as fact). Opinion is deadpan about the gap between hype and confirmation. Question asks which unknown viewers most want answered.",
+  "reaction_style": "Reactions point at claims made in the clip and mark them as 'said in the clip' versus 'confirmed officially'."},
+ {"id": "timeline", "name": "Timeline",
+  "guide": "Takeaway walks 2-3 dated official events in order (each line carries its own fact id and date). Opinion is deadpan about the pace of the timeline or how the clip fits in it. Question asks what comes next on the timeline.",
+  "reaction_style": "Reactions place the clip moment on the timeline ('This was filmed before X')."},
+ {"id": "before_after", "name": "Before / after",
+  "guide": "Takeaway contrasts the state of the game before and after one dated official change (two fact-linked lines). Opinion jokes about how the clip would play differently. Question asks whether viewers preferred before or after.",
+  "reaction_style": "Reactions flag moments in the clip that relate to the changed system."},
+ {"id": "one_number", "name": "One number that matters",
+  "guide": "Takeaway centers ONE number from an official source (price, count, date, player limit) and why it matters to this clip. Opinion is deadpan about that number. Question asks viewers to guess or react to the number.",
+  "reaction_style": "Reactions count or compare numbers said in the clip with the one official number."},
+ {"id": "prediction", "name": "Prediction",
+  "guide": "Takeaway states one verified official fact as the premise. Opinion is a clearly-labelled prediction ('Prediction: ...') that is obviously opinion, not a claim about unreleased content. Question asks viewers to lock in their own prediction.",
+  "reaction_style": "Reactions set up what might happen next in the clip, never claiming it will."},
+ {"id": "rule_explained", "name": "The rule behind the clip",
+  "guide": "Takeaway explains ONE official rule or mechanic that the clip moment depends on, quoted from patch notes or the official blog. Opinion is deadpan about the rule's consequences. Question asks how viewers would play around the rule.",
+  "reaction_style": "Reactions connect clip moments to the rule without adding unsourced mechanics."}
+]

@@ -1,0 +1,25 @@
+{
+  "clip": "/home/williamdownard/openclaw-sites/clips-work/cut/mw4-01-cut.mp4",
+  "clip_start": 11.0,
+  "clip_len": 18.0,
+  "clip_y": 400,
+  "outro_start": 18.0,
+  "outro_gap": 0.35,
+  "total": 32.4,
+  "voice": "am_puck",
+  "speed": 1.05,
+  "mascot_small": 430,
+  "small_xy": [610, 1400],
+  "mascot_big": 800,
+  "big_xy": [140, 300],
+  "interjections": [
+    {"at": 7.0, "text": "Counting to eight out loud? The tension is real."},
+    {"at": 15.0, "text": "And there's the payoff. Pure hype."}
+  ],
+  "outro": [
+    {"at": 0.8, "label": "TAKEAWAY", "text": "Quick takeaway: the best clips show the payoff fast."},
+    {"at": 0, "label": "MY TAKE", "text": "My take? A good co-host adds a real opinion, not just noise."},
+    {"at": 0, "label": "YOUR TURN", "text": "Your turn: do you want hype or analysis from me next time?"}
+  ],
+  "output": "cohost-demo.mp4"
+}

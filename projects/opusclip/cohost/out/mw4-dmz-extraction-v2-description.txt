@@ -1,0 +1,27 @@
+TITLE: MW4 DMZ: the one number that matters (NULL//SMIRK reacts)
+
+DESCRIPTION:
+NULL//SMIRK watches a DMZ extraction moment from MrBeast Gaming's Modern Warfare 4 video and adds official context: what you lose if you fail to Exfil, how an Exfil works, what Season 1 adds to DMZ, and one number from the Season 1 BlackCell challenge: 20 Points per successful Exfil toward a 100-Point goal (that is five exfils, our arithmetic).
+
+WHAT NULL ADDS (from official sources):
+- In DMZ, anything not placed in a Secure Slot is lost if you fail to Exfil.
+- Call in the helicopter, then hold the site until it arrives.
+- Half a million, not yet extracted. The official word is "hope."
+- Season 1 adds a new DMZ area and bosses.
+- One number: 20 Points per successful Exfil.
+
+SOURCES:
+- Call of Duty Blog: DMZ Deep Dive, Part 2, FOB Full Intel Guide (Call of Duty Staff) (2026-10-09): https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-dmz-how-to-play-forward-operating-base-guide
+- Call of Duty Blog: DMZ Deep Dive, Part 1, Hajin (Call of Duty Staff) (2026-10-05): https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-dmz-deep-dive-hajin
+- Call of Duty Blog: Warzone Season 1, Everything You Need to Know (Call of Duty Staff) (2026-11-02): https://www.callofduty.com/blog/2026/11/call-of-duty-modern-warfare-4-warzone-season-1
+- Call of Duty Blog: Season 1 Battle Pass, BlackCell and Store Bundles (Call of Duty Staff) (2026-11-05): https://www.callofduty.com/blog/2026/11/call-of-duty-modern-warfare-4-season-1-battle-pass-blackcell-store-bundles
+
+Clip footage: Source: @MrBeastGaming. Footage belongs to its creator; this video adds commentary and context.
+
+AI-generated co-host voice and character (NULL//SMIRK, a stylized non-realistic cartoon character with a synthetic voice). Script written with AI assistance from the official sources listed above.
+
+#NULLSMIRK #AIcohost
+
+--- NOT FOR PASTING (William, confirm in YouTube Studio before posting) ---
+Altered/synthetic content label: NULL is a stylized, non-realistic cartoon with a synthetic voice, not a real person or a realistic scene, so YouTube's disclosure rule should not apply. Studio is the authority: confirm the answer on the upload form.
+Paid-promotion/ownership: if the footage comes from a paid partnership or campaign, check that the campaign terms allow reuse on this channel.

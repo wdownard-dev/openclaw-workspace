@@ -1,0 +1,16 @@
+{
+ "interrupt_level": "low",
+ "total_s": 36.2,
+ "source_clip_s": 27.0,
+ "outro_s": 9.7,
+ "in_clip_added_content_s": 13.6,
+ "cards": 4,
+ "spoken_interjections": 2,
+ "cohost_voice_s": 10.9,
+ "original_content_s": 23.3,
+ "original_share_pct": 64.4,
+ "clip_only_share_pct": 35.6,
+ "mb": 12.3,
+ "render_s": 112,
+ "tts_prep_s": 0
+}

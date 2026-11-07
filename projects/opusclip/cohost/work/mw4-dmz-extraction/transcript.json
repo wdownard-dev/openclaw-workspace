@@ -1,0 +1,596 @@
+{
+ "duration": 34.5173125,
+ "segments": [
+  {
+   "start": 1.06,
+   "end": 3.74,
+   "text": "Oh my god, did we win?",
+   "words": [
+    {
+     "w": "Oh",
+     "start": 1.06,
+     "end": 1.5
+    },
+    {
+     "w": "my",
+     "start": 1.5,
+     "end": 1.64
+    },
+    {
+     "w": "god,",
+     "start": 1.64,
+     "end": 1.88
+    },
+    {
+     "w": "did",
+     "start": 1.88,
+     "end": 2.08
+    },
+    {
+     "w": "we",
+     "start": 2.08,
+     "end": 3.46
+    },
+    {
+     "w": "win?",
+     "start": 3.46,
+     "end": 3.74
+    }
+   ]
+  },
+  {
+   "start": 3.92,
+   "end": 5.18,
+   "text": "Oh my god, Taylor, we win!",
+   "words": [
+    {
+     "w": "Oh",
+     "start": 3.92,
+     "end": 3.94
+    },
+    {
+     "w": "my",
+     "start": 3.94,
+     "end": 4.06
+    },
+    {
+     "w": "god,",
+     "start": 4.06,
+     "end": 4.28
+    },
+    {
+     "w": "Taylor,",
+     "start": 4.3,
+     "end": 4.5
+    },
+    {
+     "w": "we",
+     "start": 4.6,
+     "end": 4.72
+    },
+    {
+     "w": "win!",
+     "start": 4.72,
+     "end": 5.18
+    }
+   ]
+  },
+  {
+   "start": 7.06,
+   "end": 7.5,
+   "text": "Oh my god!",
+   "words": [
+    {
+     "w": "Oh",
+     "start": 7.06,
+     "end": 7.06
+    },
+    {
+     "w": "my",
+     "start": 7.06,
+     "end": 7.24
+    },
+    {
+     "w": "god!",
+     "start": 7.24,
+     "end": 7.5
+    }
+   ]
+  },
+  {
+   "start": 8.56,
+   "end": 8.82,
+   "text": "Oh my god!",
+   "words": [
+    {
+     "w": "Oh",
+     "start": 8.56,
+     "end": 8.6
+    },
+    {
+     "w": "my",
+     "start": 8.6,
+     "end": 8.82
+    },
+    {
+     "w": "god!",
+     "start": 8.82,
+     "end": 8.82
+    }
+   ]
+  },
+  {
+   "start": 8.82,
+   "end": 9.92,
+   "text": "Oh my god!",
+   "words": [
+    {
+     "w": "Oh",
+     "start": 8.82,
+     "end": 9.12
+    },
+    {
+     "w": "my",
+     "start": 9.12,
+     "end": 9.38
+    },
+    {
+     "w": "god!",
+     "start": 9.38,
+     "end": 9.92
+    }
+   ]
+  },
+  {
+   "start": 10.26,
+   "end": 11.32,
+   "text": "Oh my god!",
+   "words": [
+    {
+     "w": "Oh",
+     "start": 10.26,
+     "end": 10.52
+    },
+    {
+     "w": "my",
+     "start": 10.52,
+     "end": 10.74
+    },
+    {
+     "w": "god!",
+     "start": 10.74,
+     "end": 11.32
+    }
+   ]
+  },
+  {
+   "start": 11.98,
+   "end": 12.1,
+   "text": "Oh my god!",
+   "words": [
+    {
+     "w": "Oh",
+     "start": 11.98,
+     "end": 12.1
+    },
+    {
+     "w": "my",
+     "start": 12.1,
+     "end": 12.1
+    },
+    {
+     "w": "god!",
+     "start": 12.1,
+     "end": 12.1
+    }
+   ]
+  },
+  {
+   "start": 12.1,
+   "end": 12.26,
+   "text": "No!",
+   "words": [
+    {
+     "w": "No!",
+     "start": 12.1,
+     "end": 12.26
+    }
+   ]
+  },
+  {
+   "start": 13.24,
+   "end": 14.1,
+   "text": "How many tracks now?",
+   "words": [
+    {
+     "w": "How",
+     "start": 13.24,
+     "end": 13.48
+    },
+    {
+     "w": "many",
+     "start": 13.48,
+     "end": 13.62
+    },
+    {
+     "w": "tracks",
+     "start": 13.62,
+     "end": 13.86
+    },
+    {
+     "w": "now?",
+     "start": 13.86,
+     "end": 14.1
+    }
+   ]
+  },
+  {
+   "start": 14.32,
+   "end": 18.14,
+   "text": "One, two, three, four, five, six, seven, eight!",
+   "words": [
+    {
+     "w": "One,",
+     "start": 14.32,
+     "end": 14.68
+    },
+    {
+     "w": "two,",
+     "start": 14.7,
+     "end": 15.06
+    },
+    {
+     "w": "three,",
+     "start": 15.26,
+     "end": 15.5
+    },
+    {
+     "w": "four,",
+     "start": 15.68,
+     "end": 15.86
+    },
+    {
+     "w": "five,",
+     "start": 16.18,
+     "end": 16.26
+    },
+    {
+     "w": "six,",
+     "start": 16.4,
+     "end": 16.58
+    },
+    {
+     "w": "seven,",
+     "start": 16.78,
+     "end": 17.24
+    },
+    {
+     "w": "eight!",
+     "start": 17.9,
+     "end": 18.14
+    }
+   ]
+  },
+  {
+   "start": 18.62,
+   "end": 19.48,
+   "text": "Oh my god!",
+   "words": [
+    {
+     "w": "Oh",
+     "start": 18.62,
+     "end": 18.7
+    },
+    {
+     "w": "my",
+     "start": 18.7,
+     "end": 18.98
+    },
+    {
+     "w": "god!",
+     "start": 18.98,
+     "end": 19.48
+    }
+   ]
+  },
+  {
+   "start": 19.7,
+   "end": 20.12,
+   "text": "Oh my god!",
+   "words": [
+    {
+     "w": "Oh",
+     "start": 19.7,
+     "end": 19.7
+    },
+    {
+     "w": "my",
+     "start": 19.7,
+     "end": 19.88
+    },
+    {
+     "w": "god!",
+     "start": 19.88,
+     "end": 20.12
+    }
+   ]
+  },
+  {
+   "start": 20.8,
+   "end": 21.7,
+   "text": "Oh my god!",
+   "words": [
+    {
+     "w": "Oh",
+     "start": 20.8,
+     "end": 21.02
+    },
+    {
+     "w": "my",
+     "start": 21.02,
+     "end": 21.36
+    },
+    {
+     "w": "god!",
+     "start": 21.36,
+     "end": 21.7
+    }
+   ]
+  },
+  {
+   "start": 22.04,
+   "end": 22.7,
+   "text": "Oh my god!",
+   "words": [
+    {
+     "w": "Oh",
+     "start": 22.04,
+     "end": 22.04
+    },
+    {
+     "w": "my",
+     "start": 22.04,
+     "end": 22.36
+    },
+    {
+     "w": "god!",
+     "start": 22.36,
+     "end": 22.7
+    }
+   ]
+  },
+  {
+   "start": 22.84,
+   "end": 22.94,
+   "text": "Oh my god!",
+   "words": [
+    {
+     "w": "Oh",
+     "start": 22.84,
+     "end": 22.84
+    },
+    {
+     "w": "my",
+     "start": 22.84,
+     "end": 22.94
+    },
+    {
+     "w": "god!",
+     "start": 22.94,
+     "end": 22.94
+    }
+   ]
+  },
+  {
+   "start": 23.0,
+   "end": 23.56,
+   "text": "No, Mr. Beast!",
+   "words": [
+    {
+     "w": "No,",
+     "start": 23.0,
+     "end": 23.14
+    },
+    {
+     "w": "Mr.",
+     "start": 23.26,
+     "end": 23.34
+    },
+    {
+     "w": "Beast!",
+     "start": 23.5,
+     "end": 23.56
+    }
+   ]
+  },
+  {
+   "start": 23.82,
+   "end": 24.58,
+   "text": "No, Mr. Beast!",
+   "words": [
+    {
+     "w": "No,",
+     "start": 23.82,
+     "end": 23.96
+    },
+    {
+     "w": "Mr.",
+     "start": 24.32,
+     "end": 24.32
+    },
+    {
+     "w": "Beast!",
+     "start": 24.56,
+     "end": 24.58
+    }
+   ]
+  },
+  {
+   "start": 25.74,
+   "end": 27.24,
+   "text": "$500,000 boys!",
+   "words": [
+    {
+     "w": "$500",
+     "start": 25.74,
+     "end": 26.18
+    },
+    {
+     "w": ",000",
+     "start": 26.18,
+     "end": 26.62
+    },
+    {
+     "w": "boys!",
+     "start": 26.62,
+     "end": 27.24
+    }
+   ]
+  },
+  {
+   "start": 27.5,
+   "end": 27.78,
+   "text": "Let's go!",
+   "words": [
+    {
+     "w": "Let's",
+     "start": 27.5,
+     "end": 27.64
+    },
+    {
+     "w": "go!",
+     "start": 27.64,
+     "end": 27.78
+    }
+   ]
+  },
+  {
+   "start": 27.88,
+   "end": 28.82,
+   "text": "Alright, grab your money!",
+   "words": [
+    {
+     "w": "Alright,",
+     "start": 27.88,
+     "end": 28.1
+    },
+    {
+     "w": "grab",
+     "start": 28.32,
+     "end": 28.34
+    },
+    {
+     "w": "your",
+     "start": 28.34,
+     "end": 28.54
+    },
+    {
+     "w": "money!",
+     "start": 28.54,
+     "end": 28.82
+    }
+   ]
+  },
+  {
+   "start": 28.82,
+   "end": 29.76,
+   "text": "Let's go!",
+   "words": [
+    {
+     "w": "Let's",
+     "start": 28.82,
+     "end": 29.3
+    },
+    {
+     "w": "go!",
+     "start": 29.3,
+     "end": 29.76
+    }
+   ]
+  },
+  {
+   "start": 30.36,
+   "end": 31.52,
+   "text": "Oh my god, bro!",
+   "words": [
+    {
+     "w": "Oh",
+     "start": 30.36,
+     "end": 30.5
+    },
+    {
+     "w": "my",
+     "start": 30.5,
+     "end": 30.84
+    },
+    {
+     "w": "god,",
+     "start": 30.84,
+     "end": 31.28
+    },
+    {
+     "w": "bro!",
+     "start": 31.38,
+     "end": 31.52
+    }
+   ]
+  },
+  {
+   "start": 31.82,
+   "end": 33.98,
+   "text": "Now it's time for them to extract in real life!",
+   "words": [
+    {
+     "w": "Now",
+     "start": 31.82,
+     "end": 31.86
+    },
+    {
+     "w": "it's",
+     "start": 31.86,
+     "end": 32.06
+    },
+    {
+     "w": "time",
+     "start": 32.06,
+     "end": 32.2
+    },
+    {
+     "w": "for",
+     "start": 32.2,
+     "end": 32.38
+    },
+    {
+     "w": "them",
+     "start": 32.38,
+     "end": 32.54
+    },
+    {
+     "w": "to",
+     "start": 32.54,
+     "end": 32.68
+    },
+    {
+     "w": "extract",
+     "start": 32.68,
+     "end": 33.1
+    },
+    {
+     "w": "in",
+     "start": 33.1,
+     "end": 33.4
+    },
+    {
+     "w": "real",
+     "start": 33.4,
+     "end": 33.6
+    },
+    {
+     "w": "life!",
+     "start": 33.6,
+     "end": 33.98
+    }
+   ]
+  }
+ ]
+}

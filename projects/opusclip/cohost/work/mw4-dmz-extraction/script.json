@@ -1,0 +1,19 @@
+{
+ "structure": "timeline",
+ "clip": {"start": 7.0, "len": 24.5, "handle": "@MrBeastGaming"},
+ "reactions": [
+  {"id": "r1", "t": 8.82, "quote": "Oh my god", "text": "Repeated shouting. I'm keeping score.", "expr": [["0", "squint"], ["0.9", "roll", 1.2]], "facts": []},
+  {"id": "r2", "t": 14.32, "quote": "One, two, three, four, five, six, seven, eight", "text": "Counting out loud. Bold.", "expr": [["0", "raised"], ["1.3", "glance"]], "facts": []},
+  {"id": "r3", "t": 25.74, "quote": "$500,000 boys", "text": "Official DMZ wording: players \"hope to extract with their rewards.\"", "expr": [["0", "squint"], ["2.2", "raised"]], "facts": ["f5"]}
+ ],
+ "outro": [
+  {"id": "o1", "part": "takeaway", "text": "Timeline. October 20: DMZ early access opens for pre-orders.", "facts": ["f1"], "card": {"head": "Oct 20, 2026", "body": "DMZ early access, digital pre-orders"}, "expr": [["0", "smug"], ["2.6", "glance"]]},
+  {"id": "o2", "part": "takeaway", "text": "October 23: Modern Warfare 4 is live worldwide.", "facts": ["f2"], "card": {"head": "Oct 23, 2026", "body": "Modern Warfare 4 live worldwide"}, "expr": [["0", "smug"]]},
+  {"id": "o3", "part": "takeaway", "text": "November 6: Season 1 adds a new DMZ area and bosses.", "facts": ["f3", "f4"], "card": {"head": "Nov 6, 2026", "body": "Season 1: new DMZ area and bosses"}, "expr": [["0", "raised"], ["2.4", "smug"]]},
+  {"id": "o4", "part": "opinion", "text": "My take: they got the money. I got the calendar.", "facts": [], "expr": [["0", "squint"], ["1.7", "laugh"]]},
+  {"id": "o5", "part": "question", "text": "Your turn: which date mattered most for DMZ?", "facts": [], "expr": [["0", "raised"], ["1.8", "glance"]]}
+ ],
+ "title": "MW4 DMZ timeline: early access to Season 1 (NULL//SMIRK reacts)",
+ "description_intro": "NULL//SMIRK reacts to a DMZ finale moment from MrBeast Gaming's Modern Warfare 4 video, then lays out the official DMZ timeline: early access on October 20, launch on October 23, and Season 1 on November 6.",
+ "allow_terms": ["DMZ", "Timeline"]
+}

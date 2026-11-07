@@ -1,0 +1,200 @@
+{
+ "structure": "one_number",
+ "clip": {
+  "start": 7.0,
+  "len": 27.0,
+  "handle": "@MrBeastGaming",
+  "protect": []
+ },
+ "interjections": [
+  {
+   "id": "i1",
+   "t": 12.36,
+   "quote": "No",
+   "text": "Math.",
+   "expr": [
+    [
+     "0",
+     "raised"
+    ]
+   ],
+   "facts": []
+  },
+  {
+   "id": "i2",
+   "t": 24.68,
+   "quote": "Mr. Beast",
+   "text": "Hefty.",
+   "expr": [
+    [
+     "0",
+     "smug"
+    ]
+   ],
+   "facts": []
+  }
+ ],
+ "cards": [
+  {
+   "id": "c1",
+   "t": 8.56,
+   "quote": "Oh my god",
+   "dur": 3.0,
+   "label": "What's at stake",
+   "text": "In DMZ, anything not placed in a Secure Slot is lost if you fail to Exfil.",
+   "facts": [
+    "f7"
+   ],
+   "expr": "squint"
+  },
+  {
+   "id": "c2",
+   "t": 18.62,
+   "quote": "Oh my god",
+   "dur": 3.0,
+   "label": "How exfil works",
+   "text": "Call in the helicopter, then hold the site until it arrives.",
+   "facts": [
+    "f6"
+   ],
+   "expr": "raised"
+  },
+  {
+   "id": "c3",
+   "t": 25.74,
+   "quote": "$500,000 boys",
+   "dur": 2.8,
+   "label": "NULL notes",
+   "text": "Half a million, not yet extracted. The official word is \"hope.\"",
+   "facts": [
+    "f5"
+   ],
+   "expr": "laugh"
+  },
+  {
+   "id": "c4",
+   "t": 29.3,
+   "quote": "Let's go",
+   "dur": 2.8,
+   "label": "What's next",
+   "text": "Season 1 adds a new DMZ area and bosses.",
+   "facts": [
+    "f3",
+    "f4"
+   ],
+   "expr": "raised"
+  }
+ ],
+ "expressions": [
+  {
+   "t": 10.3,
+   "expr": "roll",
+   "dur": 1.2
+  },
+  {
+   "t": 12.2,
+   "expr": "glance",
+   "dur": 1.0
+  },
+  {
+   "t": 14.4,
+   "expr": "raised",
+   "dur": 1.5
+  },
+  {
+   "t": 17.9,
+   "expr": "laugh",
+   "dur": 1.2
+  },
+  {
+   "t": 20.8,
+   "expr": "squint",
+   "dur": 1.0
+  },
+  {
+   "t": 23.0,
+   "expr": "glance",
+   "dur": 1.0
+  },
+  {
+   "t": 27.5,
+   "expr": "laugh",
+   "dur": 1.3
+  },
+  {
+   "t": 31.8,
+   "expr": "glance",
+   "dur": 1.4
+  }
+ ],
+ "outro": [
+  {
+   "id": "o1",
+   "part": "takeaway",
+   "text": "One number: 20 Points per successful Exfil.",
+   "facts": [
+    "f8"
+   ],
+   "card": {
+    "head": "20 Points = 1 Exfil",
+    "body": "BlackCell challenge: obtain 100 Points"
+   },
+   "expr": [
+    [
+     "0",
+     "smug"
+    ],
+    [
+     "3.0",
+     "raised"
+    ]
+   ]
+  },
+  {
+   "id": "o2",
+   "part": "opinion",
+   "text": "Five exfils. Survival not included.",
+   "facts": [
+    "f8"
+   ],
+   "expr": [
+    [
+     "0",
+     "squint"
+    ],
+    [
+     "1.5",
+     "laugh"
+    ]
+   ]
+  },
+  {
+   "id": "o3",
+   "part": "question",
+   "text": "Five exfils, or one bag?",
+   "facts": [],
+   "expr": [
+    [
+     "0",
+     "raised"
+    ],
+    [
+     "1.3",
+     "glance"
+    ]
+   ]
+  }
+ ],
+ "title": "MW4 DMZ: the one number that matters (NULL//SMIRK reacts)",
+ "description_intro": "NULL//SMIRK watches a DMZ extraction moment from MrBeast Gaming's Modern Warfare 4 video and adds official context: what you lose if you fail to Exfil, how an Exfil works, what Season 1 adds to DMZ, and one number from the Season 1 BlackCell challenge: 20 Points per successful Exfil toward a 100-Point goal (that is five exfils, our arithmetic).",
+ "allow_terms": [
+  "DMZ"
+ ],
+ "derived_notes": [
+  "o2 'Five exfils': arithmetic from f8, 100 Points needed / 20 Points per successful DMZ Exfil = 5. The page states both numbers, not the result. The 100-Point criterion belongs to BlackCell Challenge Two (f8/f9); the on-screen card says so.",
+  "c3 'Half a million, not yet extracted': describes the clip ('$500,000 boys' said at 25.74 s) and is NULL's remark; 'hope' is from f5.",
+  "c4 'Season 1 adds a new DMZ area and bosses': paraphrase of f4 ('a new area, bosses, and other bonus content in DMZ'), the official page gives no detail on which area or bosses; none is claimed.",
+  "o2 'Survival not included' and o3 'one bag' are opinion/jokes about the clip, not claims about game content.",
+  "i1 'Math.', i2 'Hefty.': jokes, no factual content."
+ ]
+}

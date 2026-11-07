@@ -1,0 +1,108 @@
+{
+ "total": 36.985,
+ "timeline": [
+  {
+   "at": 7.0,
+   "text": "Eight. Announced like a world record.",
+   "expr": [
+    [
+     "0",
+     "squint"
+    ],
+    [
+     "1.6",
+     "glance"
+    ]
+   ],
+   "part": "clip",
+   "start": 7.0,
+   "end": 9.395
+  },
+  {
+   "at": 12.3,
+   "text": "Four oh-my-gods. I'm keeping score.",
+   "expr": [
+    [
+     "0",
+     "roll",
+     1.9
+    ]
+   ],
+   "part": "clip",
+   "start": 12.3,
+   "end": 14.920000000000002
+  },
+  {
+   "at": 16.4,
+   "text": "Fine. That one earned a smirk.",
+   "expr": [
+    [
+     "0",
+     "laugh"
+    ]
+   ],
+   "part": "clip",
+   "start": 16.4,
+   "end": 18.57
+  },
+  {
+   "at": 0.8,
+   "label": "TAKEAWAY",
+   "text": "Takeaway: show the payoff in the first few seconds, or the scroll wins.",
+   "expr": [
+    [
+     "0",
+     "smug"
+    ],
+    [
+     "3.2",
+     "raised"
+    ]
+   ],
+   "part": "outro",
+   "start": 20.8,
+   "end": 25.345
+  },
+  {
+   "at": 0,
+   "label": "MY TAKE",
+   "text": "My take? Shouting the countdown is a strategy. A loud one, but a strategy.",
+   "expr": [
+    [
+     "0",
+     "squint"
+    ],
+    [
+     "2.6",
+     "roll",
+     1.6
+    ],
+    [
+     "4.6",
+     "laugh"
+    ]
+   ],
+   "part": "outro",
+   "start": 25.695,
+   "end": 30.665
+  },
+  {
+   "at": 0,
+   "label": "YOUR TURN",
+   "text": "Your turn: should I be smug, savage, or politely unimpressed next time?",
+   "expr": [
+    [
+     "0",
+     "raised"
+    ],
+    [
+     "3.0",
+     "glance"
+    ]
+   ],
+   "part": "outro",
+   "start": 31.015,
+   "end": 35.785
+  }
+ ]
+}

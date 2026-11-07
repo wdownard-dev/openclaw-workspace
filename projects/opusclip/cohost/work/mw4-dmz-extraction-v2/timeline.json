@@ -1,0 +1,107 @@
+{
+ "total": 36.2,
+ "timeline": [
+  {
+   "id": "i1",
+   "t": 12.36,
+   "quote": "No",
+   "text": "Math.",
+   "expr": [
+    [
+     "0",
+     "raised"
+    ]
+   ],
+   "facts": [],
+   "kind": "interjection",
+   "dur": 0.95,
+   "start": 5.359999999999999,
+   "end": 6.31
+  },
+  {
+   "id": "i2",
+   "t": 24.68,
+   "quote": "Mr. Beast",
+   "text": "Hefty.",
+   "expr": [
+    [
+     "0",
+     "smug"
+    ]
+   ],
+   "facts": [],
+   "kind": "interjection",
+   "dur": 1.125,
+   "start": 17.68,
+   "end": 18.805
+  },
+  {
+   "id": "o1",
+   "part": "takeaway",
+   "text": "One number: 20 Points per successful Exfil.",
+   "facts": [
+    "f8"
+   ],
+   "card": {
+    "head": "20 Points = 1 Exfil",
+    "body": "BlackCell challenge: obtain 100 Points"
+   },
+   "expr": [
+    [
+     "0",
+     "smug"
+    ],
+    [
+     "3.0",
+     "raised"
+    ]
+   ],
+   "kind": "outro",
+   "dur": 3.35,
+   "start": 26.6,
+   "end": 29.950000000000003
+  },
+  {
+   "id": "o2",
+   "part": "opinion",
+   "text": "Five exfils. Survival not included.",
+   "facts": [
+    "f8"
+   ],
+   "expr": [
+    [
+     "0",
+     "squint"
+    ],
+    [
+     "1.5",
+     "laugh"
+    ]
+   ],
+   "kind": "outro",
+   "dur": 3.1,
+   "start": 30.1,
+   "end": 33.2
+  },
+  {
+   "id": "o3",
+   "part": "question",
+   "text": "Five exfils, or one bag?",
+   "facts": [],
+   "expr": [
+    [
+     "0",
+     "raised"
+    ],
+    [
+     "1.3",
+     "glance"
+    ]
+   ],
+   "kind": "outro",
+   "dur": 2.35,
+   "start": 33.35,
+   "end": 35.7
+  }
+ ]
+}

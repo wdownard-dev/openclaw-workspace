@@ -1,0 +1,37 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Cap,Fira Sans Condensed,84,&H00FFFFFF,&H000000FF,&H00281E1C,&H00000000,-1,0,0,0,100,100,0,0,1,7,2,8,60,60,1180,1
+Style: CapOut,Fira Sans Condensed,92,&H00FFFFFF,&H000000FF,&H00281E1C,&H00000000,-1,0,0,0,100,100,0,0,1,7,2,8,60,60,1310,1
+Style: Tag,Fira Sans Condensed,60,&H00FFFFFF,&H00000000,&H004AFF9B,&H004AFF9B,-1,0,0,0,100,100,3,0,3,14,0,8,0,0,95,1
+Style: Part,Fira Sans Condensed,56,&H0028281C,&H00000000,&H004AFF9B,&H004AFF9B,-1,0,0,0,100,100,3,0,3,12,0,8,0,0,1190,1
+Style: Demo,Fira Sans Condensed,38,&H00DDDDDD,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,2,0,1,3,0,8,0,0,185,1
+Style: Name,Fira Sans Condensed,66,&H00FF9CC9,&H00000000,&H00281E1C,&H00000000,-1,0,0,0,100,100,6,0,1,4,0,2,0,0,70,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:36.98,Tag,,0,0,0,,AI CO-HOST
+Dialogue: 0,0:00:00.00,0:00:36.98,Demo,,0,0,0,,DEMO SCRIPT  -  synthetic voice and cartoon mascot
+Dialogue: 0,0:00:20.60,0:00:36.98,Name,,0,0,0,,NULL//SMIRK
+Dialogue: 0,0:00:07.00,0:00:08.34,Cap,,0,0,0,,EIGHT. ANNOUNCED LIKE
+Dialogue: 0,0:00:08.34,0:00:09.54,Cap,,0,0,0,,A WORLD RECORD.
+Dialogue: 0,0:00:12.30,0:00:15.07,Cap,,0,0,0,,FOUR OH-MY-GODS. I'M KEEPING SCORE.
+Dialogue: 0,0:00:16.40,0:00:17.40,Cap,,0,0,0,,FINE. THAT ONE
+Dialogue: 0,0:00:17.40,0:00:18.72,Cap,,0,0,0,,EARNED A SMIRK.
+Dialogue: 0,0:00:20.80,0:00:22.60,CapOut,,0,0,0,,TAKEAWAY: SHOW THE PAYOFF IN
+Dialogue: 0,0:00:22.60,0:00:24.02,CapOut,,0,0,0,,THE FIRST FEW SECONDS,
+Dialogue: 0,0:00:24.02,0:00:25.49,CapOut,,0,0,0,,OR THE SCROLL WINS.
+Dialogue: 1,0:00:20.80,0:00:25.59,Part,,0,0,1195,,TAKEAWAY
+Dialogue: 0,0:00:25.70,0:00:27.79,CapOut,,0,0,0,,MY TAKE? SHOUTING THE COUNTDOWN
+Dialogue: 0,0:00:27.79,0:00:29.21,CapOut,,0,0,0,,IS A STRATEGY. A LOUD
+Dialogue: 0,0:00:29.21,0:00:30.81,CapOut,,0,0,0,,ONE, BUT A STRATEGY.
+Dialogue: 1,0:00:25.70,0:00:30.91,Part,,0,0,1195,,MY TAKE
+Dialogue: 0,0:00:31.02,0:00:32.30,CapOut,,0,0,0,,YOUR TURN: SHOULD I
+Dialogue: 0,0:00:32.30,0:00:33.59,CapOut,,0,0,0,,BE SMUG, SAVAGE, OR
+Dialogue: 0,0:00:33.59,0:00:35.93,CapOut,,0,0,0,,POLITELY UNIMPRESSED NEXT TIME?
+Dialogue: 1,0:00:31.02,0:00:36.03,Part,,0,0,1195,,YOUR TURN

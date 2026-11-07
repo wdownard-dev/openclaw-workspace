@@ -1,40 +1,25 @@
-# Project Red Pill: LEARNINGS (living document)
+# Project Red Pill: LEARNINGS (news lane)
 
-**Purpose (William, 2026-11-03):** find what works, not who to clip. Which niches, which video types, which formats and hooks get views, retention and subscribers on a small YouTube Shorts channel (wrdclipz), with the matching TikTok only as a feeder. Creators are interchangeable test material. Keep testing until one niche or video type can be pinpointed to focus on. Every post gets tracked; every win and miss gets a written reason.
+Direction (William, 2026-11-06): wrdclipz is a **news channel**. Official-source clips on breaking stories, posted fast. Gaming is a separate channel William creates. The broad niche test (gaming, AI, GTA, creator moments) is finished and closed; its record is below. How the lane runs day to day: `NEWS-PLAYBOOK.md`. Per-post data: `experiment-log.csv`.
 
-Files: `experiment-log.csv` (one row per post, attributes + metrics + why), `hook-test-plan.md` (frozen hook-text test), audits in `audit-*.md`, strategy in `strategy-*.md`.
+## How we learn
+1. **Log every post** in `experiment-log.csv`: story, source, how old the source was when we posted, the radar signal that found it, OpusClip score, title, then results. Write the prediction before the result.
+2. **Metrics that count.** Views are weak (Shorts counts any start). Use average % viewed, swiped-away rate, impressions, traffic source and subscribers from YouTube Studio. Public view counts are read by the tracker; the rest comes from William's Studio screenshots. Read at 24 h, 72 h, 7 d.
+3. **Pool before concluding.** One clip is noise. Label every conclusion with n and say "directional" until n >= 6 comparable clips.
+4. **Questions the news lane must answer:** how much does speed (source age at post) matter; which story types travel (disaster, crime briefing, court, weather, other); official briefing versus other formats; clip length and title style; posting hour.
+5. **Write the why** for every clip with results (topic heat, speed, hook, length, face, platform).
+6. **Safety rules never relax** (list in `NEWS-PLAYBOOK.md`).
 
-## How we learn (rules)
-1. **Log before posting.** Every scheduled post is a row in `experiment-log.csv` with niche, content type, format, hook type, hook text Y/N, OpusClip score (curved + raw /40), group (core pick / control / hook test), and the audit's prediction. Predictions are written BEFORE results.
-2. **Dimensions we compare** (one at a time where possible): niche (gaming, GTA 6, AI/tech, news, streamer/creator moments, others later); content type (funny moment, news commentary, explainer, reaction, primary source); format (gameplay vs talking head vs screen recording; overlay Y/N); hook type; clip length; posting slot; OpusClip score band (>=90 vs <90 control).
-3. **Metrics that count** (Shorts count any start as a view, so raw views are weak): YouTube average % viewed, viewed vs swiped away, impressions, subs gained; TikTok average watch time / length, 2 s retention, followers. Read at 24 h, 72 h, 7 d. Views are context, not the outcome.
-4. **Judge niches by pooled results, not single clips.** One clip is noise (our one TikTok outlier was 40x the median). Need >= 4 to 6 clips per niche/type before calling a pattern; label every conclusion with n and say "directional" until n is big enough.
-5. **Diversify on purpose.** Each weekly batch should include at least 3 niches/types so comparisons exist. Do not over-invest in a niche from 1 to 3 good clips.
-6. **Write the why.** For each clip with results, fill `why_it_did_or_didnt_work` (hook, premise, face, length, topic heat, slot, platform) and `result_vs_prediction`. Record mistakes here too (below).
-7. **Safety rules never relax for a test** (accuracy on facts, no distress audio, no unverified claims about named people, posted wait rules).
+## What we have learned (newest first)
+- **2026-11-06, directional (n=2 clips, one topic): the Palm Beach Learjet crash out-reached everything else by about 150x.** YouTube Studio, 28 days through 11/5: Learjet 60 crash clip 1,315 views (avg view 0:19, 70.4%); NTSB debris briefing 1,243 views (0:35, 96.4%); next best is Monkey vs alligator at 7. The audit predicted NTSB would under-perform; wrong. The NTSB clip has no hook, face or overlay and still held 96% of viewers, so on a hot topic a plain primary-source clip can be enough. The Learjet clip was posted before the experiment (origin and source unrecorded). Both ride one story, so topic heat and format are not separated. Evidence rows: NTSB 11/4 11:00, Learjet 11/3.
+- **Pending:** the two Citibank clips (11/6 11:41 and 12:29, official HCSO source) are the first fast-lane test. Read at 24 h and 72 h; compare to the Learjet pair; record source age at posting (about 20 to 27 h).
 
-## Coverage so far (as of 2026-11-03 night, 17 posts scheduled 11/3 to 11/9)
-| Niche / type | Posts | Sources | Notes |
-|---|---|---|---|
-| Gaming: co-op funny moments | 6 YouTube + 2 TikTok (incl. hook test) | SMii7Y only | single source: confounded with the creator |
-| AI / make-money tech: talking head + screen | 4 YouTube + 2 TikTok | NateHerk only | single source |
-| GTA 6 news commentary | 3 YouTube | T5G2, TmarTn2 | pre-load/launch push comes 11/10 to 11/22 |
-| News (primary source) | 1 YouTube | NTSBgov | prediction: under-perform |
-| Streamer / creator moments (a lead lane) | 0 | none | gap: xQc held (official-channel check), Mizkif closed (Klein rumor) |
-| Breaking news / gossip, sports, business, others | 0 | none | untested |
-
-**Gaps to fix in the next batch:** (a) more than one source per niche, so we can separate niche from creator; (b) a real streamer/creator-moment sample (the other lead lane); (c) at least one or two untested niches; (d) GTA 6 launch-week content from pre-load through 11/22.
-
-## Open experiments
-- **Hook text (11/6 to 11/8):** 4 clips, hook version on one platform, plain on the other, counterbalanced. Frozen rule in `hook-test-plan.md`; verdict ~11/11. Directional only; discuss with William before touching `enableAutoHook`.
-- **Score control (11/5, 11/9):** two clips scored 85 (SMii7Y crate, Nate AI slop) vs same-source clips >= 90. Question: does the 90 cutoff predict anything? Small n; read together with later clips.
-- **Audit predictions (72 h, YouTube Shorts):** over-perform = monkey alligator, monkey sacrifice, GTA cops; under-perform = Nate "Make it better", NTSB debris, xQc Ford (xQc not scheduled, so score the first two plus any replacement). Holds if at least 2 of 3 land in each group.
-
-## What we have learned
-- (Nothing from results yet. First posts go live 11/3 10 PM ET.) Record the first lessons here as they arrive, newest first, each with n, date, and the evidence row(s) in `experiment-log.csv`.
+## Pre-pivot record (11/3 to 11/6, closed)
+Tiny reach on everything that was not news. YouTube Studio 11/5: Monkey vs alligator 7 views (78% viewed), monkey sacrifice 4 (65%), crate through the hell cave 2. GTA 6 and AI clips had not yet shown reach. No pattern can be claimed from these (n of 4 to 7 views each). Conclusion kept: on this channel today, non-news clips got almost no distribution; news clips got about 1,300 views each. The cancelled hook-text test never produced a result and is closed.
 
 ## Mistakes and fixes
-- 2026-11-03: scheduled the monkey-sacrifice clip a day late (UTC conversion: ET is UTC-5 after DST ended 11/1; 11 AM = 16:00Z, 5 PM = 22:00Z, 10 PM = 03:00Z next day). Caught the same hour, cancelled and rescheduled. Rule: print the converted ET time of every schedule and check the list (`GET /api/publish-schedules?q=byPage`) after each batch.
-- 2026-11-03: OpusClip API returns HTTP 429 when schedules are created in bursts; space calls 8 s apart and retry after the stated delay.
-- 2026-11-03: the first audit missed TmarTn2 because its clip file was not on disk yet; check all project files exist before an audit.
+- 2026-11-03: scheduled a clip a day late (UTC conversion). ET is UTC-5 after DST ended 11/1: 11 AM = 16:00Z, 5 PM = 22:00Z, 10 PM = 03:00Z next day. Print the converted ET time of every schedule and check the list after each batch.
+- 2026-11-03: OpusClip API returns HTTP 429 in bursts; space calls 8 s apart.
 - 2026-11-03: the agent browser cannot sign in to OpusClip (Google blocks automated browsers, Cloudflare human check); editor work needs William's own browser.
+- 2026-11-06: OpusClip's auto title and hashtags can misstate the facts (one said "training scenario" for a real shooting). Always read the clip transcript and rewrite the title and description before posting.
+- 2026-11-06: the radar loop cannot see stored secrets (the YouTube key) when run by the scheduler as a stream; it must stay key-less. The agent adds key-backed numbers afterwards.

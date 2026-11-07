@@ -1,0 +1,46 @@
+[  1.06-  3.74] Oh my god, did we win?
+    words: Oh@1.06 my@1.5 god,@1.64 did@1.88 we@2.08 win?@3.46
+[  3.92-  5.18] Oh my god, Taylor, we win!
+    words: Oh@3.92 my@3.94 god,@4.06 Taylor,@4.3 we@4.6 win!@4.72
+[  7.06-  7.50] Oh my god!
+    words: Oh@7.06 my@7.06 god!@7.24
+[  8.56-  8.82] Oh my god!
+    words: Oh@8.56 my@8.6 god!@8.82
+[  8.82-  9.92] Oh my god!
+    words: Oh@8.82 my@9.12 god!@9.38
+[ 10.26- 11.32] Oh my god!
+    words: Oh@10.26 my@10.52 god!@10.74
+[ 11.98- 12.10] Oh my god!
+    words: Oh@11.98 my@12.1 god!@12.1
+[ 12.10- 12.26] No!
+    words: No!@12.1
+[ 13.24- 14.10] How many tracks now?
+    words: How@13.24 many@13.48 tracks@13.62 now?@13.86
+[ 14.32- 18.14] One, two, three, four, five, six, seven, eight!
+    words: One,@14.32 two,@14.7 three,@15.26 four,@15.68 five,@16.18 six,@16.4 seven,@16.78 eight!@17.9
+[ 18.62- 19.48] Oh my god!
+    words: Oh@18.62 my@18.7 god!@18.98
+[ 19.70- 20.12] Oh my god!
+    words: Oh@19.7 my@19.7 god!@19.88
+[ 20.80- 21.70] Oh my god!
+    words: Oh@20.8 my@21.02 god!@21.36
+[ 22.04- 22.70] Oh my god!
+    words: Oh@22.04 my@22.04 god!@22.36
+[ 22.84- 22.94] Oh my god!
+    words: Oh@22.84 my@22.84 god!@22.94
+[ 23.00- 23.56] No, Mr. Beast!
+    words: No,@23.0 Mr.@23.26 Beast!@23.5
+[ 23.82- 24.58] No, Mr. Beast!
+    words: No,@23.82 Mr.@24.32 Beast!@24.56
+[ 25.74- 27.24] $500,000 boys!
+    words: $500@25.74 ,000@26.18 boys!@26.62
+[ 27.50- 27.78] Let's go!
+    words: Let's@27.5 go!@27.64
+[ 27.88- 28.82] Alright, grab your money!
+    words: Alright,@27.88 grab@28.32 your@28.34 money!@28.54
+[ 28.82- 29.76] Let's go!
+    words: Let's@28.82 go!@29.3
+[ 30.36- 31.52] Oh my god, bro!
+    words: Oh@30.36 my@30.5 god,@30.84 bro!@31.38
+[ 31.82- 33.98] Now it's time for them to extract in real life!
+    words: Now@31.82 it's@31.86 time@32.06 for@32.2 them@32.38 to@32.54 extract@32.68 in@33.1 real@33.4 life!@33.6

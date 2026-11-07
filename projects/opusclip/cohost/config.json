@@ -1,0 +1,134 @@
+{
+ "ffmpeg": "/home/williamdownard/openclaw-sites/bin/ffmpeg",
+ "whisper_python": "/home/williamdownard/openclaw-sites/clips-venv/bin/python",
+ "whisper_model": "small.en",
+ "whisper_dir": "/home/williamdownard/openclaw-sites/models",
+ "nullv2_dir": "/home/williamdownard/.openclaw/workspace/projects/opusclip/cohost-options/null-v2",
+ "variant": "A",
+ "voice": "am_onyx",
+ "speed": 0.97,
+ "fps": 30,
+ "fontsdir": "/usr/share/fonts/opentype/fira",
+ "font": "Fira Sans Condensed",
+ "layout": {
+  "clip_y": 300,
+  "clip_h": 900,
+  "clip_crop_w": 1296,
+  "mascot_small": 340,
+  "small_xy": [
+   730,
+   1500
+  ],
+  "mascot_big": 800,
+  "big_xy": [
+   140,
+   300
+  ],
+  "card_x": 36,
+  "card_w": 548,
+  "card_cy": 1650,
+  "cap_y": 1225
+ },
+ "fade": 0.5,
+ "outro_gap": 0.15,
+ "tail": 0.5,
+ "max_line_words": 14,
+ "max_mb": 25,
+ "official_domains": [
+  "callofduty.com",
+  "activision.com",
+  "support.activision.com",
+  "rockstargames.com",
+  "support.rockstargames.com",
+  "take2games.com",
+  "take2games.com",
+  "youtube.com",
+  "youtu.be",
+  "x.com",
+  "twitter.com",
+  "bsky.app",
+  "instagram.com",
+  "playstation.com",
+  "xbox.com",
+  "news.xbox.com",
+  "blog.playstation.com",
+  "store.steampowered.com"
+ ],
+ "always_allowed_terms": [
+  "NULL",
+  "SMIRK",
+  "AI",
+  "CO-HOST",
+  "I",
+  "I'm",
+  "My",
+  "Your",
+  "Takeaway",
+  "Prediction",
+  "Timeline"
+ ],
+ "disclosure": "AI-generated co-host voice and character (NULL//SMIRK, a stylized non-realistic cartoon character with a synthetic voice). Script written with AI assistance from the official sources listed above.",
+ "max_card_words": 22,
+ "interrupt_level": "low",
+ "levels": {
+  "low": {
+   "max_interjections": 2,
+   "max_interjection_s": 4.5,
+   "max_cards": 4,
+   "card_dur": [
+    2.0,
+    3.2
+   ],
+   "outro_max_s": 10,
+   "outro_speed": 1.2,
+   "mascot_alpha": 0.72,
+   "duck": {
+    "threshold": 0.03,
+    "ratio": 3,
+    "attack": 20,
+    "release": 300
+   },
+   "duck_db": -6
+  },
+  "medium": {
+   "max_interjections": 4,
+   "max_interjection_s": 5.5,
+   "max_cards": 6,
+   "card_dur": [
+    2.0,
+    3.5
+   ],
+   "outro_max_s": 15,
+   "outro_speed": 1.0,
+   "mascot_alpha": 0.88,
+   "duck": {
+    "threshold": 0.02,
+    "ratio": 6,
+    "attack": 15,
+    "release": 400
+   },
+   "duck_db": -9
+  },
+  "high": {
+   "max_interjections": 6,
+   "max_interjection_s": 7.0,
+   "max_cards": 8,
+   "card_dur": [
+    2.0,
+    4.0
+   ],
+   "outro_max_s": 24,
+   "outro_speed": 0.97,
+   "mascot_alpha": 1.0,
+   "duck": {
+    "threshold": 0.015,
+    "ratio": 12,
+    "attack": 15,
+    "release": 450
+   },
+   "duck_db": -12
+  }
+ },
+ "ai_tag": "always",
+ "description_note_ai_tag": "'always' | 'intro_outro' | 'off' (the description disclosure line stays regardless)"
+}
