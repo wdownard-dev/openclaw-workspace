@@ -1,0 +1,51 @@
+
+WILLIAM DOWNARD
+Miami, FL  |  305-498-0851  |  william.downard@me.com  |  linkedin.com/in/wdownard
+
+Professional Summary
+Systems Administrator and Security Engineer with nearly 5 years of experience managing enterprise Microsoft 365 environments and IT infrastructure for a global healthcare technology company with 1,400+ users across the US, Germany, and India. Adept at endpoint security (Intune, Defender for Endpoint), SIEM monitoring (Microsoft Sentinel), identity and access management, and network infrastructure administration. Also serves as the organization’s Security Compliance Officer, owning HIPAA and PCI DSS programs including policy development, security auditing, and access control governance. Holds CompTIA Security+, Network+, and A+ certifications.
+Core Competencies
+HIPAA Compliance  |  PCI DSS  |  Security Compliance Auditing  |  Policy Development and Enforcement  |  Systems Administration  |  Identity and Access Management  |  Endpoint Security  |  Incident Response  |  Microsoft 365 Administration  |  Azure Active Directory / Entra ID  |  Microsoft Intune / MDM  |  Microsoft Defender for Endpoint  |  Microsoft Sentinel (SIEM)  |  Network Infrastructure  |  Ubiquiti UniFi  |  IT Asset Lifecycle  |  Onboarding and Offboarding  |  Vendor Management
+Technical Skills
+Microsoft Ecosystem: Microsoft 365 (Admin Center), Azure Active Directory / Entra ID, Microsoft Intune (MDM), Microsoft Defender for Endpoint (EDR), Microsoft Sentinel (SIEM), Exchange Online, SharePoint Online, Teams, OneDrive
+Security and Compliance: HIPAA, PCI DSS, Security policy enforcement, SIEM monitoring, endpoint detection and response (EDR), vulnerability monitoring, incident response coordination, compliance auditing, access control reviews
+Networking: Ubiquiti UniFi (enterprise switches, wireless APs, security gateways), network infrastructure management, VoIP / Twilio
+Platforms and Tools: Windows Server, Windows 10/11, iOS, Salesforce, remote support and ITSM tools
+Professional Experience
+hear.com (Audibene LLC)  |  Miami, FL (Hybrid)  |  Oct 2021 - Present
+World’s #1 online hearing care provider | 1,400+ global employees across the US, Germany, and India
+Systems Administrator and Security Engineer  |  Aug 2023 - Present
+-  Administer Microsoft 365 environment for 450+ US users and 1,400+ global employees, managing Azure Active Directory / Entra ID, Exchange Online, SharePoint, Teams, and OneDrive
+-  Manage enterprise endpoint security through Microsoft Intune (MDM/MAM) and Microsoft Defender for Endpoint, enforcing device compliance policies and monitoring threat alerts across the organization
+-  Monitor and triage security events through Microsoft Sentinel SIEM; coordinate incident response with third-party security vendors, providing detailed system diagnostics and context to support rapid remediation
+-  Manage Ubiquiti UniFi network infrastructure including enterprise switches, wireless access points, and security gateways across US office locations
+-  Design and enforce identity and access management (IAM) policies; execute end-to-end onboarding and offboarding ensuring complete account provisioning/deprovisioning, asset recovery, and audit-aligned access revocation
+-  Develop and maintain IT documentation, onboarding frameworks, and standard operating procedures to improve operational consistency across a globally distributed team
+-  Own HIPAA and PCI DSS compliance programs as the organization’s Security Compliance Officer, including policy development and enforcement, periodic security audits, risk assessments, and regulatory documentation
+-  Conduct access control reviews and enforce least-privilege principles across the organization, ensuring ongoing compliance with HIPAA data security requirements and PCI DSS cardholder data protection standards
+Systems Administrator  |  Mar 2022 - Jul 2023
+-  Administered Microsoft 365 tenant and endpoint infrastructure, managing user accounts, licensing, and device management policies for a growing US team
+-  Resolved complex multi-system technical issues involving Salesforce, Twilio/VoIP, endpoint devices, and cloud services, minimizing downtime and restoring user productivity
+-  Managed IT asset lifecycle including device provisioning, imaging, replacements, and logistics coordination ensuring employees had functional equipment with minimal delay
+-  Coordinated with Microsoft Support and third-party vendors on escalated technical cases, providing detailed diagnostics to drive resolution and minimize business impact
+-  Supported global IT coordination across US, Germany, and India teams, ensuring cross-regional alignment on policies, processes, and escalations
+IT Support Technician  |  Oct 2021 - Feb 2022
+-  Provided high-volume technical support to 450+ US employees across hardware, software, networking, telephony, and SaaS platforms
+-  Managed day-one onboarding support including account provisioning, credential delivery, and device setup, ensuring immediate productivity for new hires
+-  Served as coordination hub between IT, HR, Scheduling, and global teams to efficiently route and resolve cross-functional issues
+Additional Experience
+Restaurant Operations Manager (Various Roles)  |  Miami, FL  |  2007 - 2021
+Chipotle Mexican Grill, Pei Wei Asian Kitchen, Pieology Pizzeria, Whole Foods Market, Bobby’s Burger Palace
+Led daily operations for high-volume restaurant teams of 20+ staff, managing P&L, staffing, and performance. Developed strong leadership, operational discipline, and cross-functional coordination skills directly applicable to IT operations environments.
+Certifications
+-  CompTIA Security+
+-  CompTIA Network+
+-  CompTIA A+
+-  Ubiquiti UniFi Full Stack Professional
+Education
+Cybersecurity Professional Program  |  Completed 2022
+University of Central Florida - Continuing Education
+Business Administration (Coursework)
+Miami Dade College
+Languages: English (Native)  |  Spanish (Professional Fluency)
+

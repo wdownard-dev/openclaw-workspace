@@ -1,0 +1,916 @@
+{
+ "channel": {
+  "kind": "youtubeAnalytics#resultTable",
+  "columnHeaders": [
+   {
+    "name": "views",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   },
+   {
+    "name": "estimatedMinutesWatched",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   },
+   {
+    "name": "averageViewDuration",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   },
+   {
+    "name": "averageViewPercentage",
+    "columnType": "METRIC",
+    "dataType": "FLOAT"
+   },
+   {
+    "name": "subscribersGained",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   },
+   {
+    "name": "subscribersLost",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   },
+   {
+    "name": "likes",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   },
+   {
+    "name": "comments",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   },
+   {
+    "name": "shares",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   }
+  ],
+  "rows": [
+   [
+    2569,
+    536,
+    27,
+    86.33,
+    0,
+    0,
+    14,
+    1,
+    1
+   ]
+  ]
+ },
+ "by_day": {
+  "kind": "youtubeAnalytics#resultTable",
+  "columnHeaders": [
+   {
+    "name": "day",
+    "columnType": "DIMENSION",
+    "dataType": "STRING"
+   },
+   {
+    "name": "views",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   },
+   {
+    "name": "subscribersGained",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   },
+   {
+    "name": "subscribersLost",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   }
+  ],
+  "rows": [
+   [
+    "2026-08-09",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-10",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-11",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-12",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-13",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-14",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-15",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-16",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-17",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-18",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-19",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-20",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-21",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-22",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-23",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-24",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-25",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-26",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-27",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-28",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-29",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-30",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-08-31",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-01",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-02",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-03",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-04",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-05",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-06",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-07",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-08",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-09",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-10",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-11",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-12",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-13",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-14",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-15",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-16",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-17",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-18",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-19",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-20",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-21",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-22",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-23",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-24",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-25",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-26",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-27",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-28",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-29",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-09-30",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-01",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-02",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-03",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-04",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-05",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-06",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-07",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-08",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-09",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-10",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-11",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-12",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-13",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-14",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-15",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-16",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-17",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-18",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-19",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-20",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-21",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-22",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-23",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-24",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-25",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-26",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-27",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-28",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-29",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-30",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-10-31",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-11-01",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-11-02",
+    0,
+    0,
+    0
+   ],
+   [
+    "2026-11-03",
+    1310,
+    0,
+    0
+   ],
+   [
+    "2026-11-04",
+    12,
+    0,
+    0
+   ],
+   [
+    "2026-11-05",
+    1247,
+    0,
+    0
+   ]
+  ]
+ },
+ "by_video": {
+  "kind": "youtubeAnalytics#resultTable",
+  "columnHeaders": [
+   {
+    "name": "video",
+    "columnType": "DIMENSION",
+    "dataType": "STRING"
+   },
+   {
+    "name": "views",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   },
+   {
+    "name": "estimatedMinutesWatched",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   },
+   {
+    "name": "averageViewPercentage",
+    "columnType": "METRIC",
+    "dataType": "FLOAT"
+   },
+   {
+    "name": "subscribersGained",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   },
+   {
+    "name": "subscribersLost",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   },
+   {
+    "name": "likes",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   },
+   {
+    "name": "comments",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   },
+   {
+    "name": "shares",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   }
+  ],
+  "rows": [
+   [
+    "6hd7XuR86PI",
+    1315,
+    176,
+    70.55,
+    0,
+    0,
+    5,
+    1,
+    0
+   ],
+   [
+    "FpUoF33ft-w",
+    1241,
+    357,
+    96.37,
+    0,
+    0,
+    9,
+    0,
+    1
+   ],
+   [
+    "pndS11ONGjY",
+    7,
+    1,
+    78.12,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    "IuGQfvcxUD8",
+    4,
+    0,
+    64.58,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    "jezBXIZ7jLw",
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  ]
+ },
+ "traffic_source": {
+  "error": "HTTP Error 400: Bad Request {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The query is not supported. Check the documentation at https://developers.google.com/youtube/analytics/v2/available_reports for a list of supported queries.\",\n    \"errors\": [\n      {\n        \"message\": \"The query is not supported. Check the documentati"
+ },
+ "shorts_feed_or_channel": {
+  "error": "HTTP Error 400: Bad Request {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The query is not supported. Check the documentation at https://developers.google.com/youtube/analytics/v2/available_reports for a list of supported queries.\",\n    \"errors\": [\n      {\n        \"message\": \"The query is not supported. Check the documentati"
+ },
+ "country": {
+  "kind": "youtubeAnalytics#resultTable",
+  "columnHeaders": [
+   {
+    "name": "country",
+    "columnType": "DIMENSION",
+    "dataType": "STRING"
+   },
+   {
+    "name": "views",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   },
+   {
+    "name": "subscribersGained",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   }
+  ],
+  "rows": [
+   [
+    "US",
+    889,
+    0
+   ],
+   [
+    "CA",
+    301,
+    0
+   ],
+   [
+    "GB",
+    245,
+    0
+   ],
+   [
+    "AU",
+    142,
+    0
+   ],
+   [
+    "DE",
+    108,
+    0
+   ],
+   [
+    "IE",
+    55,
+    0
+   ],
+   [
+    "NZ",
+    51,
+    0
+   ],
+   [
+    "ZA",
+    47,
+    0
+   ]
+  ]
+ },
+ "age_gender": {
+  "kind": "youtubeAnalytics#resultTable",
+  "columnHeaders": [
+   {
+    "name": "ageGroup",
+    "columnType": "DIMENSION",
+    "dataType": "STRING"
+   },
+   {
+    "name": "gender",
+    "columnType": "DIMENSION",
+    "dataType": "STRING"
+   },
+   {
+    "name": "viewerPercentage",
+    "columnType": "METRIC",
+    "dataType": "FLOAT"
+   }
+  ],
+  "rows": [
+   [
+    "age35-44",
+    "male",
+    15
+   ],
+   [
+    "age45-54",
+    "male",
+    22.1
+   ],
+   [
+    "age55-64",
+    "female",
+    3.2
+   ],
+   [
+    "age55-64",
+    "male",
+    30.8
+   ],
+   [
+    "age65-",
+    "female",
+    3.7
+   ],
+   [
+    "age65-",
+    "male",
+    25.2
+   ]
+  ]
+ },
+ "subscribed_status": {
+  "error": "HTTP Error 500: Internal Server Error {\n  \"error\": {\n    \"code\": 500,\n    \"message\": \"An internal error has occurred.\",\n    \"errors\": [\n      {\n        \"message\": \"An internal error has occurred.\",\n        \"domain\": \"global\",\n        \"reason\": \"internalError\"\n      }\n    ]\n  }\n}\n"
+ },
+ "device": {
+  "kind": "youtubeAnalytics#resultTable",
+  "columnHeaders": [
+   {
+    "name": "deviceType",
+    "columnType": "DIMENSION",
+    "dataType": "STRING"
+   },
+   {
+    "name": "views",
+    "columnType": "METRIC",
+    "dataType": "INTEGER"
+   }
+  ],
+  "rows": [
+   [
+    "DESKTOP",
+    203
+   ],
+   [
+    "TV",
+    57
+   ],
+   [
+    "MOBILE",
+    2098
+   ],
+   [
+    "TABLET",
+    205
+   ]
+  ]
+ },
+ "titles": {
+  "6hd7XuR86PI": {
+   "title": "Learjet 60 Crash: What Happened Over South Florida? #shorts",
+   "published": "2026-11-03T17:33:45Z",
+   "dur": "PT27S"
+  },
+  "FpUoF33ft-w": {
+   "title": "NTSB on debris found at the Palm Beach Learjet crash | Source: @NTSBgov",
+   "published": "2026-11-04T16:00:38Z",
+   "dur": "PT37S"
+  },
+  "pndS11ONGjY": {
+   "title": "Monkey vs alligator: he is NOT okay (game) | Source: @SMii7Y",
+   "published": "2026-11-04T21:56:41Z",
+   "dur": "PT30S"
+  },
+  "IuGQfvcxUD8": {
+   "title": "We had to \"sacrifice\" a monkey for the harvest (in-game) | Source: @SMii7Y",
+   "published": "2026-11-04T02:54:26Z",
+   "dur": "PT24S"
+  },
+  "jezBXIZ7jLw": {
+   "title": "We tried to carry a crate through the hell cave (game) | Source: @SMii7Y",
+   "published": "2026-11-05T21:56:39Z",
+   "dur": "PT55S"
+  }
+ }
+}

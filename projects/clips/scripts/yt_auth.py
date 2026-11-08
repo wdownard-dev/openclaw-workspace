@@ -11,7 +11,7 @@ Usage: yt_auth.py <public_client_id> [port]
 """
 import base64, hashlib, http.server, json, os, secrets, subprocess, sys, threading, urllib.request, urllib.parse
 
-SCOPES = "https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube.readonly"
+SCOPES = "https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube.readonly https://www.googleapis.com/auth/yt-analytics.readonly"
 public_id = sys.argv[1] if len(sys.argv) > 1 else "PASTE_CLIENT_ID_HERE"
 port = int(sys.argv[2]) if len(sys.argv) > 2 else 8085
 redirect_uri = f"http://127.0.0.1:{port}"
