@@ -44,6 +44,8 @@ William's call: this is an on-brand lane and a good way to engage viewers. PRIOR
 - **Watch-outs:** reused-content policy applies channel-wide (no original narration); bodycam content gets age-restricted or limited ads more often; unlicensed TV footage risks strikes.
 - Helper: projects/opusclip/data/yt_search.py.
 
+- **Focus shift (William, 11/9):** slow down on Citibank (Tampa) follow-ups and put the effort into the bodycam/dashcam lane, which had early success. Citibank priorities were dropped 11/9; no new Citibank clips unless William asks or there is a major new development he would want.
+
 ## 3. Sources
 - **Clip from (priority):** official agency channels (sheriff, police, fire, NTSB, FAA, NWS/NHC, NASA, courts that stream, other government). Posted by the agency, public-interest, fast.
 - **TV-network, TMZ and similar video:** allowed if it is good (William, 11/6), but only with William's explicit approval first, for each clip. Copyright and Content ID risk: say so when asking. Alerts list these as "non-official options", never as the default.
