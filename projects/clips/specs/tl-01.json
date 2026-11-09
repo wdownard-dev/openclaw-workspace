@@ -1,0 +1,19 @@
+{
+ "id": "tl-01",
+ "campaign": "the-lowdown",
+ "source": "/home/williamdownard/.openclaw/workspace/projects/clips/campaigns/the-lowdown/footage/frameio-nNBn4LbU/The Lowdown Edit 11 - Can’t Go Broke - Remix - ZEDDY WILL.mp4",
+ "start": 0,
+ "end": 16.39,
+ "hook": "My maiden name and phone number",
+ "caption": "The supplied edit's own dialogue text opens the clip",
+ "style": 1,
+ "required_tags": [
+  "#FXPartner"
+ ],
+ "tiktok_caption": "A scene from The Lowdown, cut to the beat. Stream FX’s The Lowdown on Hulu #FXPartner",
+ "schedule": {},
+ "footage": "campaign-supplied",
+ "pattern": "default",
+ "notes": "Supplied Edit 11 reframed 9:16 (blurred band), full 0-16.39 s, audio stream copied unchanged. No burned text; hook is the edit's own opening text. Draft: campaigns/the-lowdown/drafts/tl-01-edit11-cant-go-broke.mp4. Song per file name: Can't Go Broke (Remix), Zeddy Will: confirm it is in the TikTok Commercial Music Library. DRAFT ONLY: rendered with campaigns/<slug>/tools/render_cut.py, not clip_job (clip_job would re-render with its own text style). Not approved, not scheduled, not submitted.",
+ "submission": "vyro"
+}

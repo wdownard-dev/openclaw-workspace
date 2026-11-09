@@ -1,0 +1,28 @@
+{
+ "id": "codm-03",
+ "campaign": "codm-livestream",
+ "source": "/home/williamdownard/.openclaw/workspace/projects/clips/campaigns/codm-livestream/prepared/codm-03-prepared.mp4",
+ "start": 0,
+ "end": 28.2,
+ "hook": "FINAL CIRCLE. SQUAD WIPED.",
+ "caption": "One squad eliminated in the last circle",
+ "style": 1,
+ "required_tags": [
+  "#CODMVerdansk",
+  "#ad"
+ ],
+ "tiktok_caption": "Final circle in Verdansk on Call of Duty: Mobile, and one whole squad gets wiped. #CODMVerdansk #ad",
+ "schedule": {
+  "tiktok": "2026-11-08T12:30:00-05:00"
+ },
+ "footage": "campaign-supplied",
+ "pattern": "default",
+ "layout": "band",
+ "notes": "Prepared source = Gameplay10.mp4 11.8-40.0 s, crop 1155x1080 x=382, loudnorm I=-16, no text. Draft: campaigns/codm-livestream/drafts/codm-03-final-circle.mp4",
+ "submission": "vyro",
+ "overlap_waived": {
+  "codm-01": "false positive: different source files (trailer / separate prepared cuts), source ranges are in each file's own timeline",
+  "codm-02": "false positive: different source files (trailer / separate prepared cuts), source ranges are in each file's own timeline",
+  "codm-04": "false positive: different source files (trailer / separate prepared cuts), source ranges are in each file's own timeline"
+ }
+}

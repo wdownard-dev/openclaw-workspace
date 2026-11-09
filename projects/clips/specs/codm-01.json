@@ -1,0 +1,28 @@
+{
+ "id": "codm-01",
+ "campaign": "codm-livestream",
+ "source": "/home/williamdownard/.openclaw/workspace/projects/clips/campaigns/codm-livestream/footage/frameio-AbAKvKIP/Trailers/verdansk-tease/CODM_VERDANSK_CG_TheJourney_NoRating_9x16_H264.mp4",
+ "start": 0,
+ "end": 34.2,
+ "hook": "Verdansk is coming to CODM",
+ "caption": "Official CG trailer, not actual gameplay",
+ "style": 1,
+ "required_tags": [
+  "#CODMVerdansk",
+  "#ad"
+ ],
+ "tiktok_caption": "The Verdansk teaser for Call of Duty: Mobile says Battle Royale enters a new era on November 12 UTC. Official CG trailer, not actual gameplay. #CODMVerdansk #ad",
+ "schedule": {
+  "tiktok": "2026-11-08T19:00:00-05:00"
+ },
+ "footage": "campaign-supplied",
+ "pattern": "default",
+ "layout": "band",
+ "notes": "Verdansk teaser: native 9:16 trailer, full 0-34.2 s, source used directly. Hook not 'is it real' bait; caption discloses CG. Draft: campaigns/codm-livestream/drafts/codm-01-verdansk-teaser.mp4",
+ "submission": "vyro",
+ "overlap_waived": {
+  "codm-02": "false positive: different source files (trailer / separate prepared cuts), source ranges are in each file's own timeline",
+  "codm-03": "false positive: different source files (trailer / separate prepared cuts), source ranges are in each file's own timeline",
+  "codm-04": "false positive: different source files (trailer / separate prepared cuts), source ranges are in each file's own timeline"
+ }
+}

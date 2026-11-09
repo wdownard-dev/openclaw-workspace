@@ -34,6 +34,16 @@ When a clip we posted starts to do well, that story becomes a priority for 48 ho
 - **By hand:** `python3 radar_loop.py --rename "old words" "new words"` (keeps everything), `--prioritize "story words" --hours 48 --project <OPUS_PROJECT_ID>`, `--unprioritize "words"`, `--priorities`; `python3 followup.py status`.
 - **Story words:** the auto words are rough; on HOT I check them and replace them with better ones.
 
+## 2c. Bodycam / dashcam lane (William, 2026-11-08)
+William's call: this is an on-brand lane and a good way to engage viewers. PRIORITIZE IT (William, 11/8, after the LAPD and SDPD Shorts: 'FANTASTIC... the kind of stuff we should prioritize'). Supply of strong sources is limited, so the daily 11 AM 'Bodycam lane scout' automation hunts for new ones and alerts William only on strong candidates. Template: LAPD critical incident briefing, seconds 514-641 (https://youtu.be/y8P6gDphGNA): 90 s of police dashcam of a foot chase, 'SHOTS FIRED' captions, radio audio, no commentary. Standalone Shorts, no 'Part n/N' overlay (the series-with-overlay test was dropped).
+- **Wanted:** action visible from dashcam or bodycam. Priority: (1) chases that end in a shooting, (2) foot pursuits, armed suspects, officers returning fire, PIT/crash then gunpoint arrest, (3) arrests of people doing terrible things. Ideal source splits into 2-4 standalone Shorts, each 45 s to 2:55 with its own hook.
+- **Not wanted:** cab-only POV with no visible action, helicopter aerial of low-stakes chases, TV packages with anchors, AI-voiced or commentary compilations.
+- **Sources:** official agency channels (critical incident community briefings bundle several camera angles of one incident) AND third-party video on equal footing (William, 11/8, said twice: do not rule third party out): raw reuploads, local-TV raw footage, bystander and surveillance video. Judge on visible action first, then clean footage, then copyright/Content ID risk (state once). Any source age is fine if the footage is strong.
+- **Cutting:** no OpusClip credits. Download with yt-dlp (venv ~/tools/ytdlp-venv), cut with clips/campaigns/the-lowdown/tools/render_cut.py (fitted band over blurred copy for 16:9, crop if the source is pillarboxed vertical), source audio untouched, upload with clips/scripts/upload.py. Screen every part with a contact sheet before posting; reject visible blood, gore, graphic injury.
+- **Descriptions:** attribute to the agency ('Per LAPD: ...'), allegations only, suspect presumed innocent, credit the source video.
+- **Watch-outs:** reused-content policy applies channel-wide (no original narration); bodycam content gets age-restricted or limited ads more often; unlicensed TV footage risks strikes.
+- Helper: projects/opusclip/data/yt_search.py.
+
 ## 3. Sources
 - **Clip from (priority):** official agency channels (sheriff, police, fire, NTSB, FAA, NWS/NHC, NASA, courts that stream, other government). Posted by the agency, public-interest, fast.
 - **TV-network, TMZ and similar video:** allowed if it is good (William, 11/6), but only with William's explicit approval first, for each clip. Copyright and Content ID risk: say so when asking. Alerts list these as "non-official options", never as the default.

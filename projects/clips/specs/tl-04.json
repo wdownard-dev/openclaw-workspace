@@ -1,0 +1,19 @@
+{
+ "id": "tl-04",
+ "campaign": "the-lowdown",
+ "source": "/home/williamdownard/.openclaw/workspace/projects/clips/campaigns/the-lowdown/footage/frameio-nNBn4LbU/The Lowdown Edit 13 - Iloveitiloveitiloveit - Bella Kay.mp4",
+ "start": 0,
+ "end": 20.06,
+ "hook": "You're not in love with him",
+ "caption": "The supplied edit's own opening text",
+ "style": 1,
+ "required_tags": [
+  "#FXPartner"
+ ],
+ "tiktok_caption": "Faces from The Lowdown. Stream FX’s The Lowdown on Hulu #FXPartner",
+ "schedule": {},
+ "footage": "campaign-supplied",
+ "pattern": "default",
+ "notes": "Supplied Edit 13 (4:3 source) reframed 9:16, full 0-20.06 s, audio unchanged, no burned text. Song per file name: Iloveitiloveitiloveit, Bella Kay. DRAFT ONLY: rendered with campaigns/<slug>/tools/render_cut.py, not clip_job (clip_job would re-render with its own text style). Not approved, not scheduled, not submitted.",
+ "submission": "vyro"
+}

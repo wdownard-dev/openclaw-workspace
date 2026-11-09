@@ -1,0 +1,19 @@
+{
+ "id": "mv-01",
+ "campaign": "meet-vyro",
+ "source": "/home/williamdownard/.openclaw/workspace/projects/clips/campaigns/meet-vyro/footage/frameio-363fafc9/VyroUGC_Chris.mp4",
+ "start": 0,
+ "end": 39.47,
+ "hook": "UGC creators: stop cold pitching",
+ "caption": "Chris pitches Vyro for UGC creators; word-synced subtitles",
+ "style": 1,
+ "required_tags": [
+  "#vyropartner"
+ ],
+ "tiktok_caption": "If you make UGC, stop cold pitching brands. Vyro is now open to UGC creators: sign up at Vyro.com and pick UGC creator. #vyropartner",
+ "schedule": {},
+ "footage": "campaign-supplied",
+ "pattern": "default",
+ "notes": "Full source 0-39.47 s (native 9:16, 4K downscaled), subtitles burned from local transcript with Vyro/UGC spellings corrected, source audio unchanged. Draft: campaigns/meet-vyro/drafts/mv-01-chris-cold-pitch.mp4 DRAFT ONLY: rendered with campaigns/<slug>/tools/render_cut.py, not clip_job (clip_job would re-render with its own text style). Not approved, not scheduled, not submitted.",
+ "submission": "vyro"
+}

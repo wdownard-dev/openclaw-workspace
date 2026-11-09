@@ -1,0 +1,19 @@
+{
+ "id": "mv-03",
+ "campaign": "meet-vyro",
+ "source": "/home/williamdownard/.openclaw/workspace/projects/clips/campaigns/meet-vyro/footage/frameio-363fafc9/VyroUGC_Carlos.mp4",
+ "start": 0,
+ "end": 34.9,
+ "hook": "Nobody picked up my pitches",
+ "caption": "Carlos pitch; subtitles; monitors/income-flavoured line cut",
+ "style": 1,
+ "required_tags": [
+  "#vyropartner"
+ ],
+ "tiktok_caption": "Cold pitching got ignored. Vyro matches UGC creators with brands and campaigns instead. #vyropartner",
+ "schedule": {},
+ "footage": "campaign-supplied",
+ "pattern": "default",
+ "notes": "Source 0-14.32 + 17.18-34.9 s (32.0 s output; the 'how do you think I got all of these monitors' line is cut because of the no-income-claims rule). Subtitles burned, audio otherwise unchanged. Note start/end in spec cover the whole span; the cut is listed here. Draft: campaigns/meet-vyro/drafts/mv-03-carlos-no-pitch.mp4 DRAFT ONLY: rendered with campaigns/<slug>/tools/render_cut.py, not clip_job (clip_job would re-render with its own text style). Not approved, not scheduled, not submitted.",
+ "submission": "vyro"
+}

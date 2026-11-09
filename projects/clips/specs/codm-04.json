@@ -1,0 +1,28 @@
+{
+ "id": "codm-04",
+ "campaign": "codm-livestream",
+ "source": "/home/williamdownard/.openclaw/workspace/projects/clips/campaigns/codm-livestream/prepared/codm-04-prepared.mp4",
+ "start": 0,
+ "end": 29.4,
+ "hook": "Gulag. Shotguns only.",
+ "caption": "A Verdansk Gulag shotgun fight ends in a winner",
+ "style": 3,
+ "required_tags": [
+  "#CODMVerdansk",
+  "#ad"
+ ],
+ "tiktok_caption": "Shotguns only in the Gulag on the Verdansk map in CODM. #CODMVerdansk #ad",
+ "schedule": {
+  "tiktok": "2026-11-09T19:00:00-05:00"
+ },
+ "footage": "campaign-supplied",
+ "pattern": "default",
+ "layout": "band",
+ "notes": "Prepared source = Gameplay50.mp4 4.8-34.2 s, crop 1155x1080 x=382, loudnorm I=-16, no text. Draft: campaigns/codm-livestream/drafts/codm-04-gulag-shotguns.mp4",
+ "submission": "vyro",
+ "overlap_waived": {
+  "codm-01": "false positive: different source files (trailer / separate prepared cuts), source ranges are in each file's own timeline",
+  "codm-02": "false positive: different source files (trailer / separate prepared cuts), source ranges are in each file's own timeline",
+  "codm-03": "false positive: different source files (trailer / separate prepared cuts), source ranges are in each file's own timeline"
+ }
+}

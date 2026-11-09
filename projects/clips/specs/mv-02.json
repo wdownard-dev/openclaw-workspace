@@ -1,0 +1,19 @@
+{
+ "id": "mv-02",
+ "campaign": "meet-vyro",
+ "source": "/home/williamdownard/.openclaw/workspace/projects/clips/campaigns/meet-vyro/footage/frameio-363fafc9/VyroUGC_Edvard.mp4",
+ "start": 0,
+ "end": 23.2,
+ "hook": "UGC creators: this one is for you",
+ "caption": "Edvard pitch; source already carries word captions, only a 3 s hook added",
+ "style": 1,
+ "required_tags": [
+  "#vyropartner"
+ ],
+ "tiktok_caption": "Your UGC samples are your portfolio on Vyro: create an account, pick UGC and upload up to 5 pieces. #vyropartner",
+ "schedule": {},
+ "footage": "campaign-supplied",
+ "pattern": "default",
+ "notes": "Full source 0-23.2 s, hook only, source audio unchanged. Draft: campaigns/meet-vyro/drafts/mv-02-edvard-portfolio.mp4 DRAFT ONLY: rendered with campaigns/<slug>/tools/render_cut.py, not clip_job (clip_job would re-render with its own text style). Not approved, not scheduled, not submitted.",
+ "submission": "vyro"
+}

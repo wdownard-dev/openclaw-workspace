@@ -125,3 +125,6 @@ Add conventions, style, and rules as you learn what works for this workspace.
 
 ## Lesson (2026-10-28): no duplicate Telegram messages
 My final reply to William already goes to Telegram. Do not also send the same summary with the `message` tool. Use `message` only for short mid-task progress notes (final=false) or when no reply is otherwise delivered (automation results); never repeat in the final reply what a message already said.
+
+## Lesson (2026-11-08): Telegram buttons
+Send decision buttons as value-only (`{"label":"A","value":"codm_a"}`), never with an `action` key. In OpenClaw 2026.10.7 `action:{type:callback}` buttons are wrapped as tgcb1: and rejected with 'This action is no longer available'. Value-only taps arrive as a user message `callback_data: <value>`. Name the specific item in the message text; read the tap as that person's answer.

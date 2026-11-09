@@ -1,0 +1,19 @@
+{
+ "id": "tl-03",
+ "campaign": "the-lowdown",
+ "source": "/home/williamdownard/.openclaw/workspace/projects/clips/campaigns/the-lowdown/footage/frameio-nNBn4LbU/The Lowdown Edit 8 - Is This My Life_ - Good Boy Daisy.mp4",
+ "start": 0,
+ "end": 18.39,
+ "hook": "Were you ever close",
+ "caption": "The supplied edit's own opening text",
+ "style": 1,
+ "required_tags": [
+  "#FXPartner"
+ ],
+ "tiktok_caption": "A conversation scene from The Lowdown. Stream FX’s The Lowdown on Hulu #FXPartner",
+ "schedule": {},
+ "footage": "campaign-supplied",
+ "pattern": "default",
+ "notes": "Supplied Edit 8 reframed 9:16, full 0-18.39 s, audio unchanged, no burned text. Song per file name: Is This My Life, Good Boy Daisy. DRAFT ONLY: rendered with campaigns/<slug>/tools/render_cut.py, not clip_job (clip_job would re-render with its own text style). Not approved, not scheduled, not submitted.",
+ "submission": "vyro"
+}

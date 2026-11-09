@@ -1,0 +1,32 @@
+{
+  "duration": 36.93,
+  "language": "en",
+  "text": "Actually let's go for this revive light here I'm going to just land the jump out guys A chopper too Oh hey god, wait, what's up? Oh bro, I'm full ass bro",
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 2.08,
+      "text": "Actually let's go for this revive light here"
+    },
+    {
+      "start": 2.08,
+      "end": 4.08,
+      "text": "I'm going to just land the jump out guys"
+    },
+    {
+      "start": 4.08,
+      "end": 29.7,
+      "text": "A chopper too"
+    },
+    {
+      "start": 29.7,
+      "end": 34.93,
+      "text": "Oh hey god, wait, what's up?"
+    },
+    {
+      "start": 34.93,
+      "end": 36.93,
+      "text": "Oh bro, I'm full ass bro"
+    }
+  ]
+}

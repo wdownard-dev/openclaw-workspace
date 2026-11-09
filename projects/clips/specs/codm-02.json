@@ -1,0 +1,28 @@
+{
+ "id": "codm-02",
+ "campaign": "codm-livestream",
+ "source": "/home/williamdownard/.openclaw/workspace/projects/clips/campaigns/codm-livestream/prepared/codm-02-prepared.mp4",
+ "start": 0,
+ "end": 18.7,
+ "hook": "They've done it.",
+ "caption": "The room erupts as the winner is decided",
+ "style": 2,
+ "required_tags": [
+  "#CODMVerdansk",
+  "#ad"
+ ],
+ "tiktok_caption": "The room erupts as the winner gets decided at the CODM Verdansk livestream. #CODMVerdansk #ad",
+ "schedule": {
+  "tiktok": "2026-11-09T12:30:00-05:00"
+ },
+ "footage": "campaign-supplied",
+ "pattern": "default",
+ "layout": "band",
+ "notes": "Prepared source = WINNERS.mp4 16.0-19.2 + 22.8-38.3 s (3.5 s black feed cut), loudnorm I=-16, no text. Draft: campaigns/codm-livestream/drafts/codm-02-new-winner-arises.mp4",
+ "submission": "vyro",
+ "overlap_waived": {
+  "codm-01": "false positive: different source files (trailer / separate prepared cuts), source ranges are in each file's own timeline",
+  "codm-03": "false positive: different source files (trailer / separate prepared cuts), source ranges are in each file's own timeline",
+  "codm-04": "false positive: different source files (trailer / separate prepared cuts), source ranges are in each file's own timeline"
+ }
+}

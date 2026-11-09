@@ -49,3 +49,6 @@
 - reCAPTCHA and Cloudflare checks are for William to solve; do not attempt.
 - Always stop before final Submit and get William's explicit 'submit'.
 - Easy Apply upload quirk: on LinkedIn Easy Apply the FIRST 'Upload resume' click+upload never attaches; repeat click+upload a second time (tab must be focused). Uncheck 'Follow company' box. LinkedIn 'Remote' search filter is unreliable: confirm the Remote/Hybrid/On-site chip on the job page before applying.
+
+- Experience years (William, 2026-11-08): 5 years with EVERY tool (Windows Server, Active Directory, Azure, Intune, Mosyle/Jamf, VMware, Linux, PowerShell, M365/Entra, cloud networking/VPN/firewalls, SCCM). Answer 5 unless a question's scale is capped; no bachelor's degree. Criminal/charge/exclusion/civil questions: all No. Gender male, not Hispanic/Latino, race decline. SSN last4 only when William has provided it for that form (6800 given for Mount Sinai); never reuse without need.
+- Blackpoint/Ashby flagged agent browser as spam; William submits it manually.
