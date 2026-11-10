@@ -2,67 +2,80 @@
  "mw4-01-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7700032805165632782?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-24T01:01:52.118Z"
  },
  "mw4-01-instagram": {
   "status": "sent",
   "link": "https://www.instagram.com/reel/De253P9ImjK/",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-24T01:02:27.018Z"
  },
  "mw4-07-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7700296053383384333?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-24T18:02:38.078Z"
  },
  "mw4-07-instagram": {
   "status": "sent",
   "link": "https://www.instagram.com/reel/De4urYcoydq/",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-24T18:02:49.838Z"
  },
  "mw4-08-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7700744342280965390?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-25T23:02:00.708Z"
  },
  "mw4-08-instagram": {
   "status": "sent",
   "link": "https://www.instagram.com/reel/De71wqjKDTa/",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-25T23:02:09.011Z"
  },
  "tdr-01-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7701115717906746637?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-26T23:04:15.086Z"
  },
  "tdr-01-instagram": {
   "status": "sent",
   "link": "https://www.instagram.com/reel/De-d5OrBYiG/",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-26T23:31:15.704Z"
  },
  "tdr-02-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7701486753688915214?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-27T23:02:50.212Z"
  },
  "tdr-02-instagram": {
   "status": "sent",
   "link": "https://www.instagram.com/reel/DfBCtIUsKWS/",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-27T23:31:16.082Z"
  },
  "mw4-09-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7701857968467348749?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-28T23:03:52.669Z"
  },
  "mw4-09-instagram": {
   "status": "sent",
   "link": "https://www.instagram.com/reel/DfDnmxAzAL6/",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-28T23:34:14.182Z"
  },
  "mw4-10-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7702600109837569294?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-30T23:03:18.785Z"
  },
  "mw4-10-instagram": {
   "status": "scheduled",
@@ -72,7 +85,8 @@
  "tdr-03-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7702228810007170318?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-29T23:02:56.750Z"
  },
  "tdr-03-instagram": {
   "status": "scheduled",
@@ -92,47 +106,56 @@
  "mw4-13-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7701757372082965773?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-28T16:33:40.131Z"
  },
  "mw4-13-instagram": {
   "status": "sent",
   "link": "https://www.instagram.com/reel/DfC7UfwMQQV/",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-28T17:05:34.924Z"
  },
  "mw4-12-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7701386171678493966?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-27T16:32:41.204Z"
  },
  "mw4-12-instagram": {
   "status": "sent",
   "link": "https://www.instagram.com/reel/DfAWbn-g-Y-/",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-27T17:04:44.731Z"
  },
  "mw4-16-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7701014835135352078?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-26T16:31:54.004Z"
  },
  "mw4-16-instagram": {
   "status": "sent",
   "link": "https://www.instagram.com/reel/De9xXs6NO4z/",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-26T17:02:02.172Z"
  },
  "hs3-01-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7701849540613197070?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-28T22:30:50.793Z"
  },
  "hs3-01-instagram": {
   "status": "sent",
   "link": "https://www.instagram.com/reel/DfDq4odsQpA/",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-29T00:01:06.542Z"
  },
  "hs3-04-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7701896026424118542?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-29T01:31:55.373Z"
  },
  "hs3-04-instagram": {
   "status": "scheduled",
@@ -142,7 +165,8 @@
  "hs3-02-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7701880543570349325?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-29T00:33:48.733Z"
  },
  "hs3-02-instagram": {
   "status": "scheduled",
@@ -152,7 +176,8 @@
  "hs3-03-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7702128386151337230?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-29T16:32:52.830Z"
  },
  "hs3-03-instagram": {
   "status": "scheduled",
@@ -162,51 +187,61 @@
  "fg-02-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7702095688833797390?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-29T14:25:47.105Z"
  },
  "fg-01-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7702104947403263245?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-29T15:04:21.825Z"
  },
  "fg-04-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7702138365092711694?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-29T17:11:25.181Z"
  },
  "fg-05-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7702147302856674573?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-29T17:46:04.082Z"
  },
  "hs3-05-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7702870232746052877?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-31T16:31:33.704Z"
  },
  "hs3-06-tiktok": {
   "status": "sent",
   "link": "https://www.tiktok.com/@rvclips6/video/7702970850655374605?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-10-31T23:01:56.741Z"
  },
  "hs3-07-tiktok": {
   "status": "sent",
   "link": "https://tiktok.com/@rvclips6/video/7703256785683074317",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-11-01T17:32:12.910Z"
  },
  "hs3-08-tiktok": {
   "status": "sent",
   "link": "https://tiktok.com/@rvclips6/video/7703357487574945037",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-11-02T00:02:38.845Z"
  },
  "hs3-09-tiktok": {
   "status": "sent",
   "link": "https://tiktok.com/@rvclips6/video/7703627916168416526",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-11-02T17:33:21.596Z"
  },
  "hs3-10-tiktok": {
   "status": "sent",
   "link": "https://tiktok.com/@rvclips6/video/7703728710456741133",
-  "error": ""
+  "error": "",
+  "sent_at": "2026-11-03T00:06:03.754Z"
  }
 }

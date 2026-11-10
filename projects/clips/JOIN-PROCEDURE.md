@@ -24,3 +24,15 @@ Log in PLAN.md: campaign, time, the message ids of his Accept and Confirm, outco
 ## Limits
 - Vyro's rules include a ban on "automated posting" and on using "bots, scrapers, or automation" to collect or manipulate platform data. Clicking Join through the browser tool may fall under that wording; unresolved (see outbox/vyro-support-draft.md). William knows and owns that risk.
 - Payout setup, cash-out, connecting accounts and any form with personal or financial details stay manual for William.
+
+## Standing authorization (William, 2026-11-09 08:22 ET) — supersedes sections 1-2 for Vyro/Whop campaign joins
+William explicitly ended the per-campaign Accept/Confirm steps and asked Morpheus to act on his behalf. Revisit when campaigns start paying.
+- Join without asking only if ALL hold: under ~30% paid out; footage provided and usable; rate >= $1.00/1k (default, no floor given); no flagged clause on exclusivity, clawback, IP licence or fees (read the full terms every time, compare against the last joined campaign); max 1 new join per day.
+- Anything that fails a condition: send the package to William and wait for Accept (old flow, sections 1-2).
+- After every join: one-line Telegram summary (campaign, rate, % paid, terms flags) and a PLAN.md entry.
+- Section 3 stop rules still apply: payment, identity, tax/payout setup, phone/email code, login/password, unlisted document or checkbox. Stop, message William, do not click further.
+- Linking a social account to a campaign: only a click-to-authorize on an already-logged-in session; stop at any password or code.
+- Payout setup and cash-out stay William's. Campaigns that require payout setup are skipped (or surfaced) until he connects payouts.
+- Vyro's automation-ban wording is still unresolved (outbox/vyro-support-draft.md); William owns that risk.
+- Update 2026-11-09 08:25 ET: Vyro support question dropped (William accepts the flag risk). Buffer is blocked until ~Nov 22 and William wants all attention on YouTube until then: no new auto-joins and no Vyro work before Nov 22; resume the standing rule then.
+- Update 2026-11-09 08:33 ET (William: full control except the stop list; all Vyro work dropped until Buffer resets ~Nov 22): IP rule loosened. Accept standard campaign IP, work-for-hire and licence language. Flag (send package, wait for Accept) only for exclusivity beyond the campaign, fees William pays, clawbacks, long time commitments. Submissions: first 3 posts per campaign at post time, no gating; stop quietly at 3 pending with 0 approved. Cadence: max 2 TikToks/day, 4+ h apart. Scout automation disabled; one-shot "Resume Vyro test" fires Nov 22 08:00 ET (also: restore Buffer sync with less polling, build the recurring submit sweeper, test window to Dec 6, drop if 0 approvals).

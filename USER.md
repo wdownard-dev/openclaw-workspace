@@ -10,7 +10,7 @@ Format: `<!-- observed: YYYY-MM-DD | status: active|superseded -->` then one imp
 
 <!-- observed: 2026-10-28 | status: active -->
 
-- Approve clips myself (Morpheus) via `--approve` in `projects/clips/pipeline/clip_job.py`, weighing input from all agents first (Editor's notes, Scout's research, Strategist's briefs in `projects/clips/strategy/`). William gets summaries only (clip, platform, time, link), never per-clip approval requests. Escalate only: a new campaign to join, a rule conflict, money, accounts or legal terms, an unapproved streamer, a clip rejected twice.
+- Approve clips myself (Morpheus) via `--approve` in `projects/clips/pipeline/clip_job.py`, weighing input from all agents first (Editor's notes, Scout's research, Strategist's briefs in `projects/clips/strategy/`). William gets summaries only (clip, platform, time, link), never per-clip approval requests. Escalate only: a rule conflict, money, accounts, an unapproved streamer, a clip rejected twice, anything on the Vyro stop list below. (Campaign joins and campaign terms: standing authorization below.)
 
 <!-- observed: 2026-10-28 | status: active -->
 
@@ -26,11 +26,11 @@ Format: `<!-- observed: YYYY-MM-DD | status: active|superseded -->` then one imp
 
 <!-- observed: 2026-10-28 | status: active -->
 
-- Submit to Vyro only TikToks, only to Total Drama Roblox (MW4 locked), at post time: best 2 go in when live; 3rd slot for a post running early (~1,000 views in hour 1, read via yt-dlp). Vyro counts only post-submission views and approves at 5,000 of them (Vyro chat), so late submission forfeits views. Only "Submit post" > "Use a link instead"; once per post; never Join/payouts/settings. Never delete a pending submission (wrong row deleted 2026-10-28). On a "wait before posting again" dialog, stop and log.
+- Submit to Vyro only TikToks, in any campaign I have joined (William 2026-11-09, supersedes TDR-only and traction gating): the first 3 posts per campaign (the pending cap) at post time, no gating; stop when pending is 3 and 0 approved, without messaging him. Vyro counts only post-submission views, so late submission forfeits views. Only "Submit post" > "Use a link instead"; once per post; never Join/payouts/settings. Never delete a pending submission (wrong row deleted 2026-10-28). On a "wait before posting again" dialog, stop and log.
 
 <!-- observed: 2026-10-28 | status: active -->
 
-- Post at most 2 TikToks per day, 4+ hours apart, from 2026-10-29 for 7 days (Strategist's recommendation, William agreed); log TikToks in the previous 4 hours with each post.
+- Post at most 2 TikToks per day, 4+ hours apart (Strategist's recommendation; William agreed 10/29, kept open-ended 2026-11-09); log TikToks in the previous 4 hours with each post.
 
 <!-- observed: 2026-10-22 | status: active -->
 
@@ -38,13 +38,17 @@ Format: `<!-- observed: YYYY-MM-DD | status: active|superseded -->` then one imp
 
 <!-- observed: 2026-10-22 | status: active -->
 
-- Automate everything except legal acceptance; keep him out of routine runs; report outcomes honestly, including failures.
+- Automate everything; keep him out of routine runs; report outcomes honestly, including failures. (2026-11-09: legal acceptance for Vyro/Whop campaign joins is delegated to me; see standing authorization.)
 
-<!-- observed: 2026-10-24 | status: active -->
+<!-- observed: 2026-11-09 | status: active -->
 
-- Join campaigns only via `projects/clips/JOIN-PROCEDURE.md`: package on Telegram, he replies "Accept", I restate campaign, creator, rate, click Join only after "Confirm". Silence or an older accept is not consent. Stop on any payment, identity or payout prompt.
+- (Superseded 2026-11-09 by the standing join authorization below: per-campaign "Accept"/"Confirm".)
 
-<!-- observed: 2026-10-28 | status: active -->
+<!-- observed: 2026-10-28 | status: superseded -->
+
+- Join Vyro/Whop campaigns on his behalf under a standing authorization (William, 2026-11-09 08:22 ET, explicit: no more two-step consent; Vyro/campaign joins only; he expects to revisit once money comes in). William 2026-11-09 08:33 ET: full control except the stop list, everything paused until Buffer resets ~Nov 22. Join without asking only if: under ~30% paid out, footage provided and usable, rate at or above $1.00/1k (my default), max 1 new join per day, and no flagged clause. Accept standard campaign IP/work-for-hire/licence language; flag only exclusivity beyond the campaign, fees he pays, clawbacks, long time commitments. Send him a one-line summary after each join. Stop and message him on any payment, identity, tax or payout setup, code/login prompt, or unexpected checkbox or document. No paid promotion on campaign submissions. Linking accounts: only a click-to-authorize on an already-logged-in session; stop at any password or code. Payout setup and cash-out stay his.
+
+<!-- observed: 2026-11-09 | status: active -->
 
 - Rank campaigns on likely views (niche fit, footage, runway, audience), not rate per 1k: he distrusts high rates.
 
@@ -78,7 +82,7 @@ Format: `<!-- observed: YYYY-MM-DD | status: active|superseded -->` then one imp
 
 <!-- observed: 2026-11-08 | status: active -->
 
-- Bodycam series lane (William, 11/8): wants spicy bodycam as multi-part YouTube Shorts (each part up to 3 min, consecutive, PART n/N label): car chases, shootings, arrests of people doing terrible things. Prefers bodycam POV, and police DASHCAM (windshield view of the chase) for car chases, over helicopter/aerial (ABC7 AIR7 chase example: 'not very exciting'); cab-only POV with no visible action also rejected (Eureka). FOCUS (William, 11/9): slow down Citibank/Tampa; main focus is bodycam/dashcam (early success). PRIORITY (William, 11/8): the LAPD and SDPD bodycam Shorts were 'FANTASTIC'; this lane is the content to prioritize. TEMPLATE (William, 11/8): LAPD critical incident briefing 'Part 2' (LZPxKI5YGAk, 514-641 s: dashcam view of a foot chase with 'SHOTS FIRED' and 'Officer needs help' radio captions, 90 s) was 'fantastic'; he posted it standalone with no part overlay (https://youtu.be/y8P6gDphGNA). He wants more like it, ideally one source that splits into 2-4 Shorts. Wants the action actually visible: foot chases, struggles, guns drawn, shots, PIT/crash from the officer's view. HIGHEST PRIORITY: chases that end in a shooting (William, 11/8); watch list as of 11/8 (no bodycam released yet): San Antonio PD Alamo Ranch chase and shooting, Border Patrol 122-mile pursuit ending in a shooting (CBS LA BrP_x9XGOW4), Lakewood CO bus shootout. Third-party video is on EQUAL footing with official (William said twice, 11/8: 'let's not rule that out'): raw reuploads, local-TV raw footage, bystander/surveillance video; state copyright risk once. No OpusClip credits for sequential cuts: cut with ffmpeg (render_cut.py).
+- Bodycam series lane (William, 11/8): wants spicy bodycam as multi-part YouTube Shorts (each part up to 3 min, consecutive, PART n/N label): car chases, shootings, arrests of people doing terrible things. Prefers bodycam POV, and police DASHCAM (windshield view of the chase) for car chases, over helicopter/aerial (ABC7 AIR7 chase example: 'not very exciting'); cab-only POV with no visible action also rejected (Eureka). VYRO LESSON (11/9): The Lowdown tl-02 (49.7k TikTok views, \$33 TikTok promotion) was REJECTED by Vyro ~06:15 ET: 'Brief requirements not met: Fake Views. Our system flagged engagement patterns consistent with artificially inflated or botted views.' Never boost/promote a post that is submitted to a Vyro campaign; Vyro detects paid-promo traffic as fake views. GTA 6 / GAMING (William, 11/9): a big GTA 6 push to the separate gaming channel (wrdgamingclips) is being prepped THIS WEEK (GTA 6 launches 11/19); he will start that discussion soon, so keep the GTA clips dormant until he does, and do not mix gaming into wrdclipz (news channel). FOCUS (William, 11/9): slow down Citibank/Tampa; main focus is bodycam/dashcam (early success). PRIORITY (William, 11/8): the LAPD and SDPD bodycam Shorts were 'FANTASTIC'; this lane is the content to prioritize. TEMPLATE (William, 11/8): LAPD critical incident briefing 'Part 2' (LZPxKI5YGAk, 514-641 s: dashcam view of a foot chase with 'SHOTS FIRED' and 'Officer needs help' radio captions, 90 s) was 'fantastic'; he posted it standalone with no part overlay (https://youtu.be/y8P6gDphGNA). He wants more like it, ideally one source that splits into 2-4 Shorts. Wants the action actually visible: foot chases, struggles, guns drawn, shots, PIT/crash from the officer's view. HIGHEST PRIORITY: chases that end in a shooting (William, 11/8); watch list as of 11/8 (no bodycam released yet): San Antonio PD Alamo Ranch chase and shooting, Border Patrol 122-mile pursuit ending in a shooting (CBS LA BrP_x9XGOW4), Lakewood CO bus shootout. Third-party video is on EQUAL footing with official (William said twice, 11/8: 'let's not rule that out'): raw reuploads, local-TV raw footage, bystander/surveillance video; state copyright risk once. No OpusClip credits for sequential cuts: cut with ffmpeg (render_cut.py).
 
 <!-- observed: 2026-11-08 | status: active -->
 

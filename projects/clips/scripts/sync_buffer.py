@@ -4,6 +4,10 @@
 Usage:
   sync_buffer.py            append a snapshot to buffer-snapshots.csv, print one line per post
   sync_buffer.py --report   print the same table without writing
+  sync_buffer.py --all      look up every post (default skips old, finished posts)
+
+Quota (Buffer free plan: 3,000 calls / 30 days): by default only posts that are not yet sent, or were sent in
+the last 72 h, are looked up. Posts sent more than 72 h ago keep their last snapshot. A 429 stops the run at once.
 
 buffer-posts.json maps "<clip_id>-<platform>" -> Buffer post id. Add an entry whenever a post is created.
 Prints NOTICE lines for status changes (scheduled->sent, error) and when a live link first appears.
@@ -26,14 +30,16 @@ def gql(q):
             time.sleep(1.5)  # spread the ~35 per-post calls so Buffer does not rate-limit the burst
             return json.load(urllib.request.urlopen(req, timeout=60))
         except urllib.error.HTTPError as e:
-            if (e.code == 429 or e.code >= 500) and attempt < 3:
-                time.sleep(20 * (attempt + 1))
+            if e.code == 429:
+                sys.exit(f"HTTP 429 (Buffer rate/quota limit): stopping without retries. {e.read().decode(errors='replace')[:200]}")
+            if e.code >= 500 and attempt < 1:
+                time.sleep(20)
                 continue
             sys.exit(f"HTTP {e.code}: {e.read().decode(errors='replace')[:200]}")
         except (urllib.error.URLError, OSError, http.client.HTTPException) as e:
             # dropped connection / proxy hiccup: retry instead of aborting the whole snapshot
-            if attempt < 3:
-                time.sleep(5 * (attempt + 1))
+            if attempt < 1:
+                time.sleep(5)
                 continue
             sys.exit(f"Buffer request failed after retries: {type(e).__name__}: {e}")
 
@@ -43,7 +49,15 @@ def main():
     state = json.load(open(STATE)) if os.path.exists(STATE) else {}
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     rows = []
+    cutoff = datetime.now(timezone.utc).timestamp() - 72 * 3600
     for key, pid in posts.items():
+        old = state.get(key, {})
+        if "--all" not in sys.argv and old.get("status") == "sent" and old.get("link") and old.get("sent_at"):
+            try:
+                if datetime.fromisoformat(old["sent_at"].replace("Z", "+00:00")).timestamp() < cutoff:
+                    continue  # finished and older than 72 h: keep last snapshot, save the API call
+            except ValueError:
+                pass
         d = gql('{ post(input:{id:"%s"}){ status sentAt externalLink error { message } metrics { type value } } }' % pid)
         p = (d.get("data") or {}).get("post")
         if not p:
@@ -61,7 +75,7 @@ def main():
             print(f"NOTICE {key}: live link {row['link']}")
         if row["error"] and row["error"] != old.get("error"):
             print(f"NOTICE {key}: ERROR {row['error']}")
-        state[key] = {"status": row["status"], "link": row["link"], "error": row["error"]}
+        state[key] = {"status": row["status"], "link": row["link"], "error": row["error"], "sent_at": row["sent_at"]}
     for r in rows:
         print(f"{r['key']:20} {r['status']:10} views={r['views']} reach={r['reach']} likes={r['reactions']} "
               f"comments={r['comments']} shares={r['shares']} {r['link']}")
