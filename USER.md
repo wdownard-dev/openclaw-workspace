@@ -92,6 +92,10 @@ Format: `<!-- observed: YYYY-MM-DD | status: active|superseded -->` then one imp
 
 - (Superseded: submit-every-post-to-Vyro, now traction-gated; "Accept <full name>"; "Prioritize TikTok", now the focus rule.)
 
+<!-- observed: 2026-11-11 | status: active -->
+
+- Project Blue Pill (William, 2026-11-11) = separate original long-form animated YouTube channel built in house (stick-figure explainer format, Remotion + ElevenLabs + image API, MCP-driven; not Framesail-dependent, no GPU purchase yet). Distinct from Project Red Pill (OpusClip/wrdclipz news clipping). Plan: projects/bluepill/PLAN.md; format references: projects/future/format-refs/. William is open to spending if it makes sense; planning only until he says go, and no accounts, keys or spend without his approval.
+
 ## Related
 
 - [Agent workspace](/concepts/agent-workspace)
