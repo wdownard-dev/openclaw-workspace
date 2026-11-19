@@ -1,0 +1,1 @@
+[{"id": "odysseus_expr", "out": "characters/odysseus/expressions.png", "prompt_file": "prompts/odysseus_expr.txt", "size": "1536x1024", "refs": ["characters/odysseus/face.png"]}, {"id": "polyphemus_expr", "out": "characters/polyphemus/expressions.png", "prompt_file": "prompts/polyphemus_expr.txt", "size": "1536x1024", "refs": ["characters/polyphemus/face.png"]}]

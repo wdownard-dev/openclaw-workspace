@@ -1,0 +1,38 @@
+{
+ "odin_armed": [
+  0.4
+ ],
+ "tyr_stump": [
+  0.375
+ ],
+ "ymir_dead": [
+  0.195
+ ],
+ "baldr_dead": [
+  0.299
+ ],
+ "loki_old_woman": [
+  0.169
+ ],
+ "loki_bound": [
+  0.072
+ ],
+ "loki_salmon": [
+  0.137
+ ],
+ "fenrir_cub": [
+  0.401
+ ],
+ "fenrir_young": [
+  0.318
+ ],
+ "fenrir_bound": [
+  0.466
+ ],
+ "fenrir_bound_sword": [
+  0.532
+ ],
+ "thor_disguise": [
+  0.093
+ ]
+}

@@ -1,0 +1,177 @@
+[
+ {
+  "id": "vili_ve_turn",
+  "out": "characters/vili_ve/turnaround.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/vili_ve_turn.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "ymir_turn",
+  "out": "characters/ymir/turnaround.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/ymir_turn.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "loki_turn",
+  "out": "characters/loki/turnaround.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/loki_turn.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "hel_turn",
+  "out": "characters/hel/turnaround.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/hel_turn.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "tyr_hand_turn",
+  "out": "characters/tyr_hand/turnaround.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/tyr_hand_turn.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "thor_turn",
+  "out": "characters/thor/turnaround.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/thor_turn.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "hymir_turn",
+  "out": "characters/hymir/turnaround.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/hymir_turn.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "baldr_turn",
+  "out": "characters/baldr/turnaround.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/baldr_turn.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "hod_turn",
+  "out": "characters/hod/turnaround.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/hod_turn.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "snorri_turn",
+  "out": "characters/snorri/turnaround.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/snorri_turn.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "fenrir_grown_turn",
+  "out": "characters/fenrir_grown/turnaround.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/fenrir_grown_turn.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "audhumla_card",
+  "out": "characters/audhumla/front.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/audhumla_card.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "dwarf_card",
+  "out": "characters/dwarf/front.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/dwarf_card.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "ask_embla_card",
+  "out": "characters/ask_embla/front.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/ask_embla_card.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "giantess_card",
+  "out": "characters/giantess/front.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/giantess_card.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "jormungandr_card",
+  "out": "characters/jormungandr/front.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/jormungandr_card.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "frigg_card",
+  "out": "characters/frigg/front.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/frigg_card.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "sigyn_card",
+  "out": "characters/sigyn/front.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/sigyn_card.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "surt_card",
+  "out": "characters/surt/front.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/surt_card.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "heimdall_card",
+  "out": "characters/heimdall/front.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/heimdall_card.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "vidar_card",
+  "out": "characters/vidar/front.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/vidar_card.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "garm_card",
+  "out": "characters/garm/front.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/garm_card.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "modi_magni_card",
+  "out": "characters/modi_magni/front.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/modi_magni_card.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "skald_scribe_card",
+  "out": "characters/skald_scribe/front.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/skald_scribe_card.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "eagle_nidhogg_ratatosk_card",
+  "out": "characters/eagle_nidhogg_ratatosk/front.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/eagle_nidhogg_ratatosk_card.txt",
+  "size": "1024x1536",
+  "refs": []
+ }
+]

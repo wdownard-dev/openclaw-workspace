@@ -1,0 +1,190 @@
+{
+ "duration_s": 616.84,
+ "lufs": [
+  -19.0,
+  1.8,
+  -1.5
+ ],
+ "mp3": [
+  -19.2,
+  1.8,
+  -1.7
+ ],
+ "speech_start": 0.4,
+ "speech_end": 615.344,
+ "words": 1548,
+ "wpm_over_speech_span": 151,
+ "wpm_per_passage": [
+  {
+   "passage": "P1",
+   "wpm": 153
+  },
+  {
+   "passage": "P2",
+   "wpm": 156
+  },
+  {
+   "passage": "P3",
+   "wpm": 153
+  },
+  {
+   "passage": "P4",
+   "wpm": 154
+  },
+  {
+   "passage": "P5",
+   "wpm": 162
+  },
+  {
+   "passage": "P6",
+   "wpm": 149
+  },
+  {
+   "passage": "P7",
+   "wpm": 149
+  },
+  {
+   "passage": "P8",
+   "wpm": 143
+  }
+ ],
+ "beats": 177,
+ "cut_beats_absent": true,
+ "silences_over_0_9s": [
+  [
+   23.8,
+   1.120748
+  ],
+  [
+   98.96,
+   1.294082
+  ],
+  [
+   264.55,
+   1.492834
+  ],
+  [
+   333.9,
+   1.308957
+  ],
+  [
+   448.79,
+   1.279728
+  ],
+  [
+   544.81,
+   1.438503
+  ],
+  [
+   614.95,
+   1.89517
+  ]
+ ],
+ "longest_word_gaps": [
+  [
+   0.75,
+   173,
+   174
+  ],
+  [
+   0.55,
+   161,
+   162
+  ],
+  [
+   0.55,
+   134,
+   135
+  ],
+  [
+   0.55,
+   102,
+   103
+  ],
+  [
+   0.55,
+   79,
+   80
+  ],
+  [
+   0.55,
+   48,
+   49
+  ]
+ ],
+ "artefacts": {
+  "abrupt_events": 3,
+  "click_events": 0,
+  "abrupt_per_min": 0.3,
+  "quietest_100ms_db": -64.4
+ },
+ "per_passage_artefacts": [
+  {
+   "passage": "P1",
+   "abrupt_events": 0,
+   "click_events": 0,
+   "abrupt_per_min": 0.0,
+   "quietest_100ms_db": -63.8
+  },
+  {
+   "passage": "P2",
+   "abrupt_events": 1,
+   "click_events": 0,
+   "abrupt_per_min": 0.8,
+   "quietest_100ms_db": -64.1
+  },
+  {
+   "passage": "P3",
+   "abrupt_events": 0,
+   "click_events": 0,
+   "abrupt_per_min": 0.0,
+   "quietest_100ms_db": -64.0
+  },
+  {
+   "passage": "P4",
+   "abrupt_events": 2,
+   "click_events": 0,
+   "abrupt_per_min": 1.1,
+   "quietest_100ms_db": -64.0
+  },
+  {
+   "passage": "P5",
+   "abrupt_events": 0,
+   "click_events": 0,
+   "abrupt_per_min": 0.0,
+   "quietest_100ms_db": -64.1
+  },
+  {
+   "passage": "P6",
+   "abrupt_events": 0,
+   "click_events": 0,
+   "abrupt_per_min": 0.0,
+   "quietest_100ms_db": -63.7
+  },
+  {
+   "passage": "P7",
+   "abrupt_events": 0,
+   "click_events": 0,
+   "abrupt_per_min": 0.0,
+   "quietest_100ms_db": -64.0
+  },
+  {
+   "passage": "P8",
+   "abrupt_events": 0,
+   "click_events": 0,
+   "abrupt_per_min": 0.0,
+   "quietest_100ms_db": -63.9
+  }
+ ],
+ "uncertain_beats": [],
+ "gap_edit_skips": [
+  [
+   "P7",
+   [
+    157,
+    0.27,
+    "not quiet -26 dB"
+   ]
+  ]
+ ]
+}

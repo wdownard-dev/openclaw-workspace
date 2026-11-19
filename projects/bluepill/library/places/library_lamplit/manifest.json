@@ -1,0 +1,14 @@
+[
+ {
+  "file": "master.png",
+  "role": "master",
+  "canonical": true,
+  "master": true,
+  "derived_from": null
+ },
+ {
+  "file": "sheet.jpg",
+  "role": "sheet",
+  "canonical": false
+ }
+]

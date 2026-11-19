@@ -1,0 +1,42 @@
+[
+ {
+  "file": "expressions.png",
+  "role": "expressions",
+  "canonical": false
+ },
+ {
+  "file": "face.png",
+  "role": "face",
+  "canonical": false
+ },
+ {
+  "file": "sheet.jpg",
+  "role": "sheet",
+  "canonical": false
+ },
+ {
+  "file": "silhouette.png",
+  "role": "silhouette",
+  "canonical": false
+ },
+ {
+  "file": "turnaround.png",
+  "role": "turnaround",
+  "canonical": true
+ },
+ {
+  "file": "turnaround_b.png",
+  "role": "turnaround_b",
+  "canonical": true
+ },
+ {
+  "file": "turnaround_c.png",
+  "role": "turnaround_c",
+  "canonical": true
+ },
+ {
+  "file": "wardrobe.png",
+  "role": "wardrobe",
+  "canonical": false
+ }
+]

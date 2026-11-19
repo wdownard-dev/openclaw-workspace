@@ -1,0 +1,270 @@
+{
+ "checks": [
+  {
+   "check": "A1 Odysseus: laurel not helmet; turnaround/face/expr/wardrobe agree",
+   "result": "PASS",
+   "note": "blue tunic, gold belt, meander, red cloak, sword, laurel in all"
+  },
+  {
+   "check": "A2 Odysseus helmet variant non-canonical in manifest",
+   "result": "PASS after fix (B2)",
+   "note": ""
+  },
+  {
+   "check": "A3 Polyphemus exactly one eye in turnaround/face/expressions",
+   "result": "PASS",
+   "note": ""
+  },
+  {
+   "check": "A4 Polyphemus_blinded: band in every image; scarred hollow non-canonical",
+   "result": "PASS",
+   "note": "also silhouette has no eye"
+  },
+  {
+   "check": "A5 Neighbour giants one eye each",
+   "result": "PASS",
+   "note": "all 12 expression heads + turnaround"
+  },
+  {
+   "check": "A6 Crew/sailor/workers/bard/hesiod/abel/pausanias/hackman/maron/ram/sheep internal agreement with .md",
+   "result": "PASS with minors M2,M3,M9,M10",
+   "note": ""
+  },
+  {
+   "check": "B1 Crew/sailor/workers shared skin + ink style",
+   "result": "PASS after fix (B1)",
+   "note": "workers cream matches crew A"
+  },
+  {
+   "check": "B2 Polyphemus larger than neighbours",
+   "result": "PASS (text only)",
+   "note": "M6: no numeric scale"
+  },
+  {
+   "check": "B3 Maron/bard/Hesiod/Abel/Pausanias/Hackman distinct",
+   "result": "PASS (M7 closest pair)",
+   "note": ""
+  },
+  {
+   "check": "C1 Cave exterior variants same scene (boulder, tree, mouth)",
+   "result": "PASS",
+   "note": ""
+  },
+  {
+   "check": "C2 Cave interior variants same scene (racks, pens, fire pit)",
+   "result": "PASS",
+   "note": ""
+  },
+  {
+   "check": "C3 Boulder prop = exterior boulder; sealed exterior = interior sealed boulder side",
+   "result": "PASS",
+   "note": "left outside <-> right inside consistent"
+  },
+  {
+   "check": "C4 Sheep in cave = sheep sheet",
+   "result": "MINOR FAIL (M5)",
+   "note": ""
+  },
+  {
+   "check": "C5 Ship identical across prop/furled/beached/sea/night/dusk/deck",
+   "result": "PASS",
+   "note": "vertical blue/cream stripes, 7 oar holes, prow eye, meander band, teal hull"
+  },
+  {
+   "check": "C6 Tiryns wall = Lion Gate = sunset",
+   "result": "PASS",
+   "note": ""
+  },
+  {
+   "check": "C7 Hillside dusk/dawn same hills",
+   "result": "PASS",
+   "note": ""
+  },
+  {
+   "check": "C8 Three hilltops: caves visible, no figures",
+   "result": "PASS",
+   "note": ""
+  },
+  {
+   "check": "D Props vs script: stake raw/sharp/fire, skull one hole no sockets, map no text, wine goatskin+bowl, torch, ox-cart",
+   "result": "PASS (M8, M11)",
+   "note": ""
+  },
+  {
+   "check": "E1 refs/ == canonical manifest PNGs, none stale, md5 match",
+   "result": "PASS",
+   "note": "79 refs; helmet kept as documented variant"
+  },
+  {
+   "check": "E2 CAST-CHECK folders/paths exist",
+   "result": "PASS",
+   "note": ""
+  },
+  {
+   "check": "E3 .md text matches images",
+   "result": "PASS after fixes (B3,M1-M3)",
+   "note": ""
+  },
+  {
+   "check": "F Script vs library",
+   "result": "see script lines",
+   "note": ""
+  }
+ ],
+ "issues": [
+  {
+   "id": "B1",
+   "severity": "blocker",
+   "file": "characters/crewman/turnaround_b.png, turnaround_c.png",
+   "what": "Crew B/C were generated text-only: heavy painterly body, cast shadows, thick limbs vs crew A thin ink stick-style (not one ink style/costume tone).",
+   "status": "FIXED: regenerated both from crew A as image ref (prompts/crewman_b_turn_v4.txt, _c_), old copies in _superseded/crew_bc_v3/, refs/ + crewman/sheet.jpg refreshed; verified side by side."
+  },
+  {
+   "id": "B2",
+   "severity": "blocker",
+   "file": "characters/odysseus/manifest.json (+build_library.py)",
+   "what": "turnaround_helmet.png was canonical:true; required non-canonical.",
+   "status": "FIXED: canonical:false, variant:true, note 'helmet beats only (329,448,551,588)'; README, CHARACTER.md, CAST-CHECK updated; file still copied to refs/ because script needs it."
+  },
+  {
+   "id": "B3",
+   "severity": "blocker",
+   "file": "places/cave_exterior/PLACE.md",
+   "what": "Text said boulder is 'beside the mouth on the right'; every image shows it to the LEFT of the mouth (consistent with interior, where it rolls aside to the right when viewed from inside).",
+   "status": "FIXED: PLACE.md + build_library.py text corrected."
+  },
+  {
+   "id": "M1",
+   "severity": "minor",
+   "file": "CAST-CHECK.md / cast_check.py",
+   "what": "Crew listed as 'grey tunics'; images and CHARACTER.md are grey-brown/khaki-brown.",
+   "status": "FIXED: now 'brown tunics'."
+  },
+  {
+   "id": "M2",
+   "severity": "minor",
+   "file": "characters/maron/CHARACTER.md",
+   "what": "Said 'short wooden staff' and omitted the gold sun brooch; images show a head-height staff and brooch.",
+   "status": "FIXED text."
+  },
+  {
+   "id": "M3",
+   "severity": "minor",
+   "file": "characters/polyphemus/CHARACTER.md",
+   "what": "'teal and ochre patches': images show teal patches with ochre stitching only; wardrobe.png also shows a rope belt the text omits.",
+   "status": "FIXED patch wording; rope belt in wardrobe.png not in text (left)."
+  },
+  {
+   "id": "M4",
+   "severity": "minor",
+   "file": "places/cliff_notched_peak/",
+   "what": "Stale empty folder.",
+   "status": "FIXED: removed."
+  },
+  {
+   "id": "M5",
+   "severity": "minor",
+   "file": "places/cave_interior/*",
+   "what": "Sheep in the cave pens have pale cream faces; characters/sheep sheet has dark grey-brown faces with dark ears.",
+   "status": "OPEN: keep sheep sheet for outdoor shots; cave pens only background, faces tiny."
+  },
+  {
+   "id": "M6",
+   "severity": "minor",
+   "file": "characters/neighbour_cyclops (turnaround, face)",
+   "what": "Painterly textured shading and ground shadow vs Polyphemus flat style. No numeric heights in any .md; 'smaller than Polyphemus' is only stated, not drawn on a shared scale.",
+   "status": "OPEN: add relative-size note in shot prompts (Polyphemus ~1.25-1.3x neighbours)."
+  },
+  {
+   "id": "M7",
+   "severity": "minor",
+   "file": "characters/hesiod vs pausanias",
+   "what": "Both wide-brim straw/ochre sun hat + staff. Distinct by shape (flat brim vs domed petasos), tunic (brown fleece vs ochre + cloak + satchel) and colour (tan vs golden), but closest pair.",
+   "status": "OPEN: acceptable; in shots keep Pausanias's satchel/cloak and Hesiod's scroll visible."
+  },
+  {
+   "id": "M8",
+   "severity": "minor",
+   "file": "characters/workers/turnaround.png vs props/ox_cart.png",
+   "what": "Workers haul the block on a log-roller sledge, not an ox-cart; props/ox_cart is a separate two-ox cart. Nothing contradicts the script (ox-carts only in beats 28,143).",
+   "status": "OPEN: do not describe worker scene as an ox-cart."
+  },
+  {
+   "id": "M9",
+   "severity": "minor",
+   "file": "expressions.png of bard, hesiod, pausanias, hackman",
+   "what": "CHARACTER.md says 'expression heads'; these sheets show small full-body figures (hackman/pausanias) or figures (bard, hesiod).",
+   "status": "OPEN."
+  },
+  {
+   "id": "M10",
+   "severity": "minor",
+   "file": "odysseus / crew expressions.png",
+   "what": "Hair reads reddish-orange in expression heads vs brown in turnarounds.",
+   "status": "OPEN."
+  },
+  {
+   "id": "M11",
+   "severity": "minor",
+   "file": "props/stake_fire.png",
+   "what": "Fire-hardened state is a red tip + char, not glowing the whole stake; script 353 glows the stake in coals (shot handled by compositing).",
+   "status": "OPEN."
+  }
+ ],
+ "script_lines": [
+  {
+   "line": 16,
+   "current": "twelve tiny grey-tunic crew",
+   "proposed": "twelve tiny brown-tunic crew"
+  },
+  {
+   "line": 20,
+   "current": "six grey figures walking out",
+   "proposed": "six faded/grey-toned figures (intentional tint) or six brown-tunic crew"
+  },
+  {
+   "line": 242,
+   "current": "eight grey crew",
+   "proposed": "eight brown-tunic crew"
+  },
+  {
+   "line": 278,
+   "current": "six grey figures standing in a row",
+   "proposed": "six brown-tunic crew standing in a row"
+  },
+  {
+   "line": 282,
+   "current": "six grey figures sitting",
+   "proposed": "six brown-tunic crew sitting"
+  },
+  {
+   "line": 440,
+   "current": "a crewman's grey tunic",
+   "proposed": "a crewman's brown tunic"
+  },
+  {
+   "line": 651,
+   "current": "a single grey sailor with a torch",
+   "proposed": "a single brown-tunic sailor with a torch"
+  },
+  {
+   "line": 67,
+   "current": "pebble beach below tall green cliffs",
+   "proposed": "sandy beach below tall sandstone cliffs (library beach is sand, golden cliffs with green patches)"
+  },
+  {
+   "line": 329,
+   "current": "patting Odysseus's helmet",
+   "proposed": "OK but needs characters/odysseus/turnaround_helmet (non-canonical); same for 448, 551, 588"
+  }
+ ],
+ "counts": {
+  "blockers_found": 3,
+  "blockers_fixed": 3,
+  "blockers_remaining": 0,
+  "minors": 11,
+  "minors_fixed": 4,
+  "script_lines": 9
+ },
+ "spend_usd": 0.1025
+}

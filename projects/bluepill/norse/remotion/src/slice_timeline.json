@@ -1,0 +1,2333 @@
+{
+ "fps": 30,
+ "total": 18505,
+ "cuts": [
+  {
+   "beat": "N-001",
+   "scene": "S01",
+   "image": "S01_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 0,
+   "end_s": 2.527,
+   "text": "The sky is a skull."
+  },
+  {
+   "beat": "N-002",
+   "scene": "S01",
+   "image": "S01_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    500,
+    150,
+    760,
+    428
+   ],
+   "start_s": 2.527,
+   "end_s": 4.756,
+   "text": "The clouds are its brain."
+  },
+  {
+   "beat": "N-003",
+   "scene": "S01",
+   "image": "S01_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    0,
+    600,
+    640,
+    360
+   ],
+   "start_s": 4.756,
+   "end_s": 6.324,
+   "text": "The sea is blood,"
+  },
+  {
+   "beat": "N-004",
+   "scene": "S01",
+   "image": "S01_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    880,
+    520,
+    640,
+    360
+   ],
+   "start_s": 6.324,
+   "end_s": 8.535,
+   "text": "and the mountains are bones."
+  },
+  {
+   "beat": "N-005",
+   "scene": "S02",
+   "image": "S02_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 8.535,
+   "end_s": 11.775,
+   "text": "In Norse myth, the world was a giant once,"
+  },
+  {
+   "beat": "N-006",
+   "scene": "S03",
+   "image": "S03_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 11.775,
+   "end_s": 14.241,
+   "text": "until three brothers took him apart."
+  },
+  {
+   "beat": "N-007",
+   "scene": "S03",
+   "image": "S03_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    80,
+    430,
+    520,
+    293
+   ],
+   "start_s": 14.241,
+   "end_s": 16.124,
+   "text": "One of them was Odin."
+  },
+  {
+   "beat": "N-008",
+   "scene": "S03",
+   "image": "S03_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 16.124,
+   "end_s": 18.502,
+   "text": "He built everything from a corpse,"
+  },
+  {
+   "beat": "N-009",
+   "scene": "S04",
+   "image": "S04_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 18.502,
+   "end_s": 21.529,
+   "text": "and then he was told how it would end."
+  },
+  {
+   "beat": "N-010",
+   "scene": "S05",
+   "image": "S05_lib.png",
+   "move": "crop_close",
+   "crop_rect": [
+    520,
+    380,
+    560,
+    315
+   ],
+   "start_s": 21.529,
+   "end_s": 24.837,
+   "text": "But first, there was nothing at all."
+  },
+  {
+   "beat": "N-011",
+   "scene": "S05",
+   "image": "S05_lib.png",
+   "move": "pull_out",
+   "crop_rect": null,
+   "push": {
+    "from": 1.06,
+    "to": 1
+   },
+   "start_s": 24.837,
+   "end_s": 29.632,
+   "text": "Well, almost nothing. Only a great gap, with ice on one side"
+  },
+  {
+   "beat": "N-012",
+   "scene": "S05",
+   "image": "S05_lib.png",
+   "move": "pan_right",
+   "crop_rect": null,
+   "push": {
+    "translate_pct": 4
+   },
+   "start_s": 29.632,
+   "end_s": 31.646,
+   "text": "and fire on the other."
+  },
+  {
+   "beat": "N-013",
+   "scene": "S06",
+   "image": "S06_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 31.646,
+   "end_s": 35.101,
+   "text": "Where the cold meets the heat, the ice begins to melt,"
+  },
+  {
+   "beat": "N-014",
+   "scene": "S06",
+   "image": "S06_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 35.101,
+   "end_s": 38.86,
+   "text": "and out of the drops comes a giant named Ymir."
+  },
+  {
+   "beat": "N-015",
+   "scene": "S07",
+   "image": "S07_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 38.86,
+   "end_s": 42.94,
+   "text": "The skull in the sky is still on his shoulders, for now."
+  },
+  {
+   "beat": "N-016",
+   "scene": "S07",
+   "image": "S07_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 42.94,
+   "end_s": 47.975,
+   "text": "These myths come straight from the sources, so follow the channel for the rest. [CTA]"
+  },
+  {
+   "beat": "N-017",
+   "scene": "S08",
+   "image": "S08_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 47.975,
+   "end_s": 53.403,
+   "text": "Beside him, a cow named Audhumla comes out of the same melting ice."
+  },
+  {
+   "beat": "N-018",
+   "scene": "S08",
+   "image": "S08_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    640,
+    340,
+    760,
+    428
+   ],
+   "start_s": 53.403,
+   "end_s": 57.623,
+   "text": "Ymir lives on her milk, and she lives on salty ice."
+  },
+  {
+   "beat": "N-019",
+   "scene": "S08",
+   "image": "S08_v1.png",
+   "move": "hold",
+   "crop_rect": [
+    680,
+    380,
+    700,
+    394
+   ],
+   "start_s": 57.623,
+   "end_s": 62.104,
+   "text": "By the third day, she has licked a whole man out of the ice."
+  },
+  {
+   "beat": "N-020",
+   "scene": "S09",
+   "image": "S09_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 62.104,
+   "end_s": 67.68,
+   "text": "That man's grandsons are Odin and two brothers, Vili and Ve."
+  },
+  {
+   "beat": "N-021",
+   "scene": "S09",
+   "image": "S09_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 67.68,
+   "end_s": 69.67,
+   "text": "So they kill Ymir."
+  },
+  {
+   "beat": "N-022",
+   "scene": "S10",
+   "image": "S10_lib.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 69.67,
+   "end_s": 74.891,
+   "text": "His blood pours out in such a flood that nearly every frost giant drowns."
+  },
+  {
+   "beat": "N-023",
+   "scene": "S11",
+   "image": "S11_n023.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 74.891,
+   "end_s": 77.747,
+   "text": "The brothers drag the body into the middle of the gap,"
+  },
+  {
+   "beat": "N-024",
+   "scene": "S11",
+   "image": "S11_n024.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 77.747,
+   "end_s": 80.121,
+   "text": "and build a world out of it."
+  },
+  {
+   "beat": "N-025",
+   "scene": "S12",
+   "image": "S12_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 80.121,
+   "end_s": 82.164,
+   "text": "His flesh becomes the land,"
+  },
+  {
+   "beat": "N-028",
+   "scene": "S12",
+   "image": "S12_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    400,
+    230,
+    640,
+    360
+   ],
+   "start_s": 82.164,
+   "end_s": 84.573,
+   "text": "and his hair becomes the trees."
+  },
+  {
+   "beat": "N-029",
+   "scene": "S12",
+   "image": "S12_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 84.573,
+   "end_s": 89.24,
+   "text": "His skull becomes the sky, held up by four dwarfs."
+  },
+  {
+   "beat": "N-030",
+   "scene": "S13",
+   "image": "S13_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 89.24,
+   "end_s": 93.755,
+   "text": "Sparks from the fire land are thrown up there as stars."
+  },
+  {
+   "beat": "N-031",
+   "scene": "S13",
+   "image": "S13_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    560,
+    560,
+    420,
+    236
+   ],
+   "start_s": 93.755,
+   "end_s": 95.977,
+   "text": "Not bad for three brothers."
+  },
+  {
+   "beat": "N-032",
+   "scene": "S13",
+   "image": "S13_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    560,
+    560,
+    420,
+    236
+   ],
+   "start_s": 95.977,
+   "end_s": 100.153,
+   "text": "Everything they just built will end in fire. [PULL]"
+  },
+  {
+   "beat": "N-033",
+   "scene": "S14",
+   "image": "S14_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 100.153,
+   "end_s": 102.492,
+   "text": "The brothers need someone to live in it."
+  },
+  {
+   "beat": "N-034",
+   "scene": "S14",
+   "image": "S14_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    60,
+    620,
+    640,
+    360
+   ],
+   "start_s": 102.492,
+   "end_s": 106.05,
+   "text": "Along the shore they find two fallen trees."
+  },
+  {
+   "beat": "N-035",
+   "scene": "S14",
+   "image": "S14_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 106.05,
+   "end_s": 109.28,
+   "text": "They shape them into the first man and woman,"
+  },
+  {
+   "beat": "N-036",
+   "scene": "S14",
+   "image": "S14_v1.png",
+   "move": "crop_close",
+   "crop_rect": [
+    900,
+    300,
+    560,
+    315
+   ],
+   "start_s": 109.28,
+   "end_s": 111.133,
+   "text": "Ask and Embla."
+  },
+  {
+   "beat": "N-037",
+   "scene": "S14",
+   "image": "S14_v1.png",
+   "move": "crop_close",
+   "crop_rect": [
+    1000,
+    330,
+    400,
+    225
+   ],
+   "start_s": 111.133,
+   "end_s": 112.724,
+   "text": "Odin gives them breath,"
+  },
+  {
+   "beat": "N-038",
+   "scene": "S15",
+   "image": "S15_base.png",
+   "move": "pull_out",
+   "crop_rect": null,
+   "push": {
+    "from": 1.06,
+    "to": 1
+   },
+   "start_s": 112.724,
+   "end_s": 116.811,
+   "text": "and their world is called Midgard, the middle world."
+  },
+  {
+   "beat": "N-039",
+   "scene": "S16",
+   "image": "S16_lib.png",
+   "move": "crop_close",
+   "crop_rect": [
+    150,
+    40,
+    760,
+    428
+   ],
+   "start_s": 116.811,
+   "end_s": 120.479,
+   "text": "Above it, the gods build their own home, Asgard,"
+  },
+  {
+   "beat": "N-040",
+   "scene": "S16",
+   "image": "S16_lib.png",
+   "move": "pull_out",
+   "crop_rect": null,
+   "push": {
+    "from": 1.06,
+    "to": 1
+   },
+   "start_s": 120.479,
+   "end_s": 123.478,
+   "text": "and join the two with a rainbow bridge."
+  },
+  {
+   "beat": "N-041",
+   "scene": "S17",
+   "image": "S17_lib.png",
+   "move": "pan_up",
+   "crop_rect": null,
+   "push": {
+    "translate_pct": 4
+   },
+   "start_s": 123.478,
+   "end_s": 127.823,
+   "text": "Holding everything together is an enormous ash tree, Yggdrasil."
+  },
+  {
+   "beat": "N-042",
+   "scene": "S17",
+   "image": "S17_lib.png",
+   "move": "crop_close",
+   "crop_rect": [
+    380,
+    500,
+    800,
+    450
+   ],
+   "start_s": 127.823,
+   "end_s": 132.554,
+   "text": "Its roots run down to the gods, the frost giants, and the dead."
+  },
+  {
+   "beat": "N-043",
+   "scene": "S18",
+   "image": "S18_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    620,
+    20,
+    640,
+    360
+   ],
+   "start_s": 132.554,
+   "end_s": 134.772,
+   "text": "An eagle sits at the top."
+  },
+  {
+   "beat": "N-044",
+   "scene": "S18",
+   "image": "S18_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    520,
+    560,
+    800,
+    450
+   ],
+   "start_s": 134.772,
+   "end_s": 136.757,
+   "text": "A dragon gnaws at the bottom."
+  },
+  {
+   "beat": "N-045",
+   "scene": "S18",
+   "image": "S18_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    480,
+    340,
+    480,
+    270
+   ],
+   "start_s": 136.757,
+   "end_s": 140.373,
+   "text": "And a squirrel runs between them, carrying insults."
+  },
+  {
+   "beat": "N-046",
+   "scene": "S19",
+   "image": "S19_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 140.373,
+   "end_s": 144.588,
+   "text": "At the well of Mimir, Odin trades one eye for a drink."
+  },
+  {
+   "beat": "N-047",
+   "scene": "S20",
+   "image": "S20_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 144.588,
+   "end_s": 150.207,
+   "text": "That is why Odin has one eye, a wide hat, and a lot of secrets."
+  },
+  {
+   "beat": "N-047a",
+   "scene": "S20",
+   "image": "S20_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 150.207,
+   "end_s": 155.446,
+   "text": "And one of those secrets is his own ending, which a seeress has told him."
+  },
+  {
+   "beat": "N-048",
+   "scene": "S21",
+   "image": "S21_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 155.446,
+   "end_s": 157.994,
+   "text": "Then Loki walks in."
+  },
+  {
+   "beat": "N-049",
+   "scene": "S21",
+   "image": "S21_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    850,
+    400,
+    560,
+    315
+   ],
+   "start_s": 157.994,
+   "end_s": 162.028,
+   "text": "Loki is a giant's son who lives among the gods."
+  },
+  {
+   "beat": "N-050",
+   "scene": "S21",
+   "image": "S21_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 162.028,
+   "end_s": 166.208,
+   "text": "He is handsome and charming, and impossible to trust."
+  },
+  {
+   "beat": "N-051",
+   "scene": "S22",
+   "image": "S22_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 166.208,
+   "end_s": 169.749,
+   "text": "In the land of the giants, he has three children."
+  },
+  {
+   "beat": "N-052",
+   "scene": "S23",
+   "image": "S23_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    150,
+    540,
+    560,
+    315
+   ],
+   "start_s": 169.749,
+   "end_s": 172.366,
+   "text": "The first is a wolf named Fenrir."
+  },
+  {
+   "beat": "N-053",
+   "scene": "S23",
+   "image": "S23_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    560,
+    610,
+    480,
+    270
+   ],
+   "start_s": 172.366,
+   "end_s": 175.921,
+   "text": "The second is a serpent named Jormungandr."
+  },
+  {
+   "beat": "N-054",
+   "scene": "S23",
+   "image": "S23_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    980,
+    540,
+    480,
+    270
+   ],
+   "start_s": 175.921,
+   "end_s": 180.895,
+   "text": "The third is a girl named Hel, half dark and half pale."
+  },
+  {
+   "beat": "N-055",
+   "scene": "S24",
+   "image": "S24_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 180.895,
+   "end_s": 185.158,
+   "text": "The gods hear a prophecy that these three will bring them harm,"
+  },
+  {
+   "beat": "N-056",
+   "scene": "S24",
+   "image": "S24_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    520,
+    300,
+    500,
+    281
+   ],
+   "start_s": 185.158,
+   "end_s": 186.853,
+   "text": "and Odin acts."
+  },
+  {
+   "beat": "N-057",
+   "scene": "S25",
+   "image": "S25_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 186.853,
+   "end_s": 189.466,
+   "text": "He throws the serpent into the deep sea,"
+  },
+  {
+   "beat": "N-058",
+   "scene": "S26",
+   "image": "S26_base.png",
+   "move": "pull_out",
+   "crop_rect": null,
+   "push": {
+    "from": 1.06,
+    "to": 1
+   },
+   "start_s": 189.466,
+   "end_s": 194.68,
+   "text": "and it grows until it circles the whole world, biting its own tail."
+  },
+  {
+   "beat": "N-059",
+   "scene": "S27",
+   "image": "S27_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 194.68,
+   "end_s": 199.202,
+   "text": "He sends Hel to the land of the dead, and gives her charge of it."
+  },
+  {
+   "beat": "N-060",
+   "scene": "S28",
+   "image": "S28_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 199.202,
+   "end_s": 201.141,
+   "text": "The gods keep the wolf close,"
+  },
+  {
+   "beat": "N-061",
+   "scene": "S28",
+   "image": "S28_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 201.141,
+   "end_s": 203.573,
+   "text": "and only Tyr dares to feed him."
+  },
+  {
+   "beat": "N-062",
+   "scene": "S29",
+   "image": "S29_base.png",
+   "move": "pan_right",
+   "crop_rect": null,
+   "push": {
+    "translate_pct": 4
+   },
+   "start_s": 203.573,
+   "end_s": 207.747,
+   "text": "Fenrir grows fast, so the gods decide to chain him."
+  },
+  {
+   "beat": "N-063",
+   "scene": "S30",
+   "image": "S30_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 207.747,
+   "end_s": 210.862,
+   "text": "They offer him a chain as a game of strength,"
+  },
+  {
+   "beat": "N-064",
+   "scene": "S30",
+   "image": "S30_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 210.862,
+   "end_s": 213.216,
+   "text": "and he snaps it like thread."
+  },
+  {
+   "beat": "N-065",
+   "scene": "S30",
+   "image": "S30_v2.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 213.216,
+   "end_s": 215.375,
+   "text": "A heavier chain breaks too."
+  },
+  {
+   "beat": "N-066",
+   "scene": "S31",
+   "image": "S31_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 215.375,
+   "end_s": 220.363,
+   "text": "So the gods send to the dwarfs, who make a cord called Gleipnir."
+  },
+  {
+   "beat": "N-067",
+   "scene": "S31",
+   "image": "S31_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    450,
+    600,
+    520,
+    293
+   ],
+   "start_s": 220.363,
+   "end_s": 225.686,
+   "text": "It is made of six things: the sound of a cat's step, a woman's beard,"
+  },
+  {
+   "beat": "N-068",
+   "scene": "S31",
+   "image": "S31_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    660,
+    570,
+    520,
+    293
+   ],
+   "start_s": 225.686,
+   "end_s": 231.763,
+   "text": "a mountain's roots, a bear's sinews, a fish's breath, and a bird's spit."
+  },
+  {
+   "beat": "N-069",
+   "scene": "S31",
+   "image": "S31_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 231.763,
+   "end_s": 233.696,
+   "text": "It looks like a silk ribbon."
+  },
+  {
+   "beat": "N-070",
+   "scene": "S32",
+   "image": "S32_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 233.696,
+   "end_s": 238.181,
+   "text": "Fenrir smells a trick, and agrees on one condition:"
+  },
+  {
+   "beat": "N-071",
+   "scene": "S32",
+   "image": "S32_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    700,
+    40,
+    560,
+    315
+   ],
+   "start_s": 238.181,
+   "end_s": 241.391,
+   "text": "one of the gods must put a hand in his mouth."
+  },
+  {
+   "beat": "N-072",
+   "scene": "S32",
+   "image": "S32_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 241.391,
+   "end_s": 244.781,
+   "text": "The gods look at one another, and then at the grass."
+  },
+  {
+   "beat": "N-073",
+   "scene": "S32",
+   "image": "S32_v1.png",
+   "move": "crop_close",
+   "crop_rect": [
+    450,
+    300,
+    700,
+    394
+   ],
+   "start_s": 244.781,
+   "end_s": 246.58,
+   "text": "Tyr steps forward,"
+  },
+  {
+   "beat": "N-074",
+   "scene": "S33",
+   "image": "S33_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 246.58,
+   "end_s": 250.036,
+   "text": "and puts his right hand between the wolf's jaws."
+  },
+  {
+   "beat": "N-075",
+   "scene": "S34",
+   "image": "S34_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 250.036,
+   "end_s": 255.133,
+   "text": "The ribbon goes on, and the harder Fenrir pulls, the tighter it holds."
+  },
+  {
+   "beat": "N-076",
+   "scene": "S34",
+   "image": "S34_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    60,
+    400,
+    560,
+    315
+   ],
+   "start_s": 255.133,
+   "end_s": 258.076,
+   "text": "The gods laugh, all except Tyr."
+  },
+  {
+   "beat": "N-077",
+   "scene": "S34",
+   "image": "S34_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    850,
+    380,
+    520,
+    293
+   ],
+   "start_s": 258.076,
+   "end_s": 260.038,
+   "text": "Fenrir bites the hand off,"
+  },
+  {
+   "beat": "N-078",
+   "scene": "S34",
+   "image": "S34_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 260.038,
+   "end_s": 262.333,
+   "text": "and the wolf stays chained."
+  },
+  {
+   "beat": "N-079",
+   "scene": "S34",
+   "image": "S34_v1.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 262.333,
+   "end_s": 265.974,
+   "text": "That ribbon will not hold forever. [PULL]"
+  },
+  {
+   "beat": "N-080",
+   "scene": "S35",
+   "image": "S35_base.png",
+   "move": "pan_right",
+   "crop_rect": null,
+   "push": {
+    "translate_pct": 4
+   },
+   "start_s": 265.974,
+   "end_s": 272.039,
+   "text": "Thor is the god of thunder, strongest of them all, with a hammer named Mjolnir."
+  },
+  {
+   "beat": "N-081",
+   "scene": "S36",
+   "image": "S36_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 272.039,
+   "end_s": 274.84,
+   "text": "One day he sets out to find the serpent,"
+  },
+  {
+   "beat": "N-082",
+   "scene": "S36",
+   "image": "S36_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    620,
+    520,
+    500,
+    281
+   ],
+   "start_s": 274.84,
+   "end_s": 277.039,
+   "text": "disguised as a young man."
+  },
+  {
+   "beat": "N-083",
+   "scene": "S37",
+   "image": "S37_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 277.039,
+   "end_s": 279.642,
+   "text": "He comes to a giant named Hymir,"
+  },
+  {
+   "beat": "N-084",
+   "scene": "S37",
+   "image": "S37_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    850,
+    40,
+    560,
+    315
+   ],
+   "start_s": 279.642,
+   "end_s": 283.27,
+   "text": "who does not think the stranger will be much use on a boat."
+  },
+  {
+   "beat": "N-085",
+   "scene": "S37",
+   "image": "S37_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 283.27,
+   "end_s": 286.799,
+   "text": "Thor takes the head of the biggest ox on the farm for bait."
+  },
+  {
+   "beat": "N-086",
+   "scene": "S38",
+   "image": "S38_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 286.799,
+   "end_s": 290.718,
+   "text": "They row out, and Hymir says they are far enough,"
+  },
+  {
+   "beat": "N-087",
+   "scene": "S38",
+   "image": "S38_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    540,
+    440,
+    700,
+    394
+   ],
+   "start_s": 290.718,
+   "end_s": 292.813,
+   "text": "but Thor says row further."
+  },
+  {
+   "beat": "N-088",
+   "scene": "S38",
+   "image": "S38_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    760,
+    260,
+    520,
+    293
+   ],
+   "start_s": 292.813,
+   "end_s": 294.584,
+   "text": "Hymir grows pale."
+  },
+  {
+   "beat": "N-089",
+   "scene": "S39",
+   "image": "S39_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    400,
+    340,
+    700,
+    394
+   ],
+   "start_s": 294.584,
+   "end_s": 296.975,
+   "text": "Thor ties the ox head to a hook,"
+  },
+  {
+   "beat": "N-090",
+   "scene": "S39",
+   "image": "S39_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 296.975,
+   "end_s": 298.845,
+   "text": "and throws it into the deep,"
+  },
+  {
+   "beat": "N-091",
+   "scene": "S39",
+   "image": "S39_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    100,
+    480,
+    560,
+    315
+   ],
+   "start_s": 298.845,
+   "end_s": 300.621,
+   "text": "and the serpent bites."
+  },
+  {
+   "beat": "N-092",
+   "scene": "S39",
+   "image": "S39_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 300.621,
+   "end_s": 304.627,
+   "text": "Thor pulls so hard his feet go through the bottom of the boat,"
+  },
+  {
+   "beat": "N-093",
+   "scene": "S39",
+   "image": "S39_v1.png",
+   "move": "crop_close",
+   "crop_rect": [
+    540,
+    600,
+    640,
+    360
+   ],
+   "start_s": 304.627,
+   "end_s": 307.723,
+   "text": "and he braces himself on the sea floor."
+  },
+  {
+   "beat": "N-094",
+   "scene": "S40",
+   "image": "S40_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 307.723,
+   "end_s": 311.876,
+   "text": "The serpent rises, and the two of them stare at each other."
+  },
+  {
+   "beat": "N-095",
+   "scene": "S40",
+   "image": "S40_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 311.876,
+   "end_s": 315.355,
+   "text": "Follow the channel to see how this fight ends. [CTA]"
+  },
+  {
+   "beat": "N-096",
+   "scene": "S41",
+   "image": "S41_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    600,
+    100,
+    840,
+    473
+   ],
+   "start_s": 315.355,
+   "end_s": 318.211,
+   "text": "Water pours in, Hymir panics,"
+  },
+  {
+   "beat": "N-097",
+   "scene": "S41",
+   "image": "S41_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    150,
+    400,
+    500,
+    281
+   ],
+   "start_s": 318.211,
+   "end_s": 320.55,
+   "text": "and Thor lifts his hammer."
+  },
+  {
+   "beat": "N-098",
+   "scene": "S41",
+   "image": "S41_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    740,
+    260,
+    520,
+    293
+   ],
+   "start_s": 320.55,
+   "end_s": 322.459,
+   "text": "Hymir cuts the line."
+  },
+  {
+   "beat": "N-099",
+   "scene": "S41",
+   "image": "S41_v1.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 322.459,
+   "end_s": 324.897,
+   "text": "The serpent sinks back into the sea,"
+  },
+  {
+   "beat": "N-100",
+   "scene": "S41",
+   "image": "S41_v1.png",
+   "move": "crop_close",
+   "crop_rect": [
+    200,
+    100,
+    760,
+    428
+   ],
+   "start_s": 324.897,
+   "end_s": 327.428,
+   "text": "and Thor throws the hammer after it."
+  },
+  {
+   "beat": "N-101",
+   "scene": "S42",
+   "image": "S42_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 327.428,
+   "end_s": 331.241,
+   "text": "Thor knocks Hymir overboard, and wades ashore."
+  },
+  {
+   "beat": "N-102",
+   "scene": "S42",
+   "image": "S42_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    650,
+    420,
+    700,
+    394
+   ],
+   "start_s": 331.241,
+   "end_s": 335.099,
+   "text": "Round one is a draw, but they will meet again."
+  },
+  {
+   "beat": "N-103",
+   "scene": "S43",
+   "image": "S43_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 335.099,
+   "end_s": 337.92,
+   "text": "Baldr is the best loved of the gods,"
+  },
+  {
+   "beat": "N-104",
+   "scene": "S43",
+   "image": "S43_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    540,
+    150,
+    520,
+    293
+   ],
+   "start_s": 337.92,
+   "end_s": 341.84,
+   "text": "so fair and bright that light seems to shine from him."
+  },
+  {
+   "beat": "N-105",
+   "scene": "S44",
+   "image": "S44_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 341.84,
+   "end_s": 345.332,
+   "text": "Then he begins to dream about his own death."
+  },
+  {
+   "beat": "N-106",
+   "scene": "S45",
+   "image": "S45_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 345.332,
+   "end_s": 348.576,
+   "text": "His mother, Frigg, will not take the chance."
+  },
+  {
+   "beat": "N-107",
+   "scene": "S45",
+   "image": "S45_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 348.576,
+   "end_s": 352.689,
+   "text": "She goes to everything in the world and asks for a promise."
+  },
+  {
+   "beat": "N-108",
+   "scene": "S45",
+   "image": "S45_comp.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 352.689,
+   "end_s": 360.055,
+   "text": "Fire, water, iron, stone, trees, sickness, poison, beasts, birds."
+  },
+  {
+   "beat": "N-109",
+   "scene": "S45",
+   "image": "S45_comp.png",
+   "move": "crop_close",
+   "crop_rect": [
+    260,
+    290,
+    800,
+    450
+   ],
+   "start_s": 360.055,
+   "end_s": 363.147,
+   "text": "Every one swears not to harm Baldr."
+  },
+  {
+   "beat": "N-110",
+   "scene": "S46",
+   "image": "S46_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 363.147,
+   "end_s": 366.833,
+   "text": "The gods are so relieved that they turn it into a game."
+  },
+  {
+   "beat": "N-111",
+   "scene": "S46",
+   "image": "S46_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    560,
+    240,
+    560,
+    315
+   ],
+   "start_s": 366.833,
+   "end_s": 368.348,
+   "text": "Nothing touches him."
+  },
+  {
+   "beat": "N-112",
+   "scene": "S46",
+   "image": "S46_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    420,
+    220,
+    1060,
+    596
+   ],
+   "start_s": 368.348,
+   "end_s": 371.047,
+   "text": "Everyone cheers, except Loki."
+  },
+  {
+   "beat": "N-113",
+   "scene": "S47",
+   "image": "S47_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 371.047,
+   "end_s": 374.582,
+   "text": "Loki puts on the shape of a woman and visits Frigg."
+  },
+  {
+   "beat": "N-114",
+   "scene": "S47",
+   "image": "S47_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    200,
+    330,
+    560,
+    315
+   ],
+   "start_s": 374.582,
+   "end_s": 377.794,
+   "text": "He asks if truly everything promised."
+  },
+  {
+   "beat": "N-115",
+   "scene": "S47",
+   "image": "S47_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    480,
+    250,
+    760,
+    428
+   ],
+   "start_s": 377.794,
+   "end_s": 383.309,
+   "text": "Frigg says only one plant, a little mistletoe, was too young to ask."
+  },
+  {
+   "beat": "N-116",
+   "scene": "S47",
+   "image": "S47_v1.png",
+   "move": "pan_right",
+   "crop_rect": null,
+   "push": {
+    "translate_pct": 4
+   },
+   "start_s": 383.309,
+   "end_s": 386.231,
+   "text": "Loki goes straight out and pulls it up."
+  },
+  {
+   "beat": "N-117",
+   "scene": "S48",
+   "image": "S48_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 386.231,
+   "end_s": 389.408,
+   "text": "How do you hurt a god that nothing can hurt?"
+  },
+  {
+   "beat": "N-118",
+   "scene": "S48",
+   "image": "S48_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    20,
+    260,
+    560,
+    315
+   ],
+   "start_s": 389.408,
+   "end_s": 394.862,
+   "text": "At the edge of the game stands the blind god Hod, with nothing to throw."
+  },
+  {
+   "beat": "N-119",
+   "scene": "S48",
+   "image": "S48_v1.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 394.862,
+   "end_s": 399.406,
+   "text": "Loki puts the mistletoe in his hand, and points him at Baldr."
+  },
+  {
+   "beat": "N-120",
+   "scene": "S48",
+   "image": "S48_v1.png",
+   "move": "crop_close",
+   "crop_rect": [
+    540,
+    250,
+    520,
+    293
+   ],
+   "start_s": 399.406,
+   "end_s": 400.892,
+   "text": "Hod throws."
+  },
+  {
+   "beat": "N-121",
+   "scene": "S49",
+   "image": "S49_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 400.892,
+   "end_s": 405.32,
+   "text": "The mistletoe goes straight through Baldr, and he falls dead."
+  },
+  {
+   "beat": "N-122",
+   "scene": "S50",
+   "image": "S50_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 405.32,
+   "end_s": 409.389,
+   "text": "Odin's son rides to Hel, and begs her to give him back."
+  },
+  {
+   "beat": "N-123",
+   "scene": "S50",
+   "image": "S50_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    680,
+    440,
+    520,
+    293
+   ],
+   "start_s": 409.389,
+   "end_s": 413.052,
+   "text": "She says yes, if every living thing weeps for him."
+  },
+  {
+   "beat": "N-124",
+   "scene": "S51",
+   "image": "S51_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 413.052,
+   "end_s": 416.244,
+   "text": "Everything weeps, even the rocks and the iron,"
+  },
+  {
+   "beat": "N-125",
+   "scene": "S52",
+   "image": "S52_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 416.244,
+   "end_s": 420.395,
+   "text": "except one giantess, who says she will not."
+  },
+  {
+   "beat": "N-126",
+   "scene": "S52",
+   "image": "S52_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    300,
+    230,
+    760,
+    428
+   ],
+   "start_s": 420.395,
+   "end_s": 423.456,
+   "text": "Some say it was Loki in disguise."
+  },
+  {
+   "beat": "N-127",
+   "scene": "S53",
+   "image": "S53_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 423.456,
+   "end_s": 425.122,
+   "text": "Baldr stays dead."
+  },
+  {
+   "beat": "N-128",
+   "scene": "S54",
+   "image": "S54_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 425.122,
+   "end_s": 428.976,
+   "text": "The gods catch Loki at last, hiding as a salmon."
+  },
+  {
+   "beat": "N-129",
+   "scene": "S55",
+   "image": "S55_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 428.976,
+   "end_s": 431.008,
+   "text": "They bind him to three rocks,"
+  },
+  {
+   "beat": "N-130",
+   "scene": "S55",
+   "image": "S55_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 431.008,
+   "end_s": 434.766,
+   "text": "and hang a serpent above his face, dripping venom."
+  },
+  {
+   "beat": "N-131",
+   "scene": "S56",
+   "image": "S56_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 434.766,
+   "end_s": 439.427,
+   "text": "His wife, Sigyn, sits by his side with a bowl to catch the drops."
+  },
+  {
+   "beat": "N-132",
+   "scene": "S56",
+   "image": "S56_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    180,
+    380,
+    560,
+    315
+   ],
+   "start_s": 439.427,
+   "end_s": 442.376,
+   "text": "When the bowl is full, she has to empty it,"
+  },
+  {
+   "beat": "N-133",
+   "scene": "S56",
+   "image": "S56_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 442.376,
+   "end_s": 446.242,
+   "text": "and the venom lands on him, and the earth shakes."
+  },
+  {
+   "beat": "N-134",
+   "scene": "S56",
+   "image": "S56_v1.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 446.242,
+   "end_s": 449.976,
+   "text": "Loki will not stay in that cave. [PULL]"
+  },
+  {
+   "beat": "N-135",
+   "scene": "S57",
+   "image": "S57_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 449.976,
+   "end_s": 452.217,
+   "text": "The end begins with a winter."
+  },
+  {
+   "beat": "N-136",
+   "scene": "S57",
+   "image": "S57_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 452.217,
+   "end_s": 456.146,
+   "text": "It lasts three winters, with no summer between."
+  },
+  {
+   "beat": "N-137",
+   "scene": "S58",
+   "image": "S58_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 456.146,
+   "end_s": 459.053,
+   "text": "Then wolves swallow the sun and the moon."
+  },
+  {
+   "beat": "N-138",
+   "scene": "S58",
+   "image": "S58_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 459.053,
+   "end_s": 463.655,
+   "text": "The stars go out, the earth shakes, and every chain breaks."
+  },
+  {
+   "beat": "N-139",
+   "scene": "S59",
+   "image": "S59_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 463.655,
+   "end_s": 468.394,
+   "text": "Fenrir runs free, his jaws open from the earth to the sky."
+  },
+  {
+   "beat": "N-140",
+   "scene": "S60",
+   "image": "S60_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 468.394,
+   "end_s": 472.533,
+   "text": "The serpent twists out of the sea, and the waves flood the land."
+  },
+  {
+   "beat": "N-141",
+   "scene": "S61",
+   "image": "S61_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 472.533,
+   "end_s": 476.578,
+   "text": "A ship built of dead men's fingernails sails in."
+  },
+  {
+   "beat": "N-142",
+   "scene": "S62",
+   "image": "S62_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 476.578,
+   "end_s": 482.407,
+   "text": "The sons of Muspell ride from the south, led by Surt, with a flaming sword."
+  },
+  {
+   "beat": "N-143",
+   "scene": "S63",
+   "image": "S63_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 482.407,
+   "end_s": 486.255,
+   "text": "The watchman of the gods, Heimdall, blows his horn."
+  },
+  {
+   "beat": "N-144",
+   "scene": "S64",
+   "image": "S64_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 486.255,
+   "end_s": 489.859,
+   "text": "The gods arm themselves and ride out to the plain."
+  },
+  {
+   "beat": "N-145",
+   "scene": "S64",
+   "image": "S64_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    500,
+    280,
+    640,
+    360
+   ],
+   "start_s": 489.859,
+   "end_s": 493.289,
+   "text": "Odin knows how it ends, and goes anyway. [CLOSE]"
+  },
+  {
+   "beat": "N-146",
+   "scene": "S65",
+   "image": "S65_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 493.289,
+   "end_s": 496.363,
+   "text": "The wolf goes for Odin and swallows him."
+  },
+  {
+   "beat": "N-147",
+   "scene": "S66",
+   "image": "S66_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 496.363,
+   "end_s": 499.776,
+   "text": "Odin's son Vidar puts one boot on the wolf's jaw,"
+  },
+  {
+   "beat": "N-148",
+   "scene": "S66",
+   "image": "S66_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 499.776,
+   "end_s": 502.487,
+   "text": "and tears the wolf's throat apart."
+  },
+  {
+   "beat": "N-149",
+   "scene": "S67",
+   "image": "S67_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 502.487,
+   "end_s": 506.04,
+   "text": "Thor meets the serpent at last, and kills it."
+  },
+  {
+   "beat": "N-150",
+   "scene": "S67",
+   "image": "S67_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 506.04,
+   "end_s": 510.518,
+   "text": "Then he walks nine steps, and falls dead from the venom."
+  },
+  {
+   "beat": "N-151",
+   "scene": "S68",
+   "image": "S68_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    100,
+    300,
+    700,
+    394
+   ],
+   "start_s": 510.518,
+   "end_s": 513.96,
+   "text": "Tyr and a hound named Garm kill each other."
+  },
+  {
+   "beat": "N-152",
+   "scene": "S68",
+   "image": "S68_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    850,
+    330,
+    640,
+    360
+   ],
+   "start_s": 513.96,
+   "end_s": 517.704,
+   "text": "So do Heimdall and Loki, free at last."
+  },
+  {
+   "beat": "N-153",
+   "scene": "S69",
+   "image": "S69_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 517.704,
+   "end_s": 520.565,
+   "text": "Then Surt flings fire across the earth."
+  },
+  {
+   "beat": "N-154",
+   "scene": "S69",
+   "image": "S69_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    560,
+    400,
+    900,
+    506
+   ],
+   "start_s": 520.565,
+   "end_s": 522.8,
+   "text": "The earth sinks into the sea."
+  },
+  {
+   "beat": "N-155",
+   "scene": "S69",
+   "image": "S69_n155.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 522.8,
+   "end_s": 524.379,
+   "text": "And then, silence."
+  },
+  {
+   "beat": "N-156",
+   "scene": "S70",
+   "image": "S70_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 524.379,
+   "end_s": 528.474,
+   "text": "The earth rises again from the sea, green and new."
+  },
+  {
+   "beat": "N-157",
+   "scene": "S70",
+   "image": "S70_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    0,
+    560,
+    800,
+    450
+   ],
+   "start_s": 528.474,
+   "end_s": 531.625,
+   "text": "Fields grow without anyone sowing them."
+  },
+  {
+   "beat": "N-158",
+   "scene": "S71",
+   "image": "S71_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    200,
+    340,
+    640,
+    360
+   ],
+   "start_s": 531.625,
+   "end_s": 535.892,
+   "text": "A few gods survive, and Thor's sons carry his hammer."
+  },
+  {
+   "beat": "N-159",
+   "scene": "S71",
+   "image": "S71_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    760,
+    380,
+    560,
+    315
+   ],
+   "start_s": 535.892,
+   "end_s": 538.722,
+   "text": "Baldr and Hod come back from the dead."
+  },
+  {
+   "beat": "N-160",
+   "scene": "S72",
+   "image": "S72_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 538.722,
+   "end_s": 541.893,
+   "text": "One man and one woman step out of a forest,"
+  },
+  {
+   "beat": "N-161",
+   "scene": "S72",
+   "image": "S72_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    480,
+    380,
+    640,
+    360
+   ],
+   "start_s": 541.893,
+   "end_s": 546.207,
+   "text": "where they hid and lived on morning dew."
+  },
+  {
+   "beat": "N-162",
+   "scene": "S73",
+   "image": "S73_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 546.207,
+   "end_s": 548.825,
+   "text": "So how do we know any of this?"
+  },
+  {
+   "beat": "N-163",
+   "scene": "S73",
+   "image": "S73_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    330,
+    370,
+    560,
+    315
+   ],
+   "start_s": 548.825,
+   "end_s": 552.618,
+   "text": "None of this was written down when the poems were first made."
+  },
+  {
+   "beat": "N-164",
+   "scene": "S73",
+   "image": "S73_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    380,
+    380,
+    1000,
+    563
+   ],
+   "start_s": 552.618,
+   "end_s": 556.89,
+   "text": "For generations it was recited from memory by poets."
+  },
+  {
+   "beat": "N-165",
+   "scene": "S74",
+   "image": "S74_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 556.89,
+   "end_s": 563.792,
+   "text": "Most of the poems survive in one great book, the Codex Regius, from about twelve seventy."
+  },
+  {
+   "beat": "N-166",
+   "scene": "S74",
+   "image": "S74_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    800,
+    350,
+    600,
+    338
+   ],
+   "start_s": 563.792,
+   "end_s": 569.744,
+   "text": "It was written in Iceland, by Christians, about gods nobody worshipped anymore."
+  },
+  {
+   "beat": "N-167",
+   "scene": "S75",
+   "image": "S75_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 569.744,
+   "end_s": 577.02,
+   "text": "Around twelve twenty, an Icelandic chieftain named Snorri Sturluson put together a handbook for poets."
+  },
+  {
+   "beat": "N-168",
+   "scene": "S75",
+   "image": "S75_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    280,
+    360,
+    520,
+    293
+   ],
+   "start_s": 577.02,
+   "end_s": 578.98,
+   "text": "Snorri was a Christian too,"
+  },
+  {
+   "beat": "N-169",
+   "scene": "S76",
+   "image": "S76_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 578.98,
+   "end_s": 584.816,
+   "text": "and his book opens with Adam and Eve, then says the gods were once men from Asia."
+  },
+  {
+   "beat": "N-170",
+   "scene": "S76",
+   "image": "S76_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    1000,
+    520,
+    480,
+    270
+   ],
+   "start_s": 584.816,
+   "end_s": 587.317,
+   "text": "Not every source agrees."
+  },
+  {
+   "beat": "N-171",
+   "scene": "S76",
+   "image": "S76_v1.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 587.317,
+   "end_s": 591.873,
+   "text": "In one poem, the makers of the first people have different names."
+  },
+  {
+   "beat": "N-172",
+   "scene": "S76",
+   "image": "S76_v1.png",
+   "move": "crop_close",
+   "crop_rect": [
+    1000,
+    480,
+    480,
+    270
+   ],
+   "start_s": 591.873,
+   "end_s": 595.048,
+   "text": "When they disagree, we follow Snorri."
+  },
+  {
+   "beat": "N-173",
+   "scene": "S77",
+   "image": "S77_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 595.048,
+   "end_s": 600.106,
+   "text": "He was killed in twelve forty-one, on the orders of a Norwegian king."
+  },
+  {
+   "beat": "N-174",
+   "scene": "S78",
+   "image": "S78_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 600.106,
+   "end_s": 602.839,
+   "text": "Some of the gods barely got a mention here."
+  },
+  {
+   "beat": "N-175",
+   "scene": "S78",
+   "image": "S78_v1.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 602.839,
+   "end_s": 606.708,
+   "text": "Freyja and Freyr. Idunn and her apples."
+  },
+  {
+   "beat": "N-176",
+   "scene": "S79",
+   "image": "S79_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 606.708,
+   "end_s": 609.612,
+   "text": "A giant who stole Thor's hammer,"
+  },
+  {
+   "beat": "N-177",
+   "scene": "S80",
+   "image": "S80_v1.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 609.612,
+   "end_s": 612.892,
+   "text": "and a war between two families of gods."
+  },
+  {
+   "beat": "N-178",
+   "scene": "S81",
+   "image": "S81_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 612.892,
+   "end_s": 616.844,
+   "text": "Follow the channel for part two. [CTA]"
+  }
+ ]
+}

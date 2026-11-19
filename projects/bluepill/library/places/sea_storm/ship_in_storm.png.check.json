@@ -1,0 +1,13 @@
+{
+ "id": "ship_storm",
+ "master": "places/sea_storm/master.png",
+ "change": "add the ship from the second attached image (exact same hull, meander band, prow eye, striped sail) tiny in the distance on the dark water in front of the thunderhead, a speck; the dark wave and cloud stay exactly as they are",
+ "tries": [
+  {
+   "ground_raw_mad": 6.89,
+   "ground_edge_corr": 0.822,
+   "top30_mad": 3.51,
+   "try": 1
+  }
+ ]
+}

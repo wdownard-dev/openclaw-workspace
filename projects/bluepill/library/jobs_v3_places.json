@@ -1,0 +1,72 @@
+[
+ {
+  "id": "forge_cave",
+  "out": "places/forge_cave/master.png",
+  "prompt_file": "prompts/forge_cave.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "smithy",
+  "out": "places/smithy/master.png",
+  "prompt_file": "prompts/smithy.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "tiryns_wall",
+  "out": "places/tiryns_wall/master.png",
+  "prompt_file": "prompts/tiryns_wall.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "three_hilltops_night",
+  "out": "places/three_hilltops_night/master.png",
+  "prompt_file": "prompts/three_hilltops_night.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "vineyard_golden",
+  "out": "places/vineyard_golden/master.png",
+  "prompt_file": "prompts/vineyard_golden.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "library_lamplit",
+  "out": "places/library_lamplit/master.png",
+  "prompt_file": "prompts/library_lamplit.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "library_ancient_empty",
+  "out": "places/library_ancient_empty/master.png",
+  "prompt_file": "prompts/library_ancient_empty.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "study_1914",
+  "out": "places/study_1914/master.png",
+  "prompt_file": "prompts/study_1914.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "sea_storm",
+  "out": "places/sea_storm/master.png",
+  "prompt_file": "prompts/sea_storm.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "ship_deck",
+  "out": "places/ship_deck/master.png",
+  "prompt_file": "prompts/ship_deck.txt",
+  "size": "1536x1024",
+  "refs": []
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "file": "expressions.png",
+  "role": "expressions",
+  "canonical": false
+ },
+ {
+  "file": "face.png",
+  "role": "face",
+  "canonical": false
+ },
+ {
+  "file": "sheet.jpg",
+  "role": "sheet",
+  "canonical": false
+ },
+ {
+  "file": "silhouette.png",
+  "role": "silhouette",
+  "canonical": false
+ },
+ {
+  "file": "turnaround_band.png",
+  "role": "turnaround_band",
+  "canonical": true
+ },
+ {
+  "file": "turnaround_scarred_hollow.png",
+  "role": "turnaround_scarred_hollow",
+  "canonical": false
+ }
+]

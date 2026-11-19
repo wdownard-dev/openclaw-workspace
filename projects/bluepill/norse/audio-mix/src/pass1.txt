@@ -1,0 +1,30 @@
+[aist#0:0/pcm_s16le @ 0x198856c0] Guessed Channel Layout: mono
+Input #0, wav, from 'premix.wav':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Duration: 00:10:16.83, bitrate: 768 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, mono, s16, 768 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (pcm_s16le (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf61.1.100
+  Stream #0:0: Audio: pcm_s16le, 192000 Hz, mono, s16, 3072 kb/s
+      Metadata:
+        encoder         : Lavc61.3.100 pcm_s16le
+size=N/A time=00:00:34.80 bitrate=N/A speed=69.6x    size=N/A time=00:01:11.10 bitrate=N/A speed=71.1x    size=N/A time=00:01:47.60 bitrate=N/A speed=71.7x    size=N/A time=00:02:23.90 bitrate=N/A speed=71.9x    size=N/A time=00:03:00.40 bitrate=N/A speed=72.2x    size=N/A time=00:03:36.60 bitrate=N/A speed=72.2x    size=N/A time=00:04:13.00 bitrate=N/A speed=72.3x    size=N/A time=00:04:49.20 bitrate=N/A speed=72.3x    size=N/A time=00:05:25.40 bitrate=N/A speed=72.3x    size=N/A time=00:06:00.90 bitrate=N/A speed=72.2x    size=N/A time=00:06:37.20 bitrate=N/A speed=72.2x    size=N/A time=00:07:13.60 bitrate=N/A speed=72.3x    size=N/A time=00:07:50.00 bitrate=N/A speed=72.3x    size=N/A time=00:08:26.20 bitrate=N/A speed=72.3x    size=N/A time=00:09:02.40 bitrate=N/A speed=72.3x    size=N/A time=00:09:38.50 bitrate=N/A speed=72.3x    size=N/A time=00:10:13.90 bitrate=N/A speed=72.2x    [Parsed_loudnorm_0 @ 0x775fa4003040] 
+{
+	"input_i" : "-18.96",
+	"input_tp" : "-0.89",
+	"input_lra" : "2.00",
+	"input_thresh" : "-29.56",
+	"output_i" : "-16.22",
+	"output_tp" : "-1.50",
+	"output_lra" : "1.90",
+	"output_thresh" : "-26.80",
+	"normalization_type" : "dynamic",
+	"target_offset" : "0.22"
+}
+[out#0/null @ 0x19884f40] video:0KiB audio:231312KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:10:16.90 bitrate=N/A speed=72.4x    

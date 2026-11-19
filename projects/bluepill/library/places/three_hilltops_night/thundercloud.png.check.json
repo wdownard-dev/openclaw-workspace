@@ -1,0 +1,13 @@
+{
+ "id": "hilltops_thunder",
+ "master": "places/three_hilltops_night/master.png",
+ "change": "add one big dark thundercloud with a faint flash of lightning inside it over the middle hill, moon partly covered by cloud",
+ "tries": [
+  {
+   "ground_raw_mad": 8.57,
+   "ground_edge_corr": 0.877,
+   "top30_mad": 16.48,
+   "try": 1
+  }
+ ]
+}

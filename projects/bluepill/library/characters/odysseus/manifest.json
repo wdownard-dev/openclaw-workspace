@@ -1,0 +1,40 @@
+[
+ {
+  "file": "expressions.png",
+  "role": "expressions",
+  "canonical": false
+ },
+ {
+  "file": "face.png",
+  "role": "face",
+  "canonical": false
+ },
+ {
+  "file": "sheet.jpg",
+  "role": "sheet",
+  "canonical": false
+ },
+ {
+  "file": "silhouette.png",
+  "role": "silhouette",
+  "canonical": false
+ },
+ {
+  "file": "turnaround.png",
+  "role": "turnaround",
+  "canonical": true,
+  "note": "BEARDLESS since 2026-11-13 23:27 (William); bearded originals in library/_superseded/bearded/"
+ },
+ {
+  "file": "turnaround_helmet.png",
+  "role": "turnaround_helmet",
+  "canonical": false,
+  "variant": true,
+  "note": "NON-canonical: use only for helmet beats (script 329,448,551,588)"
+ },
+ {
+  "file": "wardrobe.png",
+  "role": "wardrobe",
+  "canonical": false
+ }
+]

@@ -1,0 +1,25 @@
+{
+ "id": "tiryns_lion_gate",
+ "master": "places/tiryns_wall/master.png",
+ "change": "zoom in on the gateway of the same fortress at golden hour: the gate with a huge stone lintel and above it a triangular relief slab carved with two standing lions facing each other with a column between them, the giant blocks of the same wall on both sides, warm low gold light, long shadows",
+ "tries": [
+  {
+   "ground_raw_mad": 68.53,
+   "ground_edge_corr": 0.006,
+   "top30_mad": 88.94,
+   "try": 1
+  },
+  {
+   "ground_raw_mad": 68.93,
+   "ground_edge_corr": 0.004,
+   "top30_mad": 94.8,
+   "try": 2
+  },
+  {
+   "ground_raw_mad": 68.78,
+   "ground_edge_corr": 0.005,
+   "top30_mad": 95.8,
+   "try": 3
+  }
+ ]
+}

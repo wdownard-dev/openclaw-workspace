@@ -1,0 +1,42 @@
+[
+ {
+  "file": "day_wide.png",
+  "role": "day_wide",
+  "canonical": true,
+  "master": true,
+  "derived_from": null
+ },
+ {
+  "file": "wide_notched_peak.png",
+  "role": "wide_notched_peak",
+  "canonical": true,
+  "master": false,
+  "derived_from": "day_wide"
+ },
+ {
+  "file": "dusk_wide.png",
+  "role": "dusk_wide",
+  "canonical": true,
+  "master": false,
+  "derived_from": "day_wide"
+ },
+ {
+  "file": "night_wide.png",
+  "role": "night_wide",
+  "canonical": true,
+  "master": false,
+  "derived_from": "day_wide"
+ },
+ {
+  "file": "boulder_sealing_mouth.png",
+  "role": "boulder_sealing_mouth",
+  "canonical": true,
+  "master": false,
+  "derived_from": "day_wide"
+ },
+ {
+  "file": "sheet.jpg",
+  "role": "sheet",
+  "canonical": false
+ }
+]

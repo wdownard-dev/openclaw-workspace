@@ -1,0 +1,13 @@
+{
+ "id": "deck_dusk",
+ "master": "places/ship_deck/master.png",
+ "change": "it is dusk: dark sea beyond the rail, a deep violet-blue sky with a first star, soft lantern glow on the deck",
+ "tries": [
+  {
+   "ground_raw_mad": 29.95,
+   "ground_edge_corr": 0.855,
+   "top30_mad": 71.96,
+   "try": 1
+  }
+ ]
+}

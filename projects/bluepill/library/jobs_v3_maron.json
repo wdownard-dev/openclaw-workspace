@@ -1,0 +1,18 @@
+[
+ {
+  "id": "maron_turn",
+  "out": "characters/maron/turnaround.png",
+  "prompt_file": "prompts/maron_turn.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "maron_face",
+  "out": "characters/maron/face.png",
+  "prompt_file": "prompts/maron_face.txt",
+  "size": "1024x1024",
+  "refs": [
+   "characters/maron/turnaround.png"
+  ]
+ }
+]

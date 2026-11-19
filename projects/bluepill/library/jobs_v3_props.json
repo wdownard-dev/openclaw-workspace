@@ -1,0 +1,114 @@
+[
+ {
+  "id": "torch",
+  "out": "props/torch.png",
+  "prompt_file": "prompts/torch.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "olive_club",
+  "out": "props/olive_club.png",
+  "prompt_file": "prompts/olive_club.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "cheese_set",
+  "out": "props/cheese_set.png",
+  "prompt_file": "prompts/cheese_set.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "lyre",
+  "out": "props/lyre.png",
+  "prompt_file": "prompts/lyre.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "scroll_quill",
+  "out": "props/scroll_quill.png",
+  "prompt_file": "prompts/scroll_quill.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "book_pile",
+  "out": "props/book_pile.png",
+  "prompt_file": "prompts/book_pile.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "brass_lamp",
+  "out": "props/brass_lamp.png",
+  "prompt_file": "prompts/brass_lamp.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "elephant_skull",
+  "out": "props/elephant_skull.png",
+  "prompt_file": "prompts/elephant_skull.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "dwarf_elephant",
+  "out": "props/dwarf_elephant.png",
+  "prompt_file": "prompts/dwarf_elephant.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "mule_pair",
+  "out": "props/mule_pair.png",
+  "prompt_file": "prompts/mule_pair.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "ox_cart",
+  "out": "props/ox_cart.png",
+  "prompt_file": "prompts/ox_cart.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "axe_tongs_trough",
+  "out": "props/axe_tongs_trough.png",
+  "prompt_file": "prompts/axe_tongs_trough.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "map_antique",
+  "out": "props/map_antique.png",
+  "prompt_file": "prompts/map_antique.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "gulls",
+  "out": "props/gulls.png",
+  "prompt_file": "prompts/gulls.txt",
+  "size": "1024x1024",
+  "refs": []
+ },
+ {
+  "id": "anvil_bolt",
+  "out": "props/anvil_bolt.png",
+  "prompt_file": "prompts/anvil_bolt.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "straw_bowls",
+  "out": "props/straw_bowls.png",
+  "prompt_file": "prompts/straw_bowls.txt",
+  "size": "1536x1024",
+  "refs": []
+ }
+]

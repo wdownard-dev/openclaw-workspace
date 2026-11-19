@@ -1,0 +1,13 @@
+{
+ "id": "ship_night",
+ "master": "places/beach_and_ship/ship_at_sea_wide.png",
+ "change": "it is deep night: a dark navy sky full of stars, a pale moon, the sea deep blue and calm with silver moon glints; the same ship stays in the same place with the same striped sail, now in moonlight",
+ "tries": [
+  {
+   "ground_raw_mad": 39.05,
+   "ground_edge_corr": 0.489,
+   "top30_mad": 108.2,
+   "try": 1
+  }
+ ]
+}

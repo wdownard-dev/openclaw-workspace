@@ -1,0 +1,1304 @@
+{
+ "passages": [
+  {
+   "id": "P1",
+   "label": "Cold open",
+   "beats": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "text": "The sky is a skull.\n\nThe clouds are its brain.\n\nThe sea is blood, and the mountains are bones.\n\nIn Norse myth, the world was a giant once, until three brothers took him apart.\n\nOne of them was Odin.\n\nHe built everything from a corpse, and then he was told how it would end.\n\nBut first, there was nothing at all.",
+   "segs": [
+    {
+     "beat": 1,
+     "start": 0,
+     "end": 19,
+     "script": "The sky is a skull."
+    },
+    {
+     "beat": 2,
+     "start": 21,
+     "end": 46,
+     "script": "The clouds are its brain."
+    },
+    {
+     "beat": 3,
+     "start": 48,
+     "end": 65,
+     "script": "The sea is blood,"
+    },
+    {
+     "beat": 4,
+     "start": 66,
+     "end": 94,
+     "script": "and the mountains are bones."
+    },
+    {
+     "beat": 5,
+     "start": 96,
+     "end": 138,
+     "script": "In Norse myth, the world was a giant once,"
+    },
+    {
+     "beat": 6,
+     "start": 139,
+     "end": 175,
+     "script": "until three brothers took him apart."
+    },
+    {
+     "beat": 7,
+     "start": 177,
+     "end": 198,
+     "script": "One of them was Odin."
+    },
+    {
+     "beat": 8,
+     "start": 200,
+     "end": 234,
+     "script": "He built everything from a corpse,"
+    },
+    {
+     "beat": 9,
+     "start": 235,
+     "end": 273,
+     "script": "and then he was told how it would end."
+    },
+    {
+     "beat": 10,
+     "start": 275,
+     "end": 311,
+     "script": "But first, there was nothing at all."
+    }
+   ],
+   "chars": 311,
+   "prev": "",
+   "next": "Well, almost nothing. Only a great gap, with ice on one side and fire on the other.\n\nWhere the cold meets the heat, the ice begins to melt, and out of the drops comes a giant named Eemir.\n\nThe skull in the sky is still on his shoulders, for now.\n\nThese myths come straight from the sources, so follow the channel for the rest.\n\nBeside him, a cow named Owdhoomla comes out of the same melting ice.\n\nEe"
+  },
+  {
+   "id": "P2",
+   "label": "A Giant Became The World",
+   "beats": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    28,
+    29,
+    30,
+    31,
+    32
+   ],
+   "text": "Well, almost nothing. Only a great gap, with ice on one side and fire on the other.\n\nWhere the cold meets the heat, the ice begins to melt, and out of the drops comes a giant named Eemir.\n\nThe skull in the sky is still on his shoulders, for now.\n\nThese myths come straight from the sources, so follow the channel for the rest.\n\nBeside him, a cow named Owdhoomla comes out of the same melting ice.\n\nEemir lives on her milk, and she lives on salty ice.\n\nBy the third day, she has licked a whole man out of the ice.\n\nThat man's grandsons are Odin and two brothers, Veelee and Vay.\n\nSo they kill Eemir.\n\nHis blood pours out in such a flood that nearly every frost giant drowns.\n\nThe brothers drag the body into the middle of the gap, and build a world out of it.\n\nHis flesh becomes the land, and his hair becomes the trees.\n\nHis skull becomes the sky, held up by four dwarfs.\n\nSparks from the fire land are thrown up there as stars.\n\nNot bad for three brothers.\n\nEverything they just built will end in fire.",
+   "segs": [
+    {
+     "beat": 11,
+     "start": 0,
+     "end": 60,
+     "script": "Well, almost nothing. Only a great gap, with ice on one side"
+    },
+    {
+     "beat": 12,
+     "start": 61,
+     "end": 83,
+     "script": "and fire on the other."
+    },
+    {
+     "beat": 13,
+     "start": 85,
+     "end": 139,
+     "script": "Where the cold meets the heat, the ice begins to melt,"
+    },
+    {
+     "beat": 14,
+     "start": 140,
+     "end": 187,
+     "script": "and out of the drops comes a giant named Ymir."
+    },
+    {
+     "beat": 15,
+     "start": 189,
+     "end": 245,
+     "script": "The skull in the sky is still on his shoulders, for now."
+    },
+    {
+     "beat": 16,
+     "start": 247,
+     "end": 326,
+     "script": "These myths come straight from the sources, so follow the channel for the rest."
+    },
+    {
+     "beat": 17,
+     "start": 328,
+     "end": 396,
+     "script": "Beside him, a cow named Audhumla comes out of the same melting ice."
+    },
+    {
+     "beat": 18,
+     "start": 398,
+     "end": 450,
+     "script": "Ymir lives on her milk, and she lives on salty ice."
+    },
+    {
+     "beat": 19,
+     "start": 452,
+     "end": 512,
+     "script": "By the third day, she has licked a whole man out of the ice."
+    },
+    {
+     "beat": 20,
+     "start": 514,
+     "end": 577,
+     "script": "That man's grandsons are Odin and two brothers, Vili and Ve."
+    },
+    {
+     "beat": 21,
+     "start": 579,
+     "end": 598,
+     "script": "So they kill Ymir."
+    },
+    {
+     "beat": 22,
+     "start": 600,
+     "end": 673,
+     "script": "His blood pours out in such a flood that nearly every frost giant drowns."
+    },
+    {
+     "beat": 23,
+     "start": 675,
+     "end": 729,
+     "script": "The brothers drag the body into the middle of the gap,"
+    },
+    {
+     "beat": 24,
+     "start": 730,
+     "end": 758,
+     "script": "and build a world out of it."
+    },
+    {
+     "beat": 25,
+     "start": 760,
+     "end": 787,
+     "script": "His flesh becomes the land,"
+    },
+    {
+     "beat": 28,
+     "start": 788,
+     "end": 819,
+     "script": "and his hair becomes the trees."
+    },
+    {
+     "beat": 29,
+     "start": 821,
+     "end": 871,
+     "script": "His skull becomes the sky, held up by four dwarfs."
+    },
+    {
+     "beat": 30,
+     "start": 873,
+     "end": 928,
+     "script": "Sparks from the fire land are thrown up there as stars."
+    },
+    {
+     "beat": 31,
+     "start": 930,
+     "end": 957,
+     "script": "Not bad for three brothers."
+    },
+    {
+     "beat": 32,
+     "start": 959,
+     "end": 1003,
+     "script": "Everything they just built will end in fire."
+    }
+   ],
+   "chars": 1003,
+   "prev": "The sky is a skull.\n\nThe clouds are its brain.\n\nThe sea is blood, and the mountains are bones.\n\nIn Norse myth, the world was a giant once, until three brothers took him apart.\n\nOne of them was Odin.\n\nHe built everything from a corpse, and then he was told how it would end.\n\nBut first, there was nothing at all.",
+   "next": "The brothers need someone to live in it.\n\nAlong the shore they find two fallen trees.\n\nThey shape them into the first man and woman, Ask and Embla.\n\nOdin gives them breath, and their world is called Midgard, the middle world.\n\nAbove it, the gods build their own home, Asgard, and join the two with a rainbow bridge.\n\nHolding everything together is an enormous ash tree, Iggdrasil.\n\nIts roots run down"
+  },
+  {
+   "id": "P3",
+   "label": "The Tree That Held Nine Worlds",
+   "beats": [
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48
+   ],
+   "text": "The brothers need someone to live in it.\n\nAlong the shore they find two fallen trees.\n\nThey shape them into the first man and woman, Ask and Embla.\n\nOdin gives them breath, and their world is called Midgard, the middle world.\n\nAbove it, the gods build their own home, Asgard, and join the two with a rainbow bridge.\n\nHolding everything together is an enormous ash tree, Iggdrasil.\n\nIts roots run down to the gods, the frost giants, and the dead.\n\nAn eagle sits at the top.\n\nA dragon gnaws at the bottom.\n\nAnd a squirrel runs between them, carrying insults.\n\nAt the well of Meemir, Odin trades one eye for a drink.\n\nThat is why Odin has one eye, a wide hat, and a lot of secrets.\n\nThen Loki walks in.",
+   "segs": [
+    {
+     "beat": 33,
+     "start": 0,
+     "end": 40,
+     "script": "The brothers need someone to live in it."
+    },
+    {
+     "beat": 34,
+     "start": 42,
+     "end": 85,
+     "script": "Along the shore they find two fallen trees."
+    },
+    {
+     "beat": 35,
+     "start": 87,
+     "end": 132,
+     "script": "They shape them into the first man and woman,"
+    },
+    {
+     "beat": 36,
+     "start": 133,
+     "end": 147,
+     "script": "Ask and Embla."
+    },
+    {
+     "beat": 37,
+     "start": 149,
+     "end": 172,
+     "script": "Odin gives them breath,"
+    },
+    {
+     "beat": 38,
+     "start": 173,
+     "end": 225,
+     "script": "and their world is called Midgard, the middle world."
+    },
+    {
+     "beat": 39,
+     "start": 227,
+     "end": 275,
+     "script": "Above it, the gods build their own home, Asgard,"
+    },
+    {
+     "beat": 40,
+     "start": 276,
+     "end": 315,
+     "script": "and join the two with a rainbow bridge."
+    },
+    {
+     "beat": 41,
+     "start": 317,
+     "end": 380,
+     "script": "Holding everything together is an enormous ash tree, Yggdrasil."
+    },
+    {
+     "beat": 42,
+     "start": 382,
+     "end": 445,
+     "script": "Its roots run down to the gods, the frost giants, and the dead."
+    },
+    {
+     "beat": 43,
+     "start": 447,
+     "end": 472,
+     "script": "An eagle sits at the top."
+    },
+    {
+     "beat": 44,
+     "start": 474,
+     "end": 503,
+     "script": "A dragon gnaws at the bottom."
+    },
+    {
+     "beat": 45,
+     "start": 505,
+     "end": 556,
+     "script": "And a squirrel runs between them, carrying insults."
+    },
+    {
+     "beat": 46,
+     "start": 558,
+     "end": 613,
+     "script": "At the well of Mimir, Odin trades one eye for a drink."
+    },
+    {
+     "beat": 47,
+     "start": 615,
+     "end": 678,
+     "script": "That is why Odin has one eye, a wide hat, and a lot of secrets."
+    },
+    {
+     "beat": 48,
+     "start": 680,
+     "end": 699,
+     "script": "Then Loki walks in."
+    }
+   ],
+   "chars": 699,
+   "prev": " blood pours out in such a flood that nearly every frost giant drowns.\n\nThe brothers drag the body into the middle of the gap, and build a world out of it.\n\nHis flesh becomes the land, and his hair becomes the trees.\n\nHis skull becomes the sky, held up by four dwarfs.\n\nSparks from the fire land are thrown up there as stars.\n\nNot bad for three brothers.\n\nEverything they just built will end in fire.",
+   "next": "Loki is a giant's son who lives among the gods.\n\nHe is handsome and charming, and impossible to trust.\n\nIn the land of the giants, he has three children.\n\nThe first is a wolf named Fenrir.\n\nThe second is a serpent named Yormungandr.\n\nThe third is a girl named Hel, half dark and half pale.\n\nThe gods hear a prophecy that these three will bring them harm, and Odin acts.\n\nHe throws the serpent into th"
+  },
+  {
+   "id": "P4",
+   "label": "The Wolf Everyone Agreed To Chain",
+   "beats": [
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79
+   ],
+   "text": "Loki is a giant's son who lives among the gods.\n\nHe is handsome and charming, and impossible to trust.\n\nIn the land of the giants, he has three children.\n\nThe first is a wolf named Fenrir.\n\nThe second is a serpent named Yormungandr.\n\nThe third is a girl named Hel, half dark and half pale.\n\nThe gods hear a prophecy that these three will bring them harm, and Odin acts.\n\nHe throws the serpent into the deep sea, and it grows until it circles the whole world, biting its own tail.\n\nHe sends Hel to the land of the dead, and gives her charge of it.\n\nThe gods keep the wolf close, and only Teer dares to feed him.\n\nFenrir grows fast, so the gods decide to chain him.\n\nThey offer him a chain as a game of strength, and he snaps it like thread.\n\nA heavier chain breaks too.\n\nSo the gods send to the dwarfs, who make a cord called Glaypneer.\n\nIt is made of six things: the sound of a cat's step, a woman's beard, a mountain's roots, a bear's sinews, a fish's breath, and a bird's spit.\n\nIt looks like a silk ribbon.\n\nFenrir smells a trick, and agrees on one condition: one of the gods must put a hand in his mouth.\n\nThe gods look at one another, and then at the grass.\n\nTeer steps forward, and puts his right hand between the wolf's jaws.\n\nThe ribbon goes on, and the harder Fenrir pulls, the tighter it holds.\n\nThe gods laugh, all except Teer.\n\nFenrir bites the hand off, and the wolf stays chained.\n\nThat ribbon will not hold forever.",
+   "segs": [
+    {
+     "beat": 49,
+     "start": 0,
+     "end": 47,
+     "script": "Loki is a giant's son who lives among the gods."
+    },
+    {
+     "beat": 50,
+     "start": 49,
+     "end": 102,
+     "script": "He is handsome and charming, and impossible to trust."
+    },
+    {
+     "beat": 51,
+     "start": 104,
+     "end": 153,
+     "script": "In the land of the giants, he has three children."
+    },
+    {
+     "beat": 52,
+     "start": 155,
+     "end": 188,
+     "script": "The first is a wolf named Fenrir."
+    },
+    {
+     "beat": 53,
+     "start": 190,
+     "end": 232,
+     "script": "The second is a serpent named Jormungandr."
+    },
+    {
+     "beat": 54,
+     "start": 234,
+     "end": 289,
+     "script": "The third is a girl named Hel, half dark and half pale."
+    },
+    {
+     "beat": 55,
+     "start": 291,
+     "end": 354,
+     "script": "The gods hear a prophecy that these three will bring them harm,"
+    },
+    {
+     "beat": 56,
+     "start": 355,
+     "end": 369,
+     "script": "and Odin acts."
+    },
+    {
+     "beat": 57,
+     "start": 371,
+     "end": 411,
+     "script": "He throws the serpent into the deep sea,"
+    },
+    {
+     "beat": 58,
+     "start": 412,
+     "end": 479,
+     "script": "and it grows until it circles the whole world, biting its own tail."
+    },
+    {
+     "beat": 59,
+     "start": 481,
+     "end": 546,
+     "script": "He sends Hel to the land of the dead, and gives her charge of it."
+    },
+    {
+     "beat": 60,
+     "start": 548,
+     "end": 577,
+     "script": "The gods keep the wolf close,"
+    },
+    {
+     "beat": 61,
+     "start": 578,
+     "end": 610,
+     "script": "and only Tyr dares to feed him."
+    },
+    {
+     "beat": 62,
+     "start": 612,
+     "end": 663,
+     "script": "Fenrir grows fast, so the gods decide to chain him."
+    },
+    {
+     "beat": 63,
+     "start": 665,
+     "end": 710,
+     "script": "They offer him a chain as a game of strength,"
+    },
+    {
+     "beat": 64,
+     "start": 711,
+     "end": 739,
+     "script": "and he snaps it like thread."
+    },
+    {
+     "beat": 65,
+     "start": 741,
+     "end": 768,
+     "script": "A heavier chain breaks too."
+    },
+    {
+     "beat": 66,
+     "start": 770,
+     "end": 835,
+     "script": "So the gods send to the dwarfs, who make a cord called Gleipnir."
+    },
+    {
+     "beat": 67,
+     "start": 837,
+     "end": 906,
+     "script": "It is made of six things: the sound of a cat's step, a woman's beard,"
+    },
+    {
+     "beat": 68,
+     "start": 907,
+     "end": 979,
+     "script": "a mountain's roots, a bear's sinews, a fish's breath, and a bird's spit."
+    },
+    {
+     "beat": 69,
+     "start": 981,
+     "end": 1009,
+     "script": "It looks like a silk ribbon."
+    },
+    {
+     "beat": 70,
+     "start": 1011,
+     "end": 1062,
+     "script": "Fenrir smells a trick, and agrees on one condition:"
+    },
+    {
+     "beat": 71,
+     "start": 1063,
+     "end": 1108,
+     "script": "one of the gods must put a hand in his mouth."
+    },
+    {
+     "beat": 72,
+     "start": 1110,
+     "end": 1162,
+     "script": "The gods look at one another, and then at the grass."
+    },
+    {
+     "beat": 73,
+     "start": 1164,
+     "end": 1183,
+     "script": "Tyr steps forward,"
+    },
+    {
+     "beat": 74,
+     "start": 1184,
+     "end": 1232,
+     "script": "and puts his right hand between the wolf's jaws."
+    },
+    {
+     "beat": 75,
+     "start": 1234,
+     "end": 1304,
+     "script": "The ribbon goes on, and the harder Fenrir pulls, the tighter it holds."
+    },
+    {
+     "beat": 76,
+     "start": 1306,
+     "end": 1338,
+     "script": "The gods laugh, all except Tyr."
+    },
+    {
+     "beat": 77,
+     "start": 1340,
+     "end": 1366,
+     "script": "Fenrir bites the hand off,"
+    },
+    {
+     "beat": 78,
+     "start": 1367,
+     "end": 1394,
+     "script": "and the wolf stays chained."
+    },
+    {
+     "beat": 79,
+     "start": 1396,
+     "end": 1430,
+     "script": "That ribbon will not hold forever."
+    }
+   ],
+   "chars": 1430,
+   "prev": " rainbow bridge.\n\nHolding everything together is an enormous ash tree, Iggdrasil.\n\nIts roots run down to the gods, the frost giants, and the dead.\n\nAn eagle sits at the top.\n\nA dragon gnaws at the bottom.\n\nAnd a squirrel runs between them, carrying insults.\n\nAt the well of Meemir, Odin trades one eye for a drink.\n\nThat is why Odin has one eye, a wide hat, and a lot of secrets.\n\nThen Loki walks in.",
+   "next": "Thor is the god of thunder, strongest of them all, with a hammer named Myolnir.\n\nOne day he sets out to find the serpent, disguised as a young man.\n\nHe comes to a giant named Heemir, who does not think the stranger will be much use on a boat.\n\nThor takes the head of the biggest ox on the farm for bait.\n\nThey row out, and Heemir says they are far enough, but Thor says row further.\n\nHeemir grows pal"
+  },
+  {
+   "id": "P5",
+   "label": "The Day Thor Went Fishing For A Serpent",
+   "beats": [
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102
+   ],
+   "text": "Thor is the god of thunder, strongest of them all, with a hammer named Myolnir.\n\nOne day he sets out to find the serpent, disguised as a young man.\n\nHe comes to a giant named Heemir, who does not think the stranger will be much use on a boat.\n\nThor takes the head of the biggest ox on the farm for bait.\n\nThey row out, and Heemir says they are far enough, but Thor says row further.\n\nHeemir grows pale.\n\nThor ties the ox head to a hook, and throws it into the deep, and the serpent bites.\n\nThor pulls so hard his feet go through the bottom of the boat, and he braces himself on the sea floor.\n\nThe serpent rises, and the two of them stare at each other.\n\nFollow the channel to see how this fight ends.\n\nWater pours in, Heemir panics, and Thor lifts his hammer.\n\nHeemir cuts the line.\n\nThe serpent sinks back into the sea, and Thor throws the hammer after it.\n\nThor knocks Heemir overboard, and wades ashore.\n\nRound one is a draw, but they will meet again.",
+   "segs": [
+    {
+     "beat": 80,
+     "start": 0,
+     "end": 79,
+     "script": "Thor is the god of thunder, strongest of them all, with a hammer named Mjolnir."
+    },
+    {
+     "beat": 81,
+     "start": 81,
+     "end": 121,
+     "script": "One day he sets out to find the serpent,"
+    },
+    {
+     "beat": 82,
+     "start": 122,
+     "end": 147,
+     "script": "disguised as a young man."
+    },
+    {
+     "beat": 83,
+     "start": 149,
+     "end": 182,
+     "script": "He comes to a giant named Hymir,"
+    },
+    {
+     "beat": 84,
+     "start": 183,
+     "end": 242,
+     "script": "who does not think the stranger will be much use on a boat."
+    },
+    {
+     "beat": 85,
+     "start": 244,
+     "end": 303,
+     "script": "Thor takes the head of the biggest ox on the farm for bait."
+    },
+    {
+     "beat": 86,
+     "start": 305,
+     "end": 355,
+     "script": "They row out, and Hymir says they are far enough,"
+    },
+    {
+     "beat": 87,
+     "start": 356,
+     "end": 382,
+     "script": "but Thor says row further."
+    },
+    {
+     "beat": 88,
+     "start": 384,
+     "end": 402,
+     "script": "Hymir grows pale."
+    },
+    {
+     "beat": 89,
+     "start": 404,
+     "end": 436,
+     "script": "Thor ties the ox head to a hook,"
+    },
+    {
+     "beat": 90,
+     "start": 437,
+     "end": 465,
+     "script": "and throws it into the deep,"
+    },
+    {
+     "beat": 91,
+     "start": 466,
+     "end": 488,
+     "script": "and the serpent bites."
+    },
+    {
+     "beat": 92,
+     "start": 490,
+     "end": 552,
+     "script": "Thor pulls so hard his feet go through the bottom of the boat,"
+    },
+    {
+     "beat": 93,
+     "start": 553,
+     "end": 592,
+     "script": "and he braces himself on the sea floor."
+    },
+    {
+     "beat": 94,
+     "start": 594,
+     "end": 653,
+     "script": "The serpent rises, and the two of them stare at each other."
+    },
+    {
+     "beat": 95,
+     "start": 655,
+     "end": 701,
+     "script": "Follow the channel to see how this fight ends."
+    },
+    {
+     "beat": 96,
+     "start": 703,
+     "end": 733,
+     "script": "Water pours in, Hymir panics,"
+    },
+    {
+     "beat": 97,
+     "start": 734,
+     "end": 760,
+     "script": "and Thor lifts his hammer."
+    },
+    {
+     "beat": 98,
+     "start": 762,
+     "end": 783,
+     "script": "Hymir cuts the line."
+    },
+    {
+     "beat": 99,
+     "start": 785,
+     "end": 821,
+     "script": "The serpent sinks back into the sea,"
+    },
+    {
+     "beat": 100,
+     "start": 822,
+     "end": 858,
+     "script": "and Thor throws the hammer after it."
+    },
+    {
+     "beat": 101,
+     "start": 860,
+     "end": 907,
+     "script": "Thor knocks Hymir overboard, and wades ashore."
+    },
+    {
+     "beat": 102,
+     "start": 909,
+     "end": 955,
+     "script": "Round one is a draw, but they will meet again."
+    }
+   ],
+   "chars": 955,
+   "prev": "ck, and agrees on one condition: one of the gods must put a hand in his mouth.\n\nThe gods look at one another, and then at the grass.\n\nTeer steps forward, and puts his right hand between the wolf's jaws.\n\nThe ribbon goes on, and the harder Fenrir pulls, the tighter it holds.\n\nThe gods laugh, all except Teer.\n\nFenrir bites the hand off, and the wolf stays chained.\n\nThat ribbon will not hold forever.",
+   "next": "Baldur is the best loved of the gods, so fair and bright that light seems to shine from him.\n\nThen he begins to dream about his own death.\n\nHis mother, Frigg, will not take the chance.\n\nShe goes to everything in the world and asks for a promise.\n\nFire, water, iron, stone, trees, sickness, poison, beasts, birds.\n\nEvery one swears not to harm Baldur.\n\nThe gods are so relieved that they turn it into "
+  },
+  {
+   "id": "P6",
+   "label": "The God Nothing Could Hurt",
+   "beats": [
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134
+   ],
+   "text": "Baldur is the best loved of the gods, so fair and bright that light seems to shine from him.\n\nThen he begins to dream about his own death.\n\nHis mother, Frigg, will not take the chance.\n\nShe goes to everything in the world and asks for a promise.\n\nFire, water, iron, stone, trees, sickness, poison, beasts, birds.\n\nEvery one swears not to harm Baldur.\n\nThe gods are so relieved that they turn it into a game.\n\nNothing touches him.\n\nEveryone cheers, except Loki.\n\nLoki puts on the shape of a woman and visits Frigg.\n\nHe asks if truly everything promised.\n\nFrigg says only one plant, a little mistletoe, was too young to ask.\n\nLoki goes straight out and pulls it up.\n\nHow do you hurt a god that nothing can hurt?\n\nAt the edge of the game stands the blind god Hod, with nothing to throw.\n\nLoki puts the mistletoe in his hand, and points him at Baldur.\n\nHod throws.\n\nThe mistletoe goes straight through Baldur, and he falls dead.\n\nOdin's son rides to Hel, and begs her to give him back.\n\nShe says yes, if every living thing weeps for him.\n\nEverything weeps, even the rocks and the iron, except one giantess, who says she will not.\n\nSome say it was Loki in disguise.\n\nBaldur stays dead.\n\nThe gods catch Loki at last, hiding as a salmon.\n\nThey bind him to three rocks, and hang a serpent above his face, dripping venom.\n\nHis wife, Siggin, sits by his side with a bowl to catch the drops.\n\nWhen the bowl is full, she has to empty it, and the venom lands on him, and the earth shakes.\n\nLoki will not stay in that cave.",
+   "segs": [
+    {
+     "beat": 103,
+     "start": 0,
+     "end": 37,
+     "script": "Baldr is the best loved of the gods,"
+    },
+    {
+     "beat": 104,
+     "start": 38,
+     "end": 92,
+     "script": "so fair and bright that light seems to shine from him."
+    },
+    {
+     "beat": 105,
+     "start": 94,
+     "end": 138,
+     "script": "Then he begins to dream about his own death."
+    },
+    {
+     "beat": 106,
+     "start": 140,
+     "end": 184,
+     "script": "His mother, Frigg, will not take the chance."
+    },
+    {
+     "beat": 107,
+     "start": 186,
+     "end": 245,
+     "script": "She goes to everything in the world and asks for a promise."
+    },
+    {
+     "beat": 108,
+     "start": 247,
+     "end": 312,
+     "script": "Fire, water, iron, stone, trees, sickness, poison, beasts, birds."
+    },
+    {
+     "beat": 109,
+     "start": 314,
+     "end": 350,
+     "script": "Every one swears not to harm Baldr."
+    },
+    {
+     "beat": 110,
+     "start": 352,
+     "end": 407,
+     "script": "The gods are so relieved that they turn it into a game."
+    },
+    {
+     "beat": 111,
+     "start": 409,
+     "end": 429,
+     "script": "Nothing touches him."
+    },
+    {
+     "beat": 112,
+     "start": 431,
+     "end": 460,
+     "script": "Everyone cheers, except Loki."
+    },
+    {
+     "beat": 113,
+     "start": 462,
+     "end": 513,
+     "script": "Loki puts on the shape of a woman and visits Frigg."
+    },
+    {
+     "beat": 114,
+     "start": 515,
+     "end": 552,
+     "script": "He asks if truly everything promised."
+    },
+    {
+     "beat": 115,
+     "start": 554,
+     "end": 622,
+     "script": "Frigg says only one plant, a little mistletoe, was too young to ask."
+    },
+    {
+     "beat": 116,
+     "start": 624,
+     "end": 663,
+     "script": "Loki goes straight out and pulls it up."
+    },
+    {
+     "beat": 117,
+     "start": 665,
+     "end": 709,
+     "script": "How do you hurt a god that nothing can hurt?"
+    },
+    {
+     "beat": 118,
+     "start": 711,
+     "end": 783,
+     "script": "At the edge of the game stands the blind god Hod, with nothing to throw."
+    },
+    {
+     "beat": 119,
+     "start": 785,
+     "end": 847,
+     "script": "Loki puts the mistletoe in his hand, and points him at Baldr."
+    },
+    {
+     "beat": 120,
+     "start": 849,
+     "end": 860,
+     "script": "Hod throws."
+    },
+    {
+     "beat": 121,
+     "start": 862,
+     "end": 924,
+     "script": "The mistletoe goes straight through Baldr, and he falls dead."
+    },
+    {
+     "beat": 122,
+     "start": 926,
+     "end": 981,
+     "script": "Odin's son rides to Hel, and begs her to give him back."
+    },
+    {
+     "beat": 123,
+     "start": 983,
+     "end": 1033,
+     "script": "She says yes, if every living thing weeps for him."
+    },
+    {
+     "beat": 124,
+     "start": 1035,
+     "end": 1081,
+     "script": "Everything weeps, even the rocks and the iron,"
+    },
+    {
+     "beat": 125,
+     "start": 1082,
+     "end": 1125,
+     "script": "except one giantess, who says she will not."
+    },
+    {
+     "beat": 126,
+     "start": 1127,
+     "end": 1160,
+     "script": "Some say it was Loki in disguise."
+    },
+    {
+     "beat": 127,
+     "start": 1162,
+     "end": 1180,
+     "script": "Baldr stays dead."
+    },
+    {
+     "beat": 128,
+     "start": 1182,
+     "end": 1230,
+     "script": "The gods catch Loki at last, hiding as a salmon."
+    },
+    {
+     "beat": 129,
+     "start": 1232,
+     "end": 1261,
+     "script": "They bind him to three rocks,"
+    },
+    {
+     "beat": 130,
+     "start": 1262,
+     "end": 1312,
+     "script": "and hang a serpent above his face, dripping venom."
+    },
+    {
+     "beat": 131,
+     "start": 1314,
+     "end": 1380,
+     "script": "His wife, Sigyn, sits by his side with a bowl to catch the drops."
+    },
+    {
+     "beat": 132,
+     "start": 1382,
+     "end": 1425,
+     "script": "When the bowl is full, she has to empty it,"
+    },
+    {
+     "beat": 133,
+     "start": 1426,
+     "end": 1475,
+     "script": "and the venom lands on him, and the earth shakes."
+    },
+    {
+     "beat": 134,
+     "start": 1477,
+     "end": 1509,
+     "script": "Loki will not stay in that cave."
+    }
+   ],
+   "chars": 1509,
+   "prev": "d he braces himself on the sea floor.\n\nThe serpent rises, and the two of them stare at each other.\n\nFollow the channel to see how this fight ends.\n\nWater pours in, Heemir panics, and Thor lifts his hammer.\n\nHeemir cuts the line.\n\nThe serpent sinks back into the sea, and Thor throws the hammer after it.\n\nThor knocks Heemir overboard, and wades ashore.\n\nRound one is a draw, but they will meet again.",
+   "next": "The end begins with a winter.\n\nIt lasts three winters, with no summer between.\n\nThen wolves swallow the sun and the moon.\n\nThe stars go out, the earth shakes, and every chain breaks.\n\nFenrir runs free, his jaws open from the earth to the sky.\n\nThe serpent twists out of the sea, and the waves flood the land.\n\nA ship built of dead men's fingernails sails in.\n\nThe sons of Moospel ride from the south,"
+  },
+  {
+   "id": "P7",
+   "label": "Everyone Dies, Then The World Begins Again",
+   "beats": [
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161
+   ],
+   "text": "The end begins with a winter.\n\nIt lasts three winters, with no summer between.\n\nThen wolves swallow the sun and the moon.\n\nThe stars go out, the earth shakes, and every chain breaks.\n\nFenrir runs free, his jaws open from the earth to the sky.\n\nThe serpent twists out of the sea, and the waves flood the land.\n\nA ship built of dead men's fingernails sails in.\n\nThe sons of Moospel ride from the south, led by Surt, with a flaming sword.\n\nThe watchman of the gods, Haymdall, blows his horn.\n\nThe gods arm themselves and ride out to the plain.\n\nOdin knows how it ends, and goes anyway.\n\nThe wolf goes for Odin and swallows him.\n\nOdin's son Veedar puts one boot on the wolf's jaw, and tears the wolf's throat apart.\n\nThor meets the serpent at last, and kills it.\n\nThen he walks nine steps, and falls dead from the venom.\n\nTeer and a hound named Garm kill each other.\n\nSo do Haymdall and Loki, free at last.\n\nThen Surt flings fire across the earth.\n\nThe earth sinks into the sea.\n\nAnd then, silence.\n\nThe earth rises again from the sea, green and new.\n\nFields grow without anyone sowing them.\n\nA few gods survive, and Thor's sons carry his hammer.\n\nBaldur and Hod come back from the dead.\n\nOne man and one woman step out of a forest, where they hid and lived on morning dew.",
+   "segs": [
+    {
+     "beat": 135,
+     "start": 0,
+     "end": 29,
+     "script": "The end begins with a winter."
+    },
+    {
+     "beat": 136,
+     "start": 31,
+     "end": 78,
+     "script": "It lasts three winters, with no summer between."
+    },
+    {
+     "beat": 137,
+     "start": 80,
+     "end": 121,
+     "script": "Then wolves swallow the sun and the moon."
+    },
+    {
+     "beat": 138,
+     "start": 123,
+     "end": 182,
+     "script": "The stars go out, the earth shakes, and every chain breaks."
+    },
+    {
+     "beat": 139,
+     "start": 184,
+     "end": 242,
+     "script": "Fenrir runs free, his jaws open from the earth to the sky."
+    },
+    {
+     "beat": 140,
+     "start": 244,
+     "end": 308,
+     "script": "The serpent twists out of the sea, and the waves flood the land."
+    },
+    {
+     "beat": 141,
+     "start": 310,
+     "end": 358,
+     "script": "A ship built of dead men's fingernails sails in."
+    },
+    {
+     "beat": 142,
+     "start": 360,
+     "end": 435,
+     "script": "The sons of Muspell ride from the south, led by Surt, with a flaming sword."
+    },
+    {
+     "beat": 143,
+     "start": 437,
+     "end": 488,
+     "script": "The watchman of the gods, Heimdall, blows his horn."
+    },
+    {
+     "beat": 144,
+     "start": 490,
+     "end": 540,
+     "script": "The gods arm themselves and ride out to the plain."
+    },
+    {
+     "beat": 145,
+     "start": 542,
+     "end": 582,
+     "script": "Odin knows how it ends, and goes anyway."
+    },
+    {
+     "beat": 146,
+     "start": 584,
+     "end": 624,
+     "script": "The wolf goes for Odin and swallows him."
+    },
+    {
+     "beat": 147,
+     "start": 626,
+     "end": 676,
+     "script": "Odin's son Vidar puts one boot on the wolf's jaw,"
+    },
+    {
+     "beat": 148,
+     "start": 677,
+     "end": 711,
+     "script": "and tears the wolf's throat apart."
+    },
+    {
+     "beat": 149,
+     "start": 713,
+     "end": 758,
+     "script": "Thor meets the serpent at last, and kills it."
+    },
+    {
+     "beat": 150,
+     "start": 760,
+     "end": 816,
+     "script": "Then he walks nine steps, and falls dead from the venom."
+    },
+    {
+     "beat": 151,
+     "start": 818,
+     "end": 862,
+     "script": "Tyr and a hound named Garm kill each other."
+    },
+    {
+     "beat": 152,
+     "start": 864,
+     "end": 902,
+     "script": "So do Heimdall and Loki, free at last."
+    },
+    {
+     "beat": 153,
+     "start": 904,
+     "end": 943,
+     "script": "Then Surt flings fire across the earth."
+    },
+    {
+     "beat": 154,
+     "start": 945,
+     "end": 974,
+     "script": "The earth sinks into the sea."
+    },
+    {
+     "beat": 155,
+     "start": 976,
+     "end": 994,
+     "script": "And then, silence."
+    },
+    {
+     "beat": 156,
+     "start": 996,
+     "end": 1046,
+     "script": "The earth rises again from the sea, green and new."
+    },
+    {
+     "beat": 157,
+     "start": 1048,
+     "end": 1087,
+     "script": "Fields grow without anyone sowing them."
+    },
+    {
+     "beat": 158,
+     "start": 1089,
+     "end": 1142,
+     "script": "A few gods survive, and Thor's sons carry his hammer."
+    },
+    {
+     "beat": 159,
+     "start": 1144,
+     "end": 1183,
+     "script": "Baldr and Hod come back from the dead."
+    },
+    {
+     "beat": 160,
+     "start": 1185,
+     "end": 1228,
+     "script": "One man and one woman step out of a forest,"
+    },
+    {
+     "beat": 161,
+     "start": 1229,
+     "end": 1269,
+     "script": "where they hid and lived on morning dew."
+    }
+   ],
+   "chars": 1269,
+   "prev": "ys she will not.\n\nSome say it was Loki in disguise.\n\nBaldur stays dead.\n\nThe gods catch Loki at last, hiding as a salmon.\n\nThey bind him to three rocks, and hang a serpent above his face, dripping venom.\n\nHis wife, Siggin, sits by his side with a bowl to catch the drops.\n\nWhen the bowl is full, she has to empty it, and the venom lands on him, and the earth shakes.\n\nLoki will not stay in that cave.",
+   "next": "So how do we know any of this?\n\nNone of this was written down when the poems were first made.\n\nFor generations it was recited from memory by poets.\n\nMost of the poems survive in one great book, the Codex Regius, from about twelve seventy.\n\nIt was written in Iceland, by Christians, about gods nobody worshipped anymore.\n\nAround twelve twenty, an Icelandic chieftain named Snorry Sturloosun put togeth"
+  },
+  {
+   "id": "P8",
+   "label": "The Christian Who Saved The Gods",
+   "beats": [
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174
+   ],
+   "text": "So how do we know any of this?\n\nNone of this was written down when the poems were first made.\n\nFor generations it was recited from memory by poets.\n\nMost of the poems survive in one great book, the Codex Regius, from about twelve seventy.\n\nIt was written in Iceland, by Christians, about gods nobody worshipped anymore.\n\nAround twelve twenty, an Icelandic chieftain named Snorry Sturloosun put together a handbook for poets.\n\nSnorri was a Christian too, and his book opens with Adam and Eve, then says the gods were once men from Asia.\n\nNot every source agrees.\n\nIn one poem, the makers of the first people have different names.\n\nWhen they disagree, we follow Snorri.\n\nHe was killed in twelve forty-one, on the orders of a Norwegian king.\n\nIf this was your kind of story, come back for the next myth.",
+   "segs": [
+    {
+     "beat": 162,
+     "start": 0,
+     "end": 30,
+     "script": "So how do we know any of this?"
+    },
+    {
+     "beat": 163,
+     "start": 32,
+     "end": 93,
+     "script": "None of this was written down when the poems were first made."
+    },
+    {
+     "beat": 164,
+     "start": 95,
+     "end": 147,
+     "script": "For generations it was recited from memory by poets."
+    },
+    {
+     "beat": 165,
+     "start": 149,
+     "end": 238,
+     "script": "Most of the poems survive in one great book, the Codex Regius, from about twelve seventy."
+    },
+    {
+     "beat": 166,
+     "start": 240,
+     "end": 319,
+     "script": "It was written in Iceland, by Christians, about gods nobody worshipped anymore."
+    },
+    {
+     "beat": 167,
+     "start": 321,
+     "end": 424,
+     "script": "Around twelve twenty, an Icelandic chieftain named Snorri Sturluson put together a handbook for poets."
+    },
+    {
+     "beat": 168,
+     "start": 426,
+     "end": 453,
+     "script": "Snorri was a Christian too,"
+    },
+    {
+     "beat": 169,
+     "start": 454,
+     "end": 535,
+     "script": "and his book opens with Adam and Eve, then says the gods were once men from Asia."
+    },
+    {
+     "beat": 170,
+     "start": 537,
+     "end": 561,
+     "script": "Not every source agrees."
+    },
+    {
+     "beat": 171,
+     "start": 563,
+     "end": 628,
+     "script": "In one poem, the makers of the first people have different names."
+    },
+    {
+     "beat": 172,
+     "start": 630,
+     "end": 667,
+     "script": "When they disagree, we follow Snorri."
+    },
+    {
+     "beat": 173,
+     "start": 669,
+     "end": 738,
+     "script": "He was killed in twelve forty-one, on the orders of a Norwegian king."
+    },
+    {
+     "beat": 174,
+     "start": 740,
+     "end": 800,
+     "script": "If this was your kind of story, come back for the next myth."
+    }
+   ],
+   "chars": 800,
+   "prev": " Haymdall and Loki, free at last.\n\nThen Surt flings fire across the earth.\n\nThe earth sinks into the sea.\n\nAnd then, silence.\n\nThe earth rises again from the sea, green and new.\n\nFields grow without anyone sowing them.\n\nA few gods survive, and Thor's sons carry his hammer.\n\nBaldur and Hod come back from the dead.\n\nOne man and one woman step out of a forest, where they hid and lived on morning dew.",
+   "next": ""
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+[
+ {
+  "id": "sheep_turn",
+  "out": "characters/sheep/turnaround.png",
+  "prompt_file": "prompts/sheep_turn.txt",
+  "size": "1536x1024",
+  "refs": [
+   "places/cave_interior/night_firelight.png"
+  ]
+ },
+ {
+  "id": "sheep_group",
+  "out": "characters/sheep/group.png",
+  "prompt_file": "prompts/sheep_group.txt",
+  "size": "1536x1024",
+  "refs": [
+   "characters/sheep/turnaround.png"
+  ]
+ },
+ {
+  "id": "sheep_face",
+  "out": "characters/sheep/face.png",
+  "prompt_file": "prompts/sheep_face.txt",
+  "size": "1024x1024",
+  "refs": [
+   "characters/sheep/turnaround.png"
+  ]
+ }
+]

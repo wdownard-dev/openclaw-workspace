@@ -1,0 +1,156 @@
+[
+ {
+  "id": "pl_cosmic_gap",
+  "out": "places/cosmic_gap/master.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pl_cosmic_gap.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pl_ice_field",
+  "out": "places/ice_field/master.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pl_ice_field.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pl_new_world",
+  "out": "places/new_world/master.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pl_new_world.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pl_night_sky",
+  "out": "places/night_sky/master.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pl_night_sky.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pl_midgard_shore",
+  "out": "places/midgard_shore/master.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pl_midgard_shore.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pl_asgard",
+  "out": "places/asgard/master.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pl_asgard.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pl_odins_hall",
+  "out": "places/odins_hall/master.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pl_odins_hall.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pl_yggdrasil",
+  "out": "places/yggdrasil/master.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pl_yggdrasil.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pl_rock_cave",
+  "out": "places/rock_cave/master.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pl_rock_cave.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pl_dwarf_forge",
+  "out": "places/dwarf_forge/master.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pl_dwarf_forge.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pl_fenrirs_rock",
+  "out": "places/fenrirs_rock/master.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pl_fenrirs_rock.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pl_open_sea",
+  "out": "places/open_sea/master.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pl_open_sea.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pl_hill_road_farm",
+  "out": "places/hill_road_farm/master.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pl_hill_road_farm.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pl_hels_gate",
+  "out": "places/hels_gate/master.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pl_hels_gate.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pl_waterfall",
+  "out": "places/waterfall/master.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pl_waterfall.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pl_vigrid_plain",
+  "out": "places/vigrid_plain/master.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pl_vigrid_plain.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pl_iceland_room",
+  "out": "places/iceland_room/master.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pl_iceland_room.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pr_chains_and_ribbon",
+  "out": "props/chains_and_ribbon/prop.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pr_chains_and_ribbon.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pr_ox_head_hook",
+  "out": "props/ox_head_hook/prop.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pr_ox_head_hook.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pr_hymirs_boat",
+  "out": "props/hymirs_boat/prop.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pr_hymirs_boat.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pr_oak_mistletoe",
+  "out": "props/oak_mistletoe/prop.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pr_oak_mistletoe.txt",
+  "size": "1536x1024",
+  "refs": []
+ },
+ {
+  "id": "pr_naglfar",
+  "out": "props/naglfar/prop.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/norse/library/prompts/pr_naglfar.txt",
+  "size": "1536x1024",
+  "refs": []
+ }
+]

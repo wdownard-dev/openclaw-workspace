@@ -1,0 +1,1 @@
+[{"id": "int_night_r", "out": "places/cave_interior/night_firelight.png", "prompt_file": "prompts/int_night.txt", "size": "1536x1024", "refs": []}, {"id": "boulder_r", "out": "props/boulder.png", "prompt_file": "prompts/boulder.txt", "size": "1024x1024", "refs": []}, {"id": "ram_r", "out": "props/ram.png", "prompt_file": "prompts/ram.txt", "size": "1024x1024", "refs": []}]

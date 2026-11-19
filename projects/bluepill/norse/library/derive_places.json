@@ -1,0 +1,83 @@
+{
+ "ice_field_flood": [
+  0.643
+ ],
+ "new_world_dusk": [
+  0.691
+ ],
+ "new_world_snow": [
+  0.422
+ ],
+ "new_world_burning": [
+  0.357
+ ],
+ "new_world_greenhill": [
+  0.693
+ ],
+ "new_world_hill_day": [
+  0.78
+ ],
+ "night_sky_skull": [
+  0.672
+ ],
+ "night_sky_crack": [
+  0.754
+ ],
+ "midgard_shore_evening": [
+  0.492
+ ],
+ "midgard_shore_dusk": [
+  0.568
+ ],
+ "asgard_wall_night": [
+  0.63
+ ],
+ "fensalir_door": [
+  0.02
+ ],
+ "odins_hall_day": [
+  0.678
+ ],
+ "bedroom": [
+  0.919
+ ],
+ "mimirs_well": [
+  0.898
+ ],
+ "jotunheim_home": [
+  0.749
+ ],
+ "cave_day": [
+  0.835
+ ],
+ "loki_prison": [
+  0.741
+ ],
+ "fenrirs_rock_night": [
+  0.638
+ ],
+ "open_sea_night": [
+  0.644
+ ],
+ "open_sea_naglfar": [
+  0.732
+ ],
+ "open_sea_burning": [
+  0.703
+ ],
+ "open_sea_boat_morning": [
+  0.846
+ ],
+ "open_sea_boat_midday": [
+  0.765
+ ],
+ "hels_gate_day": [
+  0.583
+ ],
+ "scriptorium": [
+  0.793
+ ],
+ "reykholt_study": [
+  0.68
+ ]
+}

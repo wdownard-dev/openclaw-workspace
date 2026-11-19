@@ -1,0 +1,164 @@
+[
+ {
+  "file": "boulder.png",
+  "role": "boulder",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "ship.png",
+  "role": "ship",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "ship_furled.png",
+  "role": "ship_furled",
+  "canonical": true,
+  "derived_from": "ship"
+ },
+ {
+  "file": "stake_raw.png",
+  "role": "stake_raw",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "stake_sharp.png",
+  "role": "stake_sharp",
+  "canonical": true,
+  "derived_from": "stake_raw"
+ },
+ {
+  "file": "stake_fire.png",
+  "role": "stake_fire",
+  "canonical": true,
+  "derived_from": "stake_raw"
+ },
+ {
+  "file": "stake.png",
+  "role": "stake",
+  "canonical": true,
+  "derived_from": "composite"
+ },
+ {
+  "file": "wine.png",
+  "role": "wine",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "torch.png",
+  "role": "torch",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "olive_club.png",
+  "role": "olive_club",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "cheese_set.png",
+  "role": "cheese_set",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "lyre.png",
+  "role": "lyre",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "scroll_quill.png",
+  "role": "scroll_quill",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "book_pile.png",
+  "role": "book_pile",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "brass_lamp.png",
+  "role": "brass_lamp",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "elephant_skull.png",
+  "role": "elephant_skull",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "elephant_skull_in_clay.png",
+  "role": "elephant_skull_in_clay",
+  "canonical": true,
+  "derived_from": "elephant_skull"
+ },
+ {
+  "file": "dwarf_elephant.png",
+  "role": "dwarf_elephant",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "mule_pair.png",
+  "role": "mule_pair",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "ox_cart.png",
+  "role": "ox_cart",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "axe_tongs_trough.png",
+  "role": "axe_tongs_trough",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "map_antique.png",
+  "role": "map_antique",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "map_rolled_blank.png",
+  "role": "map_rolled_blank",
+  "canonical": true,
+  "derived_from": "map_antique"
+ },
+ {
+  "file": "gulls.png",
+  "role": "gulls",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "anvil_bolt.png",
+  "role": "anvil_bolt",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "straw_bowls.png",
+  "role": "straw_bowls",
+  "canonical": true,
+  "derived_from": null
+ },
+ {
+  "file": "ram.png",
+  "role": "ram",
+  "canonical": true,
+  "derived_from": null
+ }
+]

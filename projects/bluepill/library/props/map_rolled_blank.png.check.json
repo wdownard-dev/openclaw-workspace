@@ -1,0 +1,10 @@
+{
+ "id": "map_rolled",
+ "master": "props/map_antique.png",
+ "change": "redraw the same parchment as a rolled-up scroll map, tied with a cord, with one corner unrolled showing completely blank pale parchment, no markings, no drawings, no text",
+ "tries": [
+  {
+   "try": 1
+  }
+ ]
+}

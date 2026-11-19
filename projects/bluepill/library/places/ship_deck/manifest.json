@@ -1,0 +1,21 @@
+[
+ {
+  "file": "master.png",
+  "role": "master",
+  "canonical": true,
+  "master": true,
+  "derived_from": null
+ },
+ {
+  "file": "dusk.png",
+  "role": "dusk",
+  "canonical": true,
+  "master": false,
+  "derived_from": "master"
+ },
+ {
+  "file": "sheet.jpg",
+  "role": "sheet",
+  "canonical": false
+ }
+]

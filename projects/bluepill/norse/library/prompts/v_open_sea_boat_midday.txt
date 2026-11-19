@@ -1,0 +1,1 @@
+Edit image 1: keep the same scene, same layout, same geometry, same drawing style and every object in the same place. Change ONLY: time of day: bright midday sea, and add the small wooden boat from image 2 afloat in the middle, clearly visible (about one sixth as wide as the picture), empty of people. No people. Image 2 is only a reference for the added object.

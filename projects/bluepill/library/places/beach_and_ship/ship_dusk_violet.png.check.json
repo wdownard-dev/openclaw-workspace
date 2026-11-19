@@ -1,0 +1,13 @@
+{
+ "id": "ship_dusk",
+ "master": "places/beach_and_ship/ship_at_sea_wide.png",
+ "change": "it is dusk: a calm violet sea, a violet and rose sky, the cliff small on the horizon; the same ship in the same place",
+ "tries": [
+  {
+   "ground_raw_mad": 27.61,
+   "ground_edge_corr": 0.563,
+   "top30_mad": 44.56,
+   "try": 1
+  }
+ ]
+}

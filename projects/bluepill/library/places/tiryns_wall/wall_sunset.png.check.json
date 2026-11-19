@@ -1,0 +1,13 @@
+{
+ "id": "tiryns_sunset",
+ "master": "places/tiryns_wall/master.png",
+ "change": "the time is sunset: orange and pink sky, long shadows, the wall glowing gold, finished and complete",
+ "tries": [
+  {
+   "ground_raw_mad": 45.63,
+   "ground_edge_corr": 0.649,
+   "top30_mad": 70.49,
+   "try": 1
+  }
+ ]
+}

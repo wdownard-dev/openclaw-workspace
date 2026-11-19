@@ -1,0 +1,21 @@
+[
+ {
+  "file": "master.png",
+  "role": "master",
+  "canonical": true,
+  "master": true,
+  "derived_from": null
+ },
+ {
+  "file": "ship_in_storm.png",
+  "role": "ship_in_storm",
+  "canonical": true,
+  "master": false,
+  "derived_from": "master"
+ },
+ {
+  "file": "sheet.jpg",
+  "role": "sheet",
+  "canonical": false
+ }
+]

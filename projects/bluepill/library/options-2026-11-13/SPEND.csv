@@ -1,0 +1,10 @@
+timestamp,call_id,model,size,quality,n_refs,text_in_tokens,image_in_tokens,output_tokens,est_cost_usd,running_total_usd,http,seconds,status,file,prompt_file,refs
+2026-11-13T19:03:00-0500,lineup_A,gpt-image-2.6-sunburst,1536x1024,medium,0,395,0,1132,0.0359,0.0359,200,29,ok,img/lineup_A.png,prompts/lineup_A.txt,
+2026-11-13T19:03:01-0500,lineup_B,gpt-image-2.6-sunburst,1536x1024,medium,0,392,0,1132,0.0359,0.0718,200,28,ok,img/lineup_B.png,prompts/lineup_B.txt,
+2026-11-13T19:03:03-0500,lineup_C,gpt-image-2.6-sunburst,1536x1024,medium,0,373,0,1132,0.0358,0.1076,200,28,ok,img/lineup_C.png,prompts/lineup_C.txt,
+2026-11-13T19:03:25-0500,strip_A,gpt-image-2.6-sunburst,1536x1024,medium,0,330,0,1132,0.0356,0.1432,200,25,ok,img/strip_A.png,prompts/strip_A.txt,
+2026-11-13T19:03:26-0500,strip_B,gpt-image-2.6-sunburst,1536x1024,medium,0,330,0,1132,0.0356,0.1788,200,24,ok,img/strip_B.png,prompts/strip_B.txt,
+2026-11-13T19:03:30-0500,strip_C,gpt-image-2.6-sunburst,1536x1024,medium,0,321,0,1132,0.0356,0.2144,200,26,ok,img/strip_C.png,prompts/strip_C.txt,
+2026-11-13T19:03:57-0500,scene_C,gpt-image-2.6-sunburst,1536x1024,medium,0,349,0,1132,0.0357,0.2501,200,27,ok,img/scene_C.png,prompts/scene_C.txt,
+2026-11-13T19:03:59-0500,scene_A,gpt-image-2.6-sunburst,1536x1024,medium,0,371,0,1132,0.0358,0.2859,200,33,ok,img/scene_A.png,prompts/scene_A.txt,
+2026-11-13T19:04:01-0500,scene_B,gpt-image-2.6-sunburst,1536x1024,medium,0,368,0,1132,0.0358,0.3217,200,34,ok,img/scene_B.png,prompts/scene_B.txt,

@@ -1,0 +1,13 @@
+{
+ "id": "cliff_peak",
+ "master": "places/cave_exterior/day_wide.png",
+ "change": "add behind the cliff a tall dramatic mountain peak with a clear V-shaped notch in its summit rising above the horizon, and a small flat rocky shore strip by the water; everything else identical",
+ "tries": [
+  {
+   "ground_raw_mad": 8.77,
+   "ground_edge_corr": 0.855,
+   "top30_mad": 10.06,
+   "try": 1
+  }
+ ]
+}

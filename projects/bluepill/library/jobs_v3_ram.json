@@ -1,0 +1,11 @@
+[
+ {
+  "id": "ram_expr",
+  "out": "characters/ram/expressions.png",
+  "prompt_file": "prompts/ram_expr.txt",
+  "size": "1536x1024",
+  "refs": [
+   "characters/ram/turnaround.png"
+  ]
+ }
+]

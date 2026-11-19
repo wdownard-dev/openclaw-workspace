@@ -1,0 +1,22 @@
+[
+ {
+  "file": "face.png",
+  "role": "face",
+  "canonical": false
+ },
+ {
+  "file": "group.png",
+  "role": "group",
+  "canonical": true
+ },
+ {
+  "file": "sheet.jpg",
+  "role": "sheet",
+  "canonical": false
+ },
+ {
+  "file": "turnaround.png",
+  "role": "turnaround",
+  "canonical": true
+ }
+]

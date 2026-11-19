@@ -1,0 +1,25 @@
+{
+ "id": "shore_red",
+ "master": "places/beach_and_ship/morning.png",
+ "change": "it is dusk: a burning blood-red and orange sky, the sea glowing deep red, the beach and cliffs in dark silhouette; empty beach",
+ "tries": [
+  {
+   "ground_raw_mad": 138.02,
+   "ground_edge_corr": 0.104,
+   "top30_mad": 131.21,
+   "try": 1
+  },
+  {
+   "ground_raw_mad": 136.86,
+   "ground_edge_corr": 0.349,
+   "top30_mad": 133.32,
+   "try": 2
+  },
+  {
+   "ground_raw_mad": 135.79,
+   "ground_edge_corr": 0.231,
+   "top30_mad": 130.56,
+   "try": 3
+  }
+ ]
+}

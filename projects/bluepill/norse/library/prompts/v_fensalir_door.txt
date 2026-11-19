@@ -1,0 +1,1 @@
+Edit image 1: keep the same scene, same layout, same geometry, same drawing style and every object in the same place. Change ONLY: show a close view of a plain wooden hall door set in a timber wall, dusk light, the door closed, grass in front. No people.

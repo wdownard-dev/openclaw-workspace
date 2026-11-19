@@ -1,0 +1,58 @@
+{
+ "ext_dusk": {
+  "ground_raw_mad": 58.99,
+  "ground_edge_corr": 0.607,
+  "top30_mad": 73.84
+ },
+ "ext_night": {
+  "ground_raw_mad": 72.61,
+  "ground_edge_corr": 0.614,
+  "top30_mad": 94.08
+ },
+ "ext_sealed": {
+  "ground_raw_mad": 19.76,
+  "ground_edge_corr": 0.72,
+  "top30_mad": 7.22
+ },
+ "int_day": {
+  "ground_raw_mad": 35.87,
+  "ground_edge_corr": 0.742,
+  "top30_mad": 23.22
+ },
+ "int_open": {
+  "ground_raw_mad": 20.43,
+  "ground_edge_corr": 0.73,
+  "top30_mad": 18.07
+ },
+ "hill_dawn": {
+  "ground_raw_mad": 34.63,
+  "ground_edge_corr": 0.724,
+  "top30_mad": 47.16
+ },
+ "beach_beached": {
+  "ground_raw_mad": 32.77,
+  "ground_edge_corr": 0.588,
+  "top30_mad": 4.59
+ },
+ "ext_sealed_excl_boulder_region": 7.67,
+ "OLD_dusk_wide": {
+  "ground_raw_mad": 59.89,
+  "ground_edge_corr": -0.002,
+  "top30_mad": 67.9
+ },
+ "OLD_night_wide": {
+  "ground_raw_mad": 57.79,
+  "ground_edge_corr": -0.003,
+  "top30_mad": 82.57
+ },
+ "OLD_boulder_sealing_mouth": {
+  "ground_raw_mad": 56.23,
+  "ground_edge_corr": 0.001,
+  "top30_mad": 64.18
+ },
+ "OLD_interior_day": {
+  "ground_raw_mad": 51.61,
+  "ground_edge_corr": 0.0,
+  "top30_mad": 44.75
+ }
+}

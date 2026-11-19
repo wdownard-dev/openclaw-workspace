@@ -1,0 +1,13 @@
+{
+ "id": "harbour_dawn",
+ "master": "places/beach_and_ship/ship_at_sea_wide.png",
+ "change": "it is dawn: a pink-gold sky, the ship sailing out of a sheltered harbour between two headlands, a line of sandstone cliffs on the horizon behind it; same ship with sail up",
+ "tries": [
+  {
+   "ground_raw_mad": 21.58,
+   "ground_edge_corr": 0.808,
+   "top30_mad": 47.13,
+   "try": 1
+  }
+ ]
+}

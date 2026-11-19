@@ -1,0 +1,1 @@
+Edit image 1: keep the same scene, same layout, same geometry, same drawing style and every object in the same place. Change ONLY: grey stormy sea, and add the pale ship Naglfar from image 2 sailing across the middle of the sea, large and clearly visible, about half as wide as the whole picture. No people. Image 2 is only a reference for the added object.

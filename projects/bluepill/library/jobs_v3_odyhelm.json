@@ -1,0 +1,11 @@
+[
+ {
+  "id": "ody_helmet",
+  "out": "characters/odysseus/turnaround_helmet.png",
+  "prompt_file": "prompts/ody_helmet.txt",
+  "size": "1536x1024",
+  "refs": [
+   "characters/odysseus/turnaround.png"
+  ]
+ }
+]

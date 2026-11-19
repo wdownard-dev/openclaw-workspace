@@ -1,0 +1,35 @@
+[
+ {
+  "file": "night_firelight.png",
+  "role": "night_firelight",
+  "canonical": true,
+  "master": true,
+  "derived_from": null
+ },
+ {
+  "file": "day_shaft_of_light.png",
+  "role": "day_shaft_of_light",
+  "canonical": true,
+  "master": false,
+  "derived_from": "night_firelight"
+ },
+ {
+  "file": "boulder_aside_daylight.png",
+  "role": "boulder_aside_daylight",
+  "canonical": true,
+  "master": false,
+  "derived_from": "night_firelight"
+ },
+ {
+  "file": "sealed_boulder_from_inside.png",
+  "role": "sealed_boulder_from_inside",
+  "canonical": true,
+  "master": false,
+  "derived_from": "night_firelight"
+ },
+ {
+  "file": "sheet.jpg",
+  "role": "sheet",
+  "canonical": false
+ }
+]

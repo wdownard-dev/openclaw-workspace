@@ -1,0 +1,56 @@
+[
+ {
+  "file": "morning.png",
+  "role": "morning",
+  "canonical": true,
+  "master": true,
+  "derived_from": null
+ },
+ {
+  "file": "ship_beached.png",
+  "role": "ship_beached",
+  "canonical": true,
+  "master": false,
+  "derived_from": "morning"
+ },
+ {
+  "file": "ship_at_sea_wide.png",
+  "role": "ship_at_sea_wide",
+  "canonical": true,
+  "master": false,
+  "derived_from": "props/ship"
+ },
+ {
+  "file": "ship_night_stars.png",
+  "role": "ship_night_stars",
+  "canonical": true,
+  "master": false,
+  "derived_from": "ship_at_sea_wide"
+ },
+ {
+  "file": "ship_dusk_violet.png",
+  "role": "ship_dusk_violet",
+  "canonical": true,
+  "master": false,
+  "derived_from": "ship_at_sea_wide"
+ },
+ {
+  "file": "harbour_dawn.png",
+  "role": "harbour_dawn",
+  "canonical": true,
+  "master": false,
+  "derived_from": "ship_at_sea_wide"
+ },
+ {
+  "file": "shore_dusk_red.png",
+  "role": "shore_dusk_red",
+  "canonical": true,
+  "master": false,
+  "derived_from": "morning"
+ },
+ {
+  "file": "sheet.jpg",
+  "role": "sheet",
+  "canonical": false
+ }
+]
