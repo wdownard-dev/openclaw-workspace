@@ -1,0 +1,21 @@
+{
+  "name": "bluepill-remotion-v3",
+  "version": "2.0.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "Blue Pill V5 animatic: storyboard.json + words.json -> Remotion timeline (FORMAT-BIBLE section 11 event kinds). node_modules is a symlink to pipeline/remotion-proof/node_modules (same pinned versions).",
+  "scripts": {
+    "resolve": "node resolve.js",
+    "animatic": "bash render.sh animatic",
+    "stills": "node stills.js",
+    "qa": "bash qa/run_qa.sh"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.543",
+    "@remotion/cli": "4.0.543",
+    "@remotion/renderer": "4.0.543",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.543"
+  }
+}

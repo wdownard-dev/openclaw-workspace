@@ -128,3 +128,12 @@ My final reply to William already goes to Telegram. Do not also send the same su
 
 ## Lesson (2026-11-08): Telegram buttons
 Send decision buttons as value-only (`{"label":"A","value":"codm_a"}`), never with an `action` key. In OpenClaw 2026.10.7 `action:{type:callback}` buttons are wrapped as tgcb1: and rejected with 'This action is no longer available'. Value-only taps arrive as a user message `callback_data: <value>`. Name the specific item in the message text; read the tap as that person's answer.
+
+## Model policy (2026-11-14, William approved)
+- Main session runs on Sonnet (`anthropic/claude-sonnet-5-5`). Never leave it on Fable after a task; switch back the same turn.
+- Heartbeat and main-session automations inherit the main model (Sonnet). Isolated automations are pinned: Sonnet for digests, trackers, scouts, reviews; Haiku (`anthropic/claude-haiku-5-5`) for pollers that only run a script and report (outreach replies, clip stats, API audit watcher, backup). New automations must set `payload.model`.
+- Fable (`claude-cli/claude-fable-5-1`) only as a bounded subagent for judgment lanes (script review, look review, process audit, recipe decisions), spawned with `context="isolated"`, a tight file-based brief, no session-history reads, under 150k context. Trigger: William says so, or I propose it once and he confirms.
+- Keep the main session lean: after each video milestone, with state in PROCESS.md, MEMORY.md and the Miro board, prefer a session reset over carrying history.
+
+## Lesson (2026-11-13): one message per turn in webchat
+William sees three near-identical messages per turn: the pre-work progress line, the sessions_yield acknowledgment, and the final reply repeating it. Root cause: webchat streams any text written BEFORE a tool call, then shows the whole turn's text again as the final reply, so mid-turn commentary appears twice. Rule: write NO text before or between tool calls; call tools silently and write exactly one block of text at the end of the turn. When yielding for a worker, put the one-line status in the sessions_yield acknowledgment and write nothing else. Usage is driven by worker context size, not these messages; prefer fewer, larger Sonnet workers over one worker per step.

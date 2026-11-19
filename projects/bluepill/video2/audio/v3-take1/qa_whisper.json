@@ -1,0 +1,817 @@
+{
+ "P01": {
+  "coverage": 0.978,
+  "n": 91,
+  "heard_n": 92,
+  "diffs": [
+   {
+    "op": "replace",
+    "want": [
+     [
+      "one-eyed",
+      2,
+      6.92
+     ]
+    ],
+    "heard": "one eyed"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "elephant",
+      3,
+      15.08
+     ]
+    ],
+    "heard": "elephant's"
+   }
+  ]
+ },
+ "P02": {
+  "coverage": 0.983,
+  "n": 115,
+  "heard_n": 116,
+  "diffs": [
+   {
+    "op": "replace",
+    "want": [
+     [
+      "Nine",
+      6,
+      5.79
+     ]
+    ],
+    "heard": "9"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "Twenty-two",
+      13,
+      43.34
+     ]
+    ],
+    "heard": "twenty two"
+   }
+  ]
+ },
+ "P03": {
+  "coverage": 1.0,
+  "n": 90,
+  "heard_n": 90,
+  "diffs": []
+ },
+ "P04": {
+  "coverage": 0.823,
+  "n": 164,
+  "heard_n": 145,
+  "diffs": [
+   {
+    "op": "replace",
+    "want": [
+     [
+      "\"Who",
+      23,
+      11.04
+     ]
+    ],
+    "heard": "'who"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "stake?",
+      23,
+      12.27
+     ],
+     [
+      "Draw",
+      23,
+      13.05
+     ],
+     [
+      "lots,\"",
+      23,
+      13.39
+     ]
+    ],
+    "heard": "stake' 'draw lots'"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "\"And",
+      24,
+      15.49
+     ]
+    ],
+    "heard": "'and"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "up?\"",
+      24,
+      16.28
+     ]
+    ],
+    "heard": "up'"
+   },
+   {
+    "op": "delete",
+    "want": [
+     [
+      "under",
+      26,
+      21.9
+     ],
+     [
+      "dung,",
+      26,
+      22.21
+     ],
+     [
+      "the",
+      26,
+      23.13
+     ],
+     [
+      "one",
+      26,
+      23.31
+     ],
+     [
+      "thing",
+      26,
+      23.6
+     ],
+     [
+      "a",
+      26,
+      23.94
+     ],
+     [
+      "cave",
+      26,
+      24.07
+     ],
+     [
+      "full",
+      26,
+      24.48
+     ],
+     [
+      "of",
+      26,
+      24.71
+     ],
+     [
+      "sheep",
+      26,
+      24.82
+     ],
+     [
+      "has",
+      26,
+      25.37
+     ],
+     [
+      "plenty",
+      26,
+      25.64
+     ],
+     [
+      "of.",
+      26,
+      26.06
+     ],
+     [
+      "That",
+      27,
+      26.9
+     ],
+     [
+      "evening,",
+      27,
+      27.19
+     ],
+     [
+      "two",
+      27,
+      28.07
+     ],
+     [
+      "more.",
+      27,
+      28.39
+     ],
+     [
+      "Six",
+      27,
+      29.22
+     ],
+     [
+      "men",
+      27,
+      29.69
+     ]
+    ],
+    "heard": ""
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "Homer",
+      29,
+      46.29
+     ],
+     [
+      "counts.",
+      29,
+      46.68
+     ]
+    ],
+    "heard": "home accounts"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "honoured.\"",
+      33,
+      65.05
+     ]
+    ],
+    "heard": "honored"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "buy",
+      34,
+      66.37
+     ]
+    ],
+    "heard": "by"
+   }
+  ]
+ },
+ "P05": {
+  "coverage": 0.978,
+  "n": 93,
+  "heard_n": 94,
+  "diffs": [
+   {
+    "op": "replace",
+    "want": [
+     [
+      "\"Pollifeemus,",
+      37,
+      13.18
+     ]
+    ],
+    "heard": "polyphemus"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "follow-up",
+      40,
+      37.2
+     ]
+    ],
+    "heard": "follow up"
+   }
+  ]
+ },
+ "P06": {
+  "coverage": 0.983,
+  "n": 120,
+  "heard_n": 119,
+  "diffs": [
+   {
+    "op": "replace",
+    "want": [
+     [
+      "At",
+      41,
+      0.0
+     ],
+     [
+      "dawn",
+      41,
+      0.26
+     ]
+    ],
+    "heard": "adorn"
+   }
+  ]
+ },
+ "P07": {
+  "coverage": 0.991,
+  "n": 115,
+  "heard_n": 116,
+  "diffs": [
+   {
+    "op": "insert",
+    "want": [],
+    "heard": "lord"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "presents.",
+      53,
+      29.8
+     ]
+    ],
+    "heard": "presence"
+   }
+  ]
+ },
+ "P08": {
+  "coverage": 1.0,
+  "n": 62,
+  "heard_n": 62,
+  "diffs": []
+ },
+ "P09": {
+  "coverage": 0.966,
+  "n": 117,
+  "heard_n": 118,
+  "diffs": [
+   {
+    "op": "replace",
+    "want": [
+     [
+      "and",
+      60,
+      2.42
+     ]
+    ],
+    "heard": "an"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "metre.",
+      60,
+      6.79
+     ]
+    ],
+    "heard": "meter"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "Head-on,",
+      61,
+      14.5
+     ]
+    ],
+    "heard": "head on"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "palaeontologist",
+      62,
+      24.28
+     ]
+    ],
+    "heard": "paleontologist"
+   }
+  ]
+ },
+ "P10": {
+  "coverage": 0.983,
+  "n": 117,
+  "heard_n": 118,
+  "diffs": [
+   {
+    "op": "replace",
+    "want": [
+     [
+      "Mayor",
+      71,
+      24.41
+     ]
+    ],
+    "heard": "mayer"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "best-known",
+      71,
+      25.96
+     ]
+    ],
+    "heard": "best known"
+   }
+  ]
+ },
+ "P11": {
+  "coverage": 0.953,
+  "n": 86,
+  "heard_n": 87,
+  "diffs": [
+   {
+    "op": "replace",
+    "want": [
+     [
+      "Em-peddokleez",
+      74,
+      5.2
+     ]
+    ],
+    "heard": "empedocles"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "Em-peddokleez,",
+      78,
+      32.59
+     ]
+    ],
+    "heard": "empedocles"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "Ah-gheereh",
+      79,
+      36.88
+     ]
+    ],
+    "heard": "agiri"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "dwarf-elephant",
+      79,
+      40.3
+     ]
+    ],
+    "heard": "dwarf elephant"
+   }
+  ]
+ },
+ "P12": {
+  "coverage": 0.916,
+  "n": 83,
+  "heard_n": 84,
+  "diffs": [
+   {
+    "op": "replace",
+    "want": [
+     [
+      "seven",
+      83,
+      5.35
+     ],
+     [
+      "hundred",
+      83,
+      5.67
+     ],
+     [
+      "B.C.,",
+      83,
+      5.97
+     ]
+    ],
+    "heard": "700 b c"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "\"I",
+      85,
+      17.14
+     ]
+    ],
+    "heard": "'i"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "sheep,\"",
+      85,
+      17.62
+     ]
+    ],
+    "heard": "sheep'"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "\"Sheep.\"",
+      86,
+      20.56
+     ]
+    ],
+    "heard": "'sheep'"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "Boor-kert",
+      89,
+      32.73
+     ]
+    ],
+    "heard": "boer kurt"
+   }
+  ]
+ },
+ "P13": {
+  "coverage": 0.945,
+  "n": 128,
+  "heard_n": 130,
+  "diffs": [
+   {
+    "op": "replace",
+    "want": [
+     [
+      "fifth",
+      90,
+      0.37
+     ]
+    ],
+    "heard": "5th"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "neighbourhood,",
+      91,
+      14.06
+     ]
+    ],
+    "heard": "neighborhood"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "Thoo-sididdeez",
+      92,
+      17.4
+     ]
+    ],
+    "heard": "thucydides"
+   },
+   {
+    "op": "insert",
+    "want": [],
+    "heard": "the gods"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "Thee-ockritus",
+      95,
+      44.81
+     ]
+    ],
+    "heard": "the ocretus"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "Pollifeemus",
+      95,
+      45.72
+     ]
+    ],
+    "heard": "polyphemus"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "sea",
+      95,
+      47.64
+     ],
+     [
+      "nymph.",
+      95,
+      47.87
+     ]
+    ],
+    "heard": "cenymph"
+   }
+  ]
+ },
+ "P14": {
+  "coverage": 0.931,
+  "n": 144,
+  "heard_n": 144,
+  "diffs": [
+   {
+    "op": "replace",
+    "want": [
+     [
+      "Tie-rinz",
+      99,
+      4.59
+     ]
+    ],
+    "heard": "tyryn's"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "Tie-rinz,",
+      101,
+      14.4
+     ]
+    ],
+    "heard": "tyryn's"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "Paw-sayneeus",
+      101,
+      16.09
+     ]
+    ],
+    "heard": "poor sineas"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "Lion",
+      102,
+      28.13
+     ],
+     [
+      "Gate",
+      102,
+      28.5
+     ]
+    ],
+    "heard": "liongate"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "twenty-two",
+      103,
+      32.15
+     ]
+    ],
+    "heard": "22"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "Paw-sayneeus:",
+      103,
+      34.48
+     ]
+    ],
+    "heard": "poor saneas"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "wins.",
+      103,
+      37.64
+     ]
+    ],
+    "heard": "winds"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "twelve",
+      104,
+      43.59
+     ],
+     [
+      "fifty",
+      104,
+      43.94
+     ]
+    ],
+    "heard": "1250"
+   }
+  ]
+ },
+ "P15": {
+  "coverage": 0.972,
+  "n": 107,
+  "heard_n": 107,
+  "diffs": [
+   {
+    "op": "replace",
+    "want": [
+     [
+      "two",
+      109,
+      18.63
+     ],
+     [
+      "hundred",
+      109,
+      19.03
+     ]
+    ],
+    "heard": "200"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "best-known",
+      113,
+      43.91
+     ]
+    ],
+    "heard": "best known"
+   }
+  ]
+ },
+ "P16": {
+  "coverage": 0.963,
+  "n": 107,
+  "heard_n": 108,
+  "diffs": [
+   {
+    "op": "replace",
+    "want": [
+     [
+      "Paw-sayneeus.",
+      114,
+      4.42
+     ]
+    ],
+    "heard": "poor sineas"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "two",
+      114,
+      6.87
+     ],
+     [
+      "hundred",
+      114,
+      7.12
+     ]
+    ],
+    "heard": "200"
+   },
+   {
+    "op": "replace",
+    "want": [
+     [
+      "one-eyed",
+      115,
+      14.78
+     ]
+    ],
+    "heard": "one eyed"
+   }
+  ]
+ }
+}

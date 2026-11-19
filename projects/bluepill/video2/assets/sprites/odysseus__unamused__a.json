@@ -1,0 +1,21 @@
+{
+ "file": "odysseus__flat__a.png",
+ "source": "../gen/odysseus__flat__a1.png",
+ "width": 365,
+ "height": 1014,
+ "feet": {
+  "x": 154,
+  "y": 1005
+ },
+ "height_px_at_1080": 1014,
+ "src_bbox": [
+  326,
+  12,
+  674,
+  1009
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

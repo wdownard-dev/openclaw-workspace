@@ -1,0 +1,21 @@
+{
+ "file": "prop__ram_with_feet__a.png",
+ "source": "../gen/prop__ram_with_feet__a1.png",
+ "width": 1152,
+ "height": 856,
+ "feet": {
+  "x": 636,
+  "y": 847
+ },
+ "height_px_at_1080": 856,
+ "src_bbox": [
+  175,
+  13,
+  1310,
+  852
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

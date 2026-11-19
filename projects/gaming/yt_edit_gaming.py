@@ -1,0 +1,73 @@
+#!/usr/bin/env python3
+"""Edit metadata of an existing wrdgamingclipz video (title, description, privacy). Never deletes.
+
+Usage: yt_edit_gaming.py VIDEO_ID [--title T] [--tags a,b] [--desc-file F | --prepend TEXT] [--privacy private|unlisted|public] [--dry-run]
+Needs GOOGLE_OAUTH_CLIENT_ID/SECRET and GOOGLE_OAUTH_REFRESH_TOKEN_GAMING (scope youtube.force-ssl) in the environment.
+Refuses any video that is not on channel UCIbJfNm2nJKUCItsO0XGhiw (wrdgamingclipz).
+--prepend adds TEXT plus a blank line to the top of the existing description (use \\n for newlines).
+"""
+import argparse, json, os, sys, urllib.error, urllib.request
+
+CHANNEL = "UCIbJfNm2nJKUCItsO0XGhiw"
+p = argparse.ArgumentParser()
+p.add_argument("video")
+p.add_argument("--title")
+p.add_argument("--desc-file")
+p.add_argument("--prepend")
+p.add_argument("--tags", help="comma-separated; replaces the video's tags field")
+p.add_argument("--privacy", choices=["private", "unlisted", "public"])
+p.add_argument("--dry-run", action="store_true")
+a = p.parse_args()
+
+for k in ("GOOGLE_OAUTH_CLIENT_ID", "GOOGLE_OAUTH_CLIENT_SECRET", "GOOGLE_OAUTH_REFRESH_TOKEN_GAMING"):
+    if k not in os.environ:
+        sys.exit("MISSING ENV " + k)
+
+
+def http(req, timeout=60):
+    try:
+        return json.load(urllib.request.urlopen(req, timeout=timeout))
+    except urllib.error.HTTPError as e:
+        sys.exit(f"HTTP {e.code}: {e.read().decode()[:600]}")
+
+
+body = ("client_id=" + os.environ["GOOGLE_OAUTH_CLIENT_ID"]
+        + "&client_secret=" + os.environ["GOOGLE_OAUTH_CLIENT_SECRET"]
+        + "&refresh_token=" + os.environ["GOOGLE_OAUTH_REFRESH_TOKEN_GAMING"]
+        + "&grant_type=refresh_token").encode()
+tok = http(urllib.request.Request("https://oauth2.googleapis.com/token", data=body,
+           headers={"Content-Type": "application/x-www-form-urlencoded"}))["access_token"]
+auth = {"Authorization": "Bearer " + tok}
+
+cur = http(urllib.request.Request(
+    "https://www.googleapis.com/youtube/v3/videos?part=snippet,status&id=" + a.video, headers=auth))["items"]
+if not cur:
+    sys.exit("video not found")
+v = cur[0]
+if v["snippet"]["channelId"] != CHANNEL:
+    sys.exit("WRONG CHANNEL: " + v["snippet"]["channelTitle"])
+
+sn = v["snippet"]
+new = {"title": a.title or sn["title"], "categoryId": sn["categoryId"],
+       "description": sn.get("description", ""), "tags": sn.get("tags", [])}
+if a.desc_file:
+    new["description"] = open(a.desc_file).read()
+if a.tags is not None:
+    new["tags"] = [t.strip() for t in a.tags.split(",") if t.strip()]
+if a.prepend:
+    new["description"] = a.prepend.replace("\\n", "\n") + "\n\n" + new["description"]
+st = v["status"]
+upd = {"id": a.video, "snippet": new,
+       "status": {"privacyStatus": a.privacy or st["privacyStatus"],
+                  "selfDeclaredMadeForKids": st.get("selfDeclaredMadeForKids", False)}}
+if st.get("publishAt"):  # keep a scheduled publish time: an update without it would clear the schedule
+    upd["status"]["publishAt"] = st["publishAt"]
+if a.dry_run:
+    print(json.dumps(upd, indent=2)[:1500])
+    print("STATUS:", json.dumps(upd["status"]))
+    sys.exit(0)
+res = http(urllib.request.Request(
+    "https://www.googleapis.com/youtube/v3/videos?part=snippet,status", data=json.dumps(upd).encode(), method="PUT",
+    headers={**auth, "Content-Type": "application/json; charset=UTF-8"}))
+print("updated:", res["id"], "|", res["snippet"]["title"], "|", res["status"]["privacyStatus"], "|", res["status"].get("publishAt"))
+print(res["snippet"]["description"][:200].replace("\n", " / "))

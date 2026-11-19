@@ -1,0 +1,21 @@
+{
+ "file": "polyphemus__wounded__a.png",
+ "source": "../gen/polyphemus__wounded__a1.png",
+ "width": 620,
+ "height": 1016,
+ "feet": {
+  "x": 283,
+  "y": 1007
+ },
+ "height_px_at_1080": 1016,
+ "src_bbox": [
+  165,
+  9,
+  768,
+  1008
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

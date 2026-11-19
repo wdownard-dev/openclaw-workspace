@@ -1,0 +1,21 @@
+{
+ "file": "cyc2__smith_hammer__a.png",
+ "source": "../gen/cyc2__smith_hammer__a1.png",
+ "width": 677,
+ "height": 1008,
+ "feet": {
+  "x": 360,
+  "y": 999
+ },
+ "height_px_at_1080": 1008,
+ "src_bbox": [
+  156,
+  12,
+  816,
+  1003
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

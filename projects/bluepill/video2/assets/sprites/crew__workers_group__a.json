@@ -1,0 +1,11 @@
+{
+ "file": "crew__workers_group__a.png",
+ "source": "code: groups.js from crew__lookup__a, crew__point__a",
+ "width": 906,
+ "height": 304,
+ "feet": {
+  "x": 453,
+  "y": 295
+ },
+ "height_px_at_1080": 304
+}

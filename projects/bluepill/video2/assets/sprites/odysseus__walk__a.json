@@ -1,0 +1,21 @@
+{
+ "file": "odysseus__walk__a.png",
+ "source": "../gen/odysseus__walk__a1.png",
+ "width": 594,
+ "height": 1010,
+ "feet": {
+  "x": 456,
+  "y": 1001
+ },
+ "height_px_at_1080": 1010,
+ "src_bbox": [
+  190,
+  11,
+  767,
+  1004
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

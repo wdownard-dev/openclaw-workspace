@@ -1,0 +1,21 @@
+{
+ "file": "thucydides__neutral__a.png",
+ "source": "../masters/thucydides_master_white.png",
+ "width": 408,
+ "height": 1029,
+ "feet": {
+  "x": 97,
+  "y": 1020
+ },
+ "height_px_at_1080": 1029,
+ "src_bbox": [
+  286,
+  7,
+  677,
+  1019
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

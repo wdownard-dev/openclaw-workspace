@@ -1,0 +1,21 @@
+{
+ "file": "odysseus__talk__a.png",
+ "source": "../gen/odysseus__talk__a1.png",
+ "width": 544,
+ "height": 1014,
+ "feet": {
+  "x": 67,
+  "y": 1005
+ },
+ "height_px_at_1080": 1014,
+ "src_bbox": [
+  293,
+  13,
+  820,
+  1010
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

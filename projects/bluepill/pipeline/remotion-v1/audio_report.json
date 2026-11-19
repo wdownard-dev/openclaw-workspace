@@ -1,0 +1,26 @@
+{
+ "mix": {
+  "lufs": -16.15,
+  "lra": 1.8,
+  "tp": -1.06
+ },
+ "voice": {
+  "lufs": -16.15,
+  "lra": 1.8,
+  "tp": -1.17
+ },
+ "stings": {
+  "lufs": -25.13,
+  "lra": 7.9,
+  "tp": -13.12
+ },
+ "music_ducked": {
+  "lufs": -35.22,
+  "lra": 6,
+  "tp": -21.3
+ },
+ "voice_gain_db": 10.35,
+ "music_bed_gain_db": -11.65,
+ "sting_gain_db": 1.05,
+ "target": -16
+}

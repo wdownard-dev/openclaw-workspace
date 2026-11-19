@@ -1,0 +1,452 @@
+{
+ "files": {
+  "wav": "narration_voice_only.wav",
+  "mp3": "narration_voice_only.mp3",
+  "comparison_wav": "narration_voice_only_untightened.wav (same passages, model gaps untouched)"
+ },
+ "runtime": {
+  "file_seconds": 642.56,
+  "file_mmss": "10:43",
+  "first_word_s": 0.4,
+  "last_word_s": 640.86,
+  "speech_seconds": 640.46,
+  "speech_mmss": "10:40",
+  "untightened_file_seconds": 720.11,
+  "untightened_mmss": "12:00",
+  "target": "about 10:20-10:40",
+  "script_estimate": "10:49 at 155 wpm raw"
+ },
+ "words": {
+  "script_words": 1604,
+  "added_by_A2_attribution": 63,
+  "spoken_words": 1667
+ },
+ "wpm": {
+  "overall_script_words_over_speech_span": 150,
+  "overall_all_spoken_words": 156,
+  "narrator_speech_only_measure2": 155,
+  "whole_measure2": 151,
+  "per_passage": [
+   {
+    "passage": "P01",
+    "label": "cold open",
+    "beats": "1-5",
+    "start": 0.4,
+    "end": 32.24,
+    "script_words": 86,
+    "spoken_words": 86,
+    "seconds": 31.84,
+    "wpm_script_words": 162,
+    "wpm_all_spoken": 162,
+    "chars": 444
+   },
+   {
+    "passage": "P02",
+    "label": "act 1: arrival",
+    "beats": "6-13",
+    "start": 32.59,
+    "end": 74.12,
+    "script_words": 110,
+    "spoken_words": 115,
+    "seconds": 41.53,
+    "wpm_script_words": 159,
+    "wpm_all_spoken": 166,
+    "chars": 619
+   },
+   {
+    "passage": "P03",
+    "label": "act 1: the owner",
+    "beats": "14-21",
+    "start": 74.52,
+    "end": 108.04,
+    "script_words": 85,
+    "spoken_words": 90,
+    "seconds": 33.52,
+    "wpm_script_words": 152,
+    "wpm_all_spoken": 161,
+    "chars": 514
+   },
+   {
+    "passage": "P04",
+    "label": "act 1: the stake, the wine, Nobody",
+    "beats": "22-34",
+    "start": 108.39,
+    "end": 168.16,
+    "script_words": 150,
+    "spoken_words": 164,
+    "seconds": 59.77,
+    "wpm_script_words": 151,
+    "wpm_all_spoken": 165,
+    "chars": 891
+   },
+   {
+    "passage": "P05",
+    "label": "act 1: the eye",
+    "beats": "35-40",
+    "start": 168.51,
+    "end": 203.58,
+    "script_words": 82,
+    "spoken_words": 93,
+    "seconds": 35.07,
+    "wpm_script_words": 140,
+    "wpm_all_spoken": 159,
+    "chars": 535
+   },
+   {
+    "passage": "P06",
+    "label": "act 1: the sheep",
+    "beats": "41-48",
+    "start": 203.93,
+    "end": 247.41,
+    "script_words": 116,
+    "spoken_words": 120,
+    "seconds": 43.48,
+    "wpm_script_words": 160,
+    "wpm_all_spoken": 166,
+    "chars": 649
+   },
+   {
+    "passage": "P07",
+    "label": "act 1: departure",
+    "beats": "49-54",
+    "start": 247.81,
+    "end": 289.97,
+    "script_words": 106,
+    "spoken_words": 115,
+    "seconds": 42.16,
+    "wpm_script_words": 151,
+    "wpm_all_spoken": 164,
+    "chars": 622
+   },
+   {
+    "passage": "P08",
+    "label": "act 1 close and the turn",
+    "beats": "55-58",
+    "start": 290.32,
+    "end": 312.57,
+    "script_words": 62,
+    "spoken_words": 62,
+    "seconds": 22.25,
+    "wpm_script_words": 167,
+    "wpm_all_spoken": 167,
+    "chars": 338
+   },
+   {
+    "passage": "P09",
+    "label": "suspect 1 a: the dwarf elephant",
+    "beats": "60-67",
+    "start": 313.02,
+    "end": 358.16,
+    "script_words": 114,
+    "spoken_words": 117,
+    "seconds": 45.15,
+    "wpm_script_words": 152,
+    "wpm_all_spoken": 155,
+    "chars": 644
+   },
+   {
+    "passage": "P10",
+    "label": "suspect 1 b: nasal cavity, Mayor",
+    "beats": "68-73",
+    "start": 358.56,
+    "end": 402.06,
+    "script_words": 117,
+    "spoken_words": 117,
+    "seconds": 43.5,
+    "wpm_script_words": 161,
+    "wpm_all_spoken": 161,
+    "chars": 670
+   },
+   {
+    "passage": "P11",
+    "label": "suspect 1 c: Empedocles",
+    "beats": "74-80",
+    "start": 402.41,
+    "end": 425.24,
+    "script_words": 47,
+    "spoken_words": 50,
+    "seconds": 22.83,
+    "wpm_script_words": 124,
+    "wpm_all_spoken": 131,
+    "chars": 329
+   },
+   {
+    "passage": "P12",
+    "label": "suspect 2 a: the smiths",
+    "beats": "82-88",
+    "start": 425.69,
+    "end": 454.68,
+    "script_words": 65,
+    "spoken_words": 69,
+    "seconds": 28.99,
+    "wpm_script_words": 135,
+    "wpm_all_spoken": 143,
+    "chars": 409
+   },
+   {
+    "passage": "P13",
+    "label": "suspect 2 b: addresses",
+    "beats": "90-96",
+    "start": 455.03,
+    "end": 501.52,
+    "script_words": 111,
+    "spoken_words": 111,
+    "seconds": 46.5,
+    "wpm_script_words": 143,
+    "wpm_all_spoken": 143,
+    "chars": 633
+   },
+   {
+    "passage": "P14",
+    "label": "suspect 3: the walls",
+    "beats": "98-105",
+    "start": 501.97,
+    "end": 558.77,
+    "script_words": 141,
+    "spoken_words": 144,
+    "seconds": 56.8,
+    "wpm_script_words": 149,
+    "wpm_all_spoken": 152,
+    "chars": 828
+   },
+   {
+    "passage": "P15",
+    "label": "suspect 4: the folktale",
+    "beats": "107-113",
+    "start": 559.22,
+    "end": 599.96,
+    "script_words": 105,
+    "spoken_words": 107,
+    "seconds": 40.74,
+    "wpm_script_words": 155,
+    "wpm_all_spoken": 158,
+    "chars": 586
+   },
+   {
+    "passage": "P16",
+    "label": "verdict and tease",
+    "beats": "114-121",
+    "start": 600.31,
+    "end": 640.86,
+    "script_words": 107,
+    "spoken_words": 107,
+    "seconds": 40.55,
+    "wpm_script_words": 158,
+    "wpm_all_spoken": 158,
+    "chars": 587
+   }
+  ]
+ },
+ "loudness": {
+  "wav_I_LRA_TP": [
+   -19.0,
+   1.5,
+   -1.5
+  ],
+  "mp3_I_LRA_TP": [
+   -19.2,
+   1.5,
+   -1.7
+  ],
+  "loudnorm_input": {
+   "input_i": "-19.05",
+   "input_tp": "0.18",
+   "input_lra": "1.60",
+   "input_thresh": "-29.35",
+   "output_i": "-19.02",
+   "output_tp": "-1.50",
+   "output_lra": "1.50",
+   "output_thresh": "-29.32",
+   "normalization_type": "dynamic",
+   "target_offset": "0.02"
+  },
+  "target": "-19 LUFS integrated, TP <= -1 dBFS",
+  "per_passage_gain_db": [
+   {
+    "p": "P01",
+    "before": -23.0,
+    "gain": 4.0
+   },
+   {
+    "p": "P02",
+    "before": -23.3,
+    "gain": 4.3
+   },
+   {
+    "p": "P03",
+    "before": -22.7,
+    "gain": 3.7
+   },
+   {
+    "p": "P04",
+    "before": -23.0,
+    "gain": 4.0
+   },
+   {
+    "p": "P05",
+    "before": -22.9,
+    "gain": 3.9
+   },
+   {
+    "p": "P06",
+    "before": -23.1,
+    "gain": 4.1
+   },
+   {
+    "p": "P07",
+    "before": -23.0,
+    "gain": 4.0
+   },
+   {
+    "p": "P08",
+    "before": -22.2,
+    "gain": 3.2
+   },
+   {
+    "p": "P09",
+    "before": -23.1,
+    "gain": 4.1
+   },
+   {
+    "p": "P10",
+    "before": -23.6,
+    "gain": 4.6
+   },
+   {
+    "p": "P11",
+    "before": -23.0,
+    "gain": 4.0
+   },
+   {
+    "p": "P12",
+    "before": -22.7,
+    "gain": 3.7
+   },
+   {
+    "p": "P13",
+    "before": -22.9,
+    "gain": 3.9
+   },
+   {
+    "p": "P14",
+    "before": -23.0,
+    "gain": 4.0
+   },
+   {
+    "p": "P15",
+    "before": -23.0,
+    "gain": 4.0
+   },
+   {
+    "p": "P16",
+    "before": -22.9,
+    "gain": 3.9
+   }
+  ]
+ },
+ "silence": {
+  "longest_gap_between_words_s": 0.78,
+  "at_s": 488.08,
+  "between": "beat 95 -> 95",
+  "longest_rms_silence_below_minus45dBFS_s": 0.8,
+  "gaps_ge_0_3_per_min": 20.2,
+  "gaps_ge_0_6_count": 8,
+  "gaps_ge_0_6_per_min": 0.7,
+  "gaps_ge_0_9_count": 0,
+  "beat_gap_edits_made": 326
+ },
+ "joins": {
+  "detector": "same as round 3 asm.artefact_stats: adjacent 5 ms RMS frames >35 dB apart with the louder above -45 dBFS; click = step >8x median speech step",
+  "tight": {
+   "abrupt_events": 0,
+   "click_events": 0,
+   "abrupt_per_min": 0.0,
+   "quietest_100ms_db": -64.2
+  },
+  "untightened": {
+   "abrupt_events": 0,
+   "click_events": 0,
+   "abrupt_per_min": 0.0,
+   "quietest_100ms_db": -64.3
+  },
+  "passage_joins": 15,
+  "crossfades": "20 ms equal-power where silence was cut out of a gap; passage joins sit in room-tone gaps with 15 ms fade-in / 25 ms fade-out"
+ },
+ "pitch_and_timbre": {
+  "whole": {
+   "f0_mean_hz": 133,
+   "f0_median_hz": 136,
+   "f0_spread_st": 3.64,
+   "wpm": 151,
+   "lufs": -19.0,
+   "centroid_hz": 573,
+   "hf4k_pct": 3.7,
+   "seconds": 640.9
+  },
+  "per_role": {
+   "NARR": {
+    "f0_mean_hz": 134,
+    "f0_median_hz": 137,
+    "f0_spread_st": 3.59,
+    "wpm": 155,
+    "lufs": -18.9,
+    "centroid_hz": 572,
+    "hf4k_pct": 3.71,
+    "seconds": 499.7,
+    "lines": 77
+   },
+   "ODY": {
+    "f0_mean_hz": 135,
+    "f0_median_hz": 138,
+    "f0_spread_st": 3.88,
+    "wpm": 160,
+    "lufs": -18.9,
+    "centroid_hz": 568,
+    "hf4k_pct": 3.55,
+    "seconds": 45.9,
+    "lines": 14
+   },
+   "POLY": {
+    "f0_mean_hz": 135,
+    "f0_median_hz": 137,
+    "f0_spread_st": 3.59,
+    "wpm": 156,
+    "lufs": -18.9,
+    "centroid_hz": 531,
+    "hf4k_pct": 3.1,
+    "seconds": 54.2,
+    "lines": 10
+   },
+   "CREW": {
+    "f0_mean_hz": 145,
+    "f0_median_hz": 150,
+    "f0_spread_st": 3.86,
+    "wpm": 147,
+    "lufs": -19.3,
+    "centroid_hz": 546,
+    "hf4k_pct": 3.11,
+    "seconds": 14.4,
+    "lines": 8
+   },
+   "CYC2": {
+    "f0_mean_hz": 137,
+    "f0_median_hz": 143,
+    "f0_spread_st": 4.45,
+    "wpm": 166,
+    "lufs": -18.8,
+    "centroid_hz": 697,
+    "hf4k_pct": 4.99,
+    "seconds": 10.8,
+    "lines": 3
+   }
+  },
+  "daniel_control": {
+   "note": "Daniel D4 control (voices2 AUDITION2): 149 wpm, F0 mean 137 Hz, spread 3.77 st, LRA 1.6 LU, centroid 590 Hz; round-3 A2 narrator: 150 wpm, 133/136 Hz, 3.76 st, 577 Hz"
+  }
+ },
+ "calls": {
+  "calls": 21,
+  "retakes": 5,
+  "characters_sent": 12420
+ }
+}

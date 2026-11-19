@@ -1,0 +1,21 @@
+{
+ "file": "prop__bag__a.png",
+ "source": "../gen/prop__bag__a1.png",
+ "width": 817,
+ "height": 872,
+ "feet": {
+  "x": 398,
+  "y": 863
+ },
+ "height_px_at_1080": 872,
+ "src_bbox": [
+  339,
+  6,
+  1139,
+  861
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

@@ -1,0 +1,130 @@
+{
+ "video_id": "M-y9VPXdzAw",
+ "title": "EVERGLADES CITY OUTLAWS",
+ "duration_s": 1559.27,
+ "visual": {
+  "shots": 464,
+  "cuts_per_min": 17.9,
+  "pops_per_min": 151.6,
+  "visible_changes_per_min": 192.6,
+  "shot_p10_s": 0.5,
+  "shot_median_s": 1.35,
+  "shot_p90_s": 8.86,
+  "shot_max_s": 30.4,
+  "white_dominant_pct_gt60": 3.0,
+  "white_dominant_pct_gt40": 3.9,
+  "mean_luminance": 106.0,
+  "text_edge_density_mean_E": 0.0041,
+  "text_heavy_frames_pct_E": 1.7,
+  "palette": [
+   {
+    "hex": "#453d29",
+    "share_pct": 23.6
+   },
+   {
+    "hex": "#0c0b07",
+    "share_pct": 19.6
+   },
+   {
+    "hex": "#767572",
+    "share_pct": 18.9
+   },
+   {
+    "hex": "#afaa9f",
+    "share_pct": 18.3
+   },
+   {
+    "hex": "#e9ebe8",
+    "share_pct": 10.2
+   },
+   {
+    "hex": "#856c3b",
+    "share_pct": 9.3
+   }
+  ]
+ },
+ "text": {
+  "sentence_split": "punctuation",
+  "words": 3912,
+  "wpm": 150.5,
+  "wpm_speaking_span": 152.6,
+  "sentences": 252,
+  "sentences_per_min": 9.7,
+  "words_per_sentence_mean": 15.5,
+  "words_per_sentence_median": 13.0,
+  "pct_sentences_le6w": 21.4,
+  "questions_per_min": 0.46
+ },
+ "hook": {
+  "shots": [
+   {
+    "start": 0.0,
+    "len": 11.67
+   },
+   {
+    "start": 11.67,
+    "len": 7.2
+   },
+   {
+    "start": 18.87,
+    "len": 3.36
+   },
+   {
+    "start": 22.23,
+    "len": 6.54
+   },
+   {
+    "start": 28.77,
+    "len": 2.1
+   }
+  ],
+  "words": "He got caught on a small boat with some stuff on it. Was he framed? Not on that one. I've been a bad boy ALL MY LIFE. >> [laughter] >> COULD THEIR FISHERMEN'S SALARIES SUPPORT THEIR LIFESTYLE? I don't believe so. This town is nice. It is nice. And if there is any drug traffic here, all I can say is it's helped this place."
+ },
+ "chapters": [
+  {
+   "start_time": 0,
+   "title": "The drug bust",
+   "end_time": 21
+  },
+  {
+   "start_time": 21,
+   "title": "Everglades City lifestyle",
+   "end_time": 231
+  },
+  {
+   "start_time": 231,
+   "title": "Key figures in trafficking",
+   "end_time": 397
+  },
+  {
+   "start_time": 397,
+   "title": "History of outlaw culture",
+   "end_time": 473
+  },
+  {
+   "start_time": 473,
+   "title": "The fish company connection",
+   "end_time": 559
+  },
+  {
+   "start_time": 559,
+   "title": "Economic impact and denial",
+   "end_time": 741
+  },
+  {
+   "start_time": 741,
+   "title": "Ongoing law enforcement",
+   "end_time": 917
+  },
+  {
+   "start_time": 917,
+   "title": "Fishing rights conflict",
+   "end_time": 1294
+  },
+  {
+   "start_time": 1294,
+   "title": "Town history and development",
+   "end_time": 1559
+  }
+ ]
+}

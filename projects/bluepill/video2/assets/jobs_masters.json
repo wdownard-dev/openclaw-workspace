@@ -1,0 +1,25 @@
+[
+ {
+  "id": "cyc2__neutral__a1",
+  "out": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/gen/cyc2__neutral__a1.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/prompts/cyc2__neutral__a1.txt",
+  "refs": [
+   "/home/williamdownard/.openclaw/workspace/projects/bluepill/tests/stress_test/refs/cy_v4_flat.png"
+  ],
+  "size": "1024x1024"
+ },
+ {
+  "id": "empedocles__neutral__a1",
+  "out": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/gen/empedocles__neutral__a1.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/prompts/empedocles__neutral__a1.txt",
+  "refs": [],
+  "size": "1024x1024"
+ },
+ {
+  "id": "thucydides__neutral__a1",
+  "out": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/gen/thucydides__neutral__a1.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/prompts/thucydides__neutral__a1.txt",
+  "refs": [],
+  "size": "1024x1024"
+ }
+]

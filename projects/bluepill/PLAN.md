@@ -36,6 +36,10 @@ Own character and style only. Do not copy either channel's art. Preferred visual
 
 **Image provider (William, 2026-11-11):** OpenAI account available. Key to be added by William via `openclaw models auth paste-api-key --provider openai` (or Control UI). Then run the 20-image background test with gpt-image-2.
 
+**Characters (William, 2026-11-12):** no host or recurring on-screen narrator. The voice-over narrates and the characters ARE the story: myth figures, heroes, gods and monsters drawn in the round-white-head minimal style (concepts 01/02 in tests/characters/, restyle tests in tests/characters2/). The code-drawn "Pip" was a process test only and is dropped. Image-model reference edits keep a character identical across scenes. Next: cast line-up (hero, god, monster) plus a two-character scene test, then the base set of expressions and poses.
+
+**Channel (William, 2026-11-12): The Myth Ledger.** Created on a new separate Google account (kept apart from wrdclipz because wrdclipz carries copyright-strike risk). Handle @TheMythLedgerOfficial (the plain @TheMythLedger was refused by YouTube though the API showed it free), channel id UCNSflpCKmwHr4bLpNTCbBqQ, created 2026-11-12 15:55 UTC, public, 0 videos [V via API]. Phone verification done 2026-11-12 using William's wife's number (William's own number had used both of its two yearly slots); Studio shows Standard and Intermediate features enabled (videos over 15 min, custom thumbnails, live), Advanced features eligible but not enabled [V screenshot]. Brand assets made 2026-11-12 in brand/: avatar_800.png (laurel hero on navy), banner_2560x1440.jpg (library hall, title and tagline in the mobile-safe zone, four cast members on the desktop edges), script pipeline/brand.js; cost about 0.15 USD. Banner and avatar not yet uploaded by William. Still to do: check and claim the same handle on TikTok and Instagram, channel description and tagline (drafted, awaiting William), avatar, upload OAuth for the new account (find out why the current login lapses first), no banner art spend until video 3. Name options and checks: NAME-OPTIONS.md. Process review: REVIEW-2026-11-12.md.
+
 ## 4. Pipeline (one MCP tool per stage)
 
 1. **Channel bible:** style rules, palette hex codes, character sheets, voice, hook and title rules (JSON/MD in this folder).
@@ -82,9 +86,9 @@ Own character and style only. Do not copy either channel's art. Preferred visual
 ## 8. Open questions for William
 
 1. **Niche and topic lane. DECIDED (William, 2026-11-11): mythology, framed as "who was" / "all about" explainers.** Open to widening later to historical figures, historical events and fictional characters. Guardrails (my proposal, awaiting William): stay with public-domain subjects (myth, folklore, history, pre-1930 literature) and avoid modern franchise IP (Content ID, trademark risk); cite the source tradition per claim (Homer, Hesiod, Ovid and so on) since myths have several versions; keep violence stylised for ad suitability; avoid living or recent real people. Outlier check (projects/bluepill/OUTLIER-CHECK.md, rounds 1-2) says: lead with "Every ___ Explained" catalogues and "myths that turned out to be true"; Egyptian, Mesopotamian, Japanese and Norse are the least saturated mythologies, Greek is the most crowded; single-subject "who was" videos underperform. Series formats: (A) "Who Was ___" single-subject deep dive, (B) myth-vs-reality countdown lists (the Paint Explainer pattern), (C) "What really happened at ___" event explainers. Start with B and A. The GTA 6 lore idea is parked, possibly for the separate gaming channel.
-2. **Channel identity.** Name, handle, character concept (does the narrator have a name and personality?).
+2. **Channel identity. DECIDED (William, 2026-11-12): The Myth Ledger, @TheMythLedgerOfficial.** No host character; the voice narrates and the characters are the story.
 3. **Budget ceiling** for setup and the first month.
-4. **Voice.** Stock ElevenLabs voice, a custom designed voice, or William's cloned voice (Pro plan features need pricing).
+4. **Voice. DECIDED (William, 2026-11-12): ElevenLabs stock voice George (British storyteller), Creator plan subscribed.**
 5. **Human involvement.** How much review does William want per video, and who approves publish?
 6. **Separate Google/YouTube account** for the channel (needs William to create, login and approve).
 

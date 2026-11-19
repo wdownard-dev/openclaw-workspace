@@ -1,0 +1,1237 @@
+{
+ "total_sec": 619.1,
+ "narration_start": 0.4,
+ "narration_end": 617.501,
+ "words": 1585,
+ "speech_span_wpm": 154.1,
+ "wpm_all_in": 153.6,
+ "final_lufs": -22.02,
+ "final_true_peak_db": -0.99,
+ "final_lra": 2.2,
+ "voice_only_lufs": -21.99,
+ "voice_only_true_peak_db": -0.99,
+ "voice_only_lra": 2.2,
+ "stings_track_lufs_whole": -29.12,
+ "stings": {
+  "2": {
+   "file": "sting_ch2_poem.wav",
+   "start": 39.67,
+   "end": 41.67,
+   "card_end": 41.67
+  },
+  "3": {
+   "file": "sting_ch3_skull.wav",
+   "start": 239.022,
+   "end": 241.022,
+   "card_end": 241.022
+  },
+  "4": {
+   "file": "sting_ch4_cyclopes.wav",
+   "start": 374.354,
+   "end": 376.354,
+   "card_end": 376.354
+  },
+  "5": {
+   "file": "sting_ch5_limits.wav",
+   "start": 512.03,
+   "end": 514.03,
+   "card_end": 514.03
+  },
+  "6": {
+   "file": "sting_ch6_verdict.wav",
+   "start": 578.442,
+   "end": 580.442,
+   "card_end": 580.442
+  }
+ },
+ "longest_silences_voice_only_excluding_card_pauses": [
+  [
+   617.17059,
+   1.83059
+  ],
+  [
+   191.836825,
+   1.557823
+  ],
+  [
+   21.280907,
+   1.107551
+  ],
+  [
+   331.482653,
+   1.078095
+  ],
+  [
+   293.827211,
+   1.077098
+  ],
+  [
+   485.604762,
+   0.959342
+  ]
+ ],
+ "card_pause_silences_voice_only": [
+  [
+   38.905578,
+   2.806871
+  ],
+  [
+   238.613288,
+   2.473855
+  ],
+  [
+   374.353923,
+   2.044286
+  ],
+  [
+   512.029977,
+   2.029093
+  ],
+  [
+   578.442132,
+   2.007392
+  ]
+ ],
+ "per_chunk": [
+  {
+   "chunk": 0,
+   "chapter": 0,
+   "words": 58,
+   "chars": 310,
+   "dur": 21.55,
+   "wpm": 161,
+   "lufs_raw": -23.3,
+   "gain_db": 1.3,
+   "peak_db_after": -4.4,
+   "lra": 2.2,
+   "onset_audio": 0.02,
+   "onset_align": 0.0,
+   "start": 0.4,
+   "end": 21.95
+  },
+  {
+   "chunk": 1,
+   "chapter": 1,
+   "words": 46,
+   "chars": 246,
+   "dur": 17.32,
+   "wpm": 159,
+   "lufs_raw": -22.7,
+   "gain_db": 0.7,
+   "peak_db_after": -4.8,
+   "lra": 2.0,
+   "onset_audio": 0.04,
+   "onset_align": 0.0,
+   "start": 22.35,
+   "end": 39.67
+  },
+  {
+   "chunk": 2,
+   "chapter": 2,
+   "words": 181,
+   "chars": 961,
+   "dur": 68.36,
+   "wpm": 159,
+   "lufs_raw": -23.3,
+   "gain_db": 1.3,
+   "peak_db_after": -2.8,
+   "lra": 1.8,
+   "onset_audio": 0.04,
+   "onset_align": 0.0,
+   "start": 41.67,
+   "end": 110.03
+  },
+  {
+   "chunk": 3,
+   "chapter": 2,
+   "words": 95,
+   "chars": 485,
+   "dur": 34.74,
+   "wpm": 164,
+   "lufs_raw": -23.4,
+   "gain_db": 1.4,
+   "peak_db_after": -3.9,
+   "lra": 3.0,
+   "onset_audio": 0.06,
+   "onset_align": 0.0,
+   "start": 110.38,
+   "end": 145.12
+  },
+  {
+   "chunk": 4,
+   "chapter": 2,
+   "words": 121,
+   "chars": 655,
+   "dur": 47.51,
+   "wpm": 153,
+   "lufs_raw": -22.9,
+   "gain_db": 0.9,
+   "peak_db_after": -1.0,
+   "lra": 2.2,
+   "onset_audio": 0.0,
+   "onset_align": 0.0,
+   "start": 145.47,
+   "end": 192.97
+  },
+  {
+   "chunk": 5,
+   "chapter": 2,
+   "words": 122,
+   "chars": 682,
+   "dur": 45.7,
+   "wpm": 160,
+   "lufs_raw": -23.7,
+   "gain_db": 1.7,
+   "peak_db_after": -2.0,
+   "lra": 1.7,
+   "onset_audio": 0.06,
+   "onset_align": 0.0,
+   "start": 193.32,
+   "end": 239.02
+  },
+  {
+   "chunk": 6,
+   "chapter": 3,
+   "words": 137,
+   "chars": 793,
+   "dur": 53.45,
+   "wpm": 154,
+   "lufs_raw": -23.7,
+   "gain_db": 1.7,
+   "peak_db_after": -2.5,
+   "lra": 2.2,
+   "onset_audio": 0.06,
+   "onset_align": 0.0,
+   "start": 241.02,
+   "end": 294.47
+  },
+  {
+   "chunk": 7,
+   "chapter": 3,
+   "words": 99,
+   "chars": 573,
+   "dur": 37.34,
+   "wpm": 159,
+   "lufs_raw": -23.5,
+   "gain_db": 1.5,
+   "peak_db_after": -1.6,
+   "lra": 1.5,
+   "onset_audio": 0.08,
+   "onset_align": 0.0,
+   "start": 294.82,
+   "end": 332.16
+  },
+  {
+   "chunk": 8,
+   "chapter": 3,
+   "words": 109,
+   "chars": 672,
+   "dur": 41.84,
+   "wpm": 156,
+   "lufs_raw": -23.8,
+   "gain_db": 1.8,
+   "peak_db_after": -2.9,
+   "lra": 1.9,
+   "onset_audio": 0.04,
+   "onset_align": 0.0,
+   "start": 332.51,
+   "end": 374.35
+  },
+  {
+   "chunk": 9,
+   "chapter": 4,
+   "words": 205,
+   "chars": 1242,
+   "dur": 79.92,
+   "wpm": 154,
+   "lufs_raw": -23.6,
+   "gain_db": 1.6,
+   "peak_db_after": -2.2,
+   "lra": 1.6,
+   "onset_audio": 0.04,
+   "onset_align": 0.0,
+   "start": 376.35,
+   "end": 456.28
+  },
+  {
+   "chunk": 10,
+   "chapter": 4,
+   "words": 145,
+   "chars": 828,
+   "dur": 55.4,
+   "wpm": 157,
+   "lufs_raw": -23.7,
+   "gain_db": 1.7,
+   "peak_db_after": -2.4,
+   "lra": 2.3,
+   "onset_audio": 0.11,
+   "onset_align": 0.0,
+   "start": 456.63,
+   "end": 512.03
+  },
+  {
+   "chunk": 11,
+   "chapter": 5,
+   "words": 169,
+   "chars": 973,
+   "dur": 64.41,
+   "wpm": 157,
+   "lufs_raw": -23.5,
+   "gain_db": 1.5,
+   "peak_db_after": -1.7,
+   "lra": 1.9,
+   "onset_audio": 0.02,
+   "onset_align": 0.0,
+   "start": 514.03,
+   "end": 578.44
+  },
+  {
+   "chunk": 12,
+   "chapter": 6,
+   "words": 98,
+   "chars": 562,
+   "dur": 37.06,
+   "wpm": 159,
+   "lufs_raw": -23.8,
+   "gain_db": 1.7,
+   "peak_db_after": -1.0,
+   "lra": 2.0,
+   "onset_audio": 0.0,
+   "onset_align": 0.0,
+   "start": 580.44,
+   "end": 617.5
+  }
+ ],
+ "median_raw_lufs": -23.5,
+ "longest_silences_voice_only_all": [
+  [
+   38.905578,
+   2.806871
+  ],
+  [
+   238.613288,
+   2.473855
+  ],
+  [
+   374.353923,
+   2.044286
+  ],
+  [
+   512.029977,
+   2.029093
+  ],
+  [
+   578.442132,
+   2.007392
+  ],
+  [
+   617.17059,
+   1.83059
+  ],
+  [
+   191.836825,
+   1.557823
+  ],
+  [
+   21.280907,
+   1.107551
+  ]
+ ],
+ "longest_within_chunk_gaps": [
+  [
+   0.82,
+   "them.",
+   "Archaeologists",
+   485.71
+  ],
+  [
+   0.78,
+   "water.",
+   "That",
+   174.806
+  ],
+  [
+   0.71,
+   "not.",
+   "Visit",
+   460.331
+  ],
+  [
+   0.7,
+   "trunk.",
+   "Abel",
+   280.054
+  ],
+  [
+   0.7,
+   "it?",
+   "In",
+   244.621
+  ],
+  [
+   0.67,
+   "waits.",
+   "Across",
+   100.986
+  ]
+ ],
+ "seconds_per_syllable_avg": 0.254,
+ "risky": [
+  {
+   "kind": "name",
+   "word": "Odysseus",
+   "spoken": "Odysseus",
+   "t": 44.932,
+   "dur": 0.52,
+   "rel_per_syllable": 0.69,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Cyclopes,",
+   "spoken": "Cyclopes,",
+   "t": 50.447,
+   "dur": 0.94,
+   "rel_per_syllable": 1.24,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Odysseus",
+   "spoken": "Odysseus",
+   "t": 57.948,
+   "dur": 0.62,
+   "rel_per_syllable": 0.81,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Odysseus",
+   "spoken": "Odysseus",
+   "t": 67.096,
+   "dur": 0.58,
+   "rel_per_syllable": 0.76,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Polyphemus.",
+   "spoken": "Pollifeemus.",
+   "t": 72.751,
+   "dur": 1.02,
+   "rel_per_syllable": 1.01,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Odysseus",
+   "spoken": "Odysseus",
+   "t": 92.313,
+   "dur": 0.58,
+   "rel_per_syllable": 0.76,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Polyphemus",
+   "spoken": "Pollifeemus",
+   "t": 103.169,
+   "dur": 0.73,
+   "rel_per_syllable": 0.72,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Polyphemus",
+   "spoken": "Pollifeemus",
+   "t": 121.711,
+   "dur": 0.67,
+   "rel_per_syllable": 0.66,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Odysseus",
+   "spoken": "Odysseus",
+   "t": 135.504,
+   "dur": 0.59,
+   "rel_per_syllable": 0.78,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Polyphemus",
+   "spoken": "Pollifeemus",
+   "t": 139.313,
+   "dur": 0.67,
+   "rel_per_syllable": 0.66,
+   "respelled": true
+  },
+  {
+   "kind": "hedge",
+   "word": "presumably",
+   "t": 159.19,
+   "dur": 0.58,
+   "rel_per_syllable": 0.57,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Cyclopes",
+   "spoken": "Cyclopes",
+   "t": 178.091,
+   "dur": 0.72,
+   "rel_per_syllable": 0.95,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Polyphemus",
+   "spoken": "Pollifeemus",
+   "t": 182.341,
+   "dur": 0.72,
+   "rel_per_syllable": 0.71,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Poseidon,",
+   "spoken": "Poseidon,",
+   "t": 189.887,
+   "dur": 0.77,
+   "rel_per_syllable": 1.01,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Odysseus",
+   "spoken": "Odysseus",
+   "t": 195.775,
+   "dur": 0.52,
+   "rel_per_syllable": 0.69,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Polyphemus",
+   "spoken": "Pollifeemus",
+   "t": 208.999,
+   "dur": 0.58,
+   "rel_per_syllable": 0.57,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Odysseus,",
+   "spoken": "Odysseus,",
+   "t": 213.875,
+   "dur": 0.67,
+   "rel_per_syllable": 0.88,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Polyphemus",
+   "spoken": "Pollifeemus",
+   "t": 221.863,
+   "dur": 0.59,
+   "rel_per_syllable": 0.58,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Odysseus",
+   "spoken": "Odysseus",
+   "t": 224.51,
+   "dur": 0.48,
+   "rel_per_syllable": 0.63,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Poseidon",
+   "spoken": "Poseidon",
+   "t": 230.64,
+   "dur": 0.53,
+   "rel_per_syllable": 0.7,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Odysseus",
+   "spoken": "Odysseus",
+   "t": 231.499,
+   "dur": 0.47,
+   "rel_per_syllable": 0.61,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Poseidon",
+   "spoken": "Poseidon",
+   "t": 233.833,
+   "dur": 0.49,
+   "rel_per_syllable": 0.64,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Odysseus",
+   "spoken": "Odysseus",
+   "t": 237.56,
+   "dur": 0.46,
+   "rel_per_syllable": 0.61,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Othenio",
+   "spoken": "Oh-TAY-nee-oh",
+   "t": 247.628,
+   "dur": 1.02,
+   "rel_per_syllable": 1.01,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Abel",
+   "spoken": "AH-bel",
+   "t": 248.719,
+   "dur": 0.67,
+   "rel_per_syllable": 1.33,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Abel",
+   "spoken": "AH-bel",
+   "t": 280.751,
+   "dur": 0.73,
+   "rel_per_syllable": 1.44,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Mayor,",
+   "spoken": "Mayor,",
+   "t": 297.03,
+   "dur": 0.53,
+   "rel_per_syllable": 2.1,
+   "respelled": false
+  },
+  {
+   "kind": "hedge",
+   "word": "argues",
+   "t": 302.963,
+   "dur": 0.41,
+   "rel_per_syllable": 0.8,
+   "respelled": false
+  },
+  {
+   "kind": "hedge",
+   "word": "may",
+   "t": 312.692,
+   "dur": 0.17,
+   "rel_per_syllable": 0.69,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Mayor",
+   "spoken": "Mayor",
+   "t": 316.755,
+   "dur": 0.28,
+   "rel_per_syllable": 1.1,
+   "respelled": false
+  },
+  {
+   "kind": "hedge",
+   "word": "careful.",
+   "t": 317.707,
+   "dur": 0.65,
+   "rel_per_syllable": 0.85,
+   "respelled": false
+  },
+  {
+   "kind": "hedge",
+   "word": "Perhaps",
+   "t": 327.808,
+   "dur": 0.35,
+   "rel_per_syllable": 0.69,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Abel",
+   "spoken": "Ah-bel",
+   "t": 336.041,
+   "dur": 0.43,
+   "rel_per_syllable": 0.85,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Empedocles",
+   "spoken": "Em-peddokleez",
+   "t": 337.841,
+   "dur": 0.88,
+   "rel_per_syllable": 0.87,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Witton",
+   "spoken": "Witton",
+   "t": 347.28,
+   "dur": 0.3,
+   "rel_per_syllable": 0.59,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Hing",
+   "spoken": "Hing",
+   "t": 348.186,
+   "dur": 0.25,
+   "rel_per_syllable": 1.0,
+   "respelled": false
+  },
+  {
+   "kind": "hedge",
+   "word": "bluntly:",
+   "t": 348.836,
+   "dur": 0.59,
+   "rel_per_syllable": 1.17,
+   "respelled": false
+  },
+  {
+   "kind": "hedge",
+   "word": "baseless.",
+   "t": 352.679,
+   "dur": 0.69,
+   "rel_per_syllable": 0.9,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Aguirre",
+   "spoken": "Ah-gheereh",
+   "t": 364.718,
+   "dur": 0.6,
+   "rel_per_syllable": 0.79,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Buxton",
+   "spoken": "Buxton",
+   "t": 366.053,
+   "dur": 0.45,
+   "rel_per_syllable": 0.89,
+   "respelled": false
+  },
+  {
+   "kind": "hedge",
+   "word": "plausible,",
+   "t": 369.617,
+   "dur": 0.51,
+   "rel_per_syllable": 0.67,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Hesiod,",
+   "spoken": "Hesiod,",
+   "t": 379.907,
+   "dur": 0.64,
+   "rel_per_syllable": 1.26,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Cyclopes:",
+   "spoken": "Cyclopes:",
+   "t": 383.366,
+   "dur": 0.82,
+   "rel_per_syllable": 1.08,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Brontes,",
+   "spoken": "Bron-teez,",
+   "t": 384.458,
+   "dur": 0.79,
+   "rel_per_syllable": 1.55,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Steropes,",
+   "spoken": "Stair-oh-peez,",
+   "t": 385.352,
+   "dur": 1.0,
+   "rel_per_syllable": 1.31,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Arges.",
+   "spoken": "Ar-geez.",
+   "t": 386.664,
+   "dur": 0.71,
+   "rel_per_syllable": 1.39,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Hesiod",
+   "spoken": "Hesiod",
+   "t": 392.399,
+   "dur": 0.42,
+   "rel_per_syllable": 0.82,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Burkert",
+   "spoken": "Boor-kert",
+   "t": 407.318,
+   "dur": 0.67,
+   "rel_per_syllable": 1.33,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Cyclopes",
+   "spoken": "Cyclopes",
+   "t": 409.199,
+   "dur": 0.53,
+   "rel_per_syllable": 0.7,
+   "respelled": false
+  },
+  {
+   "kind": "hedge",
+   "word": "may",
+   "t": 409.803,
+   "dur": 0.16,
+   "rel_per_syllable": 0.64,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Virgil",
+   "spoken": "Virgil",
+   "t": 414.598,
+   "dur": 0.38,
+   "rel_per_syllable": 0.75,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Brontes",
+   "spoken": "Bron-teez",
+   "t": 415.294,
+   "dur": 0.62,
+   "rel_per_syllable": 1.21,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Steropes",
+   "spoken": "Stair-oh-peez",
+   "t": 416.153,
+   "dur": 0.85,
+   "rel_per_syllable": 1.11,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Etna.",
+   "spoken": "Etna.",
+   "t": 418.127,
+   "dur": 0.53,
+   "rel_per_syllable": 1.05,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Cyclopes",
+   "spoken": "Cyclopes",
+   "t": 420.937,
+   "dur": 0.52,
+   "rel_per_syllable": 0.69,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Euripides",
+   "spoken": "Euripides",
+   "t": 423.05,
+   "dur": 0.58,
+   "rel_per_syllable": 0.57,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Polyphemus",
+   "spoken": "Pollifeemus",
+   "t": 425.349,
+   "dur": 0.63,
+   "rel_per_syllable": 0.62,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Etna.",
+   "spoken": "Etna.",
+   "t": 426.777,
+   "dur": 0.49,
+   "rel_per_syllable": 0.96,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Thucydides",
+   "spoken": "Thoo-sididdeez",
+   "t": 428.483,
+   "dur": 0.82,
+   "rel_per_syllable": 0.81,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Cyclopes",
+   "spoken": "Cyclopes",
+   "t": 430.086,
+   "dur": 0.6,
+   "rel_per_syllable": 0.79,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Aeolian",
+   "spoken": "Aeolian",
+   "t": 441.139,
+   "dur": 0.46,
+   "rel_per_syllable": 0.91,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Theocritus",
+   "spoken": "Thee-ockritus",
+   "t": 447.733,
+   "dur": 0.79,
+   "rel_per_syllable": 0.78,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Polyphemus",
+   "spoken": "Pollifeemus",
+   "t": 448.731,
+   "dur": 0.66,
+   "rel_per_syllable": 0.65,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Mycenae",
+   "spoken": "Mycenae",
+   "t": 461.434,
+   "dur": 0.53,
+   "rel_per_syllable": 0.7,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Tiryns,",
+   "spoken": "Tie-rinz,",
+   "t": 462.2,
+   "dur": 0.7,
+   "rel_per_syllable": 1.37,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Pausanias,",
+   "spoken": "Paw-sayneeus,",
+   "t": 469.874,
+   "dur": 1.03,
+   "rel_per_syllable": 1.36,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Tiryns",
+   "spoken": "Tie-rinz",
+   "t": 474.1,
+   "dur": 0.62,
+   "rel_per_syllable": 1.21,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Cyclopes,",
+   "spoken": "Cyclopes,",
+   "t": 475.726,
+   "dur": 0.87,
+   "rel_per_syllable": 1.14,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Cyclopes",
+   "spoken": "Cyclopes",
+   "t": 492.328,
+   "dur": 0.5,
+   "rel_per_syllable": 0.66,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Aci",
+   "spoken": "Ah-chee",
+   "t": 501.906,
+   "dur": 0.32,
+   "rel_per_syllable": 0.64,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Trezza",
+   "spoken": "Tret-sah",
+   "t": 502.289,
+   "dur": 0.59,
+   "rel_per_syllable": 1.17,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Odysseus.",
+   "spoken": "Odysseus.",
+   "t": 504.263,
+   "dur": 0.75,
+   "rel_per_syllable": 0.99,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Hesiod,",
+   "spoken": "Hesiod,",
+   "t": 524.177,
+   "dur": 0.63,
+   "rel_per_syllable": 1.23,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Euripides,",
+   "spoken": "Euripides,",
+   "t": 524.92,
+   "dur": 0.79,
+   "rel_per_syllable": 0.78,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Theocritus.",
+   "spoken": "Thee-ockritus.",
+   "t": 525.989,
+   "dur": 1.06,
+   "rel_per_syllable": 1.04,
+   "respelled": true
+  },
+  {
+   "kind": "hedge",
+   "word": "implies",
+   "t": 528.044,
+   "dur": 0.41,
+   "rel_per_syllable": 0.8,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "cyclopia,",
+   "spoken": "cyclopia,",
+   "t": 561.875,
+   "dur": 0.91,
+   "rel_per_syllable": 1.19,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Aguirre",
+   "spoken": "Ah-gheereh",
+   "t": 567.309,
+   "dur": 0.55,
+   "rel_per_syllable": 0.72,
+   "respelled": true
+  },
+  {
+   "kind": "name",
+   "word": "Buxton's",
+   "spoken": "Buxton's",
+   "t": 568.075,
+   "dur": 0.5,
+   "rel_per_syllable": 0.98,
+   "respelled": false
+  },
+  {
+   "kind": "hedge",
+   "word": "hypothesis.",
+   "t": 574.286,
+   "dur": 0.88,
+   "rel_per_syllable": 0.87,
+   "respelled": false
+  },
+  {
+   "kind": "hedge",
+   "word": "plausible",
+   "t": 575.738,
+   "dur": 0.45,
+   "rel_per_syllable": 0.59,
+   "respelled": false
+  },
+  {
+   "kind": "hedge",
+   "word": "unproven.",
+   "t": 577.073,
+   "dur": 1.37,
+   "rel_per_syllable": 1.8,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Hesiod's",
+   "spoken": "Hesiod's",
+   "t": 588.732,
+   "dur": 0.56,
+   "rel_per_syllable": 1.1,
+   "respelled": false
+  },
+  {
+   "kind": "hedge",
+   "word": "may",
+   "t": 597.102,
+   "dur": 0.12,
+   "rel_per_syllable": 0.46,
+   "respelled": false
+  },
+  {
+   "kind": "hedge",
+   "word": "suspect,",
+   "t": 599.076,
+   "dur": 0.7,
+   "rel_per_syllable": 1.37,
+   "respelled": false
+  },
+  {
+   "kind": "name",
+   "word": "Odysseus",
+   "spoken": "Odysseus",
+   "t": 601.398,
+   "dur": 0.54,
+   "rel_per_syllable": 0.72,
+   "respelled": false
+  }
+ ],
+ "inserted": {
+  "lead": 0.4,
+  "para_gap": 0.35,
+  "before_card": 0.0,
+  "card": 2.0,
+  "after_card": 0.0,
+  "tail_min": 1.5,
+  "note": "card window 2.0 s = whole pause; clip lead 0.05 s before first word, tail 0.12 s after last word"
+ },
+ "cards": {
+  "2": [
+   39.67,
+   41.67
+  ],
+  "3": [
+   239.02,
+   241.02
+  ],
+  "4": [
+   374.35,
+   376.35
+  ],
+  "5": [
+   512.03,
+   514.03
+  ],
+  "6": [
+   578.44,
+   580.44
+  ]
+ },
+ "chapter_starts": {
+  "Cold open": 0.0,
+  "Stakes": 22.35,
+  "1. The poem as Homer tells it": 39.67,
+  "2. The skull": 239.02,
+  "3. The other Cyclopes": 374.35,
+  "4. What we can and cannot say": 512.03,
+  "Verdict and next": 578.44
+ },
+ "card_checks": {
+  "2": {
+   "card_start": 39.67,
+   "card_end": 41.67,
+   "card_len": 2.0,
+   "first_word": "Homer",
+   "first_word_start": 41.67,
+   "voice_onset_audio": 41.710204081632654,
+   "onset_minus_expected": 0.04,
+   "sting_peak_db": -15.5,
+   "sting_lufs": null
+  },
+  "3": {
+   "card_start": 239.022,
+   "card_end": 241.022,
+   "card_len": 2.0,
+   "first_word": "So",
+   "first_word_start": 241.022,
+   "voice_onset_audio": 241.08170068027212,
+   "onset_minus_expected": 0.06,
+   "sting_peak_db": -14.6,
+   "sting_lufs": null
+  },
+  "4": {
+   "card_start": 374.354,
+   "card_end": 376.354,
+   "card_len": 2.0,
+   "first_word": "Meanwhile,",
+   "first_word_start": 376.354,
+   "voice_onset_audio": 376.3940589569161,
+   "onset_minus_expected": 0.04,
+   "sting_peak_db": -16.9,
+   "sting_lufs": null
+  },
+  "5": {
+   "card_start": 512.03,
+   "card_end": 514.03,
+   "card_len": 2.0,
+   "first_word": "So",
+   "first_word_start": 514.03,
+   "voice_onset_audio": 514.0499773242631,
+   "onset_minus_expected": 0.02,
+   "sting_peak_db": -14.2,
+   "sting_lufs": null
+  },
+  "6": {
+   "card_start": 578.442,
+   "card_end": 580.442,
+   "card_len": 2.0,
+   "first_word": "So,",
+   "first_word_start": 580.442,
+   "voice_onset_audio": 580.4421315192744,
+   "onset_minus_expected": 0.0,
+   "sting_peak_db": -16.1,
+   "sting_lufs": null
+  }
+ }
+}

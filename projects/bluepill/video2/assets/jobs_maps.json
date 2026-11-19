@@ -1,0 +1,30 @@
+[
+ {
+  "id": "map_med__a1",
+  "out": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/gen/map_med__a1.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/prompts/map_med__a1.txt",
+  "refs": [],
+  "size": "1536x864"
+ },
+ {
+  "id": "map_sicily__a1",
+  "out": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/gen/map_sicily__a1.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/prompts/map_sicily__a1.txt",
+  "refs": [],
+  "size": "1536x864"
+ },
+ {
+  "id": "map_world__a1",
+  "out": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/gen/map_world__a1.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/prompts/map_world__a1.txt",
+  "refs": [],
+  "size": "1536x864"
+ },
+ {
+  "id": "map_argolid__a1",
+  "out": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/gen/map_argolid__a1.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/prompts/map_argolid__a1.txt",
+  "refs": [],
+  "size": "1536x864"
+ }
+]

@@ -1,0 +1,21 @@
+{
+ "file": "prop__wineskin__a.png",
+ "source": "../gen/prop__wineskin__a1.png",
+ "width": 1026,
+ "height": 869,
+ "feet": {
+  "x": 593,
+  "y": 860
+ },
+ "height_px_at_1080": 869,
+ "src_bbox": [
+  229,
+  7,
+  1238,
+  859
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

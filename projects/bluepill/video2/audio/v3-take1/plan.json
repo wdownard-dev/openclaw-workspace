@@ -1,0 +1,1489 @@
+{
+ "passages": [
+  {
+   "id": "P01",
+   "label": "cold open",
+   "beats": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "text": "Twelve men follow Odysseus into a cave. Six of them get out.\n\nA giant ate the other six, the one-eyed kind. So where did he come from?\n\nWe have four suspects, and a verdict on each. One is an elephant skull. Another, you can still walk up to and touch.\n\nOne note before we start. Where Homer gives these characters lines, we have tidied them up. Where he doesn't, we have made a few up. Everything else comes from sources.\n\nBut first, a poem. And a very bad decision about cheese.",
+   "chars": 480,
+   "segs": [
+    {
+     "beat": 1,
+     "speaker": "NARR",
+     "script": "Twelve men follow Odysseus into a cave. Six of them get out.",
+     "line_orig": "Twelve men follow Odysseus into a cave. Six of them get out.",
+     "sent": "Twelve men follow Odysseus into a cave. Six of them get out.",
+     "attr": null,
+     "start": 0,
+     "end": 60
+    },
+    {
+     "beat": 2,
+     "speaker": "NARR",
+     "script": "A giant ate the other six, the one-eyed kind. So where did he come from?",
+     "line_orig": "A giant ate the other six, the one-eyed kind. So where did he come from?",
+     "sent": "A giant ate the other six, the one-eyed kind. So where did he come from?",
+     "attr": null,
+     "start": 62,
+     "end": 134
+    },
+    {
+     "beat": 3,
+     "speaker": "NARR",
+     "script": "We have four suspects, and a verdict on each. One is an elephant skull. Another, you can still walk up to and touch.",
+     "line_orig": "We have four suspects, and a verdict on each. One is an elephant skull. Another, you can still walk up to and touch.",
+     "sent": "We have four suspects, and a verdict on each. One is an elephant skull. Another, you can still walk up to and touch.",
+     "attr": null,
+     "start": 136,
+     "end": 252
+    },
+    {
+     "beat": 4,
+     "speaker": "NARR",
+     "script": "One note before we start. Where Homer gives these characters lines, we have tidied them up. Where he doesn't, we have made a few up. Everything else comes from sources.",
+     "line_orig": "One note before we start. Where Homer gives these characters lines, we have tidied them up. Where he doesn't, we have made a few up. Everything else comes from sources.",
+     "sent": "One note before we start. Where Homer gives these characters lines, we have tidied them up. Where he doesn't, we have made a few up. Everything else comes from sources.",
+     "attr": null,
+     "start": 254,
+     "end": 422
+    },
+    {
+     "beat": 5,
+     "speaker": "NARR",
+     "script": "But first, a poem. And a very bad decision about cheese.",
+     "line_orig": "But first, a poem. And a very bad decision about cheese.",
+     "sent": "But first, a poem. And a very bad decision about cheese.",
+     "attr": null,
+     "start": 424,
+     "end": 480
+    }
+   ],
+   "prev": "",
+   "next": "Sailing home from Troy, Odysseus lands in the country of the Cyclopes. Book Nine never says where.\n\nHe picks twelve men, takes a goatskin of wine, and walks up to a cave.\n\nRacks of cheese. Pens full of lambs. Nobody home.\n\n\"Take the cheese. Let's go,\" the crew urged.\n\n\"No. I want to meet the owner. "
+  },
+  {
+   "id": "P02",
+   "label": "act 1: arrival",
+   "beats": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "text": "Sailing home from Troy, Odysseus lands in the country of the Cyclopes. Book Nine never says where.\n\nHe picks twelve men, takes a goatskin of wine, and walks up to a cave.\n\nRacks of cheese. Pens full of lambs. Nobody home.\n\n\"Take the cheese. Let's go,\" the crew urged.\n\n\"No. I want to meet the owner. He might give us a present,\" said Odysseus.\n\nThe cleverest man in the poem is waiting for a gift basket from a stranger's cave.\n\nThe owner comes home. He looks less like a man than a wooded peak, standing alone.\n\nHe drives his flock inside, then rolls a stone across the door. Twenty-two wagons could not have moved it.",
+   "chars": 619,
+   "segs": [
+    {
+     "beat": 6,
+     "speaker": "NARR",
+     "script": "Sailing home from Troy, Odysseus lands in the country of the Cyclopes. Book Nine never says where.",
+     "line_orig": "Sailing home from Troy, Odysseus lands in the country of the Cyclopes. Book Nine never says where.",
+     "sent": "Sailing home from Troy, Odysseus lands in the country of the Cyclopes. Book Nine never says where.",
+     "attr": null,
+     "start": 0,
+     "end": 98
+    },
+    {
+     "beat": 7,
+     "speaker": "NARR",
+     "script": "He picks twelve men, takes a goatskin of wine, and walks up to a cave.",
+     "line_orig": "He picks twelve men, takes a goatskin of wine, and walks up to a cave.",
+     "sent": "He picks twelve men, takes a goatskin of wine, and walks up to a cave.",
+     "attr": null,
+     "start": 100,
+     "end": 170
+    },
+    {
+     "beat": 8,
+     "speaker": "NARR",
+     "script": "Racks of cheese. Pens full of lambs. Nobody home.",
+     "line_orig": "Racks of cheese. Pens full of lambs. Nobody home.",
+     "sent": "Racks of cheese. Pens full of lambs. Nobody home.",
+     "attr": null,
+     "start": 172,
+     "end": 221
+    },
+    {
+     "beat": 9,
+     "speaker": "CREW",
+     "script": "Take the cheese. Let's go.",
+     "line_orig": "\"Take the cheese. Let's go,\" the crew urged.",
+     "sent": "\"Take the cheese. Let's go,\" the crew urged.",
+     "attr": "the crew urged",
+     "start": 223,
+     "end": 267
+    },
+    {
+     "beat": 10,
+     "speaker": "ODY",
+     "script": "No. I want to meet the owner. He might give us a present.",
+     "line_orig": "\"No. I want to meet the owner. He might give us a present,\" said Odysseus.",
+     "sent": "\"No. I want to meet the owner. He might give us a present,\" said Odysseus.",
+     "attr": "said Odysseus",
+     "start": 269,
+     "end": 343
+    },
+    {
+     "beat": 11,
+     "speaker": "NARR",
+     "script": "The cleverest man in the poem is waiting for a gift basket from a stranger's cave.",
+     "line_orig": "The cleverest man in the poem is waiting for a gift basket from a stranger's cave.",
+     "sent": "The cleverest man in the poem is waiting for a gift basket from a stranger's cave.",
+     "attr": null,
+     "start": 345,
+     "end": 427
+    },
+    {
+     "beat": 12,
+     "speaker": "NARR",
+     "script": "The owner comes home. He looks less like a man than a wooded peak, standing alone.",
+     "line_orig": "The owner comes home. He looks less like a man than a wooded peak, standing alone.",
+     "sent": "The owner comes home. He looks less like a man than a wooded peak, standing alone.",
+     "attr": null,
+     "start": 429,
+     "end": 511
+    },
+    {
+     "beat": 13,
+     "speaker": "NARR",
+     "script": "He drives his flock inside, then rolls a stone across the door. Twenty-two wagons could not have moved it.",
+     "line_orig": "He drives his flock inside, then rolls a stone across the door. Twenty-two wagons could not have moved it.",
+     "sent": "He drives his flock inside, then rolls a stone across the door. Twenty-two wagons could not have moved it.",
+     "attr": null,
+     "start": 513,
+     "end": 619
+    }
+   ],
+   "prev": ". One is an elephant skull. Another, you can still walk up to and touch.\n\nOne note before we start. Where Homer gives these characters lines, we have tidied them up. Where he doesn't, we have made a few up. Everything else comes from sources.\n\nBut first, a poem. And a very bad decision about cheese.",
+   "next": "\"Strangers, who are you? Traders, or pirates?\" the giant asked.\n\n\"We are Greeks, heading home from Troy. We ask for hospitality. Remember: Zeus protects guests.\"\n\n\"Zeus? We Cyclopes don't care about Zeus. We are stronger than the gods.\"\n\nThat is not a good answer. He grabs two of the men for supper,"
+  },
+  {
+   "id": "P03",
+   "label": "act 1: the owner",
+   "beats": [
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+   ],
+   "text": "\"Strangers, who are you? Traders, or pirates?\" the giant asked.\n\n\"We are Greeks, heading home from Troy. We ask for hospitality. Remember: Zeus protects guests.\"\n\n\"Zeus? We Cyclopes don't care about Zeus. We are stronger than the gods.\"\n\nThat is not a good answer. He grabs two of the men for supper, then falls asleep among his sheep.\n\n\"He is asleep. I could kill him right now,\" Odysseus thought.\n\n\"And then who moves the stone?\"\n\n\"Ah.\"\n\nAt breakfast, two more men go. Homer gives the details. We will spare you.",
+   "chars": 514,
+   "segs": [
+    {
+     "beat": 14,
+     "speaker": "POLY",
+     "script": "Strangers, who are you? Traders, or pirates?",
+     "line_orig": "\"Strangers, who are you? Traders, or pirates?\" the giant asked.",
+     "sent": "\"Strangers, who are you? Traders, or pirates?\" the giant asked.",
+     "attr": "the giant asked",
+     "start": 0,
+     "end": 63
+    },
+    {
+     "beat": 15,
+     "speaker": "ODY",
+     "script": "We are Greeks, heading home from Troy. We ask for hospitality. Remember: Zeus protects guests.",
+     "line_orig": "\"We are Greeks, heading home from Troy. We ask for hospitality. Remember: Zeus protects guests.\"",
+     "sent": "\"We are Greeks, heading home from Troy. We ask for hospitality. Remember: Zeus protects guests.\"",
+     "attr": null,
+     "start": 65,
+     "end": 161
+    },
+    {
+     "beat": 16,
+     "speaker": "POLY",
+     "script": "Zeus? We Cyclopes don't care about Zeus. We are stronger than the gods.",
+     "line_orig": "\"Zeus? We Cyclopes don't care about Zeus. We are stronger than the gods.\"",
+     "sent": "\"Zeus? We Cyclopes don't care about Zeus. We are stronger than the gods.\"",
+     "attr": null,
+     "start": 163,
+     "end": 236
+    },
+    {
+     "beat": 17,
+     "speaker": "NARR",
+     "script": "That is not a good answer. He grabs two of the men for supper, then falls asleep among his sheep.",
+     "line_orig": "That is not a good answer. He grabs two of the men for supper, then falls asleep among his sheep.",
+     "sent": "That is not a good answer. He grabs two of the men for supper, then falls asleep among his sheep.",
+     "attr": null,
+     "start": 238,
+     "end": 335
+    },
+    {
+     "beat": 18,
+     "speaker": "ODY",
+     "script": "He is asleep. I could kill him right now.",
+     "line_orig": "\"He is asleep. I could kill him right now,\" Odysseus thought.",
+     "sent": "\"He is asleep. I could kill him right now,\" Odysseus thought.",
+     "attr": "Odysseus thought",
+     "start": 337,
+     "end": 398
+    },
+    {
+     "beat": 19,
+     "speaker": "ODY",
+     "script": "And then who moves the stone?",
+     "line_orig": "\"And then who moves the stone?\"",
+     "sent": "\"And then who moves the stone?\"",
+     "attr": null,
+     "start": 400,
+     "end": 431
+    },
+    {
+     "beat": 20,
+     "speaker": "ODY",
+     "script": "Ah.",
+     "line_orig": "\"Ah.\"",
+     "sent": "\"Ah.\"",
+     "attr": null,
+     "start": 433,
+     "end": 438
+    },
+    {
+     "beat": 21,
+     "speaker": "NARR",
+     "script": "At breakfast, two more men go. Homer gives the details. We will spare you.",
+     "line_orig": "At breakfast, two more men go. Homer gives the details. We will spare you.",
+     "sent": "At breakfast, two more men go. Homer gives the details. We will spare you.",
+     "attr": null,
+     "start": 440,
+     "end": 514
+    }
+   ],
+   "prev": "present,\" said Odysseus.\n\nThe cleverest man in the poem is waiting for a gift basket from a stranger's cave.\n\nThe owner comes home. He looks less like a man than a wooded peak, standing alone.\n\nHe drives his flock inside, then rolls a stone across the door. Twenty-two wagons could not have moved it.",
+   "next": "Odysseus finds the giant's own club, an olive trunk as big as a ship's mast. He cuts off a length, sharpens it, and hardens the point in the fire.\n\n\"Who helps me carry the stake? Draw lots,\" said Odysseus.\n\n\"And if he wakes up?\" a crewman asked.\n\n\"Then it was a short plan.\"\n\nHe hides the stake under"
+  },
+  {
+   "id": "P04",
+   "label": "act 1: the stake, the wine, Nobody",
+   "beats": [
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+   ],
+   "text": "Odysseus finds the giant's own club, an olive trunk as big as a ship's mast. He cuts off a length, sharpens it, and hardens the point in the fire.\n\n\"Who helps me carry the stake? Draw lots,\" said Odysseus.\n\n\"And if he wakes up?\" a crewman asked.\n\n\"Then it was a short plan.\"\n\nHe hides the stake under dung, the one thing a cave full of sheep has plenty of.\n\nThat evening, two more. Six men gone.\n\n\"You have eaten a great deal of man's flesh, Cyclops. Have some wine,\" said Odysseus, quite calmly.\n\nThe wine comes from a priest of Apollo, whose household drank it mixed twenty parts water to one. The giant drinks three bowls. Homer counts.\n\n\"More. Now tell me your name, and I will give you a present,\" the giant rumbled.\n\n\"My name is Nobody,\" said Odysseus.\n\n\"Nobody. Then here is my present, Nobody. I will eat Nobody's friends first, and Nobody last.\"\n\n\"I am honoured.\"\n\nIt does buy time.",
+   "chars": 891,
+   "segs": [
+    {
+     "beat": 22,
+     "speaker": "NARR",
+     "script": "Odysseus finds the giant's own club, an olive trunk as big as a ship's mast. He cuts off a length, sharpens it, and hardens the point in the fire.",
+     "line_orig": "Odysseus finds the giant's own club, an olive trunk as big as a ship's mast. He cuts off a length, sharpens it, and hardens the point in the fire.",
+     "sent": "Odysseus finds the giant's own club, an olive trunk as big as a ship's mast. He cuts off a length, sharpens it, and hardens the point in the fire.",
+     "attr": null,
+     "start": 0,
+     "end": 146
+    },
+    {
+     "beat": 23,
+     "speaker": "ODY",
+     "script": "Who helps me carry the stake? Draw lots.",
+     "line_orig": "\"Who helps me carry the stake? Draw lots,\" said Odysseus.",
+     "sent": "\"Who helps me carry the stake? Draw lots,\" said Odysseus.",
+     "attr": "said Odysseus",
+     "start": 148,
+     "end": 205
+    },
+    {
+     "beat": 24,
+     "speaker": "CREW",
+     "script": "And if he wakes up?",
+     "line_orig": "\"And if he wakes up?\" a crewman asked.",
+     "sent": "\"And if he wakes up?\" a crewman asked.",
+     "attr": "a crewman asked",
+     "start": 207,
+     "end": 245
+    },
+    {
+     "beat": 25,
+     "speaker": "ODY",
+     "script": "Then it was a short plan.",
+     "line_orig": "\"Then it was a short plan.\"",
+     "sent": "\"Then it was a short plan.\"",
+     "attr": null,
+     "start": 247,
+     "end": 274
+    },
+    {
+     "beat": 26,
+     "speaker": "NARR",
+     "script": "He hides the stake under dung, the one thing a cave full of sheep has plenty of.",
+     "line_orig": "He hides the stake under dung, the one thing a cave full of sheep has plenty of.",
+     "sent": "He hides the stake under dung, the one thing a cave full of sheep has plenty of.",
+     "attr": null,
+     "start": 276,
+     "end": 356
+    },
+    {
+     "beat": 27,
+     "speaker": "NARR",
+     "script": "That evening, two more. Six men gone.",
+     "line_orig": "That evening, two more. Six men gone.",
+     "sent": "That evening, two more. Six men gone.",
+     "attr": null,
+     "start": 358,
+     "end": 395
+    },
+    {
+     "beat": 28,
+     "speaker": "ODY",
+     "script": "You have eaten a great deal of man's flesh, Cyclops. Have some wine.",
+     "line_orig": "\"You have eaten a great deal of man's flesh, Cyclops. Have some wine,\" said Odysseus, quite calmly.",
+     "sent": "\"You have eaten a great deal of man's flesh, Cyclops. Have some wine,\" said Odysseus, quite calmly.",
+     "attr": "said Odysseus, quite calmly",
+     "start": 397,
+     "end": 496
+    },
+    {
+     "beat": 29,
+     "speaker": "NARR",
+     "script": "The wine comes from a priest of Apollo, whose household drank it mixed twenty parts water to one. The giant drinks three bowls. Homer counts.",
+     "line_orig": "The wine comes from a priest of Apollo, whose household drank it mixed twenty parts water to one. The giant drinks three bowls. Homer counts.",
+     "sent": "The wine comes from a priest of Apollo, whose household drank it mixed twenty parts water to one. The giant drinks three bowls. Homer counts.",
+     "attr": null,
+     "start": 498,
+     "end": 639
+    },
+    {
+     "beat": 30,
+     "speaker": "POLY",
+     "script": "More. Now tell me your name, and I will give you a present.",
+     "line_orig": "\"More. Now tell me your name, and I will give you a present,\" the giant rumbled.",
+     "sent": "\"More. Now tell me your name, and I will give you a present,\" the giant rumbled.",
+     "attr": "the giant rumbled",
+     "start": 641,
+     "end": 721
+    },
+    {
+     "beat": 31,
+     "speaker": "ODY",
+     "script": "My name is Nobody.",
+     "line_orig": "\"My name is Nobody,\" said Odysseus.",
+     "sent": "\"My name is Nobody,\" said Odysseus.",
+     "attr": "said Odysseus",
+     "start": 723,
+     "end": 758
+    },
+    {
+     "beat": 32,
+     "speaker": "POLY",
+     "script": "Nobody. Then here is my present, Nobody. I will eat Nobody's friends first, and Nobody last.",
+     "line_orig": "\"Nobody. Then here is my present, Nobody. I will eat Nobody's friends first, and Nobody last.\"",
+     "sent": "\"Nobody. Then here is my present, Nobody. I will eat Nobody's friends first, and Nobody last.\"",
+     "attr": null,
+     "start": 760,
+     "end": 854
+    },
+    {
+     "beat": 33,
+     "speaker": "ODY",
+     "script": "I am honoured.",
+     "line_orig": "\"I am honoured.\"",
+     "sent": "\"I am honoured.\"",
+     "attr": null,
+     "start": 856,
+     "end": 872
+    },
+    {
+     "beat": 34,
+     "speaker": "NARR",
+     "script": "It does buy time.",
+     "line_orig": "It does buy time.",
+     "sent": "It does buy time.",
+     "attr": null,
+     "start": 874,
+     "end": 891
+    }
+   ],
+   "prev": "ronger than the gods.\"\n\nThat is not a good answer. He grabs two of the men for supper, then falls asleep among his sheep.\n\n\"He is asleep. I could kill him right now,\" Odysseus thought.\n\n\"And then who moves the stone?\"\n\n\"Ah.\"\n\nAt breakfast, two more men go. Homer gives the details. We will spare you.",
+   "next": "The giant passes out. Odysseus puts the stake in the fire. Then he puts it in the eye.\n\nHomer reaches for a blacksmith's simile: an axe plunged into cold water, hissing.\n\n\"Pollifeemus, what is wrong? Is someone killing you?\" a Cyclops asked, bored.\n\n\"Nobody is killing me by trickery! Nobody is killi"
+  },
+  {
+   "id": "P05",
+   "label": "act 1: the eye",
+   "beats": [
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+   ],
+   "text": "The giant passes out. Odysseus puts the stake in the fire. Then he puts it in the eye.\n\nHomer reaches for a blacksmith's simile: an axe plunged into cold water, hissing.\n\n\"Pollifeemus, what is wrong? Is someone killing you?\" a Cyclops asked, bored.\n\n\"Nobody is killing me by trickery! Nobody is killing me by force!\" the giant bellowed.\n\n\"Then nobody is hurting you. It must be a sickness from Zeus. Pray to your father, and let us sleep,\" the Cyclops said flatly.\n\nThe Cyclopes have no laws, no assemblies, and no follow-up questions.",
+   "chars": 535,
+   "segs": [
+    {
+     "beat": 35,
+     "speaker": "NARR",
+     "script": "The giant passes out. Odysseus puts the stake in the fire. Then he puts it in the eye.",
+     "line_orig": "The giant passes out. Odysseus puts the stake in the fire. Then he puts it in the eye.",
+     "sent": "The giant passes out. Odysseus puts the stake in the fire. Then he puts it in the eye.",
+     "attr": null,
+     "start": 0,
+     "end": 86
+    },
+    {
+     "beat": 36,
+     "speaker": "NARR",
+     "script": "Homer reaches for a blacksmith's simile: an axe plunged into cold water, hissing.",
+     "line_orig": "Homer reaches for a blacksmith's simile: an axe plunged into cold water, hissing.",
+     "sent": "Homer reaches for a blacksmith's simile: an axe plunged into cold water, hissing.",
+     "attr": null,
+     "start": 88,
+     "end": 169
+    },
+    {
+     "beat": 37,
+     "speaker": "CYC2",
+     "script": "Polyphemus, what is wrong? Is someone killing you?",
+     "line_orig": "\"Polyphemus, what is wrong? Is someone killing you?\" a Cyclops asked, bored.",
+     "sent": "\"Pollifeemus, what is wrong? Is someone killing you?\" a Cyclops asked, bored.",
+     "attr": "a Cyclops asked, bored",
+     "start": 171,
+     "end": 248
+    },
+    {
+     "beat": 38,
+     "speaker": "POLY",
+     "script": "Nobody is killing me by trickery! Nobody is killing me by force!",
+     "line_orig": "\"Nobody is killing me by trickery! Nobody is killing me by force!\" the giant bellowed.",
+     "sent": "\"Nobody is killing me by trickery! Nobody is killing me by force!\" the giant bellowed.",
+     "attr": "the giant bellowed",
+     "start": 250,
+     "end": 336
+    },
+    {
+     "beat": 39,
+     "speaker": "CYC2",
+     "script": "Then nobody is hurting you. It must be a sickness from Zeus. Pray to your father, and let us sleep.",
+     "line_orig": "\"Then nobody is hurting you. It must be a sickness from Zeus. Pray to your father, and let us sleep,\" the Cyclops said flatly.",
+     "sent": "\"Then nobody is hurting you. It must be a sickness from Zeus. Pray to your father, and let us sleep,\" the Cyclops said flatly.",
+     "attr": "the Cyclops said flatly",
+     "start": 338,
+     "end": 464
+    },
+    {
+     "beat": 40,
+     "speaker": "NARR",
+     "script": "The Cyclopes have no laws, no assemblies, and no follow-up questions.",
+     "line_orig": "The Cyclopes have no laws, no assemblies, and no follow-up questions.",
+     "sent": "The Cyclopes have no laws, no assemblies, and no follow-up questions.",
+     "attr": null,
+     "start": 466,
+     "end": 535
+    }
+   ],
+   "prev": "one. The giant drinks three bowls. Homer counts.\n\n\"More. Now tell me your name, and I will give you a present,\" the giant rumbled.\n\n\"My name is Nobody,\" said Odysseus.\n\n\"Nobody. Then here is my present, Nobody. I will eat Nobody's friends first, and Nobody last.\"\n\n\"I am honoured.\"\n\nIt does buy time.",
+   "next": "At dawn the sheep file out. Odysseus has tied them in threes, with a man hanging under each middle one.\n\nHe hangs under the best ram himself. The blinded giant feels along their backs.\n\nTheir backs. Not their bellies.\n\n\"My good ram. You are always first out. Why are you last today? Are you sorry for"
+  },
+  {
+   "id": "P06",
+   "label": "act 1: the sheep",
+   "beats": [
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48
+   ],
+   "text": "At dawn the sheep file out. Odysseus has tied them in threes, with a man hanging under each middle one.\n\nHe hangs under the best ram himself. The blinded giant feels along their backs.\n\nTheir backs. Not their bellies.\n\n\"My good ram. You are always first out. Why are you last today? Are you sorry for your master's eye?\" the giant said softly.\n\nThe most sincere conversation in the poem.\n\nOdysseus should sail away quietly. He has won.\n\nInstead, he jeers at the giant from the deck. The giant tears the top off a mountain and throws it.\n\nIt lands just in front of the ship, a whisker from the rudder, and the wave carries the ship back toward shore.",
+   "chars": 649,
+   "segs": [
+    {
+     "beat": 41,
+     "speaker": "NARR",
+     "script": "At dawn the sheep file out. Odysseus has tied them in threes, with a man hanging under each middle one.",
+     "line_orig": "At dawn the sheep file out. Odysseus has tied them in threes, with a man hanging under each middle one.",
+     "sent": "At dawn the sheep file out. Odysseus has tied them in threes, with a man hanging under each middle one.",
+     "attr": null,
+     "start": 0,
+     "end": 103
+    },
+    {
+     "beat": 42,
+     "speaker": "NARR",
+     "script": "He hangs under the best ram himself. The blinded giant feels along their backs.",
+     "line_orig": "He hangs under the best ram himself. The blinded giant feels along their backs.",
+     "sent": "He hangs under the best ram himself. The blinded giant feels along their backs.",
+     "attr": null,
+     "start": 105,
+     "end": 184
+    },
+    {
+     "beat": 43,
+     "speaker": "NARR",
+     "script": "Their backs. Not their bellies.",
+     "line_orig": "Their backs. Not their bellies.",
+     "sent": "Their backs. Not their bellies.",
+     "attr": null,
+     "start": 186,
+     "end": 217
+    },
+    {
+     "beat": 44,
+     "speaker": "POLY",
+     "script": "My good ram. You are always first out. Why are you last today? Are you sorry for your master's eye?",
+     "line_orig": "\"My good ram. You are always first out. Why are you last today? Are you sorry for your master's eye?\" the giant said softly.",
+     "sent": "\"My good ram. You are always first out. Why are you last today? Are you sorry for your master's eye?\" the giant said softly.",
+     "attr": "the giant said softly",
+     "start": 219,
+     "end": 343
+    },
+    {
+     "beat": 45,
+     "speaker": "NARR",
+     "script": "The most sincere conversation in the poem.",
+     "line_orig": "The most sincere conversation in the poem.",
+     "sent": "The most sincere conversation in the poem.",
+     "attr": null,
+     "start": 345,
+     "end": 387
+    },
+    {
+     "beat": 46,
+     "speaker": "NARR",
+     "script": "Odysseus should sail away quietly. He has won.",
+     "line_orig": "Odysseus should sail away quietly. He has won.",
+     "sent": "Odysseus should sail away quietly. He has won.",
+     "attr": null,
+     "start": 389,
+     "end": 435
+    },
+    {
+     "beat": 47,
+     "speaker": "NARR",
+     "script": "Instead, he jeers at the giant from the deck. The giant tears the top off a mountain and throws it.",
+     "line_orig": "Instead, he jeers at the giant from the deck. The giant tears the top off a mountain and throws it.",
+     "sent": "Instead, he jeers at the giant from the deck. The giant tears the top off a mountain and throws it.",
+     "attr": null,
+     "start": 437,
+     "end": 536
+    },
+    {
+     "beat": 48,
+     "speaker": "NARR",
+     "script": "It lands just in front of the ship, a whisker from the rudder, and the wave carries the ship back toward shore.",
+     "line_orig": "It lands just in front of the ship, a whisker from the rudder, and the wave carries the ship back toward shore.",
+     "sent": "It lands just in front of the ship, a whisker from the rudder, and the wave carries the ship back toward shore.",
+     "attr": null,
+     "start": 538,
+     "end": 649
+    }
+   ],
+   "prev": "asked, bored.\n\n\"Nobody is killing me by trickery! Nobody is killing me by force!\" the giant bellowed.\n\n\"Then nobody is hurting you. It must be a sickness from Zeus. Pray to your father, and let us sleep,\" the Cyclops said flatly.\n\nThe Cyclopes have no laws, no assemblies, and no follow-up questions.",
+   "next": "\"Please stop. He already threw one rock. He can throw another,\" the crew begged.\n\n\"Cyclops. If anyone asks who blinded you, tell them it was Odysseus. Son of Laertes. Of Ithaca.\"\n\nNobody lasted one night.\n\n\"A prophet told me Odysseus would take my eye. I expected a warrior. I got a weakling who got "
+  },
+  {
+   "id": "P07",
+   "label": "act 1: departure",
+   "beats": [
+    49,
+    50,
+    51,
+    52,
+    53,
+    54
+   ],
+   "text": "\"Please stop. He already threw one rock. He can throw another,\" the crew begged.\n\n\"Cyclops. If anyone asks who blinded you, tell them it was Odysseus. Son of Laertes. Of Ithaca.\"\n\nNobody lasted one night.\n\n\"A prophet told me Odysseus would take my eye. I expected a warrior. I got a weakling who got me drunk. Come back, and I will give you presents,\" the giant called.\n\n\"Keep your presents. I would send you to Hades if I could. Not even Poseidon will heal that eye.\"\n\n\"Father Poseidon, hear me. Never let Odysseus reach his home. Or if he must, let him come late, in misery, and with all his men lost,\" the giant prayed.",
+   "chars": 622,
+   "segs": [
+    {
+     "beat": 49,
+     "speaker": "CREW",
+     "script": "Please stop. He already threw one rock. He can throw another.",
+     "line_orig": "\"Please stop. He already threw one rock. He can throw another,\" the crew begged.",
+     "sent": "\"Please stop. He already threw one rock. He can throw another,\" the crew begged.",
+     "attr": "the crew begged",
+     "start": 0,
+     "end": 80
+    },
+    {
+     "beat": 50,
+     "speaker": "ODY",
+     "script": "Cyclops. If anyone asks who blinded you, tell them it was Odysseus. Son of Laertes. Of Ithaca.",
+     "line_orig": "\"Cyclops. If anyone asks who blinded you, tell them it was Odysseus. Son of Laertes. Of Ithaca.\"",
+     "sent": "\"Cyclops. If anyone asks who blinded you, tell them it was Odysseus. Son of Laertes. Of Ithaca.\"",
+     "attr": null,
+     "start": 82,
+     "end": 178
+    },
+    {
+     "beat": 51,
+     "speaker": "NARR",
+     "script": "Nobody lasted one night.",
+     "line_orig": "Nobody lasted one night.",
+     "sent": "Nobody lasted one night.",
+     "attr": null,
+     "start": 180,
+     "end": 204
+    },
+    {
+     "beat": 52,
+     "speaker": "POLY",
+     "script": "A prophet told me Odysseus would take my eye. I expected a warrior. I got a weakling who got me drunk. Come back, and I will give you presents.",
+     "line_orig": "\"A prophet told me Odysseus would take my eye. I expected a warrior. I got a weakling who got me drunk. Come back, and I will give you presents,\" the giant called.",
+     "sent": "\"A prophet told me Odysseus would take my eye. I expected a warrior. I got a weakling who got me drunk. Come back, and I will give you presents,\" the giant called.",
+     "attr": "the giant called",
+     "start": 206,
+     "end": 369
+    },
+    {
+     "beat": 53,
+     "speaker": "ODY",
+     "script": "Keep your presents. I would send you to Hades if I could. Not even Poseidon will heal that eye.",
+     "line_orig": "\"Keep your presents. I would send you to Hades if I could. Not even Poseidon will heal that eye.\"",
+     "sent": "\"Keep your presents. I would send you to Hades if I could. Not even Poseidon will heal that eye.\"",
+     "attr": null,
+     "start": 371,
+     "end": 468
+    },
+    {
+     "beat": 54,
+     "speaker": "POLY",
+     "script": "Father Poseidon, hear me. Never let Odysseus reach his home. Or if he must, let him come late, in misery, and with all his men lost.",
+     "line_orig": "\"Father Poseidon, hear me. Never let Odysseus reach his home. Or if he must, let him come late, in misery, and with all his men lost,\" the giant prayed.",
+     "sent": "\"Father Poseidon, hear me. Never let Odysseus reach his home. Or if he must, let him come late, in misery, and with all his men lost,\" the giant prayed.",
+     "attr": "the giant prayed",
+     "start": 470,
+     "end": 622
+    }
+   ],
+   "prev": "most sincere conversation in the poem.\n\nOdysseus should sail away quietly. He has won.\n\nInstead, he jeers at the giant from the deck. The giant tears the top off a mountain and throws it.\n\nIt lands just in front of the ship, a whisker from the rudder, and the wave carries the ship back toward shore.",
+   "next": "Poseidon listens. It will be years before Odysseus sees Ithaca again.\n\nNow search Book Nine for the words \"one eye\". Homer never writes them, and he never mentions a forehead. He says \"the eye\".\n\nHomer takes it for granted. If you want it spelled out, you need a different poet. So where did the Cycl"
+  },
+  {
+   "id": "P08",
+   "label": "act 1 close and the turn",
+   "beats": [
+    55,
+    56,
+    57,
+    58
+   ],
+   "text": "Poseidon listens. It will be years before Odysseus sees Ithaca again.\n\nNow search Book Nine for the words \"one eye\". Homer never writes them, and he never mentions a forehead. He says \"the eye\".\n\nHomer takes it for granted. If you want it spelled out, you need a different poet. So where did the Cyclops come from?\n\nTime to open the case.",
+   "chars": 338,
+   "segs": [
+    {
+     "beat": 55,
+     "speaker": "NARR",
+     "script": "Poseidon listens. It will be years before Odysseus sees Ithaca again.",
+     "line_orig": "Poseidon listens. It will be years before Odysseus sees Ithaca again.",
+     "sent": "Poseidon listens. It will be years before Odysseus sees Ithaca again.",
+     "attr": null,
+     "start": 0,
+     "end": 69
+    },
+    {
+     "beat": 56,
+     "speaker": "NARR",
+     "script": "Now search Book Nine for the words \"one eye\". Homer never writes them, and he never mentions a forehead. He says \"the eye\".",
+     "line_orig": "Now search Book Nine for the words \"one eye\". Homer never writes them, and he never mentions a forehead. He says \"the eye\".",
+     "sent": "Now search Book Nine for the words \"one eye\". Homer never writes them, and he never mentions a forehead. He says \"the eye\".",
+     "attr": null,
+     "start": 71,
+     "end": 194
+    },
+    {
+     "beat": 57,
+     "speaker": "NARR",
+     "script": "Homer takes it for granted. If you want it spelled out, you need a different poet. So where did the Cyclops come from?",
+     "line_orig": "Homer takes it for granted. If you want it spelled out, you need a different poet. So where did the Cyclops come from?",
+     "sent": "Homer takes it for granted. If you want it spelled out, you need a different poet. So where did the Cyclops come from?",
+     "attr": null,
+     "start": 196,
+     "end": 314
+    },
+    {
+     "beat": 58,
+     "speaker": "NARR",
+     "script": "Time to open the case.",
+     "line_orig": "Time to open the case.",
+     "sent": "Time to open the case.",
+     "attr": null,
+     "start": 316,
+     "end": 338
+    }
+   ],
+   "prev": "nd I will give you presents,\" the giant called.\n\n\"Keep your presents. I would send you to Hades if I could. Not even Poseidon will heal that eye.\"\n\n\"Father Poseidon, hear me. Never let Odysseus reach his home. Or if he must, let him come late, in misery, and with all his men lost,\" the giant prayed.",
+   "next": "Ice Age Sicily had elephants, and island life shrank them until the smallest stood under a metre. You could have looked one in the eye.\n\nTheir bones have turned up in caves on Sicily and Malta. Head-on, the skull shows two small eye sockets at the sides, and in the middle, one enormous hole.\n\nIn 191"
+  },
+  {
+   "id": "P09",
+   "label": "suspect 1 a: the dwarf elephant",
+   "beats": [
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67
+   ],
+   "text": "Ice Age Sicily had elephants, and island life shrank them until the smallest stood under a metre. You could have looked one in the eye.\n\nTheir bones have turned up in caves on Sicily and Malta. Head-on, the skull shows two small eye sockets at the sides, and in the middle, one enormous hole.\n\nIn 1914, a palaeontologist named Abel imagined sailors finding a skull like this in a beach cave. He thought it might be where the Cyclops came from.\n\nHere is our version. A sailor ducks in to light a fire.\n\n\"Hello?\" the sailor asked.\n\nIn the clay, something looks back at him. One enormous eye.\n\n\"Nope.\"\n\nThe sailor is imagined. The skulls are real.",
+   "chars": 644,
+   "segs": [
+    {
+     "beat": 60,
+     "speaker": "NARR",
+     "script": "Ice Age Sicily had elephants, and island life shrank them until the smallest stood under a metre. You could have looked one in the eye.",
+     "line_orig": "Ice Age Sicily had elephants, and island life shrank them until the smallest stood under a metre. You could have looked one in the eye.",
+     "sent": "Ice Age Sicily had elephants, and island life shrank them until the smallest stood under a metre. You could have looked one in the eye.",
+     "attr": null,
+     "start": 0,
+     "end": 135
+    },
+    {
+     "beat": 61,
+     "speaker": "NARR",
+     "script": "Their bones have turned up in caves on Sicily and Malta. Head-on, the skull shows two small eye sockets at the sides, and in the middle, one enormous hole.",
+     "line_orig": "Their bones have turned up in caves on Sicily and Malta. Head-on, the skull shows two small eye sockets at the sides, and in the middle, one enormous hole.",
+     "sent": "Their bones have turned up in caves on Sicily and Malta. Head-on, the skull shows two small eye sockets at the sides, and in the middle, one enormous hole.",
+     "attr": null,
+     "start": 137,
+     "end": 292
+    },
+    {
+     "beat": 62,
+     "speaker": "NARR",
+     "script": "In 1914, a palaeontologist named Abel imagined sailors finding a skull like this in a beach cave. He thought it might be where the Cyclops came from.",
+     "line_orig": "In 1914, a palaeontologist named Abel imagined sailors finding a skull like this in a beach cave. He thought it might be where the Cyclops came from.",
+     "sent": "In 1914, a palaeontologist named Abel imagined sailors finding a skull like this in a beach cave. He thought it might be where the Cyclops came from.",
+     "attr": null,
+     "start": 294,
+     "end": 443
+    },
+    {
+     "beat": 63,
+     "speaker": "NARR",
+     "script": "Here is our version. A sailor ducks in to light a fire.",
+     "line_orig": "Here is our version. A sailor ducks in to light a fire.",
+     "sent": "Here is our version. A sailor ducks in to light a fire.",
+     "attr": null,
+     "start": 445,
+     "end": 500
+    },
+    {
+     "beat": 64,
+     "speaker": "CREW",
+     "script": "Hello?",
+     "line_orig": "\"Hello?\" the sailor asked.",
+     "sent": "\"Hello?\" the sailor asked.",
+     "attr": "the sailor asked",
+     "start": 502,
+     "end": 528
+    },
+    {
+     "beat": 65,
+     "speaker": "NARR",
+     "script": "In the clay, something looks back at him. One enormous eye.",
+     "line_orig": "In the clay, something looks back at him. One enormous eye.",
+     "sent": "In the clay, something looks back at him. One enormous eye.",
+     "attr": null,
+     "start": 530,
+     "end": 589
+    },
+    {
+     "beat": 66,
+     "speaker": "CREW",
+     "script": "Nope.",
+     "line_orig": "\"Nope.\"",
+     "sent": "\"Nope.\"",
+     "attr": null,
+     "start": 591,
+     "end": 598
+    },
+    {
+     "beat": 67,
+     "speaker": "NARR",
+     "script": "The sailor is imagined. The skulls are real.",
+     "line_orig": "The sailor is imagined. The skulls are real.",
+     "sent": "The sailor is imagined. The skulls are real.",
+     "attr": null,
+     "start": 600,
+     "end": 644
+    }
+   ],
+   "prev": "ore Odysseus sees Ithaca again.\n\nNow search Book Nine for the words \"one eye\". Homer never writes them, and he never mentions a forehead. He says \"the eye\".\n\nHomer takes it for granted. If you want it spelled out, you need a different poet. So where did the Cyclops come from?\n\nTime to open the case.",
+   "next": "\"Where's the nose?\"\n\nYou are looking at it. That hole is a nasal cavity. To someone who had never seen an elephant, it could pass for one very large eye.\n\nDiscover magazine adds that before Alexander the Great, most Greeks had never seen a live elephant. A skull could easily have baffled them.\n\nThe "
+  },
+  {
+   "id": "P10",
+   "label": "suspect 1 b: nasal cavity, Mayor",
+   "beats": [
+    68,
+    69,
+    70,
+    71,
+    72,
+    73
+   ],
+   "text": "\"Where's the nose?\"\n\nYou are looking at it. That hole is a nasal cavity. To someone who had never seen an elephant, it could pass for one very large eye.\n\nDiscover magazine adds that before Alexander the Great, most Greeks had never seen a live elephant. A skull could easily have baffled them.\n\nThe folklorist Adrienne Mayor is the theory's best-known champion. Asked about the Cyclops, she is careful.\n\n\"I don't like to say that the fossils inspired, or were the source of the story, because we just can't prove that.\"\n\nThat is the theory's best friend, on the record. She does think fossils shaped how Greeks pictured giants. She just won't say they started this one.",
+   "chars": 670,
+   "segs": [
+    {
+     "beat": 68,
+     "speaker": "CREW",
+     "script": "Where's the nose?",
+     "line_orig": "\"Where's the nose?\"",
+     "sent": "\"Where's the nose?\"",
+     "attr": null,
+     "start": 0,
+     "end": 19
+    },
+    {
+     "beat": 69,
+     "speaker": "NARR",
+     "script": "You are looking at it. That hole is a nasal cavity. To someone who had never seen an elephant, it could pass for one very large eye.",
+     "line_orig": "You are looking at it. That hole is a nasal cavity. To someone who had never seen an elephant, it could pass for one very large eye.",
+     "sent": "You are looking at it. That hole is a nasal cavity. To someone who had never seen an elephant, it could pass for one very large eye.",
+     "attr": null,
+     "start": 21,
+     "end": 153
+    },
+    {
+     "beat": 70,
+     "speaker": "NARR",
+     "script": "Discover magazine adds that before Alexander the Great, most Greeks had never seen a live elephant. A skull could easily have baffled them.",
+     "line_orig": "Discover magazine adds that before Alexander the Great, most Greeks had never seen a live elephant. A skull could easily have baffled them.",
+     "sent": "Discover magazine adds that before Alexander the Great, most Greeks had never seen a live elephant. A skull could easily have baffled them.",
+     "attr": null,
+     "start": 155,
+     "end": 294
+    },
+    {
+     "beat": 71,
+     "speaker": "NARR",
+     "script": "The folklorist Adrienne Mayor is the theory's best-known champion. Asked about the Cyclops, she is careful.",
+     "line_orig": "The folklorist Adrienne Mayor is the theory's best-known champion. Asked about the Cyclops, she is careful.",
+     "sent": "The folklorist Adrienne Mayor is the theory's best-known champion. Asked about the Cyclops, she is careful.",
+     "attr": null,
+     "start": 296,
+     "end": 403
+    },
+    {
+     "beat": 72,
+     "speaker": "NARR",
+     "script": "\"I don't like to say that the fossils inspired, or were the source of the story, because we just can't prove that.\"",
+     "line_orig": "\"I don't like to say that the fossils inspired, or were the source of the story, because we just can't prove that.\"",
+     "sent": "\"I don't like to say that the fossils inspired, or were the source of the story, because we just can't prove that.\"",
+     "attr": null,
+     "start": 405,
+     "end": 520
+    },
+    {
+     "beat": 73,
+     "speaker": "NARR",
+     "script": "That is the theory's best friend, on the record. She does think fossils shaped how Greeks pictured giants. She just won't say they started this one.",
+     "line_orig": "That is the theory's best friend, on the record. She does think fossils shaped how Greeks pictured giants. She just won't say they started this one.",
+     "sent": "That is the theory's best friend, on the record. She does think fossils shaped how Greeks pictured giants. She just won't say they started this one.",
+     "attr": null,
+     "start": 522,
+     "end": 670
+    }
+   ],
+   "prev": "lors finding a skull like this in a beach cave. He thought it might be where the Cyclops came from.\n\nHere is our version. A sailor ducks in to light a fire.\n\n\"Hello?\" the sailor asked.\n\nIn the clay, something looks back at him. One enormous eye.\n\n\"Nope.\"\n\nThe sailor is imagined. The skulls are real.",
+   "next": "Then there is the famous version. In Abel's telling, the philosopher Em-peddokleez reported such bones on Sicily and took them for giants.\n\n\"Which ancient book says that?\" the sailor asked.\n\nNone that survives. The translator Jason Colavito calls it \"a modern myth invented, apparently, by Abel himse"
+  },
+  {
+   "id": "P11",
+   "label": "suspect 1 c: Empedocles",
+   "beats": [
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80
+   ],
+   "text": "Then there is the famous version. In Abel's telling, the philosopher Em-peddokleez reported such bones on Sicily and took them for giants.\n\n\"Which ancient book says that?\" the sailor asked.\n\nNone that survives. The translator Jason Colavito calls it \"a modern myth invented, apparently, by Abel himself.\"\n\nWithout that story, critics say, Abel's case is very thin.\n\nAbel hedged his sailors with \"perhaps\". His Em-peddokleez, he told straight.\n\nTwo scholars of Greek myth, Ah-gheereh and Buxton, have serious doubts about the dwarf-elephant explanation.\n\nPossible. Provable? No.",
+   "chars": 577,
+   "segs": [
+    {
+     "beat": 74,
+     "speaker": "NARR",
+     "script": "Then there is the famous version. In Abel's telling, the philosopher Empedocles reported such bones on Sicily and took them for giants.",
+     "line_orig": "Then there is the famous version. In Abel's telling, the philosopher Empedocles reported such bones on Sicily and took them for giants.",
+     "sent": "Then there is the famous version. In Abel's telling, the philosopher Em-peddokleez reported such bones on Sicily and took them for giants.",
+     "attr": null,
+     "start": 0,
+     "end": 138
+    },
+    {
+     "beat": 75,
+     "speaker": "CREW",
+     "script": "Which ancient book says that?",
+     "line_orig": "\"Which ancient book says that?\" the sailor asked.",
+     "sent": "\"Which ancient book says that?\" the sailor asked.",
+     "attr": "the sailor asked",
+     "start": 140,
+     "end": 189
+    },
+    {
+     "beat": 76,
+     "speaker": "NARR",
+     "script": "None that survives. The translator Jason Colavito calls it \"a modern myth invented, apparently, by Abel himself.\"",
+     "line_orig": "None that survives. The translator Jason Colavito calls it \"a modern myth invented, apparently, by Abel himself.\"",
+     "sent": "None that survives. The translator Jason Colavito calls it \"a modern myth invented, apparently, by Abel himself.\"",
+     "attr": null,
+     "start": 191,
+     "end": 304
+    },
+    {
+     "beat": 77,
+     "speaker": "NARR",
+     "script": "Without that story, critics say, Abel's case is very thin.",
+     "line_orig": "Without that story, critics say, Abel's case is very thin.",
+     "sent": "Without that story, critics say, Abel's case is very thin.",
+     "attr": null,
+     "start": 306,
+     "end": 364
+    },
+    {
+     "beat": 78,
+     "speaker": "NARR",
+     "script": "Abel hedged his sailors with \"perhaps\". His Empedocles, he told straight.",
+     "line_orig": "Abel hedged his sailors with \"perhaps\". His Empedocles, he told straight.",
+     "sent": "Abel hedged his sailors with \"perhaps\". His Em-peddokleez, he told straight.",
+     "attr": null,
+     "start": 366,
+     "end": 442
+    },
+    {
+     "beat": 79,
+     "speaker": "NARR",
+     "script": "Two scholars of Greek myth, Aguirre and Buxton, have serious doubts about the dwarf-elephant explanation.",
+     "line_orig": "Two scholars of Greek myth, Aguirre and Buxton, have serious doubts about the dwarf-elephant explanation.",
+     "sent": "Two scholars of Greek myth, Ah-gheereh and Buxton, have serious doubts about the dwarf-elephant explanation.",
+     "attr": null,
+     "start": 444,
+     "end": 552
+    },
+    {
+     "beat": 80,
+     "speaker": "NARR",
+     "script": "Possible. Provable? No.",
+     "line_orig": "Possible. Provable? No.",
+     "sent": "Possible. Provable? No.",
+     "attr": null,
+     "start": 554,
+     "end": 577
+    }
+   ],
+   "prev": "bout the Cyclops, she is careful.\n\n\"I don't like to say that the fossils inspired, or were the source of the story, because we just can't prove that.\"\n\nThat is the theory's best friend, on the record. She does think fossils shaped how Greeks pictured giants. She just won't say they started this one.",
+   "next": "Suspect two lives in a different poem, with a different job.\n\nHesiod, around seven hundred B.C., has three Cyclopes: Thunder, Lightning and Bright.\n\nThey make the thunderbolt for Zeus. The Cyclopes of Book Nine shrug Zeus off.\n\n\"I keep sheep,\" the giant said awkwardly.\n\n\"Sheep.\"\n\nHesiod's Cyclopes h"
+  },
+  {
+   "id": "P12",
+   "label": "suspect 2 a: the smiths",
+   "beats": [
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89
+   ],
+   "text": "Suspect two lives in a different poem, with a different job.\n\nHesiod, around seven hundred B.C., has three Cyclopes: Thunder, Lightning and Bright.\n\nThey make the thunderbolt for Zeus. The Cyclopes of Book Nine shrug Zeus off.\n\n\"I keep sheep,\" the giant said awkwardly.\n\n\"Sheep.\"\n\nHesiod's Cyclopes have careers.\n\nAnd there it is, the line Book Nine never gave us: one eye only, in the middle of the forehead.\n\nThe scholar Walter Boor-kert suggested that real guilds of metalworkers may lie behind them.",
+   "chars": 503,
+   "segs": [
+    {
+     "beat": 82,
+     "speaker": "NARR",
+     "script": "Suspect two lives in a different poem, with a different job.",
+     "line_orig": "Suspect two lives in a different poem, with a different job.",
+     "sent": "Suspect two lives in a different poem, with a different job.",
+     "attr": null,
+     "start": 0,
+     "end": 60
+    },
+    {
+     "beat": 83,
+     "speaker": "NARR",
+     "script": "Hesiod, around seven hundred BC, has three Cyclopes: Thunder, Lightning and Bright.",
+     "line_orig": "Hesiod, around seven hundred BC, has three Cyclopes: Thunder, Lightning and Bright.",
+     "sent": "Hesiod, around seven hundred B.C., has three Cyclopes: Thunder, Lightning and Bright.",
+     "attr": null,
+     "start": 62,
+     "end": 147
+    },
+    {
+     "beat": 84,
+     "speaker": "NARR",
+     "script": "They make the thunderbolt for Zeus. The Cyclopes of Book Nine shrug Zeus off.",
+     "line_orig": "They make the thunderbolt for Zeus. The Cyclopes of Book Nine shrug Zeus off.",
+     "sent": "They make the thunderbolt for Zeus. The Cyclopes of Book Nine shrug Zeus off.",
+     "attr": null,
+     "start": 149,
+     "end": 226
+    },
+    {
+     "beat": 85,
+     "speaker": "POLY",
+     "script": "I keep sheep.",
+     "line_orig": "\"I keep sheep,\" the giant said awkwardly.",
+     "sent": "\"I keep sheep,\" the giant said awkwardly.",
+     "attr": "the giant said awkwardly",
+     "start": 228,
+     "end": 269
+    },
+    {
+     "beat": 86,
+     "speaker": "CYC2",
+     "script": "Sheep.",
+     "line_orig": "\"Sheep.\"",
+     "sent": "\"Sheep.\"",
+     "attr": null,
+     "start": 271,
+     "end": 279
+    },
+    {
+     "beat": 87,
+     "speaker": "NARR",
+     "script": "Hesiod's Cyclopes have careers.",
+     "line_orig": "Hesiod's Cyclopes have careers.",
+     "sent": "Hesiod's Cyclopes have careers.",
+     "attr": null,
+     "start": 281,
+     "end": 312
+    },
+    {
+     "beat": 88,
+     "speaker": "NARR",
+     "script": "And there it is, the line Book Nine never gave us: one eye only, in the middle of the forehead.",
+     "line_orig": "And there it is, the line Book Nine never gave us: one eye only, in the middle of the forehead.",
+     "sent": "And there it is, the line Book Nine never gave us: one eye only, in the middle of the forehead.",
+     "attr": null,
+     "start": 314,
+     "end": 409
+    },
+    {
+     "beat": 89,
+     "speaker": "NARR",
+     "script": "The scholar Walter Burkert suggested that real guilds of metalworkers may lie behind them.",
+     "line_orig": "The scholar Walter Burkert suggested that real guilds of metalworkers may lie behind them.",
+     "sent": "The scholar Walter Boor-kert suggested that real guilds of metalworkers may lie behind them.",
+     "attr": null,
+     "start": 411,
+     "end": 503
+    }
+   ],
+   "prev": "parently, by Abel himself.\"\n\nWithout that story, critics say, Abel's case is very thin.\n\nAbel hedged his sailors with \"perhaps\". His Em-peddokleez, he told straight.\n\nTwo scholars of Greek myth, Ah-gheereh and Buxton, have serious doubts about the dwarf-elephant explanation.\n\nPossible. Provable? No.",
+   "next": "By the fifth century B.C., the Cyclopes have a Sicilian address, next to Mount Etna. Euripides sets a comic play there.\n\nLater, the poet Callimachus sends the smiths to the same neighbourhood, to work for the smith god.\n\nThoo-sididdeez lists the Cyclopes among the earliest people spoken of in Sicily"
+  },
+  {
+   "id": "P13",
+   "label": "suspect 2 b: addresses",
+   "beats": [
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96
+   ],
+   "text": "By the fifth century B.C., the Cyclopes have a Sicilian address, next to Mount Etna. Euripides sets a comic play there.\n\nLater, the poet Callimachus sends the smiths to the same neighbourhood, to work for the smith god.\n\nThoo-sididdeez lists the Cyclopes among the earliest people spoken of in Sicily. Then he admits, \"I cannot tell of what race they were.\"\n\nLocals, he records, believed the smith god kept a forge on one of the Aeolian islands. Flame by night. Smoke by day.\n\nForges need fire. Sicily had volcanoes. You can see how the two met.\n\nIn the third century B.C., Thee-ockritus has Pollifeemus sing a love song to a sea nymph. He frets about his looks: one long unbroken eyebrow, and one eye.\n\nPlausible. Provable? Also no.",
+   "chars": 733,
+   "segs": [
+    {
+     "beat": 90,
+     "speaker": "NARR",
+     "script": "By the fifth century BC, the Cyclopes have a Sicilian address, next to Mount Etna. Euripides sets a comic play there.",
+     "line_orig": "By the fifth century BC, the Cyclopes have a Sicilian address, next to Mount Etna. Euripides sets a comic play there.",
+     "sent": "By the fifth century B.C., the Cyclopes have a Sicilian address, next to Mount Etna. Euripides sets a comic play there.",
+     "attr": null,
+     "start": 0,
+     "end": 119
+    },
+    {
+     "beat": 91,
+     "speaker": "NARR",
+     "script": "Later, the poet Callimachus sends the smiths to the same neighbourhood, to work for the smith god.",
+     "line_orig": "Later, the poet Callimachus sends the smiths to the same neighbourhood, to work for the smith god.",
+     "sent": "Later, the poet Callimachus sends the smiths to the same neighbourhood, to work for the smith god.",
+     "attr": null,
+     "start": 121,
+     "end": 219
+    },
+    {
+     "beat": 92,
+     "speaker": "NARR",
+     "script": "Thucydides lists the Cyclopes among the earliest people spoken of in Sicily. Then he admits, \"I cannot tell of what race they were.\"",
+     "line_orig": "Thucydides lists the Cyclopes among the earliest people spoken of in Sicily. Then he admits, \"I cannot tell of what race they were.\"",
+     "sent": "Thoo-sididdeez lists the Cyclopes among the earliest people spoken of in Sicily. Then he admits, \"I cannot tell of what race they were.\"",
+     "attr": null,
+     "start": 221,
+     "end": 357
+    },
+    {
+     "beat": 93,
+     "speaker": "NARR",
+     "script": "Locals, he records, believed the smith god kept a forge on one of the Aeolian islands. Flame by night. Smoke by day.",
+     "line_orig": "Locals, he records, believed the smith god kept a forge on one of the Aeolian islands. Flame by night. Smoke by day.",
+     "sent": "Locals, he records, believed the smith god kept a forge on one of the Aeolian islands. Flame by night. Smoke by day.",
+     "attr": null,
+     "start": 359,
+     "end": 475
+    },
+    {
+     "beat": 94,
+     "speaker": "NARR",
+     "script": "Forges need fire. Sicily had volcanoes. You can see how the two met.",
+     "line_orig": "Forges need fire. Sicily had volcanoes. You can see how the two met.",
+     "sent": "Forges need fire. Sicily had volcanoes. You can see how the two met.",
+     "attr": null,
+     "start": 477,
+     "end": 545
+    },
+    {
+     "beat": 95,
+     "speaker": "NARR",
+     "script": "In the third century BC, Theocritus has Polyphemus sing a love song to a sea nymph. He frets about his looks: one long unbroken eyebrow, and one eye.",
+     "line_orig": "In the third century BC, Theocritus has Polyphemus sing a love song to a sea nymph. He frets about his looks: one long unbroken eyebrow, and one eye.",
+     "sent": "In the third century B.C., Thee-ockritus has Pollifeemus sing a love song to a sea nymph. He frets about his looks: one long unbroken eyebrow, and one eye.",
+     "attr": null,
+     "start": 547,
+     "end": 702
+    },
+    {
+     "beat": 96,
+     "speaker": "NARR",
+     "script": "Plausible. Provable? Also no.",
+     "line_orig": "Plausible. Provable? Also no.",
+     "sent": "Plausible. Provable? Also no.",
+     "attr": null,
+     "start": 704,
+     "end": 733
+    }
+   ],
+   "prev": "ok Nine shrug Zeus off.\n\n\"I keep sheep,\" the giant said awkwardly.\n\n\"Sheep.\"\n\nHesiod's Cyclopes have careers.\n\nAnd there it is, the line Book Nine never gave us: one eye only, in the middle of the forehead.\n\nThe scholar Walter Boor-kert suggested that real guilds of metalworkers may lie behind them.",
+   "next": "Suspect three is not a story. You can go and stand next to it.\n\nAt Tie-rinz and Mycenae, Bronze Age walls rise from boulders so big you wonder who lifted them.\n\n\"Who lifted those?\" a crewman asked.\n\nAt Tie-rinz, the travel writer Paw-sayneeus finds stones so big that a pair of mules could not move e"
+  },
+  {
+   "id": "P14",
+   "label": "suspect 3: the walls",
+   "beats": [
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105
+   ],
+   "text": "Suspect three is not a story. You can go and stand next to it.\n\nAt Tie-rinz and Mycenae, Bronze Age walls rise from boulders so big you wonder who lifted them.\n\n\"Who lifted those?\" a crewman asked.\n\nAt Tie-rinz, the travel writer Paw-sayneeus finds stones so big that a pair of mules could not move even the smallest.\n\nHe reports that the Cyclopes built that wall, and that Mycenae's wall and Lion Gate are said to be theirs too.\n\nHomer: twenty-two wagons for one door. Paw-sayneeus: two mules, and the stone wins. The Greeks measured giants in wagons and mules.\n\nThe Lion Gate is about twelve fifty B.C.. People built it, and later Greeks credited the Cyclopes. Archaeologists still call the style cyclopean masonry.\n\nThe wall is real. The giants were the Greeks' explanation for it. It cannot tell us where Homer's giant began.",
+   "chars": 829,
+   "segs": [
+    {
+     "beat": 98,
+     "speaker": "NARR",
+     "script": "Suspect three is not a story. You can go and stand next to it.",
+     "line_orig": "Suspect three is not a story. You can go and stand next to it.",
+     "sent": "Suspect three is not a story. You can go and stand next to it.",
+     "attr": null,
+     "start": 0,
+     "end": 62
+    },
+    {
+     "beat": 99,
+     "speaker": "NARR",
+     "script": "At Tiryns and Mycenae, Bronze Age walls rise from boulders so big you wonder who lifted them.",
+     "line_orig": "At Tiryns and Mycenae, Bronze Age walls rise from boulders so big you wonder who lifted them.",
+     "sent": "At Tie-rinz and Mycenae, Bronze Age walls rise from boulders so big you wonder who lifted them.",
+     "attr": null,
+     "start": 64,
+     "end": 159
+    },
+    {
+     "beat": 100,
+     "speaker": "CREW",
+     "script": "Who lifted those?",
+     "line_orig": "\"Who lifted those?\" a crewman asked.",
+     "sent": "\"Who lifted those?\" a crewman asked.",
+     "attr": "a crewman asked",
+     "start": 161,
+     "end": 197
+    },
+    {
+     "beat": 101,
+     "speaker": "NARR",
+     "script": "At Tiryns, the travel writer Pausanias finds stones so big that a pair of mules could not move even the smallest.",
+     "line_orig": "At Tiryns, the travel writer Pausanias finds stones so big that a pair of mules could not move even the smallest.",
+     "sent": "At Tie-rinz, the travel writer Paw-sayneeus finds stones so big that a pair of mules could not move even the smallest.",
+     "attr": null,
+     "start": 199,
+     "end": 317
+    },
+    {
+     "beat": 102,
+     "speaker": "NARR",
+     "script": "He reports that the Cyclopes built that wall, and that Mycenae's wall and Lion Gate are said to be theirs too.",
+     "line_orig": "He reports that the Cyclopes built that wall, and that Mycenae's wall and Lion Gate are said to be theirs too.",
+     "sent": "He reports that the Cyclopes built that wall, and that Mycenae's wall and Lion Gate are said to be theirs too.",
+     "attr": null,
+     "start": 319,
+     "end": 429
+    },
+    {
+     "beat": 103,
+     "speaker": "NARR",
+     "script": "Homer: twenty-two wagons for one door. Pausanias: two mules, and the stone wins. The Greeks measured giants in wagons and mules.",
+     "line_orig": "Homer: twenty-two wagons for one door. Pausanias: two mules, and the stone wins. The Greeks measured giants in wagons and mules.",
+     "sent": "Homer: twenty-two wagons for one door. Paw-sayneeus: two mules, and the stone wins. The Greeks measured giants in wagons and mules.",
+     "attr": null,
+     "start": 431,
+     "end": 562
+    },
+    {
+     "beat": 104,
+     "speaker": "NARR",
+     "script": "The Lion Gate is about twelve fifty BC. People built it, and later Greeks credited the Cyclopes. Archaeologists still call the style cyclopean masonry.",
+     "line_orig": "The Lion Gate is about twelve fifty BC. People built it, and later Greeks credited the Cyclopes. Archaeologists still call the style cyclopean masonry.",
+     "sent": "The Lion Gate is about twelve fifty B.C.. People built it, and later Greeks credited the Cyclopes. Archaeologists still call the style cyclopean masonry.",
+     "attr": null,
+     "start": 564,
+     "end": 717
+    },
+    {
+     "beat": 105,
+     "speaker": "NARR",
+     "script": "The wall is real. The giants were the Greeks' explanation for it. It cannot tell us where Homer's giant began.",
+     "line_orig": "The wall is real. The giants were the Greeks' explanation for it. It cannot tell us where Homer's giant began.",
+     "sent": "The wall is real. The giants were the Greeks' explanation for it. It cannot tell us where Homer's giant began.",
+     "attr": null,
+     "start": 719,
+     "end": 829
+    }
+   ],
+   "prev": "ian islands. Flame by night. Smoke by day.\n\nForges need fire. Sicily had volcanoes. You can see how the two met.\n\nIn the third century B.C., Thee-ockritus has Pollifeemus sing a love song to a sea nymph. He frets about his looks: one long unbroken eyebrow, and one eye.\n\nPlausible. Provable? Also no.",
+   "next": "Suspect four does not need an elephant, a smith, or a wall. It does not even need Sicily.\n\nStrip off the names, and you have a story you have already watched. A man is trapped by a giant, blinds him, and gets away.\n\nScholars have recorded more than two hundred versions. Iceland. Portugal. Russia. Ev"
+  },
+  {
+   "id": "P15",
+   "label": "suspect 4: the folktale",
+   "beats": [
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113
+   ],
+   "text": "Suspect four does not need an elephant, a smith, or a wall. It does not even need Sicily.\n\nStrip off the names, and you have a story you have already watched. A man is trapped by a giant, blinds him, and gets away.\n\nScholars have recorded more than two hundred versions. Iceland. Portugal. Russia. Even the Arabian Nights.\n\nMost scholars think the tale is older than Homer.\n\n\"So I was not the first,\" Odysseus muttered.\n\nThat does not rule out the skull. It does mean the story does not need one.\n\nOn that view, Homer did not invent the Cyclops story. He gave us the best-known version.",
+   "chars": 586,
+   "segs": [
+    {
+     "beat": 107,
+     "speaker": "NARR",
+     "script": "Suspect four does not need an elephant, a smith, or a wall. It does not even need Sicily.",
+     "line_orig": "Suspect four does not need an elephant, a smith, or a wall. It does not even need Sicily.",
+     "sent": "Suspect four does not need an elephant, a smith, or a wall. It does not even need Sicily.",
+     "attr": null,
+     "start": 0,
+     "end": 89
+    },
+    {
+     "beat": 108,
+     "speaker": "NARR",
+     "script": "Strip off the names, and you have a story you have already watched. A man is trapped by a giant, blinds him, and gets away.",
+     "line_orig": "Strip off the names, and you have a story you have already watched. A man is trapped by a giant, blinds him, and gets away.",
+     "sent": "Strip off the names, and you have a story you have already watched. A man is trapped by a giant, blinds him, and gets away.",
+     "attr": null,
+     "start": 91,
+     "end": 214
+    },
+    {
+     "beat": 109,
+     "speaker": "NARR",
+     "script": "Scholars have recorded more than two hundred versions. Iceland. Portugal. Russia. Even the Arabian Nights.",
+     "line_orig": "Scholars have recorded more than two hundred versions. Iceland. Portugal. Russia. Even the Arabian Nights.",
+     "sent": "Scholars have recorded more than two hundred versions. Iceland. Portugal. Russia. Even the Arabian Nights.",
+     "attr": null,
+     "start": 216,
+     "end": 322
+    },
+    {
+     "beat": 110,
+     "speaker": "NARR",
+     "script": "Most scholars think the tale is older than Homer.",
+     "line_orig": "Most scholars think the tale is older than Homer.",
+     "sent": "Most scholars think the tale is older than Homer.",
+     "attr": null,
+     "start": 324,
+     "end": 373
+    },
+    {
+     "beat": 111,
+     "speaker": "ODY",
+     "script": "So I was not the first.",
+     "line_orig": "\"So I was not the first,\" Odysseus muttered.",
+     "sent": "\"So I was not the first,\" Odysseus muttered.",
+     "attr": "Odysseus muttered",
+     "start": 375,
+     "end": 419
+    },
+    {
+     "beat": 112,
+     "speaker": "NARR",
+     "script": "That does not rule out the skull. It does mean the story does not need one.",
+     "line_orig": "That does not rule out the skull. It does mean the story does not need one.",
+     "sent": "That does not rule out the skull. It does mean the story does not need one.",
+     "attr": null,
+     "start": 421,
+     "end": 496
+    },
+    {
+     "beat": 113,
+     "speaker": "NARR",
+     "script": "On that view, Homer did not invent the Cyclops story. He gave us the best-known version.",
+     "line_orig": "On that view, Homer did not invent the Cyclops story. He gave us the best-known version.",
+     "sent": "On that view, Homer did not invent the Cyclops story. He gave us the best-known version.",
+     "attr": null,
+     "start": 498,
+     "end": 586
+    }
+   ],
+   "prev": "sured giants in wagons and mules.\n\nThe Lion Gate is about twelve fifty B.C.. People built it, and later Greeks credited the Cyclopes. Archaeologists still call the style cyclopean masonry.\n\nThe wall is real. The giants were the Greeks' explanation for it. It cannot tell us where Homer's giant began.",
+   "next": "Four suspects. The smiths have Hesiod. The walls have Paw-sayneeus. The folktale has two hundred versions. The elephant has real skulls, and an imaginary sailor.\n\nSo was the Cyclops real? As a one-eyed giant who eats sailors, no.\n\n\"Rude.\"\n\nBut the name is real. It was wrapped around a forge, a wall,"
+  },
+  {
+   "id": "P16",
+   "label": "verdict and tease",
+   "beats": [
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121
+   ],
+   "text": "Four suspects. The smiths have Hesiod. The walls have Paw-sayneeus. The folktale has two hundred versions. The elephant has real skulls, and an imaginary sailor.\n\nSo was the Cyclops real? As a one-eyed giant who eats sailors, no.\n\n\"Rude.\"\n\nBut the name is real. It was wrapped around a forge, a wall, a story, and perhaps a skull.\n\nWho can prove where the Cyclops came from?\n\n\"Nobody.\"\n\nNext time: the wind in the bag, the witch with the wand, and the other monsters of the Odyssey.\n\nOdysseus thinks the worst is behind him. He has just told a giant his name, and the giant has a father.",
+   "chars": 587,
+   "segs": [
+    {
+     "beat": 114,
+     "speaker": "NARR",
+     "script": "Four suspects. The smiths have Hesiod. The walls have Pausanias. The folktale has two hundred versions. The elephant has real skulls, and an imaginary sailor.",
+     "line_orig": "Four suspects. The smiths have Hesiod. The walls have Pausanias. The folktale has two hundred versions. The elephant has real skulls, and an imaginary sailor.",
+     "sent": "Four suspects. The smiths have Hesiod. The walls have Paw-sayneeus. The folktale has two hundred versions. The elephant has real skulls, and an imaginary sailor.",
+     "attr": null,
+     "start": 0,
+     "end": 161
+    },
+    {
+     "beat": 115,
+     "speaker": "NARR",
+     "script": "So was the Cyclops real? As a one-eyed giant who eats sailors, no.",
+     "line_orig": "So was the Cyclops real? As a one-eyed giant who eats sailors, no.",
+     "sent": "So was the Cyclops real? As a one-eyed giant who eats sailors, no.",
+     "attr": null,
+     "start": 163,
+     "end": 229
+    },
+    {
+     "beat": 116,
+     "speaker": "POLY",
+     "script": "Rude.",
+     "line_orig": "\"Rude.\"",
+     "sent": "\"Rude.\"",
+     "attr": null,
+     "start": 231,
+     "end": 238
+    },
+    {
+     "beat": 117,
+     "speaker": "NARR",
+     "script": "But the name is real. It was wrapped around a forge, a wall, a story, and perhaps a skull.",
+     "line_orig": "But the name is real. It was wrapped around a forge, a wall, a story, and perhaps a skull.",
+     "sent": "But the name is real. It was wrapped around a forge, a wall, a story, and perhaps a skull.",
+     "attr": null,
+     "start": 240,
+     "end": 330
+    },
+    {
+     "beat": 118,
+     "speaker": "NARR",
+     "script": "Who can prove where the Cyclops came from?",
+     "line_orig": "Who can prove where the Cyclops came from?",
+     "sent": "Who can prove where the Cyclops came from?",
+     "attr": null,
+     "start": 332,
+     "end": 374
+    },
+    {
+     "beat": 119,
+     "speaker": "ODY",
+     "script": "Nobody.",
+     "line_orig": "\"Nobody.\"",
+     "sent": "\"Nobody.\"",
+     "attr": null,
+     "start": 376,
+     "end": 385
+    },
+    {
+     "beat": 120,
+     "speaker": "NARR",
+     "script": "Next time: the wind in the bag, the witch with the wand, and the other monsters of the Odyssey.",
+     "line_orig": "Next time: the wind in the bag, the witch with the wand, and the other monsters of the Odyssey.",
+     "sent": "Next time: the wind in the bag, the witch with the wand, and the other monsters of the Odyssey.",
+     "attr": null,
+     "start": 387,
+     "end": 482
+    },
+    {
+     "beat": 121,
+     "speaker": "NARR",
+     "script": "Odysseus thinks the worst is behind him. He has just told a giant his name, and the giant has a father.",
+     "line_orig": "Odysseus thinks the worst is behind him. He has just told a giant his name, and the giant has a father.",
+     "sent": "Odysseus thinks the worst is behind him. He has just told a giant his name, and the giant has a father.",
+     "attr": null,
+     "start": 484,
+     "end": 587
+    }
+   ],
+   "prev": "al. Russia. Even the Arabian Nights.\n\nMost scholars think the tale is older than Homer.\n\n\"So I was not the first,\" Odysseus muttered.\n\nThat does not rule out the skull. It does mean the story does not need one.\n\nOn that view, Homer did not invent the Cyclops story. He gave us the best-known version.",
+   "next": ""
+  }
+ ],
+ "chips": {
+  "59": "SUSPECT 1: THE DWARF ELEPHANT",
+  "81": "SUSPECT 2: THE SMITHS",
+  "97": "SUSPECT 3: THE WALLS",
+  "106": "SUSPECT 4: THE FOLKTALE"
+ }
+}

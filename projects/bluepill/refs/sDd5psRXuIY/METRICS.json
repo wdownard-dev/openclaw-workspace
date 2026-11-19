@@ -1,0 +1,169 @@
+{
+ "video_id": "sDd5psRXuIY",
+ "title": "Inside Florida's Drug Smuggling Islands",
+ "duration_s": 1632.13,
+ "visual": {
+  "shots": 399,
+  "cuts_per_min": 14.7,
+  "pops_per_min": 83.4,
+  "visible_changes_per_min": 109.0,
+  "shot_p10_s": 0.5,
+  "shot_median_s": 2.4,
+  "shot_p90_s": 8.7,
+  "shot_max_s": 45.5,
+  "white_dominant_pct_gt60": 0.6,
+  "white_dominant_pct_gt40": 1.6,
+  "mean_luminance": 121.3,
+  "text_edge_density_mean_E": 0.0074,
+  "text_heavy_frames_pct_E": 4.0,
+  "palette": [
+   {
+    "hex": "#504b44",
+    "share_pct": 23.2
+   },
+   {
+    "hex": "#767675",
+    "share_pct": 22.4
+   },
+   {
+    "hex": "#261d1b",
+    "share_pct": 17.2
+   },
+   {
+    "hex": "#e0ebec",
+    "share_pct": 13.3
+   },
+   {
+    "hex": "#719ecf",
+    "share_pct": 12.4
+   },
+   {
+    "hex": "#adafaa",
+    "share_pct": 11.5
+   }
+  ]
+ },
+ "text": {
+  "sentence_split": "punctuation",
+  "words": 5135,
+  "wpm": 188.8,
+  "wpm_speaking_span": 189.1,
+  "sentences": 456,
+  "sentences_per_min": 16.8,
+  "words_per_sentence_mean": 11.3,
+  "words_per_sentence_median": 9.0,
+  "pct_sentences_le6w": 34.9,
+  "questions_per_min": 2.1
+ },
+ "hook": {
+  "shots": [
+   {
+    "start": 0.0,
+    "len": 3.5
+   },
+   {
+    "start": 3.5,
+    "len": 1.83
+   },
+   {
+    "start": 5.33,
+    "len": 1.37
+   },
+   {
+    "start": 6.7,
+    "len": 2.23
+   },
+   {
+    "start": 8.93,
+    "len": 2.4
+   },
+   {
+    "start": 11.33,
+    "len": 1.84
+   },
+   {
+    "start": 13.17,
+    "len": 2.73
+   },
+   {
+    "start": 15.9,
+    "len": 4.03
+   },
+   {
+    "start": 19.93,
+    "len": 3.04
+   },
+   {
+    "start": 22.97,
+    "len": 4.23
+   },
+   {
+    "start": 27.2,
+    "len": 5.07
+   }
+  ],
+  "words": "The largest job that was ever brought in to the United States come in right here, guys. 122,000 lb, 61 tons. We had 19 boats on it. >> In 1983, nearly 80% of the men in Everglade City were arrested for smuggling pot. >> The Drug Enforcement Administration says this community of 700 people is the hub of an international marijuana smuggling ranch. >> Did you get arrested? >> Oh, yeah. We went to prison, but we they never"
+ },
+ "chapters": [
+  {
+   "start_time": 0,
+   "title": "Intro",
+   "end_time": 91
+  },
+  {
+   "start_time": 91,
+   "title": "History",
+   "end_time": 176
+  },
+  {
+   "start_time": 176,
+   "title": "Ten Thousand Islands",
+   "end_time": 257
+  },
+  {
+   "start_time": 257,
+   "title": "Lynn (Smallwood Store Owner)",
+   "end_time": 485
+  },
+  {
+   "start_time": 485,
+   "title": "Kent Daniels (Former Smuggler)",
+   "end_time": 637
+  },
+  {
+   "start_time": 637,
+   "title": "Rod & Gun Club",
+   "end_time": 776
+  },
+  {
+   "start_time": 776,
+   "title": "George H.W. Bush Conspiracy",
+   "end_time": 862
+  },
+  {
+   "start_time": 862,
+   "title": "Cuban Coffee Shop",
+   "end_time": 981
+  },
+  {
+   "start_time": 981,
+   "title": "Kent\u2019s Full Story",
+   "end_time": 1356
+  },
+  {
+   "start_time": 1356,
+   "title": "What to Do With All the Money?",
+   "end_time": 1472
+  },
+  {
+   "start_time": 1472,
+   "title": "Getting Caught",
+   "end_time": 1596
+  },
+  {
+   "start_time": 1596,
+   "title": "Outro",
+   "end_time": 1632
+  }
+ ]
+}

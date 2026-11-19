@@ -1,0 +1,21 @@
+{
+ "file": "prop__hammer__a.png",
+ "source": "../gen/prop__hammer__a1.png",
+ "width": 1222,
+ "height": 868,
+ "feet": {
+  "x": 1093,
+  "y": 859
+ },
+ "height_px_at_1080": 868,
+ "src_bbox": [
+  129,
+  7,
+  1334,
+  858
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

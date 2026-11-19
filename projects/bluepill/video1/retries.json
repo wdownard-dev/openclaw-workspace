@@ -1,0 +1,171 @@
+{
+ "NB01:2": {
+  "prompt_file": "prompts/NB01_a2.src.txt",
+  "refs": [
+   "cy_v4_flat.png",
+   "scene_cy.png"
+  ]
+ },
+ "NB09:2": {
+  "prompt_file": "prompts/NB09_a2.src.txt",
+  "refs": [
+   "cy_v4_flat.png",
+   "scene_cy.png"
+  ]
+ },
+ "NB07:2": {
+  "prompt_file": "prompts/NB07_a2.src.txt",
+  "refs": [
+   "odysseus_A_flat.png"
+  ]
+ },
+ "NP04:2": {
+  "prompt_file": "prompts/NP04_a2.src.txt",
+  "refs": []
+ },
+ "NB01:3": {
+  "prompt_file": "prompts/NB01_a3.src.txt",
+  "refs": [
+   "cy_v4_flat.png"
+  ]
+ },
+ "NB09:3": {
+  "prompt_file": "prompts/NB09_a3.src.txt",
+  "refs": [
+   "cy_v4_flat.png"
+  ]
+ },
+ "NB01:4": {
+  "prompt_file": "prompts/NB01_a4.src.txt",
+  "refs": [
+   "cy_v4_flat.png",
+   "odysseus_A_flat.png"
+  ]
+ },
+ "NB09:4": {
+  "prompt_file": "prompts/NB09_a4.src.txt",
+  "refs": [
+   "cy_v4_flat.png",
+   "odysseus_A_flat.png"
+  ]
+ },
+ "NB12:2": {
+  "prompt_file": "prompts/NB12_a2.src.txt",
+  "refs": [
+   "cy_v4_flat.png",
+   "odysseus_A_flat.png"
+  ]
+ },
+ "NB14:2": {
+  "prompt_file": "prompts/NB14_a2.src.txt",
+  "refs": [
+   "odysseus_A_flat.png",
+   "cy_v4_flat.png"
+  ]
+ },
+ "NB15:2": {
+  "prompt_file": "prompts/NB15_a2.src.txt",
+  "refs": [
+   "cy_v4_flat.png",
+   "odysseus_A_flat.png"
+  ]
+ },
+ "NB16:2": {
+  "prompt_file": "prompts/NB16_a2.src.txt",
+  "refs": [
+   "cy_v4_flat.png",
+   "odysseus_A_flat.png"
+  ]
+ },
+ "NB12:3": {
+  "prompt_file": "prompts/NB12_a3.src.txt",
+  "refs": [
+   "cy_v4_flat.png"
+  ]
+ },
+ "NB14:3": {
+  "prompt_file": "prompts/NB14_a3.src.txt",
+  "refs": [
+   "odysseus_A_flat.png",
+   "cy_v4_flat.png"
+  ]
+ },
+ "NB15:3": {
+  "prompt_file": "prompts/NB15_a3.src.txt",
+  "refs": [
+   "cy_v4_flat.png"
+  ]
+ },
+ "NB16:3": {
+  "prompt_file": "prompts/NB16_a3.src.txt",
+  "refs": [
+   "cy_v4_flat.png"
+  ]
+ },
+ "NB14:4": {
+  "prompt_file": "prompts/NB14_a4.src.txt",
+  "refs": [
+   "odysseus_A_flat.png",
+   "cy_v4_flat.png"
+  ]
+ },
+ "NB15:4": {
+  "prompt_file": "prompts/NB15_a4.src.txt",
+  "refs": [
+   "cy_v4_flat.png"
+  ]
+ },
+ "NB18:2": {
+  "prompt_file": "prompts/NB18_a2.src.txt",
+  "refs": [
+   "ship_flat.png",
+   "sty_land.png"
+  ]
+ },
+ "NB01:5": {
+  "prompt_file": "prompts/NB01_a5.src.txt",
+  "refs": [
+   "cy_v4_flat.png"
+  ]
+ },
+ "NB09:5": {
+  "prompt_file": "prompts/NB09_a5.src.txt",
+  "refs": [
+   "cy_v4_flat.png"
+  ]
+ },
+ "NB23:2": {
+  "prompt_file": "prompts/NB23_a2.src.txt",
+  "refs": [
+   "cy_v4_flat.png"
+  ]
+ },
+ "NBG01:2": {
+  "prompt_file": "prompts/NBG01_a2.src.txt",
+  "refs": [
+   "sty_land.png",
+   "sty_stone.png"
+  ]
+ },
+ "NBG03:2": {
+  "prompt_file": "prompts/NBG03_a2.src.txt",
+  "refs": [
+   "sty_land.png",
+   "sty_stone.png"
+  ]
+ },
+ "NBG01:3": {
+  "prompt_file": "prompts/NBG01_a3.src.txt",
+  "refs": [
+   "sty_land.png",
+   "flock_ref.png"
+  ]
+ },
+ "NBG01:4": {
+  "prompt_file": "prompts/NBG01_a4.src.txt",
+  "refs": [
+   "nbg01_base.png",
+   "flock_ref.png"
+  ]
+ }
+}

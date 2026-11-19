@@ -1,0 +1,21 @@
+{
+ "file": "empedocles__neutral__a.png",
+ "source": "../masters/empedocles_master_white.png",
+ "width": 472,
+ "height": 1030,
+ "feet": {
+  "x": 117,
+  "y": 1021
+ },
+ "height_px_at_1080": 1030,
+ "src_bbox": [
+  271,
+  5,
+  726,
+  1018
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

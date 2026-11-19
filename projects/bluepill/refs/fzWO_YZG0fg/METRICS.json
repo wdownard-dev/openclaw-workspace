@@ -1,0 +1,135 @@
+{
+ "video_id": "fzWO_YZG0fg",
+ "title": "The ENTIRE History of ROME in 13 Minutes",
+ "duration_s": 795.27,
+ "visual": {
+  "shots": 198,
+  "cuts_per_min": 14.9,
+  "pops_per_min": 2.6,
+  "visible_changes_per_min": 30.7,
+  "shot_p10_s": 1.7,
+  "shot_median_s": 3.83,
+  "shot_p90_s": 6.36,
+  "shot_max_s": 9.1,
+  "white_dominant_pct_gt60": 1.1,
+  "white_dominant_pct_gt40": 1.7,
+  "mean_luminance": 118.3,
+  "text_edge_density_mean_E": 0.0434,
+  "text_heavy_frames_pct_E": 78.1,
+  "palette": [
+   {
+    "hex": "#5d483d",
+    "share_pct": 25.1
+   },
+   {
+    "hex": "#8a7a5f",
+    "share_pct": 22.9
+   },
+   {
+    "hex": "#221e20",
+    "share_pct": 18.5
+   },
+   {
+    "hex": "#c3ad82",
+    "share_pct": 14.6
+   },
+   {
+    "hex": "#d7e1da",
+    "share_pct": 12.5
+   },
+   {
+    "hex": "#76abc3",
+    "share_pct": 6.3
+   }
+  ]
+ },
+ "text": {
+  "sentence_split": "punctuation",
+  "words": 2109,
+  "wpm": 159.1,
+  "wpm_speaking_span": 159.3,
+  "sentences": 250,
+  "sentences_per_min": 18.9,
+  "words_per_sentence_mean": 8.4,
+  "words_per_sentence_median": 7.0,
+  "pct_sentences_le6w": 48.8,
+  "questions_per_min": 0.38
+ },
+ "hook": {
+  "shots": [
+   {
+    "start": 0.0,
+    "len": 1.03
+   },
+   {
+    "start": 1.03,
+    "len": 4.04
+   },
+   {
+    "start": 5.07,
+    "len": 2.6
+   },
+   {
+    "start": 7.67,
+    "len": 3.53
+   },
+   {
+    "start": 11.2,
+    "len": 4.93
+   },
+   {
+    "start": 16.13,
+    "len": 6.04
+   },
+   {
+    "start": 22.17,
+    "len": 2.66
+   },
+   {
+    "start": 24.83,
+    "len": 2.3
+   },
+   {
+    "start": 27.13,
+    "len": 2.14
+   },
+   {
+    "start": 29.27,
+    "len": 1.73
+   }
+  ],
+  "words": "At its peak, Rome controlled 1/4 of the entire human population on Earth. Not one country, not one continent. 1/4 of every single person alive on the planet. They built roads so perfectly engineered that cars still drive on them today. They invented concrete, running water, and the idea that every citizen deserves the protection of the law. And then, in less than a century, it all came crashing down. But here's what makes the story different. Rome didn't start"
+ },
+ "chapters": [
+  {
+   "start_time": 0,
+   "title": "The Impossible Empire",
+   "end_time": 45
+  },
+  {
+   "start_time": 45,
+   "title": "It Started With Almost Nothing",
+   "end_time": 222
+  },
+  {
+   "start_time": 222,
+   "title": "The Machine",
+   "end_time": 356
+  },
+  {
+   "start_time": 356,
+   "title": "The Price of Winning",
+   "end_time": 502
+  },
+  {
+   "start_time": 502,
+   "title": "One Man",
+   "end_time": 653
+  },
+  {
+   "start_time": 653,
+   "title": "The Last Act",
+   "end_time": 795
+  }
+ ]
+}

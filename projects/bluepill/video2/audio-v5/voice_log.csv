@@ -1,0 +1,8 @@
+time,passage,beats,script_words,characters,model_id,voice_id,settings,output_format,audio_s,speech_s,wpm,api_seconds,note
+2026-11-13T13:57:16,P1,1-11,90,462,eleven_multilingual_v2,onwK4e9ZLuTAKqWW03F9,"{""stability"": 0.5, ""similarity_boost"": 0.75, ""style"": 0.2, ""use_speaker_boost"": true, ""speed"": 1.0}",mp3_44100_192,36.55,36.55,148,3.0,
+2026-11-13T13:57:23,P2,12-43,234,1267,eleven_multilingual_v2,onwK4e9ZLuTAKqWW03F9,"{""stability"": 0.5, ""similarity_boost"": 0.75, ""style"": 0.2, ""use_speaker_boost"": true, ""speed"": 1.0}",mp3_44100_192,94.88,94.88,148,7.2,
+2026-11-13T13:57:29,P3,44-70,211,1071,eleven_multilingual_v2,onwK4e9ZLuTAKqWW03F9,"{""stability"": 0.5, ""similarity_boost"": 0.75, ""style"": 0.2, ""use_speaker_boost"": true, ""speed"": 1.0}",mp3_44100_192,82.57,82.57,153,6.0,
+2026-11-13T13:57:37,P4,71-104,277,1437,eleven_multilingual_v2,onwK4e9ZLuTAKqWW03F9,"{""stability"": 0.5, ""similarity_boost"": 0.75, ""style"": 0.2, ""use_speaker_boost"": true, ""speed"": 1.0}",mp3_44100_192,111.73,111.73,149,7.9,
+2026-11-13T13:57:43,P5,105-126,187,924,eleven_multilingual_v2,onwK4e9ZLuTAKqWW03F9,"{""stability"": 0.5, ""similarity_boost"": 0.75, ""style"": 0.2, ""use_speaker_boost"": true, ""speed"": 1.0}",mp3_44100_192,71.8,71.8,156,5.5,
+2026-11-13T13:57:48,P6,127-156,228,1233,eleven_multilingual_v2,onwK4e9ZLuTAKqWW03F9,"{""stability"": 0.5, ""similarity_boost"": 0.75, ""style"": 0.2, ""use_speaker_boost"": true, ""speed"": 1.0}",mp3_44100_192,91.63,91.63,149,5.0,
+2026-11-13T13:57:55,P7,157-184,239,1366,eleven_multilingual_v2,onwK4e9ZLuTAKqWW03F9,"{""stability"": 0.5, ""similarity_boost"": 0.75, ""style"": 0.2, ""use_speaker_boost"": true, ""speed"": 1.0}",mp3_44100_192,103.84,103.84,138,7.6,

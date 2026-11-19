@@ -1,0 +1,147 @@
+{
+ "video_id": "rugqa9owECY",
+ "title": "Why Romans Never Used Archers",
+ "duration_s": 675.83,
+ "visual": {
+  "shots": 259,
+  "cuts_per_min": 23.0,
+  "pops_per_min": 125.4,
+  "visible_changes_per_min": 158.1,
+  "shot_p10_s": 1.74,
+  "shot_median_s": 2.3,
+  "shot_p90_s": 3.34,
+  "shot_max_s": 25.9,
+  "white_dominant_pct_gt60": 0.0,
+  "white_dominant_pct_gt40": 0.0,
+  "mean_luminance": 135.6,
+  "text_edge_density_mean_E": 0.0613,
+  "text_heavy_frames_pct_E": 92.8,
+  "palette": [
+   {
+    "hex": "#7b563c",
+    "share_pct": 24.4
+   },
+   {
+    "hex": "#dfb679",
+    "share_pct": 18.7
+   },
+   {
+    "hex": "#4c3021",
+    "share_pct": 18.1
+   },
+   {
+    "hex": "#a78257",
+    "share_pct": 17.5
+   },
+   {
+    "hex": "#ece1c5",
+    "share_pct": 13.6
+   },
+   {
+    "hex": "#a7a294",
+    "share_pct": 7.7
+   }
+  ]
+ },
+ "text": {
+  "sentence_split": "punctuation",
+  "words": 1709,
+  "wpm": 151.7,
+  "wpm_speaking_span": 155.3,
+  "sentences": 164,
+  "sentences_per_min": 14.6,
+  "words_per_sentence_mean": 10.4,
+  "words_per_sentence_median": 10.0,
+  "pct_sentences_le6w": 28.0,
+  "questions_per_min": 0.27
+ },
+ "hook": {
+  "shots": [
+   {
+    "start": 0.0,
+    "len": 2.57
+   },
+   {
+    "start": 2.57,
+    "len": 2.83
+   },
+   {
+    "start": 5.4,
+    "len": 2.57
+   },
+   {
+    "start": 7.97,
+    "len": 2.03
+   },
+   {
+    "start": 10.0,
+    "len": 2.8
+   },
+   {
+    "start": 12.8,
+    "len": 3.73
+   },
+   {
+    "start": 16.53,
+    "len": 1.64
+   },
+   {
+    "start": 18.17,
+    "len": 2.06
+   },
+   {
+    "start": 20.23,
+    "len": 2.27
+   },
+   {
+    "start": 22.5,
+    "len": 1.93
+   },
+   {
+    "start": 24.43,
+    "len": 2.34
+   },
+   {
+    "start": 26.77,
+    "len": 2.93
+   },
+   {
+    "start": 29.7,
+    "len": 2.1
+   }
+  ],
+  "words": "Rome conquered half the known world without a single archer of its own. Mesopotamia, 53 BC. A Roman legionary stands in the desert inside a huge square of shields. The sky above him is turning dark, not with clouds, with arrows. Our legionary has a sword, a shield, two heavy javelins. He has crossed half the world. He has beaten Gauls, Greeks, Spaniards, and right now he can't touch a single one of"
+ },
+ "chapters": [
+  {
+   "start_time": 0,
+   "title": "Carrhae, 53 BC",
+   "end_time": 67
+  },
+  {
+   "start_time": 67,
+   "title": "A legion without bows",
+   "end_time": 180
+  },
+  {
+   "start_time": 180,
+   "title": "The desert",
+   "end_time": 345
+  },
+  {
+   "start_time": 345,
+   "title": "Rome goes shopping",
+   "end_time": 464
+  },
+  {
+   "start_time": 464,
+   "title": "A Roman picks up a bow",
+   "end_time": 544
+  },
+  {
+   "start_time": 544,
+   "title": "The last twist",
+   "end_time": 676
+  }
+ ]
+}

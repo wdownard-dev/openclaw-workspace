@@ -1,0 +1,11 @@
+{
+ "file": "crew__line12__a.png",
+ "source": "code: groups.js from crew__neutral__a, crew__point__a",
+ "width": 1152,
+ "height": 244,
+ "feet": {
+  "x": 576,
+  "y": 235
+ },
+ "height_px_at_1080": 244
+}

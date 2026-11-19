@@ -1,0 +1,25 @@
+import json,subprocess,os,textwrap
+from PIL import Image,ImageDraw,ImageFont
+FF='/home/williamdownard/openclaw-sites/bin/ffmpeg'
+TL=json.load(open('src/slice_timeline.json')); cuts=TL['cuts']; os.makedirs('out/v7_frames',exist_ok=True)
+for c in cuts:
+    t=min(c['start_s']+0.3,TL['total']/TL['fps']-0.6)
+    subprocess.run([FF,'-y','-loglevel','error','-ss',f'{t:.3f}','-i','out/v7_540p.mp4','-frames:v','1','-q:v','3',f"out/v7_frames/{c['beat']}.jpg"],check=True)
+Fm=ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf',15); Ft=ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf',14)
+W=400;IH=225;TXT=62;H=IH+TXT;COLS=6
+def sheet(cs,out):
+    rows=(len(cs)+COLS-1)//COLS; S=Image.new('RGB',(COLS*W,rows*H),(17,17,17)); d=ImageDraw.Draw(S)
+    for i,c in enumerate(cs):
+        x,y=(i%COLS)*W,(i//COLS)*H
+        S.paste(Image.open(f"out/v7_frames/{c['beat']}.jpg").resize((W-4,IH-2)),(x+2,y+2))
+        d.text((x+4,y+IH),f"{c['beat']} {c['move']}{' [var]' if '_v' in c['image'] else ''}",font=Fm,fill=(201,162,39))
+        for k,l in enumerate(textwrap.wrap(c['text'],52)[:3]): d.text((x+4,y+IH+17+k*15),l,font=Ft,fill=(235,235,235))
+    assert S.height<=3000,S.height; S.save(out,quality=85); print(out,S.size)
+n=len(cuts); a=(n+2)//3
+sheet(cuts[:a],'out/v7_sheet_a.jpg'); sheet(cuts[a:2*a],'out/v7_sheet_b.jpg'); sheet(cuts[2*a:],'out/v7_sheet_c.jpg')
+pick=['V5-001','V5-006','V5-019','V5-035','V5-045','V5-056','V5-066','V5-068','V5-079','V5-092','V5-106','V5-120','V5-134','V5-181']
+by={c['beat']:c for c in cuts}; SW,SH=640,360
+S=Image.new('RGB',(2*SW,7*(SH+24)),(17,17,17)); d=ImageDraw.Draw(S)
+for i,b in enumerate(pick):
+    x,y=(i%2)*SW,(i//2)*(SH+24); S.paste(Image.open(f'out/v7_frames/{b}.jpg').resize((SW-4,SH)),(x+2,y+24)); d.text((x+4,y+3),b+' '+by[b]['text'][:60],font=Fm,fill=(201,162,39))
+S.save('out/v7_stills.jpg',quality=88); print('out/v7_stills.jpg',S.size)

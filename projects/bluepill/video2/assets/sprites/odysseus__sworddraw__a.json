@@ -1,0 +1,21 @@
+{
+ "file": "odysseus__sworddraw__a.png",
+ "source": "../gen/odysseus__sworddraw__a1.png",
+ "width": 578,
+ "height": 1008,
+ "feet": {
+  "x": 59,
+  "y": 999
+ },
+ "height_px_at_1080": 1008,
+ "src_bbox": [
+  186,
+  14,
+  747,
+  1005
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

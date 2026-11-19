@@ -1,0 +1,21 @@
+{
+ "file": "prop__giftbox__a.png",
+ "source": "../gen/prop__giftbox__a1.png",
+ "width": 797,
+ "height": 867,
+ "feet": {
+  "x": 502,
+  "y": 858
+ },
+ "height_px_at_1080": 867,
+ "src_bbox": [
+  378,
+  6,
+  1158,
+  856
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

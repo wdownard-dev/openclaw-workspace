@@ -1,0 +1,21 @@
+{
+ "file": "thucydides__palmsup__a.png",
+ "source": "../gen/thucydides__palmsup__a4.png",
+ "width": 554,
+ "height": 1024,
+ "feet": {
+  "x": 192,
+  "y": 1015
+ },
+ "height_px_at_1080": 1024,
+ "src_bbox": [
+  226,
+  12,
+  763,
+  1019
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

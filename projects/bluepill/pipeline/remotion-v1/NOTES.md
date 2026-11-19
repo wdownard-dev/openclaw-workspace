@@ -1,0 +1,7 @@
+# remotion-v1: Video 1 draft assembly (2026-11-12). Not uploaded.
+Rebuild: `cd pipeline/remotion-v1 && node prep_assets.js && node make_audio.js && npx remotion render src/index.ts Video1Draft ../../video1/draft/video1_draft.mp4 --codec=h264 --crf=21 --audio-codec=aac --audio-bitrate=256k --concurrency=11` (about 21 min). `node_modules` is a symlink to `../remotion-proof/node_modules`; `prep_assets.js` needs `/tmp/ne_dl/land50.geojson` and `land110.geojson` (Natural Earth, public domain: raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_50m_land.geojson and ne_110m_land.geojson).
+- `src/spec.tsx`: one entry per shot (`P` = picture with camera, `K` = card/map/diagram; `group` merges consecutive shots into one continuous component). `src/lib/`: Pic (slow camera, grade, cutouts), Cards, Diagrams (skull, scale chart, pictograms), Maps (Natural Earth clipped to the Mediterranean, Argolid and the world), Captions (phrase chunks from words.json), ui.
+- Camera: push-in 3-4 %, pans 5 %, crops 1.05-1.30 zoom, sine ease, no rotation or springs; one x-only kick (shot 37).
+- Stills: `node stills.js <outDir> --shots 1 2 3` or `<t1> <t2>` seconds; `CHECK=1` runs the DOM overflow check; `node sheet.js out.jpg cols cellW files...` for montages. QA: `qa_tools/` (jerk_run.js, jerk_report.js, stretch.js).
+- Audio: `make_audio.js` (voice DSP, stings, synthesised bed, duck, limiter; see video1/draft/MUSIC.md). Thumbnail: `node thumb.js`.
+- Timeline source: `video1/assemble_v3.py` (chunk-end silence trim; backups in video1/audio/v3_backup/).

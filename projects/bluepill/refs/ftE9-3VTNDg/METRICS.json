@@ -1,0 +1,153 @@
+{
+ "video_id": "ftE9-3VTNDg",
+ "title": "The ENTIRE History of the Mongols in 15 Minutes | The Empire Built on Horseback",
+ "duration_s": 932.07,
+ "visual": {
+  "shots": 229,
+  "cuts_per_min": 14.7,
+  "pops_per_min": 2.8,
+  "visible_changes_per_min": 29.2,
+  "shot_p10_s": 1.67,
+  "shot_median_s": 3.77,
+  "shot_p90_s": 6.6,
+  "shot_max_s": 16.8,
+  "white_dominant_pct_gt60": 0.4,
+  "white_dominant_pct_gt40": 0.4,
+  "mean_luminance": 115.0,
+  "text_edge_density_mean_E": 0.0314,
+  "text_heavy_frames_pct_E": 64.1,
+  "palette": [
+   {
+    "hex": "#4f483e",
+    "share_pct": 23.2
+   },
+   {
+    "hex": "#867351",
+    "share_pct": 20.9
+   },
+   {
+    "hex": "#22201e",
+    "share_pct": 20.8
+   },
+   {
+    "hex": "#c0a672",
+    "share_pct": 14.3
+   },
+   {
+    "hex": "#d3dbd3",
+    "share_pct": 12.4
+   },
+   {
+    "hex": "#7ea3b4",
+    "share_pct": 8.4
+   }
+  ]
+ },
+ "text": {
+  "sentence_split": "punctuation",
+  "words": 2293,
+  "wpm": 147.6,
+  "wpm_speaking_span": 147.8,
+  "sentences": 236,
+  "sentences_per_min": 15.2,
+  "words_per_sentence_mean": 9.7,
+  "words_per_sentence_median": 9.0,
+  "pct_sentences_le6w": 33.1,
+  "questions_per_min": 0.58
+ },
+ "hook": {
+  "shots": [
+   {
+    "start": 0.0,
+    "len": 2.97
+   },
+   {
+    "start": 2.97,
+    "len": 2.1
+   },
+   {
+    "start": 5.07,
+    "len": 3.23
+   },
+   {
+    "start": 8.3,
+    "len": 1.07
+   },
+   {
+    "start": 9.37,
+    "len": 1.13
+   },
+   {
+    "start": 10.5,
+    "len": 2.47
+   },
+   {
+    "start": 12.97,
+    "len": 5.16
+   },
+   {
+    "start": 18.13,
+    "len": 4.1
+   },
+   {
+    "start": 22.23,
+    "len": 2.27
+   },
+   {
+    "start": 24.5,
+    "len": 3.1
+   },
+   {
+    "start": 27.6,
+    "len": 2.1
+   },
+   {
+    "start": 29.7,
+    "len": 4.03
+   }
+  ],
+  "words": "The largest connected land empire in history wasn't built by a great city. It was built by people who had no cities at all. No capital, no navy. At first, not even a written language. Yet within a few decades, they ruled from the Pacific Ocean to the gates of central Europe. And the man who started it all was once a starving outcast, abandoned by his own clan. So, how did nomads on horseback conquer the world? And why did their empire fall apart almost"
+ },
+ "chapters": [
+  {
+   "start_time": 0,
+   "title": "The Empire Built on Horseback",
+   "end_time": 0
+  },
+  {
+   "start_time": 0,
+   "title": "The Man With Nothing",
+   "end_time": 0
+  },
+  {
+   "start_time": 0,
+   "title": "The War Machine",
+   "end_time": 0
+  },
+  {
+   "start_time": 0,
+   "title": "Genghis Khan",
+   "end_time": 0
+  },
+  {
+   "start_time": 0,
+   "title": "The Insult at Otrar",
+   "end_time": 0
+  },
+  {
+   "start_time": 0,
+   "title": "Conquest and Limits",
+   "end_time": 0
+  },
+  {
+   "start_time": 0,
+   "title": "What Remains",
+   "end_time": 30
+  },
+  {
+   "start_time": 30,
+   "title": "The Outcast",
+   "end_time": 932
+  }
+ ]
+}

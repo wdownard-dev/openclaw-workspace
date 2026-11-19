@@ -1,0 +1,21 @@
+{
+ "file": "prop__club__a.png",
+ "source": "../gen/prop__club__a1.png",
+ "width": 1504,
+ "height": 793,
+ "feet": {
+  "x": 178,
+  "y": 784
+ },
+ "height_px_at_1080": 793,
+ "src_bbox": [
+  26,
+  41,
+  1513,
+  817
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

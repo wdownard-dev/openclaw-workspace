@@ -1,0 +1,35 @@
+{
+ "character": "empedocles",
+ "palette": {
+  "himation": "#efe6d2",
+  "skin": "#f1c9a0",
+  "ink": "#3a2412"
+ },
+ "immutable_features": [
+  "bald crown, long grey beard",
+  "cream himation",
+  "no wreath, no sash, no red"
+ ],
+ "master": "empedocles__neutral__a.png",
+ "poses": [
+  {
+   "file": "empedocles__neutral__a.png",
+   "pose": "neutral",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "calm",
+   "hands": "at sides",
+   "props": "",
+   "width": 472,
+   "height": 1030,
+   "feet": {
+    "x": 117,
+    "y": 1021
+   },
+   "height_px_at_1080": 1030,
+   "accepted": "2026-11-13",
+   "source_call": "no-spend reuse: empedocles_master_white.png"
+  }
+ ],
+ "aliases": {}
+}

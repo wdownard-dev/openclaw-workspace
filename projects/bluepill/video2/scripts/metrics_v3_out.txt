@@ -1,0 +1,42 @@
+{
+ "spoken_beats": 117,
+ "words": 1676,
+ "sentences": 231,
+ "runtime_min_at_wpm": 10.16,
+ "runtime_mmss": "10:09",
+ "wpm": 165.0,
+ "words_per_sentence_mean": 7.3,
+ "median": 6,
+ "pct_sentences_le6w": 53.2,
+ "pct_sentences_ge25w": 0.0,
+ "sentences_per_min": 22.7,
+ "questions": 20,
+ "questions_per_min": 1.97,
+ "action_per_100w": 3.46,
+ "pct_sentences_with_action_verb": 21.6,
+ "claim_verbs_per_100w": 2.63,
+ "hedge_words": 20,
+ "hedge_per_100w": 1.19,
+ "hedge_per_100w_excluding_suspect": 1.01,
+ "attribution_verbs": 16,
+ "attr_per_100w": 0.95,
+ "pct_sentences_with_number": 13.0,
+ "proper_nouns_midsentence_per_100w": 6.68,
+ "character_voiced_lines": 35,
+ "character_runs": 19,
+ "runs_with_2plus_lines": 9,
+ "pct_words_by_characters": 19.3
+}
+hedge tokens: ['apparently', 'could', 'may', 'might', 'perhaps', 'plausible', 'prove', 'suggested', 'suspect'] {'plausible': 1, 'might': 2, 'suggested': 1, 'suspect': 3, 'may': 1, 'could': 7, 'apparently': 1, 'perhaps': 2, 'prove': 2}
+attr tokens: {'calls': 1, 'suggested': 1, 'mentions': 1, 'lists': 1, 'said': 1, 'names': 1, 'says': 3, 'reported': 1, 'adds': 1, 'named': 1, 'writes': 1, 'reports': 1, 'puts': 2}
+action tokens: {'blinded': 2, 'eat': 1, 'open': 1, 'rise': 1, 'drives': 1, 'threw': 1, 'grabs': 1, 'kill': 1, 'eaten': 1, 'came': 2, 'comes': 3, 'sleep': 1, 'throws': 1, 'walk': 1, 'carry': 1, 'drinks': 1, 'rolls': 1, 'sharpens': 1, 'fire': 4, 'trapped': 1, 'killing': 3, 'ate': 1, 'stand': 1, 'draw': 1, 'standing': 1, 'throw': 1, 'lands': 2, 'reaches': 1, 'come': 4, 'blinds': 1, 'tied': 1, 'eats': 1, 'hides': 1, 'sail': 1, 'falls': 1, 'wakes': 1, 'turned': 1, 'lifted': 2, 'reach': 1, 'wave': 1, 'stood': 1, 'sailing': 1, 'walks': 1, 'tears': 1}
+
+section                       words act/100 hedge/100 attr/100 sec@170
+COLD OPEN                        91    4.40     0.00   0.00     33
+ACT 1                           660    5.91     0.61   0.45    240
+THE TURN                         51    3.92     0.00   5.88     19
+SUSPECT 1                       314    1.27     2.23   1.59    114
+SUSPECT 2                       207    0.48     1.93   0.97     75
+SUSPECT 3                       141    2.84     1.42   1.42     51
+SUSPECT 4                       105    1.90     0.95   0.95     38
+VERDICT AND TEASE               107    1.87     1.87   0.00     39

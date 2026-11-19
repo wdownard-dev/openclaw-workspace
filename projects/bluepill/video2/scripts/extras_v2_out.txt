@@ -1,0 +1,192 @@
+{
+ "file": "../SCRIPT-V2.md",
+ "beats": 105,
+ "words": 1755,
+ "sentences": 219,
+ "sentence_length_buckets": {
+  "1-3": "45 (20.5%)",
+  "4-6": "65 (29.7%)",
+  "7-10": "45 (20.5%)",
+  "11-15": "39 (17.8%)",
+  "16-20": "16 (7.3%)",
+  "21-+": "9 (4.1%)"
+ },
+ "longest_sentence": 26,
+ "runtime": {
+  "155 wpm": "11:19",
+  "165 wpm": "10:38",
+  "170 wpm": "10:19"
+ },
+ "character_lines": 28,
+ "dialogue_runs": 14,
+ "dialogue_runs_2plus": 8,
+ "words_by_speaker": {
+  "NARR": 1435,
+  "ODY": 120,
+  "POLY": 134,
+  "CREW": 35,
+  "CYC2": 31
+ },
+ "longest_dialogue_free_gap_s_at_155": {
+  "overall": 262,
+  "between_beats": [
+   65,
+   108
+  ],
+  "after_turn": 262,
+  "after_turn_between": [
+   65,
+   108
+  ]
+ },
+ "longest_dialogue_free_gap_s_at_165": {
+  "overall": 246,
+  "between_beats": [
+   65,
+   108
+  ],
+  "after_turn": 246,
+  "after_turn_between": [
+   65,
+   108
+  ]
+ },
+ "longest_dialogue_free_gap_s_at_170": {
+  "overall": 239,
+  "between_beats": [
+   65,
+   108
+  ],
+  "after_turn": 239,
+  "after_turn_between": [
+   65,
+   108
+  ]
+ },
+ "character_lines_between_turn_and_last_beat": 2,
+ "character_lines_from_turn_to_final_Nobody": null,
+ "gag_beats": [
+  4,
+  17,
+  26,
+  27,
+  31,
+  32,
+  38,
+  44,
+  47,
+  51,
+  65,
+  69,
+  73,
+  78,
+  82,
+  92,
+  110
+ ],
+ "gag_count": 17,
+ "gags_per_min_at_155": 1.5,
+ "longest_gag_gap_s_at_155": {
+  "seconds": 104,
+  "between_beats": [
+   51,
+   65
+  ],
+  "first_gag_at_s": 10,
+  "last_gag_to_end_s": 8
+ },
+ "gags_per_min_at_165": 1.6,
+ "longest_gag_gap_s_at_165": {
+  "seconds": 97,
+  "between_beats": [
+   51,
+   65
+  ],
+  "first_gag_at_s": 10,
+  "last_gag_to_end_s": 8
+ },
+ "gags_per_min_at_170": 1.65,
+ "longest_gag_gap_s_at_170": {
+  "seconds": 95,
+  "between_beats": [
+   51,
+   65
+  ],
+  "first_gag_at_s": 10,
+  "last_gag_to_end_s": 7
+ },
+ "sections": [
+  {
+   "section": "COLD OPEN",
+   "words": 138,
+   "first_beat": 1,
+   "start_at_155": 0.0,
+   "start_at_165": 0.0,
+   "seconds_at_155": 53,
+   "seconds_at_165": 50
+  },
+  {
+   "section": "ACT 1",
+   "words": 721,
+   "first_beat": 12,
+   "start_at_155": 53.41935483870968,
+   "start_at_165": 50.18181818181818,
+   "seconds_at_155": 279,
+   "seconds_at_165": 262
+  },
+  {
+   "section": "THE TURN",
+   "words": 53,
+   "first_beat": 56,
+   "start_at_155": 332.51612903225805,
+   "start_at_165": 312.3636363636364,
+   "seconds_at_155": 21,
+   "seconds_at_165": 19
+  },
+  {
+   "section": "SUSPECT 1",
+   "words": 274,
+   "first_beat": 60,
+   "start_at_155": 353.0322580645161,
+   "start_at_165": 331.6363636363636,
+   "seconds_at_155": 106,
+   "seconds_at_165": 100
+  },
+  {
+   "section": "SUSPECT 2",
+   "words": 223,
+   "first_beat": 76,
+   "start_at_155": 459.09677419354836,
+   "start_at_165": 431.27272727272725,
+   "seconds_at_155": 86,
+   "seconds_at_165": 81
+  },
+  {
+   "section": "SUSPECT 3",
+   "words": 137,
+   "first_beat": 89,
+   "start_at_155": 545.4193548387096,
+   "start_at_165": 512.3636363636364,
+   "seconds_at_155": 53,
+   "seconds_at_165": 50
+  },
+  {
+   "section": "SUSPECT 4",
+   "words": 99,
+   "first_beat": 98,
+   "start_at_155": 598.4516129032259,
+   "start_at_165": 562.1818181818181,
+   "seconds_at_155": 38,
+   "seconds_at_165": 36
+  },
+  {
+   "section": "VERDICT AND TEASE",
+   "words": 110,
+   "first_beat": 104,
+   "start_at_155": 636.7741935483871,
+   "start_at_165": 598.1818181818181,
+   "seconds_at_155": 43,
+   "seconds_at_165": 40
+  }
+ ]
+}

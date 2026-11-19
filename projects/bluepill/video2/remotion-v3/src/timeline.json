@@ -1,0 +1,1944 @@
+{
+ "fps": 30,
+ "total": 17161,
+ "audioDur": 570.04,
+ "beats": [
+  {
+   "id": "V5-001",
+   "start": 0,
+   "end": 3.244,
+   "plate": true,
+   "parts": [
+    "V5-001"
+   ],
+   "push": false,
+   "text": "Twelve men follow Odysseus into a cave,"
+  },
+  {
+   "id": "V5-002",
+   "start": 3.244,
+   "end": 5.574,
+   "plate": true,
+   "parts": [
+    "V5-002"
+   ],
+   "push": false,
+   "text": "and six of them never come out."
+  },
+  {
+   "id": "V5-003",
+   "start": 5.574,
+   "end": 7.722,
+   "plate": true,
+   "parts": [
+    "V5-003"
+   ],
+   "push": false,
+   "text": "The cave belongs to a giant,"
+  },
+  {
+   "id": "V5-004",
+   "start": 7.722,
+   "end": 12.814,
+   "plate": true,
+   "parts": [
+    "V5-004"
+   ],
+   "push": true,
+   "text": "and he seals its door with a stone that twenty-two wagons could not move."
+  },
+  {
+   "id": "V5-005",
+   "start": 12.814,
+   "end": 15.241,
+   "plate": true,
+   "parts": [
+    "V5-005"
+   ],
+   "push": false,
+   "text": "He eats two men at a time."
+  },
+  {
+   "id": "V5-006",
+   "start": 15.241,
+   "end": 18.05,
+   "plate": true,
+   "parts": [
+    "V5-006"
+   ],
+   "push": false,
+   "text": "Odysseus has no way past that stone,"
+  },
+  {
+   "id": "V5-007",
+   "start": 18.05,
+   "end": 21.977,
+   "plate": true,
+   "parts": [
+    "V5-007"
+   ],
+   "push": false,
+   "text": "only a sharpened stake and a skin of wine."
+  },
+  {
+   "id": "V5-008",
+   "start": 21.977,
+   "end": 25.846,
+   "plate": true,
+   "parts": [
+    "V5-008"
+   ],
+   "push": true,
+   "text": "And then he tells the giant that his name is Nobody."
+  },
+  {
+   "id": "V5-009",
+   "start": 25.846,
+   "end": 31.23,
+   "plate": true,
+   "parts": [
+    "V5-009"
+   ],
+   "push": false,
+   "text": "The giant is Polyphemus, and nobody agrees on where he came from."
+  },
+  {
+   "id": "V5-010",
+   "start": 31.23,
+   "end": 33.569,
+   "plate": true,
+   "parts": [
+    "V5-010"
+   ],
+   "push": false,
+   "text": "So where did the Cyclops come from?"
+  },
+  {
+   "id": "V5-011",
+   "start": 33.569,
+   "end": 36.36,
+   "plate": true,
+   "parts": [
+    "V5-011"
+   ],
+   "push": false,
+   "text": "First, the story."
+  },
+  {
+   "id": "V5-012",
+   "start": 36.36,
+   "end": 38.543,
+   "plate": true,
+   "parts": [
+    "V5-012"
+   ],
+   "push": true,
+   "text": "Sailing home from Troy,"
+  },
+  {
+   "id": "V5-013",
+   "start": 38.543,
+   "end": 41.694,
+   "plate": true,
+   "parts": [
+    "V5-013"
+   ],
+   "push": false,
+   "text": "Odysseus lands in the country of the Cyclopes."
+  },
+  {
+   "id": "V5-014",
+   "start": 41.694,
+   "end": 43.842,
+   "plate": true,
+   "parts": [
+    "V5-014"
+   ],
+   "push": false,
+   "text": "Book Nine never says where,"
+  },
+  {
+   "id": "V5-015",
+   "start": 43.842,
+   "end": 48.027,
+   "plate": true,
+   "parts": [
+    "V5-015"
+   ],
+   "push": false,
+   "text": "because Homer cares about what happens next, not about a map."
+  },
+  {
+   "id": "V5-016",
+   "start": 48.027,
+   "end": 49.732,
+   "plate": true,
+   "parts": [
+    "V5-016"
+   ],
+   "push": true,
+   "text": "He picks twelve men,"
+  },
+  {
+   "id": "V5-017",
+   "start": 49.732,
+   "end": 51.427,
+   "plate": true,
+   "parts": [
+    "V5-017"
+   ],
+   "push": false,
+   "text": "takes a goatskin of wine,"
+  },
+  {
+   "id": "V5-018",
+   "start": 51.427,
+   "end": 53.487,
+   "plate": true,
+   "parts": [
+    "V5-018"
+   ],
+   "push": false,
+   "text": "and walks up to a cave."
+  },
+  {
+   "id": "V5-019",
+   "start": 53.487,
+   "end": 56.273,
+   "plate": true,
+   "parts": [
+    "V5-019"
+   ],
+   "push": false,
+   "text": "Inside, the racks are heavy with cheese,"
+  },
+  {
+   "id": "V5-020",
+   "start": 56.273,
+   "end": 58.34,
+   "plate": true,
+   "parts": [
+    "V5-020"
+   ],
+   "push": true,
+   "text": "the pens are crowded with lambs,"
+  },
+  {
+   "id": "V5-021",
+   "start": 58.34,
+   "end": 60.087,
+   "plate": true,
+   "parts": [
+    "V5-021"
+   ],
+   "push": false,
+   "text": "and nobody is home."
+  },
+  {
+   "id": "V5-023",
+   "start": 60.087,
+   "end": 63.234,
+   "plate": true,
+   "parts": [
+    "V5-023"
+   ],
+   "push": false,
+   "text": "The crew beg him to take the cheeses and run."
+  },
+  {
+   "id": "V5-024",
+   "start": 63.234,
+   "end": 65.428,
+   "plate": true,
+   "parts": [
+    "V5-024"
+   ],
+   "push": false,
+   "text": "But Odysseus wants to meet the owner,"
+  },
+  {
+   "id": "V5-025",
+   "start": 65.428,
+   "end": 68.004,
+   "plate": true,
+   "parts": [
+    "V5-025"
+   ],
+   "push": true,
+   "text": "and he hopes the owner will give him a present."
+  },
+  {
+   "id": "V5-027",
+   "start": 68.004,
+   "end": 71.933,
+   "plate": true,
+   "parts": [
+    "V5-027"
+   ],
+   "push": false,
+   "text": "but Odysseus is famous for being clever, not sensible."
+  },
+  {
+   "id": "V5-028",
+   "start": 71.933,
+   "end": 76.202,
+   "plate": true,
+   "parts": [
+    "V5-028"
+   ],
+   "push": false,
+   "text": "It is the first of many decisions his men will regret."
+  },
+  {
+   "id": "V5-029",
+   "start": 76.202,
+   "end": 78.654,
+   "plate": true,
+   "parts": [
+    "V5-029"
+   ],
+   "push": false,
+   "text": "At dusk the owner comes home,"
+  },
+  {
+   "id": "V5-030",
+   "start": 78.654,
+   "end": 83.784,
+   "plate": true,
+   "parts": [
+    "V5-030"
+   ],
+   "push": true,
+   "text": "and he looks less like a man than a wooded mountain peak standing alone."
+  },
+  {
+   "id": "V5-031",
+   "start": 83.784,
+   "end": 87.763,
+   "plate": true,
+   "parts": [
+    "V5-031"
+   ],
+   "push": false,
+   "text": "The men press back into the shadows and hold their breath."
+  },
+  {
+   "id": "V5-032",
+   "start": 87.763,
+   "end": 89.655,
+   "plate": true,
+   "parts": [
+    "V5-032"
+   ],
+   "push": false,
+   "text": "He drives the flock inside"
+  },
+  {
+   "id": "V5-033",
+   "start": 89.655,
+   "end": 92.552,
+   "plate": true,
+   "parts": [
+    "V5-033"
+   ],
+   "push": false,
+   "text": "and rolls a stone across the door."
+  },
+  {
+   "id": "V5-034",
+   "start": 92.552,
+   "end": 96.317,
+   "plate": true,
+   "parts": [
+    "V5-034"
+   ],
+   "push": true,
+   "text": "Homer says twenty-two wagons could not have moved it."
+  },
+  {
+   "id": "V5-035",
+   "start": 96.317,
+   "end": 98.639,
+   "plate": true,
+   "parts": [
+    "V5-035"
+   ],
+   "push": false,
+   "text": "He asks the strangers who they are,"
+  },
+  {
+   "id": "V5-036",
+   "start": 98.639,
+   "end": 101.351,
+   "plate": true,
+   "parts": [
+    "V5-036"
+   ],
+   "push": false,
+   "text": "and whether they are traders or pirates."
+  },
+  {
+   "id": "V5-037",
+   "start": 101.351,
+   "end": 105.336,
+   "plate": true,
+   "parts": [
+    "V5-037"
+   ],
+   "push": false,
+   "text": "Odysseus asks for hospitality in the name of Zeus,"
+  },
+  {
+   "id": "V5-038",
+   "start": 105.336,
+   "end": 107.42,
+   "plate": true,
+   "parts": [
+    "V5-038"
+   ],
+   "push": true,
+   "text": "who protects guests."
+  },
+  {
+   "id": "V5-039",
+   "start": 107.42,
+   "end": 111.524,
+   "plate": true,
+   "parts": [
+    "V5-039"
+   ],
+   "push": false,
+   "text": "The giant answers that Cyclopes do not care about Zeus."
+  },
+  {
+   "id": "V5-040",
+   "start": 111.524,
+   "end": 115.427,
+   "plate": true,
+   "parts": [
+    "V5-040"
+   ],
+   "push": false,
+   "text": "They keep no laws and hold no assemblies,"
+  },
+  {
+   "id": "V5-041",
+   "start": 115.427,
+   "end": 118.779,
+   "plate": true,
+   "parts": [
+    "V5-041"
+   ],
+   "push": false,
+   "text": "and they think themselves stronger than the gods."
+  },
+  {
+   "id": "V5-042",
+   "start": 118.779,
+   "end": 122.899,
+   "plate": true,
+   "parts": [
+    "V5-042"
+   ],
+   "push": true,
+   "text": "The men are shut in with a creature who fears nothing."
+  },
+  {
+   "id": "V5-043",
+   "start": 122.899,
+   "end": 128.029,
+   "plate": true,
+   "parts": [
+    "V5-043"
+   ],
+   "push": false,
+   "text": "The only way out is behind a stone no human can lift."
+  },
+  {
+   "id": "V5-044",
+   "start": 128.029,
+   "end": 130.384,
+   "plate": true,
+   "parts": [
+    "V5-044"
+   ],
+   "push": false,
+   "text": "Then the giant seizes two of the men"
+  },
+  {
+   "id": "V5-045",
+   "start": 130.384,
+   "end": 132.503,
+   "plate": true,
+   "parts": [
+    "V5-045"
+   ],
+   "push": false,
+   "text": "and eats them for his supper."
+  },
+  {
+   "id": "V5-046",
+   "start": 132.503,
+   "end": 135.974,
+   "plate": true,
+   "parts": [
+    "V5-046"
+   ],
+   "push": true,
+   "text": "Afterwards he falls asleep among his sheep."
+  },
+  {
+   "id": "V5-047",
+   "start": 135.974,
+   "end": 139.992,
+   "plate": true,
+   "parts": [
+    "V5-047"
+   ],
+   "push": false,
+   "text": "Odysseus stands over him with his sword half drawn,"
+  },
+  {
+   "id": "V5-048",
+   "start": 139.992,
+   "end": 143.369,
+   "plate": true,
+   "parts": [
+    "V5-048"
+   ],
+   "push": false,
+   "text": "and for a moment it seems the story is over."
+  },
+  {
+   "id": "V5-049",
+   "start": 143.369,
+   "end": 145.076,
+   "plate": true,
+   "parts": [
+    "V5-049"
+   ],
+   "push": false,
+   "text": "Then he thinks of the stone,"
+  },
+  {
+   "id": "V5-050",
+   "start": 145.076,
+   "end": 146.608,
+   "plate": true,
+   "parts": [
+    "V5-050"
+   ],
+   "push": true,
+   "text": "and of who would move it,"
+  },
+  {
+   "id": "V5-051",
+   "start": 146.608,
+   "end": 148.622,
+   "plate": true,
+   "parts": [
+    "V5-051"
+   ],
+   "push": false,
+   "text": "so he waits for the morning."
+  },
+  {
+   "id": "V5-052",
+   "start": 148.622,
+   "end": 151.791,
+   "plate": true,
+   "parts": [
+    "V5-052"
+   ],
+   "push": false,
+   "text": "He lies awake and counts the men who are left,"
+  },
+  {
+   "id": "V5-053",
+   "start": 151.791,
+   "end": 154.087,
+   "plate": true,
+   "parts": [
+    "V5-053"
+   ],
+   "push": false,
+   "text": "and the number keeps him awake."
+  },
+  {
+   "id": "V5-054",
+   "start": 154.087,
+   "end": 156.676,
+   "plate": true,
+   "parts": [
+    "V5-054"
+   ],
+   "push": true,
+   "text": "At breakfast, two more men go,"
+  },
+  {
+   "id": "V5-055",
+   "start": 156.676,
+   "end": 160.345,
+   "plate": true,
+   "parts": [
+    "V5-055"
+   ],
+   "push": false,
+   "text": "and Homer gives the details, but we will spare you."
+  },
+  {
+   "id": "V5-056",
+   "start": 160.345,
+   "end": 163.571,
+   "plate": true,
+   "parts": [
+    "V5-056"
+   ],
+   "push": false,
+   "text": "Then the giant drives his flock out to pasture,"
+  },
+  {
+   "id": "V5-057",
+   "start": 163.571,
+   "end": 165.901,
+   "plate": true,
+   "parts": [
+    "V5-057"
+   ],
+   "push": false,
+   "text": "and Odysseus gets to work."
+  },
+  {
+   "id": "V5-059",
+   "start": 165.901,
+   "end": 172.109,
+   "plate": true,
+   "parts": [
+    "V5-059"
+   ],
+   "push": true,
+   "text": "He finds the giant's own club, an olive trunk as big as a ship's mast."
+  },
+  {
+   "id": "V5-060",
+   "start": 172.109,
+   "end": 173.606,
+   "plate": true,
+   "parts": [
+    "V5-060"
+   ],
+   "push": false,
+   "text": "He cuts off a length,"
+  },
+  {
+   "id": "V5-061",
+   "start": 173.606,
+   "end": 175.197,
+   "plate": true,
+   "parts": [
+    "V5-061"
+   ],
+   "push": false,
+   "text": "sharpens it to a point,"
+  },
+  {
+   "id": "V5-062",
+   "start": 175.197,
+   "end": 177.956,
+   "plate": true,
+   "parts": [
+    "V5-062"
+   ],
+   "push": false,
+   "text": "and hardens the point in the fire."
+  },
+  {
+   "id": "V5-063",
+   "start": 177.956,
+   "end": 183.137,
+   "plate": true,
+   "parts": [
+    "V5-063"
+   ],
+   "push": true,
+   "text": "For the first time since they entered the cave, the crew have something to do."
+  },
+  {
+   "id": "V5-064",
+   "start": 183.137,
+   "end": 185.401,
+   "plate": true,
+   "parts": [
+    "V5-064"
+   ],
+   "push": false,
+   "text": "Then he hides it under the dung,"
+  },
+  {
+   "id": "V5-065",
+   "start": 185.401,
+   "end": 189.31,
+   "plate": true,
+   "parts": [
+    "V5-065"
+   ],
+   "push": false,
+   "text": "the one thing a cave full of sheep has plenty of."
+  },
+  {
+   "id": "V5-066",
+   "start": 189.31,
+   "end": 193.045,
+   "plate": true,
+   "parts": [
+    "V5-066"
+   ],
+   "push": false,
+   "text": "Four men are chosen by lot to help him carry it."
+  },
+  {
+   "id": "V5-067",
+   "start": 193.045,
+   "end": 197.128,
+   "plate": true,
+   "parts": [
+    "V5-067"
+   ],
+   "push": true,
+   "text": "That evening the giant comes home and takes two more."
+  },
+  {
+   "id": "V5-068",
+   "start": 197.128,
+   "end": 199.711,
+   "plate": true,
+   "parts": [
+    "V5-068"
+   ],
+   "push": false,
+   "text": "Now six of the twelve are gone."
+  },
+  {
+   "id": "V5-069",
+   "start": 199.711,
+   "end": 202.95,
+   "plate": true,
+   "parts": [
+    "V5-069"
+   ],
+   "push": false,
+   "text": "Each meal makes the circle of survivors smaller,"
+  },
+  {
+   "id": "V5-070",
+   "start": 202.95,
+   "end": 206.299,
+   "plate": true,
+   "parts": [
+    "V5-070"
+   ],
+   "push": false,
+   "text": "and the cave a little quieter."
+  },
+  {
+   "id": "V5-071",
+   "start": 206.299,
+   "end": 209.213,
+   "plate": true,
+   "parts": [
+    "V5-071"
+   ],
+   "push": true,
+   "text": "Odysseus steps forward with a bowl of wine"
+  },
+  {
+   "id": "V5-072",
+   "start": 209.213,
+   "end": 211.531,
+   "plate": true,
+   "parts": [
+    "V5-072"
+   ],
+   "push": false,
+   "text": "and offers it to the giant."
+  },
+  {
+   "id": "V5-073",
+   "start": 211.531,
+   "end": 214.973,
+   "plate": true,
+   "parts": [
+    "V5-073"
+   ],
+   "push": false,
+   "text": "The wine came from Maron, a priest of Apollo,"
+  },
+  {
+   "id": "V5-074",
+   "start": 214.973,
+   "end": 219.497,
+   "plate": true,
+   "parts": [
+    "V5-074"
+   ],
+   "push": false,
+   "text": "whose household drank it mixed with twenty parts of water to one."
+  },
+  {
+   "id": "V5-075",
+   "start": 219.497,
+   "end": 223.681,
+   "plate": true,
+   "parts": [
+    "V5-075"
+   ],
+   "push": true,
+   "text": "The giant drinks three bowls, and Homer counts them."
+  },
+  {
+   "id": "V5-076",
+   "start": 223.681,
+   "end": 225.769,
+   "plate": true,
+   "parts": [
+    "V5-076"
+   ],
+   "push": false,
+   "text": "Then he asks the guest's name,"
+  },
+  {
+   "id": "V5-077",
+   "start": 225.769,
+   "end": 227.493,
+   "plate": true,
+   "parts": [
+    "V5-077"
+   ],
+   "push": false,
+   "text": "and promises a present."
+  },
+  {
+   "id": "V5-078",
+   "start": 227.493,
+   "end": 230.413,
+   "plate": true,
+   "parts": [
+    "V5-078"
+   ],
+   "push": false,
+   "text": "Odysseus tells him his name is Nobody."
+  },
+  {
+   "id": "V5-079",
+   "start": 230.413,
+   "end": 234.668,
+   "plate": true,
+   "parts": [
+    "V5-079"
+   ],
+   "push": true,
+   "text": "The giant laughs and says that his present will be this:"
+  },
+  {
+   "id": "V5-080",
+   "start": 234.668,
+   "end": 236.798,
+   "plate": true,
+   "parts": [
+    "V5-080"
+   ],
+   "push": false,
+   "text": "he will eat Nobody last."
+  },
+  {
+   "id": "V5-081",
+   "start": 236.798,
+   "end": 242.518,
+   "plate": true,
+   "parts": [
+    "V5-081"
+   ],
+   "push": false,
+   "text": "A name like that is a joke, and the giant is the only one who does not hear it."
+  },
+  {
+   "id": "V5-084",
+   "start": 242.518,
+   "end": 246.61,
+   "plate": true,
+   "parts": [
+    "V5-084"
+   ],
+   "push": false,
+   "text": "It is a small trick, and the whole escape will hang on it."
+  },
+  {
+   "id": "V5-085",
+   "start": 246.61,
+   "end": 248.397,
+   "plate": true,
+   "parts": [
+    "V5-085"
+   ],
+   "push": true,
+   "text": "The giant sinks to the floor"
+  },
+  {
+   "id": "V5-086",
+   "start": 248.397,
+   "end": 249.877,
+   "plate": true,
+   "parts": [
+    "V5-086"
+   ],
+   "push": false,
+   "text": "and passes out."
+  },
+  {
+   "id": "V5-087",
+   "start": 249.877,
+   "end": 254.782,
+   "plate": true,
+   "parts": [
+    "V5-087"
+   ],
+   "push": false,
+   "text": "Odysseus looks at the sleeping giant, then at his men, and nods."
+  },
+  {
+   "id": "V5-088",
+   "start": 254.782,
+   "end": 257.613,
+   "plate": true,
+   "parts": [
+    "V5-088"
+   ],
+   "push": false,
+   "text": "Odysseus pushes the stake into the fire"
+  },
+  {
+   "id": "V5-089",
+   "start": 257.613,
+   "end": 260.676,
+   "plate": true,
+   "parts": [
+    "V5-089"
+   ],
+   "push": true,
+   "text": "and holds it there until the point glows."
+  },
+  {
+   "id": "V5-090",
+   "start": 260.676,
+   "end": 263.659,
+   "plate": true,
+   "parts": [
+    "V5-090"
+   ],
+   "push": false,
+   "text": "No one speaks, because no one needs to."
+  },
+  {
+   "id": "V5-091",
+   "start": 263.659,
+   "end": 265.936,
+   "plate": true,
+   "parts": [
+    "V5-091"
+   ],
+   "push": false,
+   "text": "Then he and four men lift it"
+  },
+  {
+   "id": "V5-092",
+   "start": 265.936,
+   "end": 268.322,
+   "plate": true,
+   "parts": [
+    "V5-092"
+   ],
+   "push": false,
+   "text": "and put it in the giant's eye."
+  },
+  {
+   "id": "V5-093",
+   "start": 268.322,
+   "end": 271.777,
+   "plate": true,
+   "parts": [
+    "V5-093"
+   ],
+   "push": true,
+   "text": "The cave fills with a sound that is not quite a roar."
+  },
+  {
+   "id": "V5-094",
+   "start": 271.777,
+   "end": 274.9,
+   "plate": true,
+   "parts": [
+    "V5-094"
+   ],
+   "push": false,
+   "text": "Homer reaches for a blacksmith's simile:"
+  },
+  {
+   "id": "V5-095",
+   "start": 274.9,
+   "end": 278.79,
+   "plate": true,
+   "parts": [
+    "V5-095"
+   ],
+   "push": false,
+   "text": "an axe plunged into cold water, hissing."
+  },
+  {
+   "id": "V5-096",
+   "start": 278.79,
+   "end": 282.288,
+   "plate": true,
+   "parts": [
+    "V5-096"
+   ],
+   "push": false,
+   "text": "The giant's scream brings his neighbours to the cave."
+  },
+  {
+   "id": "V5-097",
+   "start": 282.288,
+   "end": 284.766,
+   "plate": true,
+   "parts": [
+    "V5-097"
+   ],
+   "push": true,
+   "text": "They ask if someone is killing him."
+  },
+  {
+   "id": "V5-098",
+   "start": 284.766,
+   "end": 289.999,
+   "plate": true,
+   "parts": [
+    "V5-098"
+   ],
+   "push": false,
+   "text": "He shouts back that Nobody is killing him, by trickery and not by force."
+  },
+  {
+   "id": "V5-099",
+   "start": 289.999,
+   "end": 293.25,
+   "plate": true,
+   "parts": [
+    "V5-099"
+   ],
+   "push": false,
+   "text": "The neighbours reply that if nobody is hurting him,"
+  },
+  {
+   "id": "V5-100",
+   "start": 293.25,
+   "end": 296.042,
+   "plate": true,
+   "parts": [
+    "V5-100"
+   ],
+   "push": false,
+   "text": "it must be a sickness from Zeus."
+  },
+  {
+   "id": "V5-101",
+   "start": 296.042,
+   "end": 299.266,
+   "plate": true,
+   "parts": [
+    "V5-101"
+   ],
+   "push": true,
+   "text": "He should pray to his father and let them sleep."
+  },
+  {
+   "id": "V5-102",
+   "start": 299.266,
+   "end": 302.487,
+   "plate": true,
+   "parts": [
+    "V5-102"
+   ],
+   "push": false,
+   "text": "They go home, and the trick has worked."
+  },
+  {
+   "id": "V5-103",
+   "start": 302.487,
+   "end": 306.927,
+   "plate": true,
+   "parts": [
+    "V5-103"
+   ],
+   "push": false,
+   "text": "The giant has lost his eye, but he has not lost his strength,"
+  },
+  {
+   "id": "V5-104",
+   "start": 306.927,
+   "end": 311.065,
+   "plate": true,
+   "parts": [
+    "V5-104"
+   ],
+   "push": false,
+   "text": "and the stone still waits at the door."
+  },
+  {
+   "id": "V5-105",
+   "start": 311.065,
+   "end": 313.516,
+   "plate": true,
+   "parts": [
+    "V5-105"
+   ],
+   "push": true,
+   "text": "At dawn the sheep file out,"
+  },
+  {
+   "id": "V5-106",
+   "start": 313.516,
+   "end": 317.507,
+   "plate": true,
+   "parts": [
+    "V5-106"
+   ],
+   "push": false,
+   "text": "and the blind giant sits in the doorway with his hands out."
+  },
+  {
+   "id": "V5-107",
+   "start": 317.507,
+   "end": 321.918,
+   "plate": true,
+   "parts": [
+    "V5-107"
+   ],
+   "push": false,
+   "text": "The flock is all he can still count, and he counts it by touch."
+  },
+  {
+   "id": "V5-108",
+   "start": 321.918,
+   "end": 324.321,
+   "plate": true,
+   "parts": [
+    "V5-108"
+   ],
+   "push": false,
+   "text": "Odysseus has tied the sheep in threes,"
+  },
+  {
+   "id": "V5-109",
+   "start": 324.321,
+   "end": 327.16,
+   "plate": true,
+   "parts": [
+    "V5-109"
+   ],
+   "push": true,
+   "text": "with a man hanging under each middle one."
+  },
+  {
+   "id": "V5-110",
+   "start": 327.16,
+   "end": 329.68,
+   "plate": true,
+   "parts": [
+    "V5-110"
+   ],
+   "push": false,
+   "text": "He saves the best ram for himself,"
+  },
+  {
+   "id": "V5-111",
+   "start": 329.68,
+   "end": 331.868,
+   "plate": true,
+   "parts": [
+    "V5-111"
+   ],
+   "push": false,
+   "text": "and clings to its belly."
+  },
+  {
+   "id": "V5-112",
+   "start": 331.868,
+   "end": 335.398,
+   "plate": true,
+   "parts": [
+    "V5-112"
+   ],
+   "push": false,
+   "text": "The giant feels along their backs as they pass,"
+  },
+  {
+   "id": "V5-113",
+   "start": 335.398,
+   "end": 337.214,
+   "plate": true,
+   "parts": [
+    "V5-113"
+   ],
+   "push": true,
+   "text": "but never their bellies."
+  },
+  {
+   "id": "V5-115",
+   "start": 337.214,
+   "end": 342.873,
+   "plate": true,
+   "parts": [
+    "V5-115"
+   ],
+   "push": false,
+   "text": "Every sheep is a risk. If one man slips, or one animal bleats,"
+  },
+  {
+   "id": "V5-116",
+   "start": 342.873,
+   "end": 346.994,
+   "plate": true,
+   "parts": [
+    "V5-116"
+   ],
+   "push": false,
+   "text": "the plan ends in the dark, with a very large hand."
+  },
+  {
+   "id": "V5-117",
+   "start": 346.994,
+   "end": 350.944,
+   "plate": true,
+   "parts": [
+    "V5-117"
+   ],
+   "push": false,
+   "text": "Last of all comes the ram that carries Odysseus."
+  },
+  {
+   "id": "V5-118",
+   "start": 350.944,
+   "end": 353.427,
+   "plate": true,
+   "parts": [
+    "V5-118"
+   ],
+   "push": true,
+   "text": "And the giant speaks to it tenderly:"
+  },
+  {
+   "id": "V5-119",
+   "start": 353.427,
+   "end": 357.317,
+   "plate": true,
+   "parts": [
+    "V5-119"
+   ],
+   "push": false,
+   "text": "\"My good ram… you lag last of all."
+  },
+  {
+   "id": "V5-120",
+   "start": 357.317,
+   "end": 361.072,
+   "plate": true,
+   "parts": [
+    "V5-120"
+   ],
+   "push": false,
+   "text": "Is it because you know your master has lost his eye?\""
+  },
+  {
+   "id": "V5-121",
+   "start": 361.072,
+   "end": 364.474,
+   "plate": true,
+   "parts": [
+    "V5-121"
+   ],
+   "push": false,
+   "text": "It is the gentlest moment the giant has in the poem,"
+  },
+  {
+   "id": "V5-122",
+   "start": 364.474,
+   "end": 366.708,
+   "plate": true,
+   "parts": [
+    "V5-122"
+   ],
+   "push": true,
+   "text": "and it is aimed at a ram."
+  },
+  {
+   "id": "V5-123",
+   "start": 366.708,
+   "end": 368.608,
+   "plate": true,
+   "parts": [
+    "V5-123"
+   ],
+   "push": false,
+   "text": "Then he lets it go."
+  },
+  {
+   "id": "V5-124",
+   "start": 368.608,
+   "end": 373.399,
+   "plate": true,
+   "parts": [
+    "V5-124"
+   ],
+   "push": false,
+   "text": "He does not know that he has just let his whole victory walk out of the door."
+  },
+  {
+   "id": "V5-125",
+   "start": 373.399,
+   "end": 376.325,
+   "plate": true,
+   "parts": [
+    "V5-125"
+   ],
+   "push": false,
+   "text": "Outside, the men drop from the sheep"
+  },
+  {
+   "id": "V5-126",
+   "start": 376.325,
+   "end": 380.024,
+   "plate": true,
+   "parts": [
+    "V5-126"
+   ],
+   "push": true,
+   "text": "and drive the whole flock down to the ship."
+  },
+  {
+   "id": "V5-127",
+   "start": 380.024,
+   "end": 382.485,
+   "plate": true,
+   "parts": [
+    "V5-127"
+   ],
+   "push": false,
+   "text": "Odysseus should sail away quietly,"
+  },
+  {
+   "id": "V5-128",
+   "start": 382.485,
+   "end": 384.046,
+   "plate": true,
+   "parts": [
+    "V5-128"
+   ],
+   "push": false,
+   "text": "now that he has won."
+  },
+  {
+   "id": "V5-129",
+   "start": 384.046,
+   "end": 388.536,
+   "plate": true,
+   "parts": [
+    "V5-129"
+   ],
+   "push": false,
+   "text": "Instead, he stands on the deck and jeers at the giant."
+  },
+  {
+   "id": "V5-131",
+   "start": 388.536,
+   "end": 393.807,
+   "plate": true,
+   "parts": [
+    "V5-131"
+   ],
+   "push": true,
+   "text": "It is the one mistake in the whole plan, and it is a mistake of pride."
+  },
+  {
+   "id": "V5-132",
+   "start": 393.807,
+   "end": 397.762,
+   "plate": true,
+   "parts": [
+    "V5-132"
+   ],
+   "push": false,
+   "text": "The giant tears the top off a mountain and throws it."
+  },
+  {
+   "id": "V5-133",
+   "start": 397.762,
+   "end": 400.061,
+   "plate": true,
+   "parts": [
+    "V5-133"
+   ],
+   "push": false,
+   "text": "It lands just in front of the ship,"
+  },
+  {
+   "id": "V5-134",
+   "start": 400.061,
+   "end": 403.236,
+   "plate": true,
+   "parts": [
+    "V5-134"
+   ],
+   "push": false,
+   "text": "and the wave sweeps them back toward the shore."
+  },
+  {
+   "id": "V5-135",
+   "start": 403.236,
+   "end": 405.047,
+   "plate": true,
+   "parts": [
+    "V5-135"
+   ],
+   "push": true,
+   "text": "The crew begs him to stop,"
+  },
+  {
+   "id": "V5-136",
+   "start": 405.047,
+   "end": 408.55,
+   "plate": true,
+   "parts": [
+    "V5-136"
+   ],
+   "push": false,
+   "text": "because the giant has already thrown one rock at them."
+  },
+  {
+   "id": "V5-137",
+   "start": 408.55,
+   "end": 413.083,
+   "plate": true,
+   "parts": [
+    "V5-137"
+   ],
+   "push": false,
+   "text": "But Odysseus shouts once more, and this time he gives his name."
+  },
+  {
+   "id": "V5-138",
+   "start": 413.083,
+   "end": 415.266,
+   "plate": true,
+   "parts": [
+    "V5-138"
+   ],
+   "push": false,
+   "text": "If anyone asks who blinded you,"
+  },
+  {
+   "id": "V5-139",
+   "start": 415.266,
+   "end": 419.66,
+   "plate": true,
+   "parts": [
+    "V5-139"
+   ],
+   "push": true,
+   "text": "tell them it was Odysseus, son of Laertes, of Ithaca."
+  },
+  {
+   "id": "V5-140",
+   "start": 419.66,
+   "end": 421.43,
+   "plate": true,
+   "parts": [
+    "V5-140"
+   ],
+   "push": false,
+   "text": "So much for Nobody."
+  },
+  {
+   "id": "V5-142",
+   "start": 421.43,
+   "end": 425.264,
+   "plate": true,
+   "parts": [
+    "V5-142"
+   ],
+   "push": false,
+   "text": "The giant answers that a prophet named Telemus once warned him"
+  },
+  {
+   "id": "V5-143",
+   "start": 425.264,
+   "end": 427.696,
+   "plate": true,
+   "parts": [
+    "V5-143"
+   ],
+   "push": false,
+   "text": "that Odysseus would take his eye."
+  },
+  {
+   "id": "V5-144",
+   "start": 427.696,
+   "end": 430.354,
+   "plate": true,
+   "parts": [
+    "V5-144"
+   ],
+   "push": true,
+   "text": "He had expected a great warrior,"
+  },
+  {
+   "id": "V5-145",
+   "start": 430.354,
+   "end": 434.578,
+   "plate": true,
+   "parts": [
+    "V5-145"
+   ],
+   "push": false,
+   "text": "and instead he got \"a little insignificant weakling.\""
+  },
+  {
+   "id": "V5-146",
+   "start": 434.578,
+   "end": 437.457,
+   "plate": true,
+   "parts": [
+    "V5-146"
+   ],
+   "push": false,
+   "text": "He offers presents if Odysseus will come back,"
+  },
+  {
+   "id": "V5-147",
+   "start": 437.457,
+   "end": 441.234,
+   "plate": true,
+   "parts": [
+    "V5-147"
+   ],
+   "push": false,
+   "text": "and Odysseus answers that it will take more than Poseidon"
+  },
+  {
+   "id": "V5-148",
+   "start": 441.234,
+   "end": 443.05,
+   "plate": true,
+   "parts": [
+    "V5-148"
+   ],
+   "push": true,
+   "text": "to cure that eye."
+  },
+  {
+   "id": "V5-149",
+   "start": 443.05,
+   "end": 446.171,
+   "plate": true,
+   "parts": [
+    "V5-149"
+   ],
+   "push": false,
+   "text": "Then the giant lifts both hands toward the sky,"
+  },
+  {
+   "id": "V5-150",
+   "start": 446.171,
+   "end": 448.254,
+   "plate": true,
+   "parts": [
+    "V5-150"
+   ],
+   "push": false,
+   "text": "and prays to Poseidon."
+  },
+  {
+   "id": "V5-151",
+   "start": 448.254,
+   "end": 451.835,
+   "plate": true,
+   "parts": [
+    "V5-151"
+   ],
+   "push": false,
+   "text": "Never let Odysseus reach his home, he asks."
+  },
+  {
+   "id": "V5-152",
+   "start": 451.835,
+   "end": 455.986,
+   "plate": true,
+   "parts": [
+    "V5-152"
+   ],
+   "push": true,
+   "text": "Or if he must, let him come \"late and in sore plight,"
+  },
+  {
+   "id": "V5-153",
+   "start": 455.986,
+   "end": 458.571,
+   "plate": true,
+   "parts": [
+    "V5-153"
+   ],
+   "push": false,
+   "text": "after losing all his men.\""
+  },
+  {
+   "id": "V5-154",
+   "start": 458.571,
+   "end": 460.336,
+   "plate": true,
+   "parts": [
+    "V5-154"
+   ],
+   "push": false,
+   "text": "Poseidon listens."
+  },
+  {
+   "id": "V5-155",
+   "start": 460.336,
+   "end": 464.82,
+   "plate": true,
+   "parts": [
+    "V5-155"
+   ],
+   "push": false,
+   "text": "The prayer is answered, and the rest of the Odyssey is the answer."
+  },
+  {
+   "id": "V5-156",
+   "start": 464.82,
+   "end": 469.015,
+   "plate": true,
+   "parts": [
+    "V5-156"
+   ],
+   "push": true,
+   "text": "It will be years before Odysseus sees Ithaca again."
+  },
+  {
+   "id": "V5-157",
+   "start": 469.015,
+   "end": 471.656,
+   "plate": true,
+   "parts": [
+    "V5-157"
+   ],
+   "push": false,
+   "text": "Homer never actually says one eye."
+  },
+  {
+   "id": "V5-158",
+   "start": 471.656,
+   "end": 475.72,
+   "plate": true,
+   "parts": [
+    "V5-158"
+   ],
+   "push": false,
+   "text": "He says \"the eye,\" and takes the rest for granted."
+  },
+  {
+   "id": "V5-159",
+   "start": 475.72,
+   "end": 480.62,
+   "plate": true,
+   "parts": [
+    "V5-159"
+   ],
+   "push": false,
+   "text": "For the one eye, you need Hesiod, around seven hundred B.C."
+  },
+  {
+   "id": "V5-160",
+   "start": 480.62,
+   "end": 485.317,
+   "plate": true,
+   "parts": [
+    "V5-160"
+   ],
+   "push": true,
+   "text": "He has three Cyclopes at a forge, making the thunderbolt for Zeus."
+  },
+  {
+   "id": "V5-161",
+   "start": 485.317,
+   "end": 489.4,
+   "plate": true,
+   "parts": [
+    "V5-161"
+   ],
+   "push": false,
+   "text": "So one idea is that the Cyclopes began as smiths."
+  },
+  {
+   "id": "V5-162",
+   "start": 489.4,
+   "end": 494.853,
+   "plate": true,
+   "parts": [
+    "V5-162"
+   ],
+   "push": false,
+   "text": "In 1914, a palaeontologist named Othenio Abel imagined sailors"
+  },
+  {
+   "id": "V5-163",
+   "start": 494.853,
+   "end": 499.984,
+   "plate": true,
+   "parts": [
+    "V5-163"
+   ],
+   "push": false,
+   "text": "lighting a fire in a beach cave and seeing an elephant skull in the clay."
+  },
+  {
+   "id": "V5-164",
+   "start": 499.984,
+   "end": 503.38,
+   "plate": true,
+   "parts": [
+    "V5-164"
+   ],
+   "push": true,
+   "text": "Abel thought it might be where the Cyclops came from."
+  },
+  {
+   "id": "V5-165",
+   "start": 503.38,
+   "end": 511.133,
+   "plate": true,
+   "parts": [
+    "V5-165"
+   ],
+   "push": false,
+   "text": "Ice Age Sicily had dwarf elephants. Head on, their skulls show one great hole in the middle,"
+  },
+  {
+   "id": "V5-166",
+   "start": 511.133,
+   "end": 513.577,
+   "plate": true,
+   "parts": [
+    "V5-166"
+   ],
+   "push": false,
+   "text": "which is really the nasal cavity."
+  },
+  {
+   "id": "V5-167",
+   "start": 513.577,
+   "end": 515.62,
+   "plate": true,
+   "parts": [
+    "V5-167"
+   ],
+   "push": false,
+   "text": "But Abel's sailors are imagined,"
+  },
+  {
+   "id": "V5-168",
+   "start": 515.62,
+   "end": 519.293,
+   "plate": true,
+   "parts": [
+    "V5-168"
+   ],
+   "push": true,
+   "text": "and it is a modern claim, not ancient evidence."
+  },
+  {
+   "id": "V5-169",
+   "start": 519.293,
+   "end": 521.437,
+   "plate": true,
+   "parts": [
+    "V5-169"
+   ],
+   "push": false,
+   "text": "Then there are the walls."
+  },
+  {
+   "id": "V5-170",
+   "start": 521.437,
+   "end": 524.319,
+   "plate": true,
+   "parts": [
+    "V5-170"
+   ],
+   "push": false,
+   "text": "At Tiryns, the traveller Pausanias wrote"
+  },
+  {
+   "id": "V5-171",
+   "start": 524.319,
+   "end": 528.084,
+   "plate": true,
+   "parts": [
+    "V5-171"
+   ],
+   "push": false,
+   "text": "that a pair of mules could not move even the smallest stone,"
+  },
+  {
+   "id": "V5-172",
+   "start": 528.084,
+   "end": 530.272,
+   "plate": true,
+   "parts": [
+    "V5-172"
+   ],
+   "push": true,
+   "text": "and that the Cyclopes built it."
+  },
+  {
+   "id": "V5-173",
+   "start": 530.272,
+   "end": 534.032,
+   "plate": true,
+   "parts": [
+    "V5-173"
+   ],
+   "push": false,
+   "text": "People built those walls, around twelve fifty B.C.,"
+  },
+  {
+   "id": "V5-174",
+   "start": 534.032,
+   "end": 537.729,
+   "plate": true,
+   "parts": [
+    "V5-174"
+   ],
+   "push": false,
+   "text": "though archaeologists still call the style cyclopean."
+  },
+  {
+   "id": "V5-175",
+   "start": 537.729,
+   "end": 541.024,
+   "plate": true,
+   "parts": [
+    "V5-175"
+   ],
+   "push": false,
+   "text": "In 1904, the scholar Oskar Hackman"
+  },
+  {
+   "id": "V5-176",
+   "start": 541.024,
+   "end": 545.374,
+   "plate": true,
+   "parts": [
+    "V5-176"
+   ],
+   "push": true,
+   "text": "catalogued two hundred and twenty-one versions of one tale."
+  },
+  {
+   "id": "V5-177",
+   "start": 545.374,
+   "end": 550.119,
+   "plate": true,
+   "parts": [
+    "V5-177"
+   ],
+   "push": false,
+   "text": "In it, a man trapped by a giant blinds him and escapes."
+  },
+  {
+   "id": "V5-178",
+   "start": 550.119,
+   "end": 553.01,
+   "plate": true,
+   "parts": [
+    "V5-178"
+   ],
+   "push": false,
+   "text": "They come from Iceland, Portugal and Russia,"
+  },
+  {
+   "id": "V5-179",
+   "start": 553.01,
+   "end": 555.56,
+   "plate": true,
+   "parts": [
+    "V5-179"
+   ],
+   "push": false,
+   "text": "and even from the Arabian Nights."
+  },
+  {
+   "id": "V5-180",
+   "start": 555.56,
+   "end": 558.746,
+   "plate": true,
+   "parts": [
+    "V5-180"
+   ],
+   "push": true,
+   "text": "Many scholars think that tale is older than Homer."
+  },
+  {
+   "id": "V5-181",
+   "start": 558.746,
+   "end": 560.737,
+   "plate": true,
+   "parts": [
+    "V5-181"
+   ],
+   "push": false,
+   "text": "None of them can be proved."
+  },
+  {
+   "id": "V5-182",
+   "start": 560.737,
+   "end": 563.953,
+   "plate": true,
+   "parts": [
+    "V5-182"
+   ],
+   "push": false,
+   "text": "Ask who can prove where the Cyclops came from,"
+  },
+  {
+   "id": "V5-183",
+   "start": 563.953,
+   "end": 567.643,
+   "plate": true,
+   "parts": [
+    "V5-183"
+   ],
+   "push": false,
+   "text": "and the honest answer is the one Odysseus gave him."
+  },
+  {
+   "id": "V5-184",
+   "start": 567.643,
+   "end": 572.04,
+   "plate": true,
+   "parts": [
+    "V5-184"
+   ],
+   "push": true,
+   "text": "Nobody."
+  }
+ ],
+ "missing": []
+}

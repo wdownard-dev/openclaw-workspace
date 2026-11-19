@@ -1,0 +1,140 @@
+{
+ "video_id": "xE5uEHqi8oU",
+ "title": "Baba Yaga Is Older Than You Think: The True Story of the Slavic Witch",
+ "duration_s": 991.73,
+ "visual": {
+  "shots": 139,
+  "cuts_per_min": 8.4,
+  "pops_per_min": 21.1,
+  "visible_changes_per_min": 31.2,
+  "shot_p10_s": 1.5,
+  "shot_median_s": 6.2,
+  "shot_p90_s": 14.1,
+  "shot_max_s": 33.0,
+  "white_dominant_pct_gt60": 0.9,
+  "white_dominant_pct_gt40": 0.9,
+  "mean_luminance": 54.2,
+  "text_edge_density_mean_E": 0.0055,
+  "text_heavy_frames_pct_E": 3.0,
+  "palette": [
+   {
+    "hex": "#1c1610",
+    "share_pct": 30.8
+   },
+   {
+    "hex": "#040403",
+    "share_pct": 22.8
+   },
+   {
+    "hex": "#453021",
+    "share_pct": 18.8
+   },
+   {
+    "hex": "#715647",
+    "share_pct": 16.0
+   },
+   {
+    "hex": "#c09361",
+    "share_pct": 8.0
+   },
+   {
+    "hex": "#e1d6c0",
+    "share_pct": 3.6
+   }
+  ]
+ },
+ "text": {
+  "sentence_split": "punctuation",
+  "words": 2393,
+  "wpm": 144.8,
+  "wpm_speaking_span": 144.9,
+  "sentences": 170,
+  "sentences_per_min": 10.3,
+  "words_per_sentence_mean": 14.1,
+  "words_per_sentence_median": 13.0,
+  "pct_sentences_le6w": 13.5,
+  "questions_per_min": 0.61
+ },
+ "hook": {
+  "shots": [
+   {
+    "start": 0.0,
+    "len": 4.9
+   },
+   {
+    "start": 4.9,
+    "len": 18.77
+   },
+   {
+    "start": 23.67,
+    "len": 4.1
+   },
+   {
+    "start": 27.77,
+    "len": 0.53
+   },
+   {
+    "start": 28.3,
+    "len": 3.53
+   }
+  ],
+  "words": "According to Slavic legends, deep within a dark, eerie forest lies the boundary between the world of the living and the world of the dead. On that boundary stands a hut. It looks nothing like the houses we're used to. Old and darkened by time, it stands high on chicken legs. It has no windows and no doors. And to enter it, you must know a special phrase and [music] make it turn around. But should you enter at all,"
+ },
+ "chapters": [
+  {
+   "start_time": 0,
+   "title": "Who lives in the depths of the forest?",
+   "end_time": 84
+  },
+  {
+   "start_time": 84,
+   "title": "Baba Yaga in modern culture",
+   "end_time": 171
+  },
+  {
+   "start_time": 171,
+   "title": "The frightening appearance of Baba Yaga",
+   "end_time": 236
+  },
+  {
+   "start_time": 236,
+   "title": "A stove, a hut, and a mortar with a broom",
+   "end_time": 323
+  },
+  {
+   "start_time": 323,
+   "title": "The grumpy nature of Baba Yaga",
+   "end_time": 405
+  },
+  {
+   "start_time": 405,
+   "title": "Baba Yaga - the guardian of the border",
+   "end_time": 505
+  },
+  {
+   "start_time": 505,
+   "title": "Why is Baba Yaga a negative character in fairy tales?",
+   "end_time": 575
+  },
+  {
+   "start_time": 575,
+   "title": "The ancient basis of Baba Yaga's image",
+   "end_time": 711
+  },
+  {
+   "start_time": 711,
+   "title": "Why does Baba Yaga put children in the oven",
+   "end_time": 746
+  },
+  {
+   "start_time": 746,
+   "title": "The initiation ritual",
+   "end_time": 810
+  },
+  {
+   "start_time": 810,
+   "title": "Baba Yaga is older than you think",
+   "end_time": 992
+  }
+ ]
+}

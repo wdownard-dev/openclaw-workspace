@@ -1,0 +1,21 @@
+{
+ "file": "prop__drawer_closed__a.png",
+ "source": "../gen/prop__drawer_closed__a1.png",
+ "width": 944,
+ "height": 821,
+ "feet": {
+  "x": 473,
+  "y": 812
+ },
+ "height_px_at_1080": 821,
+ "src_bbox": [
+  303,
+  31,
+  1230,
+  835
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

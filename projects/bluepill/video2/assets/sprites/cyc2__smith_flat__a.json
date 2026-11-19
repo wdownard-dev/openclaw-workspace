@@ -1,0 +1,21 @@
+{
+ "file": "cyc2__smith_flat__a.png",
+ "source": "../gen/cyc2__smith_flat__a1.png",
+ "width": 511,
+ "height": 999,
+ "feet": {
+  "x": 271,
+  "y": 990
+ },
+ "height_px_at_1080": 999,
+ "src_bbox": [
+  254,
+  16,
+  748,
+  998
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

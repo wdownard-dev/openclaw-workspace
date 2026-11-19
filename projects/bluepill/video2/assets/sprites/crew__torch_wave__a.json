@@ -1,0 +1,21 @@
+{
+ "file": "crew__torch__a.png",
+ "source": "../gen/crew__torch__a4.png",
+ "width": 586,
+ "height": 1015,
+ "feet": {
+  "x": 191,
+  "y": 1006
+ },
+ "height_px_at_1080": 1015,
+ "src_bbox": [
+  227,
+  2,
+  796,
+  1000
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

@@ -1,0 +1,168 @@
+{
+ "character": "polyphemus",
+ "palette": {
+  "skin": "#8e8a5a",
+  "hide": "#6b4a2b",
+  "rope": "#d8c08a",
+  "ink": "#3a2412"
+ },
+ "immutable_features": [
+  "exactly one eye",
+  "no bells, nothing hanging from the rope belt",
+  "plain twisted rope belt",
+  "olive-brown skin, sheepskin wrap, hide kilt"
+ ],
+ "master": "polyphemus__neutral__a.png",
+ "poses": [
+  {
+   "file": "polyphemus__armswide__a.png",
+   "pose": "armswide",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "pleading",
+   "hands": "wide",
+   "props": "",
+   "width": 1003,
+   "height": 1017,
+   "feet": {
+    "x": 296,
+    "y": 1008
+   },
+   "height_px_at_1080": 1017,
+   "accepted": "2026-11-13",
+   "source_call": "polyphemus__armswide__a1"
+  },
+  {
+   "file": "polyphemus__beam__a.png",
+   "pose": "beam",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "tipsy",
+   "hands": "holding",
+   "props": "bowl",
+   "width": 868,
+   "height": 1012,
+   "feet": {
+    "x": 354,
+    "y": 1003
+   },
+   "height_px_at_1080": 1012,
+   "accepted": "2026-11-13",
+   "source_call": "polyphemus__beam__a1"
+  },
+  {
+   "file": "polyphemus__leandown__a.png",
+   "pose": "leandown",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "curious",
+   "hands": "on knees",
+   "props": "",
+   "width": 651,
+   "height": 1021,
+   "feet": {
+    "x": 178,
+    "y": 1012
+   },
+   "height_px_at_1080": 1021,
+   "accepted": "2026-11-13",
+   "source_call": "polyphemus__leandown__a1"
+  },
+  {
+   "file": "polyphemus__neutral__a.png",
+   "pose": "neutral",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "calm",
+   "hands": "at sides",
+   "props": "",
+   "width": 629,
+   "height": 984,
+   "feet": {
+    "x": 310,
+    "y": 975
+   },
+   "height_px_at_1080": 984,
+   "accepted": "2026-11-13",
+   "source_call": "no-spend reuse: polyphemus_master_white.png"
+  },
+  {
+   "file": "polyphemus__scorn__a.png",
+   "pose": "scorn",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "scornful",
+   "hands": "flicking",
+   "props": "",
+   "width": 744,
+   "height": 1022,
+   "feet": {
+    "x": 301,
+    "y": 1013
+   },
+   "height_px_at_1080": 1022,
+   "accepted": "2026-11-13",
+   "source_call": "polyphemus__scorn__a1"
+  },
+  {
+   "file": "polyphemus__tender__a.png",
+   "pose": "tender",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "tender",
+   "hands": "patting",
+   "props": "",
+   "width": 941,
+   "height": 962,
+   "feet": {
+    "x": 378,
+    "y": 953
+   },
+   "height_px_at_1080": 962,
+   "accepted": "2026-11-13",
+   "source_call": "polyphemus__tender__a1"
+  },
+  {
+   "file": "polyphemus__wave__a.png",
+   "pose": "wave",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "shy",
+   "hands": "raised",
+   "props": "",
+   "width": 668,
+   "height": 1015,
+   "feet": {
+    "x": 235,
+    "y": 1006
+   },
+   "height_px_at_1080": 1015,
+   "accepted": "2026-11-13",
+   "source_call": "polyphemus__wave__a1"
+  },
+  {
+   "file": "polyphemus__wounded__a.png",
+   "pose": "wounded",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "hurt",
+   "hands": "on chest",
+   "props": "",
+   "width": 620,
+   "height": 1016,
+   "feet": {
+    "x": 283,
+    "y": 1007
+   },
+   "height_px_at_1080": 1016,
+   "accepted": "2026-11-13",
+   "source_call": "polyphemus__wounded__a1"
+  }
+ ],
+ "aliases": {
+  "polyphemus__drunk__a": "polyphemus__beam__a.png",
+  "polyphemus__lovesick__a": "polyphemus__tender__a.png",
+  "polyphemus__shrug__a": "polyphemus__armswide__a.png",
+  "polyphemus__lamb_wave__a": "polyphemus__wave__a.png"
+ }
+}

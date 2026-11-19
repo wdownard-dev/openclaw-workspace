@@ -1,0 +1,21 @@
+{
+ "file": "odysseus__point__a.png",
+ "source": "../../../pipeline/remotion-v3a/public/img3/ody_shout.png",
+ "width": 748,
+ "height": 1009,
+ "feet": {
+  "x": 382,
+  "y": 1000
+ },
+ "height_px_at_1080": 1009,
+ "src_bbox": [
+  0,
+  0,
+  731,
+  992
+ ],
+ "src_size": [
+  732,
+  993
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "fps": 30,
+ "duration": 20,
+ "shots": [
+  {
+   "id": "s1_map",
+   "start": {
+    "word": 0
+   },
+   "bg": {
+    "type": "map"
+   },
+   "t0": 0,
+   "t1": 4.448
+  },
+  {
+   "id": "s2_white",
+   "start": {
+    "word": 11,
+    "off": -0.05
+   },
+   "bg": {
+    "type": "white"
+   },
+   "t0": 4.448,
+   "t1": 8.2419
+  },
+  {
+   "id": "s3_paint",
+   "start": {
+    "word": 21,
+    "off": -0.05
+   },
+   "bg": {
+    "type": "img",
+    "src": "NB01.png"
+   },
+   "t0": 8.2419,
+   "t1": 12.142900000000001
+  },
+  {
+   "id": "s4_count",
+   "start": {
+    "word": 33,
+    "off": -0.05
+   },
+   "bg": {
+    "type": "white"
+   },
+   "t0": 12.142900000000001,
+   "t1": 14.6969
+  },
+  {
+   "id": "s5_paint",
+   "start": {
+    "word": 37,
+    "off": -0.05
+   },
+   "bg": {
+    "type": "img",
+    "src": "NB05.png"
+   },
+   "t0": 14.6969,
+   "t1": 17.9709
+  },
+  {
+   "id": "s6_paint",
+   "start": {
+    "word": 46,
+    "off": -0.05
+   },
+   "bg": {
+    "type": "img",
+    "src": "NB10.png"
+   },
+   "t0": 17.9709,
+   "t1": 20
+  }
+ ],
+ "events": [
+  {
+   "shot": "s1_map",
+   "kind": "route",
+   "at": {
+    "word": 7
+   },
+   "dur": 1,
+   "from": [
+    16.1,
+    40.2
+   ],
+   "via": [
+    15.9,
+    38.2
+   ],
+   "to": [
+    14.2,
+    37.6
+   ],
+   "t": 2.676
+  },
+  {
+   "shot": "s1_map",
+   "kind": "label",
+   "at": {
+    "word": 10
+   },
+   "text": "SICILY",
+   "x": 880,
+   "y": 720,
+   "size": 110,
+   "color": "#b8472a",
+   "rot": -4,
+   "t": 3.442
+  },
+  {
+   "shot": "s2_white",
+   "kind": "sprite",
+   "at": {
+    "word": 12
+   },
+   "src": "elephant.png",
+   "x": 640,
+   "y": 960,
+   "h": 420,
+   "t": 4.7279
+  },
+  {
+   "shot": "s2_white",
+   "kind": "label",
+   "at": {
+    "word": 16
+   },
+   "text": "UNDER 1 m",
+   "x": 960,
+   "y": 180,
+   "size": 120,
+   "color": "#b8472a",
+   "rot": 2,
+   "t": 5.5969
+  },
+  {
+   "shot": "s2_white",
+   "kind": "sprite",
+   "at": {
+    "word": 17
+   },
+   "src": "odysseus.png",
+   "x": 1380,
+   "y": 1010,
+   "h": 780,
+   "t": 6.005000000000001
+  },
+  {
+   "shot": "s3_paint",
+   "kind": "label",
+   "at": {
+    "word": 26
+   },
+   "text": "ONE HOLE",
+   "x": 520,
+   "y": 190,
+   "size": 130,
+   "color": "#f4ead2",
+   "rot": -3,
+   "stroke": "#241d15",
+   "t": 9.9759
+  },
+  {
+   "shot": "s4_count",
+   "kind": "counter",
+   "at": {
+    "word": 34
+   },
+   "dur": 0.95,
+   "from": 1900,
+   "to": 1914,
+   "x": 960,
+   "y": 560,
+   "size": 330,
+   "color": "#b8472a",
+   "t": 12.401900000000001
+  },
+  {
+   "shot": "s4_count",
+   "kind": "label",
+   "at": {
+    "word": 36
+   },
+   "text": "PALAEONTOLOGIST",
+   "x": 960,
+   "y": 860,
+   "size": 100,
+   "color": "#241d15",
+   "rot": 0,
+   "t": 13.7259
+  },
+  {
+   "shot": "s5_paint",
+   "kind": "label",
+   "at": {
+    "word": 43
+   },
+   "text": "CYCLOPS",
+   "x": 1300,
+   "y": 200,
+   "size": 150,
+   "color": "#f4ead2",
+   "rot": 3,
+   "stroke": "#241d15",
+   "t": 16.2099
+  }
+ ]
+}

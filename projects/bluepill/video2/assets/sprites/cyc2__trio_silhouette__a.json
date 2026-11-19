@@ -1,0 +1,21 @@
+{
+ "file": "cyc2__neutral__a.png",
+ "source": "../masters/cyc2_master_white.png",
+ "width": 577,
+ "height": 998,
+ "feet": {
+  "x": 295,
+  "y": 989
+ },
+ "height_px_at_1080": 998,
+ "src_bbox": [
+  226,
+  17,
+  786,
+  998
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

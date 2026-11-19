@@ -1,0 +1,21 @@
+{
+ "file": "odysseus__lookup__a.png",
+ "source": "../gen/odysseus__lookup__a1.png",
+ "width": 408,
+ "height": 1012,
+ "feet": {
+  "x": 107,
+  "y": 1003
+ },
+ "height_px_at_1080": 1012,
+ "src_bbox": [
+  307,
+  12,
+  698,
+  1007
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

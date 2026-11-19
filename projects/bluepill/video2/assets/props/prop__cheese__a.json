@@ -1,0 +1,21 @@
+{
+ "file": "prop__cheese__a.png",
+ "source": "../gen/prop__cheese__a1.png",
+ "width": 1086,
+ "height": 812,
+ "feet": {
+  "x": 525,
+  "y": 803
+ },
+ "height_px_at_1080": 812,
+ "src_bbox": [
+  230,
+  47,
+  1299,
+  842
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

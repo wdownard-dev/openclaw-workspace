@@ -1,0 +1,11 @@
+{
+ "file": "crew__huddle4__a.png",
+ "source": "code: groups.js from crew__plead__a, crew__neutral__a",
+ "width": 554,
+ "height": 299,
+ "feet": {
+  "x": 277,
+  "y": 290
+ },
+ "height_px_at_1080": 299
+}

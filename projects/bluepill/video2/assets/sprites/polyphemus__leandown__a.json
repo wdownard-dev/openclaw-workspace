@@ -1,0 +1,21 @@
+{
+ "file": "polyphemus__leandown__a.png",
+ "source": "../gen/polyphemus__leandown__a1.png",
+ "width": 651,
+ "height": 1021,
+ "feet": {
+  "x": 178,
+  "y": 1012
+ },
+ "height_px_at_1080": 1021,
+ "src_bbox": [
+  195,
+  8,
+  829,
+  1012
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

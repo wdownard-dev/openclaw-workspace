@@ -1,0 +1,21 @@
+{
+ "file": "cyc2__back__a.png",
+ "source": "../gen/cyc2__back__a1.png",
+ "width": 618,
+ "height": 1015,
+ "feet": {
+  "x": 104,
+  "y": 1006
+ },
+ "height_px_at_1080": 1015,
+ "src_bbox": [
+  226,
+  12,
+  827,
+  1010
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

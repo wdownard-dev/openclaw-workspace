@@ -1,0 +1,110 @@
+{
+ "video_id": "1GowFTjbUnk",
+ "title": "NVIDIA Explained Like You're 5",
+ "duration_s": 869.47,
+ "visual": {
+  "shots": 200,
+  "cuts_per_min": 13.8,
+  "pops_per_min": 60.1,
+  "visible_changes_per_min": 76.8,
+  "shot_p10_s": 1.43,
+  "shot_median_s": 3.94,
+  "shot_p90_s": 7.73,
+  "shot_max_s": 20.1,
+  "white_dominant_pct_gt60": 4.7,
+  "white_dominant_pct_gt40": 8.5,
+  "mean_luminance": 100.9,
+  "text_edge_density_mean_E": 0.0274,
+  "text_heavy_frames_pct_E": 63.8,
+  "palette": [
+   {
+    "hex": "#262829",
+    "share_pct": 25.2
+   },
+   {
+    "hex": "#4a4a46",
+    "share_pct": 18.8
+   },
+   {
+    "hex": "#f0eee8",
+    "share_pct": 16.3
+   },
+   {
+    "hex": "#050a08",
+    "share_pct": 14.6
+   },
+   {
+    "hex": "#897059",
+    "share_pct": 13.5
+   },
+   {
+    "hex": "#a4aba9",
+    "share_pct": 11.5
+   }
+  ]
+ },
+ "text": null,
+ "hook": {
+  "shots": [
+   {
+    "start": 0.0,
+    "len": 5.07
+   },
+   {
+    "start": 5.07,
+    "len": 3.6
+   },
+   {
+    "start": 8.67,
+    "len": 5.23
+   },
+   {
+    "start": 13.9,
+    "len": 3.5
+   },
+   {
+    "start": 17.4,
+    "len": 6.67
+   },
+   {
+    "start": 24.07,
+    "len": 2.13
+   },
+   {
+    "start": 26.2,
+    "len": 1.9
+   },
+   {
+    "start": 28.1,
+    "len": 1.73
+   },
+   {
+    "start": 29.83,
+    "len": 3.57
+   }
+  ],
+  "words": ""
+ },
+ "chapters": [
+  {
+   "start_time": 0,
+   "title": "Two Years Building the Wrong Chip",
+   "end_time": 343
+  },
+  {
+   "start_time": 343,
+   "title": "The $500M Bet on PhD Students Nobody Wanted",
+   "end_time": 558
+  },
+  {
+   "start_time": 558,
+   "title": "The 2012 Competition That Proved Jensen Right",
+   "end_time": 663
+  },
+  {
+   "start_time": 663,
+   "title": "Blocked at Every Turn, $3 Trillion Valuation Anyway",
+   "end_time": 870
+  }
+ ]
+}

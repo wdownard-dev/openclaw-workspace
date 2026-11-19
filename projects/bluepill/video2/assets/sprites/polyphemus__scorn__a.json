@@ -1,0 +1,21 @@
+{
+ "file": "polyphemus__scorn__a.png",
+ "source": "../gen/polyphemus__scorn__a1.png",
+ "width": 744,
+ "height": 1022,
+ "feet": {
+  "x": 301,
+  "y": 1013
+ },
+ "height_px_at_1080": 1022,
+ "src_bbox": [
+  173,
+  9,
+  900,
+  1014
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

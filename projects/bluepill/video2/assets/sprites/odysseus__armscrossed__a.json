@@ -1,0 +1,21 @@
+{
+ "file": "odysseus__armscrossed__a.png",
+ "source": "../gen/odysseus__armscrossed__a1.png",
+ "width": 409,
+ "height": 1007,
+ "feet": {
+  "x": 151,
+  "y": 998
+ },
+ "height_px_at_1080": 1007,
+ "src_bbox": [
+  309,
+  9,
+  701,
+  999
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

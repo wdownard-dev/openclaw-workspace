@@ -1,0 +1,277 @@
+{
+ "character": "odysseus",
+ "palette": {
+  "tunic": "#b5432a",
+  "sash": "#2f5fa8",
+  "gold": "#e8b43a",
+  "skin": "#f1c9a0",
+  "ink": "#3a2412"
+ },
+ "immutable_features": [
+  "gold laurel wreath",
+  "blue sash over one shoulder with gold brooch",
+  "dark beard",
+  "rust-red tunic with gold hem"
+ ],
+ "master": "odysseus__neutral__a.png",
+ "poses": [
+  {
+   "file": "odysseus__armscrossed__a.png",
+   "pose": "armscrossed",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "impatient",
+   "hands": "folded",
+   "props": "",
+   "width": 409,
+   "height": 1007,
+   "feet": {
+    "x": 151,
+    "y": 998
+   },
+   "height_px_at_1080": 1007,
+   "accepted": "2026-11-13",
+   "source_call": "odysseus__armscrossed__a1"
+  },
+  {
+   "file": "odysseus__flat__a.png",
+   "pose": "flat",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "unimpressed",
+   "hands": "at sides",
+   "props": "",
+   "width": 365,
+   "height": 1014,
+   "feet": {
+    "x": 154,
+    "y": 1005
+   },
+   "height_px_at_1080": 1014,
+   "accepted": "2026-11-13",
+   "source_call": "odysseus__flat__a1"
+  },
+  {
+   "file": "odysseus__lookup__a.png",
+   "pose": "lookup",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "awed",
+   "hands": "hanging",
+   "props": "",
+   "width": 408,
+   "height": 1012,
+   "feet": {
+    "x": 107,
+    "y": 1003
+   },
+   "height_px_at_1080": 1012,
+   "accepted": "2026-11-13",
+   "source_call": "odysseus__lookup__a1"
+  },
+  {
+   "file": "odysseus__neutral__a.png",
+   "pose": "neutral",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "calm",
+   "hands": "at sides",
+   "props": "",
+   "width": 463,
+   "height": 1020,
+   "feet": {
+    "x": 224,
+    "y": 1011
+   },
+   "height_px_at_1080": 1020,
+   "accepted": "2026-11-13",
+   "source_call": "no-spend reuse: odysseus_master_white.png"
+  },
+  {
+   "file": "odysseus__offerbowl__a.png",
+   "pose": "offerbowl",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "deadpan",
+   "hands": "holding",
+   "props": "bowl",
+   "width": 475,
+   "height": 1012,
+   "feet": {
+    "x": 115,
+    "y": 1003
+   },
+   "height_px_at_1080": 1012,
+   "accepted": "2026-11-13",
+   "source_call": "odysseus__offerbowl__a1"
+  },
+  {
+   "file": "odysseus__point__a.png",
+   "pose": "point",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "urgent",
+   "hands": "pointing",
+   "props": "",
+   "width": 748,
+   "height": 1009,
+   "feet": {
+    "x": 382,
+    "y": 1000
+   },
+   "height_px_at_1080": 1009,
+   "accepted": "2026-11-13",
+   "source_call": "no-spend reuse: ody_shout.png"
+  },
+  {
+   "file": "odysseus__shrug__a.png",
+   "pose": "shrug",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "puzzled",
+   "hands": "palms out",
+   "props": "",
+   "width": 727,
+   "height": 1012,
+   "feet": {
+    "x": 234,
+    "y": 1003
+   },
+   "height_px_at_1080": 1012,
+   "accepted": "2026-11-13",
+   "source_call": "odysseus__shrug__a1"
+  },
+  {
+   "file": "odysseus__smug__a.png",
+   "pose": "smug",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "smug",
+   "hands": "folded",
+   "props": "",
+   "width": 328,
+   "height": 1014,
+   "feet": {
+    "x": 97,
+    "y": 1005
+   },
+   "height_px_at_1080": 1014,
+   "accepted": "2026-11-13",
+   "source_call": "odysseus__smug__a1"
+  },
+  {
+   "file": "odysseus__sworddraw__a.png",
+   "pose": "sworddraw",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "tense",
+   "hands": "on hilt",
+   "props": "short sword",
+   "width": 578,
+   "height": 1008,
+   "feet": {
+    "x": 59,
+    "y": 999
+   },
+   "height_px_at_1080": 1008,
+   "accepted": "2026-11-13",
+   "source_call": "odysseus__sworddraw__a1"
+  },
+  {
+   "file": "odysseus__swordlower__a.png",
+   "pose": "swordlower",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "deflated",
+   "hands": "holding",
+   "props": "short sword",
+   "width": 387,
+   "height": 1009,
+   "feet": {
+    "x": 139,
+    "y": 1000
+   },
+   "height_px_at_1080": 1009,
+   "accepted": "2026-11-13",
+   "source_call": "odysseus__swordlower__a1"
+  },
+  {
+   "file": "odysseus__talk__a.png",
+   "pose": "talk",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "explaining",
+   "hands": "open",
+   "props": "",
+   "width": 544,
+   "height": 1014,
+   "feet": {
+    "x": 67,
+    "y": 1005
+   },
+   "height_px_at_1080": 1014,
+   "accepted": "2026-11-13",
+   "source_call": "odysseus__talk__a1"
+  },
+  {
+   "file": "odysseus__think__a.png",
+   "pose": "think",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "thinking",
+   "hands": "chin",
+   "props": "",
+   "width": 406,
+   "height": 997,
+   "feet": {
+    "x": 200,
+    "y": 988
+   },
+   "height_px_at_1080": 997,
+   "accepted": "2026-11-13",
+   "source_call": "odysseus__think__a1"
+  },
+  {
+   "file": "odysseus__tiptoe__a.png",
+   "pose": "tiptoe",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "shouting",
+   "hands": "cupped",
+   "props": "",
+   "width": 487,
+   "height": 1001,
+   "feet": {
+    "x": 168,
+    "y": 992
+   },
+   "height_px_at_1080": 1001,
+   "accepted": "2026-11-13",
+   "source_call": "odysseus__tiptoe__a1"
+  },
+  {
+   "file": "odysseus__walk__a.png",
+   "pose": "walk",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "determined",
+   "hands": "swinging",
+   "props": "wineskin",
+   "width": 594,
+   "height": 1010,
+   "feet": {
+    "x": 456,
+    "y": 1001
+   },
+   "height_px_at_1080": 1010,
+   "accepted": "2026-11-13",
+   "source_call": "odysseus__walk__a1"
+  }
+ ],
+ "aliases": {
+  "odysseus__handsopen__a": "odysseus__talk__a.png",
+  "odysseus__unamused__a": "odysseus__flat__a.png",
+  "odysseus__smug_sideeye__a": "odysseus__smug__a.png",
+  "odysseus__tired_helm__a": "odysseus__neutral__a.png"
+ }
+}

@@ -1,0 +1,149 @@
+{
+ "video_id": "ecnCTOzIivE",
+ "title": "The ENTIRE History of Japan in 20 Minutes",
+ "duration_s": 1216.5,
+ "visual": {
+  "shots": 263,
+  "cuts_per_min": 13.0,
+  "pops_per_min": 0.0,
+  "visible_changes_per_min": 12.9,
+  "shot_p10_s": 2.27,
+  "shot_median_s": 4.37,
+  "shot_p90_s": 7.14,
+  "shot_max_s": 14.1,
+  "white_dominant_pct_gt60": 0.0,
+  "white_dominant_pct_gt40": 0.5,
+  "mean_luminance": 122.5,
+  "text_edge_density_mean_E": 0.0231,
+  "text_heavy_frames_pct_E": 51.7,
+  "palette": [
+   {
+    "hex": "#554f48",
+    "share_pct": 25.7
+   },
+   {
+    "hex": "#85775d",
+    "share_pct": 18.6
+   },
+   {
+    "hex": "#2e2a27",
+    "share_pct": 17.2
+   },
+   {
+    "hex": "#ccdcdd",
+    "share_pct": 14.7
+   },
+   {
+    "hex": "#b9b094",
+    "share_pct": 14.0
+   },
+   {
+    "hex": "#7a8d97",
+    "share_pct": 9.8
+   }
+  ]
+ },
+ "text": {
+  "sentence_split": "punctuation",
+  "words": 3073,
+  "wpm": 151.6,
+  "wpm_speaking_span": 151.6,
+  "sentences": 180,
+  "sentences_per_min": 8.9,
+  "words_per_sentence_mean": 17.1,
+  "words_per_sentence_median": 17.0,
+  "pct_sentences_le6w": 8.3,
+  "questions_per_min": 0.0
+ },
+ "hook": {
+  "shots": [
+   {
+    "start": 0.0,
+    "len": 6.73
+   },
+   {
+    "start": 6.73,
+    "len": 4.0
+   },
+   {
+    "start": 10.73,
+    "len": 5.7
+   },
+   {
+    "start": 16.43,
+    "len": 4.34
+   },
+   {
+    "start": 20.77,
+    "len": 3.83
+   },
+   {
+    "start": 24.6,
+    "len": 5.8
+   }
+  ],
+  "words": "For thousands of years, a chain of volcanic islands sat completely isolated off the eastern coast of Asia, cut off from the rest of the world by violent oceans and stormy seas. On these mist-covered mountains, a culture developed that was unlike anything else on Earth. It was a place where gentle poets wrote verses about falling cherry blossoms, while brutal warlords chopped off heads with razor-sharp steel. It was a nation that completely locked its doors to the outside world for two and a half centuries,"
+ },
+ "chapters": [
+  {
+   "start_time": 0,
+   "title": "The island of Japan",
+   "end_time": 55
+  },
+  {
+   "start_time": 55,
+   "title": "Origins and early settlers",
+   "end_time": 142
+  },
+  {
+   "start_time": 142,
+   "title": "Shinto and imperial rule",
+   "end_time": 217
+  },
+  {
+   "start_time": 217,
+   "title": "Influence of China and Buddhism",
+   "end_time": 326
+  },
+  {
+   "start_time": 326,
+   "title": "Rise of the samurai",
+   "end_time": 441
+  },
+  {
+   "start_time": 441,
+   "title": "The Mongol invasions",
+   "end_time": 544
+  },
+  {
+   "start_time": 544,
+   "title": "Unification and civil war",
+   "end_time": 698
+  },
+  {
+   "start_time": 698,
+   "title": "Sakoku isolation",
+   "end_time": 776
+  },
+  {
+   "start_time": 776,
+   "title": "The end of isolation",
+   "end_time": 841
+  },
+  {
+   "start_time": 841,
+   "title": "Rapid modernization",
+   "end_time": 942
+  },
+  {
+   "start_time": 942,
+   "title": "World War II and defeat",
+   "end_time": 1095
+  },
+  {
+   "start_time": 1095,
+   "title": "Modern Japan",
+   "end_time": 1217
+  }
+ ]
+}

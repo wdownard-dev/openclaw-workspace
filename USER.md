@@ -96,6 +96,16 @@ Format: `<!-- observed: YYYY-MM-DD | status: active|superseded -->` then one imp
 
 - Project Blue Pill (William, 2026-11-11) = separate original long-form animated YouTube channel built in house (stick-figure explainer format, Remotion + ElevenLabs + image API, MCP-driven; not Framesail-dependent, no GPU purchase yet). Distinct from Project Red Pill (OpusClip/wrdclipz news clipping). Plan: projects/bluepill/PLAN.md; format references: projects/future/format-refs/. William is open to spending if it makes sense; planning only until he says go, and no accounts, keys or spend without his approval.
 
+<!-- observed: 2026-11-15 | status: active -->
+
+- wrdgamingclipz / GTA 6 push (William, 2026-11-15): push is BIG, YouTube wrdgamingclipz + TikTok rvclips6, both via OpusClip API (Buffer not used). STANDING APPROVAL: for streamers/YouTubers on the approved list (to be agreed with William), clip and post their new videos without a per-clip 'clip it'; clips from anyone NOT on the list still need his go. Rockstar footage only matters until release (11/19). Plan: projects/gaming/GTA6-PLAN.md. Safety rules, source wait rules, frame screening and fact accuracy still apply. Credit (William, 11/16): NO source-credit line or overlay on the video itself; put a short credit line at the END of the description. Captions: rely on YouTube's auto-captions, do not burn in. No permission emails to creators. Guide/walkthrough lane = 'medium rework' (our own script and TTS voiceover over their footage, their audio muted, numbered step text); example in projects/gaming/out/guide_example.mp4. Guide-lane rules (William, 11/16, after the Fortnite Pirate Shop Token test): NEVER burn disclaimers or hedge banners onto the video (hedge in the narration only if needed); read the WHOLE transcript including intros and rank ALL key tips (setup/loadout/prerequisite tips like a recommended sprite or item count as much as location) and make sure the biggest tips are in the Short before building; gaming guide voice = ElevenLabs Liam (TX3LPaxmHKxFdv7VOQHJ, William chose 11/16; Daniel stays Blue Pill only); never use 'reportedly' or other hedge words in guide scripts (William 11/16: it signals unoriginal content), state tips plainly but only claims the source transcript supports; footage must visibly match each spoken step.
+
 ## Related
 
 - [Agent workspace](/concepts/agent-workspace)
+
+<!-- observed: 2026-11-16 | status: active -->
+- LOCKED (William, 11/16): ElevenLabs Liam (TX3LPaxmHKxFdv7VOQHJ; eleven_multilingual_v2, stability 0.4, similarity 0.75, style 0.35) is THE voice for every wrdgamingclipz / gaming video, not only guides. Daniel is Blue Pill only; never default to Daniel on gaming work, and check the lane's voice rule before any TTS.
+
+<!-- observed: 2026-11-18 | status: active -->
+- Always treat Typical Gamer (@TypicalGamer, YT channel UC2wKfjlioOCLP4xQMOWNcgg) as an approved streamer for wrdgamingclipz / GTA 6 clipping: standing approval, clip and post without a per-clip ask. Added by William 11/18 alongside Adin Ross, IShowSpeed, xQc. N3on is NOT on the list (one-off approval only).

@@ -1,0 +1,21 @@
+{
+ "file": "prop__fossil_bone__a.png",
+ "source": "../gen/prop__fossil_bone__a1.png",
+ "width": 1469,
+ "height": 850,
+ "feet": {
+  "x": 194,
+  "y": 841
+ },
+ "height_px_at_1080": 850,
+ "src_bbox": [
+  43,
+  17,
+  1495,
+  850
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

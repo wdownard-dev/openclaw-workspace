@@ -1,0 +1,21 @@
+{
+ "file": "prop__bowl__a.png",
+ "source": "../gen/prop__bowl__a1.png",
+ "width": 1464,
+ "height": 833,
+ "feet": {
+  "x": 713,
+  "y": 824
+ },
+ "height_px_at_1080": 833,
+ "src_bbox": [
+  43,
+  30,
+  1490,
+  846
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

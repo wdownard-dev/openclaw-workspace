@@ -1,0 +1,21 @@
+{
+ "file": "prop__flames__a.png",
+ "source": "../gen/prop__flames__a1.png",
+ "width": 812,
+ "height": 849,
+ "feet": {
+  "x": 289,
+  "y": 840
+ },
+ "height_px_at_1080": 849,
+ "src_bbox": [
+  363,
+  19,
+  1158,
+  851
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

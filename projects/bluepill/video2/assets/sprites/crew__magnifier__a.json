@@ -1,0 +1,21 @@
+{
+ "file": "crew__lookup__a.png",
+ "source": "../gen/crew__lookup__a1.png",
+ "width": 416,
+ "height": 1019,
+ "feet": {
+  "x": 119,
+  "y": 1010
+ },
+ "height_px_at_1080": 1019,
+ "src_bbox": [
+  294,
+  11,
+  693,
+  1013
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

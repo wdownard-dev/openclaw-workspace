@@ -1,0 +1,79 @@
+[
+ {
+  "n": 1,
+  "text": "In 1914, the palaeontologist Othenio Abel thought there might be.",
+  "model": "eleven_multilingual_v2",
+  "chars": 65,
+  "name_start": 2.31,
+  "name_end": 3.204,
+  "name_dur": 0.8940000000000001,
+  "total": 4.551,
+  "spoken_text_alignment": "In 1914, the palaeontologist Othenio Abel thought there might be."
+ },
+ {
+  "n": 2,
+  "text": "In 1914, the palaeontologist Oh-tay-nyo Ah-bel thought there might be.",
+  "model": "eleven_multilingual_v2",
+  "chars": 70,
+  "name_start": 2.357,
+  "name_end": 3.657,
+  "name_dur": 1.2999999999999998,
+  "total": 5.108,
+  "spoken_text_alignment": "In 1914, the palaeontologist Oh-tay-nyo Ah-bel thought there might be."
+ },
+ {
+  "n": 3,
+  "text": "In 1914, the palaeontologist Otenyo Ahbel thought there might be.",
+  "model": "eleven_multilingual_v2",
+  "chars": 65,
+  "name_start": 2.322,
+  "name_end": 3.379,
+  "name_dur": 1.057,
+  "total": 4.783,
+  "spoken_text_alignment": "In 1914, the palaeontologist Otenyo Ahbel thought there might be."
+ },
+ {
+  "n": 4,
+  "text": "In 1914, the palaeontologist Oh-TAY-nee-oh AH-bull thought there might be.",
+  "model": "eleven_multilingual_v2",
+  "chars": 74,
+  "name_start": 2.322,
+  "name_end": 4.133,
+  "name_dur": 1.811,
+  "total": 5.712,
+  "spoken_text_alignment": "In 1914, the palaeontologist Oh-TAY-nee-oh AH-bull thought there might be."
+ },
+ {
+  "n": 5,
+  "text": "In 1914, the palaeontologist Ottaynio Abel thought there might be.",
+  "model": "eleven_multilingual_v2",
+  "chars": 66,
+  "name_start": 2.322,
+  "name_end": 3.17,
+  "name_dur": 0.8479999999999999,
+  "total": 4.458,
+  "spoken_text_alignment": "In 1914, the palaeontologist Ottaynio Abel thought there might be."
+ },
+ {
+  "n": 6,
+  "text": "In 1914, the palaeontologist Oh-teh-nee-oh Ah-bel thought there might be.",
+  "model": "eleven_multilingual_v2",
+  "chars": 73,
+  "name_start": 2.357,
+  "name_end": 3.704,
+  "name_dur": 1.347,
+  "total": 5.155,
+  "spoken_text_alignment": "In 1914, the palaeontologist Oh-teh-nee-oh Ah-bel thought there might be."
+ },
+ {
+  "n": 7,
+  "text": "In 1914, the palaeontologist <phoneme alphabet=\"ipa\" ph=\"oˈteːnjo\">Othenio</phoneme> <phoneme alphabet=\"ipa\" ph=\"ˈaːbl̩\">Abel</phoneme> thought there might be.",
+  "model": "eleven_turbo_v2_5",
+  "chars": 159,
+  "name_start": 2.31,
+  "name_end": 2.31,
+  "name_dur": 0.0,
+  "total": 3.529,
+  "spoken_text_alignment": "In 1914, the palaeontologist <phoneme alphabet=\"ipa\" ph=\"oˈteːnjo\">Othenio</phoneme> <phoneme alphabet=\"ipa\" ph=\"ˈaːbl̩\">Abel</phoneme> thought there might be."
+ }
+]

@@ -1,0 +1,53 @@
+{
+ "character": "thucydides",
+ "palette": {
+  "himation": "#6b6b70",
+  "tunic": "#efe6d2",
+  "ink": "#3a2412"
+ },
+ "immutable_features": [
+  "close-cropped dark hair, short dark beard",
+  "grey himation",
+  "no wreath, no sash, no red"
+ ],
+ "master": "thucydides__neutral__a.png",
+ "poses": [
+  {
+   "file": "thucydides__neutral__a.png",
+   "pose": "neutral",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "calm",
+   "hands": "at sides",
+   "props": "",
+   "width": 408,
+   "height": 1029,
+   "feet": {
+    "x": 97,
+    "y": 1020
+   },
+   "height_px_at_1080": 1029,
+   "accepted": "2026-11-13",
+   "source_call": "no-spend reuse: thucydides_master_white.png"
+  },
+  {
+   "file": "thucydides__palmsup__a.png",
+   "pose": "palmsup",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "uncertain",
+   "hands": "palms up",
+   "props": "",
+   "width": 554,
+   "height": 1024,
+   "feet": {
+    "x": 192,
+    "y": 1015
+   },
+   "height_px_at_1080": 1024,
+   "accepted": "2026-11-13",
+   "source_call": "thucydides__palmsup__a4"
+  }
+ ],
+ "aliases": {}
+}

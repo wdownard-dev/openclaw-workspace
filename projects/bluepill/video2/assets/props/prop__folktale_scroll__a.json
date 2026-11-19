@@ -1,0 +1,21 @@
+{
+ "file": "prop__folktale_scroll__a.png",
+ "source": "../gen/prop__folktale_scroll__a1.png",
+ "width": 1365,
+ "height": 855,
+ "feet": {
+  "x": 832,
+  "y": 846
+ },
+ "height_px_at_1080": 855,
+ "src_bbox": [
+  50,
+  8,
+  1398,
+  846
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

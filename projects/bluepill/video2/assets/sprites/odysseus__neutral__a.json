@@ -1,0 +1,21 @@
+{
+ "file": "odysseus__neutral__a.png",
+ "source": "../masters/odysseus_master_white.png",
+ "width": 463,
+ "height": 1020,
+ "feet": {
+  "x": 224,
+  "y": 1011
+ },
+ "height_px_at_1080": 1020,
+ "src_bbox": [
+  281,
+  9,
+  727,
+  1012
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "file": "prop__ram__a.png",
+ "source": "../gen/prop__ram__a1.png",
+ "width": 1093,
+ "height": 866,
+ "feet": {
+  "x": 618,
+  "y": 857
+ },
+ "height_px_at_1080": 866,
+ "src_bbox": [
+  204,
+  7,
+  1280,
+  856
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

@@ -1,0 +1,2044 @@
+{
+ "fps": 30,
+ "total": 17116,
+ "cuts": [
+  {
+   "beat": "V5-001",
+   "scene": "S01",
+   "image": "S01_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 0,
+   "end_s": 3.244,
+   "text": "Twelve men follow Odysseus into a cave,"
+  },
+  {
+   "beat": "V5-002",
+   "scene": "S01",
+   "image": "S01_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 3.244,
+   "end_s": 5.574,
+   "text": "and six of them never come out."
+  },
+  {
+   "beat": "V5-003",
+   "scene": "S02",
+   "image": "S02_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 5.574,
+   "end_s": 7.722,
+   "text": "The cave belongs to a giant,"
+  },
+  {
+   "beat": "V5-004",
+   "scene": "S03",
+   "image": "S03_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 7.722,
+   "end_s": 12.814,
+   "text": "and he seals its door with a stone that twenty-two wagons could not move."
+  },
+  {
+   "beat": "V5-005",
+   "scene": "S04",
+   "image": "S04_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    20,
+    430,
+    640,
+    360
+   ],
+   "start_s": 12.814,
+   "end_s": 15.241,
+   "text": "He eats two men at a time."
+  },
+  {
+   "beat": "V5-006",
+   "scene": "S04",
+   "image": "S04_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 15.241,
+   "end_s": 18.05,
+   "text": "Odysseus has no way past that stone,"
+  },
+  {
+   "beat": "V5-007",
+   "scene": "S05",
+   "image": "S05_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 18.05,
+   "end_s": 21.977,
+   "text": "only a sharpened stake and a skin of wine."
+  },
+  {
+   "beat": "V5-008",
+   "scene": "S05",
+   "image": "S05_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 21.977,
+   "end_s": 25.846,
+   "text": "And then he tells the giant that his name is Nobody."
+  },
+  {
+   "beat": "V5-009",
+   "scene": "S06",
+   "image": "S06_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 25.846,
+   "end_s": 31.23,
+   "text": "The giant is Polyphemus, and nobody agrees on where he came from."
+  },
+  {
+   "beat": "V5-010",
+   "scene": "S07",
+   "image": "S07_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 31.23,
+   "end_s": 33.569,
+   "text": "So where did the Cyclops come from?"
+  },
+  {
+   "beat": "V5-011",
+   "scene": "S08",
+   "image": "S08_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 33.569,
+   "end_s": 36.36,
+   "text": "First, the story."
+  },
+  {
+   "beat": "V5-012",
+   "scene": "S09",
+   "image": "S09_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 36.36,
+   "end_s": 38.543,
+   "text": "Sailing home from Troy,"
+  },
+  {
+   "beat": "V5-013",
+   "scene": "S09",
+   "image": "S09_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 38.543,
+   "end_s": 41.694,
+   "text": "Odysseus lands in the country of the Cyclopes."
+  },
+  {
+   "beat": "V5-014",
+   "scene": "S09",
+   "image": "S09_v1.png",
+   "move": "pull_out",
+   "crop_rect": null,
+   "push": {
+    "from": 1.06,
+    "to": 1
+   },
+   "start_s": 41.694,
+   "end_s": 43.842,
+   "text": "Book Nine never says where,"
+  },
+  {
+   "beat": "V5-015",
+   "scene": "S10",
+   "image": "S10_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 43.842,
+   "end_s": 48.027,
+   "text": "because Homer cares about what happens next, not about a map."
+  },
+  {
+   "beat": "V5-016",
+   "scene": "S11",
+   "image": "S11_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 48.027,
+   "end_s": 49.732,
+   "text": "He picks twelve men,"
+  },
+  {
+   "beat": "V5-017",
+   "scene": "S11",
+   "image": "S11_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    420,
+    430,
+    640,
+    360
+   ],
+   "start_s": 49.732,
+   "end_s": 51.427,
+   "text": "takes a goatskin of wine,"
+  },
+  {
+   "beat": "V5-018",
+   "scene": "S11",
+   "image": "S11_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 51.427,
+   "end_s": 53.487,
+   "text": "and walks up to a cave."
+  },
+  {
+   "beat": "V5-019",
+   "scene": "S12",
+   "image": "S12_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    380,
+    300,
+    700,
+    394
+   ],
+   "start_s": 53.487,
+   "end_s": 56.273,
+   "text": "Inside, the racks are heavy with cheese,"
+  },
+  {
+   "beat": "V5-020",
+   "scene": "S12",
+   "image": "S12_base.png",
+   "move": "pan_right",
+   "crop_rect": null,
+   "push": {
+    "translate_pct": 4
+   },
+   "start_s": 56.273,
+   "end_s": 58.34,
+   "text": "the pens are crowded with lambs,"
+  },
+  {
+   "beat": "V5-021",
+   "scene": "S12",
+   "image": "S12_base.png",
+   "move": "pull_out",
+   "crop_rect": null,
+   "push": {
+    "from": 1.06,
+    "to": 1
+   },
+   "start_s": 58.34,
+   "end_s": 60.087,
+   "text": "and nobody is home."
+  },
+  {
+   "beat": "V5-023",
+   "scene": "S12",
+   "image": "S12_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    600,
+    290,
+    700,
+    394
+   ],
+   "start_s": 60.087,
+   "end_s": 63.234,
+   "text": "The crew beg him to take the cheeses and run."
+  },
+  {
+   "beat": "V5-024",
+   "scene": "S12",
+   "image": "S12_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    560,
+    330,
+    560,
+    315
+   ],
+   "start_s": 63.234,
+   "end_s": 65.428,
+   "text": "But Odysseus wants to meet the owner,"
+  },
+  {
+   "beat": "V5-025",
+   "scene": "S12",
+   "image": "S12_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 65.428,
+   "end_s": 68.004,
+   "text": "and he hopes the owner will give him a present."
+  },
+  {
+   "beat": "V5-027",
+   "scene": "S13",
+   "image": "S13_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 68.004,
+   "end_s": 71.933,
+   "text": "but Odysseus is famous for being clever, not sensible."
+  },
+  {
+   "beat": "V5-028",
+   "scene": "S13",
+   "image": "S13_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    760,
+    370,
+    440,
+    248
+   ],
+   "start_s": 71.933,
+   "end_s": 76.202,
+   "text": "It is the first of many decisions his men will regret."
+  },
+  {
+   "beat": "V5-029",
+   "scene": "S14",
+   "image": "S14_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 76.202,
+   "end_s": 78.654,
+   "text": "At dusk the owner comes home,"
+  },
+  {
+   "beat": "V5-030",
+   "scene": "S14",
+   "image": "S14_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    20,
+    40,
+    640,
+    360
+   ],
+   "start_s": 78.654,
+   "end_s": 83.784,
+   "text": "and he looks less like a man than a wooded mountain peak standing alone."
+  },
+  {
+   "beat": "V5-031",
+   "scene": "S15",
+   "image": "S15_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 83.784,
+   "end_s": 87.763,
+   "text": "The men press back into the shadows and hold their breath."
+  },
+  {
+   "beat": "V5-032",
+   "scene": "S15",
+   "image": "S15_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 87.763,
+   "end_s": 89.655,
+   "text": "He drives the flock inside"
+  },
+  {
+   "beat": "V5-033",
+   "scene": "S15",
+   "image": "S15_v2.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 89.655,
+   "end_s": 92.552,
+   "text": "and rolls a stone across the door."
+  },
+  {
+   "beat": "V5-034",
+   "scene": "S15",
+   "image": "S15_v3.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 92.552,
+   "end_s": 96.317,
+   "text": "Homer says twenty-two wagons could not have moved it."
+  },
+  {
+   "beat": "V5-035",
+   "scene": "S16",
+   "image": "S16_base.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 96.317,
+   "end_s": 98.639,
+   "text": "He asks the strangers who they are,"
+  },
+  {
+   "beat": "V5-036",
+   "scene": "S16",
+   "image": "S16_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 98.639,
+   "end_s": 101.351,
+   "text": "and whether they are traders or pirates."
+  },
+  {
+   "beat": "V5-037",
+   "scene": "S17",
+   "image": "S17_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 101.351,
+   "end_s": 105.336,
+   "text": "Odysseus asks for hospitality in the name of Zeus,"
+  },
+  {
+   "beat": "V5-038",
+   "scene": "S17",
+   "image": "S17_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 105.336,
+   "end_s": 107.42,
+   "text": "who protects guests."
+  },
+  {
+   "beat": "V5-039",
+   "scene": "S17",
+   "image": "S17_v2.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 107.42,
+   "end_s": 111.524,
+   "text": "The giant answers that Cyclopes do not care about Zeus."
+  },
+  {
+   "beat": "V5-040",
+   "scene": "S18",
+   "image": "S18_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 111.524,
+   "end_s": 115.427,
+   "text": "They keep no laws and hold no assemblies,"
+  },
+  {
+   "beat": "V5-041",
+   "scene": "S18",
+   "image": "S18_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    700,
+    160,
+    480,
+    270
+   ],
+   "start_s": 115.427,
+   "end_s": 118.779,
+   "text": "and they think themselves stronger than the gods."
+  },
+  {
+   "beat": "V5-042",
+   "scene": "S19",
+   "image": "S19_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 118.779,
+   "end_s": 122.899,
+   "text": "The men are shut in with a creature who fears nothing."
+  },
+  {
+   "beat": "V5-043",
+   "scene": "S19",
+   "image": "S19_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 122.899,
+   "end_s": 128.029,
+   "text": "The only way out is behind a stone no human can lift."
+  },
+  {
+   "beat": "V5-044",
+   "scene": "S20",
+   "image": "S20_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 128.029,
+   "end_s": 130.384,
+   "text": "Then the giant seizes two of the men"
+  },
+  {
+   "beat": "V5-045",
+   "scene": "S20",
+   "image": "S20_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    640,
+    70,
+    760,
+    428
+   ],
+   "start_s": 130.384,
+   "end_s": 132.503,
+   "text": "and eats them for his supper."
+  },
+  {
+   "beat": "V5-046",
+   "scene": "S20",
+   "image": "S20_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 132.503,
+   "end_s": 135.974,
+   "text": "Afterwards he falls asleep among his sheep."
+  },
+  {
+   "beat": "V5-047",
+   "scene": "S21",
+   "image": "S21_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 135.974,
+   "end_s": 139.992,
+   "text": "Odysseus stands over him with his sword half drawn,"
+  },
+  {
+   "beat": "V5-048",
+   "scene": "S21",
+   "image": "S21_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    650,
+    700,
+    440,
+    248
+   ],
+   "start_s": 139.992,
+   "end_s": 143.369,
+   "text": "and for a moment it seems the story is over."
+  },
+  {
+   "beat": "V5-049",
+   "scene": "S21",
+   "image": "S21_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    700,
+    730,
+    320,
+    180
+   ],
+   "start_s": 143.369,
+   "end_s": 145.076,
+   "text": "Then he thinks of the stone,"
+  },
+  {
+   "beat": "V5-050",
+   "scene": "S21",
+   "image": "S21_base.png",
+   "move": "pull_out",
+   "crop_rect": null,
+   "push": {
+    "from": 1.06,
+    "to": 1
+   },
+   "start_s": 145.076,
+   "end_s": 146.608,
+   "text": "and of who would move it,"
+  },
+  {
+   "beat": "V5-051",
+   "scene": "S22",
+   "image": "S22_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 146.608,
+   "end_s": 148.622,
+   "text": "so he waits for the morning."
+  },
+  {
+   "beat": "V5-052",
+   "scene": "S22",
+   "image": "S22_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    600,
+    690,
+    560,
+    315
+   ],
+   "start_s": 148.622,
+   "end_s": 151.791,
+   "text": "He lies awake and counts the men who are left,"
+  },
+  {
+   "beat": "V5-053",
+   "scene": "S22",
+   "image": "S22_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    100,
+    620,
+    640,
+    360
+   ],
+   "start_s": 151.791,
+   "end_s": 154.087,
+   "text": "and the number keeps him awake."
+  },
+  {
+   "beat": "V5-054",
+   "scene": "S23",
+   "image": "S23_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 154.087,
+   "end_s": 156.676,
+   "text": "At breakfast, two more men go,"
+  },
+  {
+   "beat": "V5-055",
+   "scene": "S23",
+   "image": "S23_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    480,
+    660,
+    640,
+    360
+   ],
+   "start_s": 156.676,
+   "end_s": 160.345,
+   "text": "and Homer gives the details, but we will spare you."
+  },
+  {
+   "beat": "V5-056",
+   "scene": "S23",
+   "image": "S23_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "image2": "S23_v2.png",
+   "swap_frac": 0.55,
+   "start_s": 160.345,
+   "end_s": 163.571,
+   "text": "Then the giant drives his flock out to pasture,"
+  },
+  {
+   "beat": "V5-057",
+   "scene": "S24",
+   "image": "S24_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 163.571,
+   "end_s": 165.901,
+   "text": "and Odysseus gets to work."
+  },
+  {
+   "beat": "V5-059",
+   "scene": "S24",
+   "image": "S24_base.png",
+   "move": "pull_out",
+   "crop_rect": null,
+   "push": {
+    "from": 1.06,
+    "to": 1
+   },
+   "start_s": 165.901,
+   "end_s": 172.109,
+   "text": "He finds the giant's own club, an olive trunk as big as a ship's mast."
+  },
+  {
+   "beat": "V5-060",
+   "scene": "S25",
+   "image": "S25_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 172.109,
+   "end_s": 173.606,
+   "text": "He cuts off a length,"
+  },
+  {
+   "beat": "V5-061",
+   "scene": "S25",
+   "image": "S25_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 173.606,
+   "end_s": 175.197,
+   "text": "sharpens it to a point,"
+  },
+  {
+   "beat": "V5-062",
+   "scene": "S25",
+   "image": "S25_v2.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 175.197,
+   "end_s": 177.956,
+   "text": "and hardens the point in the fire."
+  },
+  {
+   "beat": "V5-063",
+   "scene": "S25",
+   "image": "S25_v2.png",
+   "move": "pull_out",
+   "crop_rect": null,
+   "push": {
+    "from": 1.06,
+    "to": 1
+   },
+   "start_s": 177.956,
+   "end_s": 183.137,
+   "text": "For the first time since they entered the cave, the crew have something to do."
+  },
+  {
+   "beat": "V5-064",
+   "scene": "S26",
+   "image": "S26_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 183.137,
+   "end_s": 185.401,
+   "text": "Then he hides it under the dung,"
+  },
+  {
+   "beat": "V5-065",
+   "scene": "S26",
+   "image": "S26_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    250,
+    650,
+    640,
+    360
+   ],
+   "start_s": 185.401,
+   "end_s": 189.31,
+   "text": "the one thing a cave full of sheep has plenty of."
+  },
+  {
+   "beat": "V5-066",
+   "scene": "S26",
+   "image": "S26_v1.png",
+   "move": "pan_right",
+   "crop_rect": null,
+   "push": {
+    "translate_pct": 4
+   },
+   "start_s": 189.31,
+   "end_s": 193.045,
+   "text": "Four men are chosen by lot to help him carry it."
+  },
+  {
+   "beat": "V5-067",
+   "scene": "S27",
+   "image": "S27_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 193.045,
+   "end_s": 197.128,
+   "text": "That evening the giant comes home and takes two more."
+  },
+  {
+   "beat": "V5-068",
+   "scene": "S28",
+   "image": "S28_v2.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 197.128,
+   "end_s": 199.711,
+   "text": "Now six of the twelve are gone."
+  },
+  {
+   "beat": "V5-069",
+   "scene": "S28",
+   "image": "S28_v2.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 199.711,
+   "end_s": 202.95,
+   "text": "Each meal makes the circle of survivors smaller,"
+  },
+  {
+   "beat": "V5-070",
+   "scene": "S28",
+   "image": "S28_v2.png",
+   "move": "crop_close",
+   "crop_rect": [
+    650,
+    490,
+    280,
+    158
+   ],
+   "start_s": 202.95,
+   "end_s": 206.299,
+   "text": "and the cave a little quieter."
+  },
+  {
+   "beat": "V5-071",
+   "scene": "S29",
+   "image": "S29_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 206.299,
+   "end_s": 209.213,
+   "text": "Odysseus steps forward with a bowl of wine"
+  },
+  {
+   "beat": "V5-072",
+   "scene": "S29",
+   "image": "S29_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 209.213,
+   "end_s": 211.531,
+   "text": "and offers it to the giant."
+  },
+  {
+   "beat": "V5-073",
+   "scene": "S30",
+   "image": "S30_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 211.531,
+   "end_s": 214.973,
+   "text": "The wine came from Maron, a priest of Apollo,"
+  },
+  {
+   "beat": "V5-074",
+   "scene": "S30",
+   "image": "S30_v1.png",
+   "move": "crop_close",
+   "crop_rect": [
+    120,
+    640,
+    500,
+    281
+   ],
+   "start_s": 214.973,
+   "end_s": 219.497,
+   "text": "whose household drank it mixed with twenty parts of water to one."
+  },
+  {
+   "beat": "V5-075",
+   "scene": "S31",
+   "image": "S31_v2.png",
+   "move": "crop_close",
+   "crop_rect": [
+    520,
+    440,
+    1000,
+    563
+   ],
+   "start_s": 219.497,
+   "end_s": 223.681,
+   "text": "The giant drinks three bowls, and Homer counts them."
+  },
+  {
+   "beat": "V5-076",
+   "scene": "S31",
+   "image": "S31_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 223.681,
+   "end_s": 225.769,
+   "text": "Then he asks the guest's name,"
+  },
+  {
+   "beat": "V5-077",
+   "scene": "S31",
+   "image": "S31_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 225.769,
+   "end_s": 227.493,
+   "text": "and promises a present."
+  },
+  {
+   "beat": "V5-078",
+   "scene": "S32",
+   "image": "S32_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    250,
+    560,
+    440,
+    248
+   ],
+   "start_s": 227.493,
+   "end_s": 230.413,
+   "text": "Odysseus tells him his name is Nobody."
+  },
+  {
+   "beat": "V5-079",
+   "scene": "S32",
+   "image": "S32_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 230.413,
+   "end_s": 234.668,
+   "text": "The giant laughs and says that his present will be this:"
+  },
+  {
+   "beat": "V5-080",
+   "scene": "S32",
+   "image": "S32_v2.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 234.668,
+   "end_s": 236.798,
+   "text": "he will eat Nobody last."
+  },
+  {
+   "beat": "V5-081",
+   "scene": "S33",
+   "image": "S33_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 236.798,
+   "end_s": 242.518,
+   "text": "A name like that is a joke, and the giant is the only one who does not hear it."
+  },
+  {
+   "beat": "V5-084",
+   "scene": "S33",
+   "image": "S33_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 242.518,
+   "end_s": 246.61,
+   "text": "It is a small trick, and the whole escape will hang on it."
+  },
+  {
+   "beat": "V5-085",
+   "scene": "S34",
+   "image": "S34_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 246.61,
+   "end_s": 248.397,
+   "text": "The giant sinks to the floor"
+  },
+  {
+   "beat": "V5-086",
+   "scene": "S34",
+   "image": "S34_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    300,
+    520,
+    600,
+    338
+   ],
+   "start_s": 248.397,
+   "end_s": 249.877,
+   "text": "and passes out."
+  },
+  {
+   "beat": "V5-087",
+   "scene": "S34",
+   "image": "S34_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    1000,
+    380,
+    520,
+    293
+   ],
+   "start_s": 249.877,
+   "end_s": 254.782,
+   "text": "Odysseus looks at the sleeping giant, then at his men, and nods."
+  },
+  {
+   "beat": "V5-088",
+   "scene": "S35",
+   "image": "S35_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 254.782,
+   "end_s": 257.613,
+   "text": "Odysseus pushes the stake into the fire"
+  },
+  {
+   "beat": "V5-089",
+   "scene": "S35",
+   "image": "S35_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    560,
+    560,
+    500,
+    281
+   ],
+   "start_s": 257.613,
+   "end_s": 260.676,
+   "text": "and holds it there until the point glows."
+  },
+  {
+   "beat": "V5-090",
+   "scene": "S35",
+   "image": "S35_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    430,
+    380,
+    760,
+    428
+   ],
+   "start_s": 260.676,
+   "end_s": 263.659,
+   "text": "No one speaks, because no one needs to."
+  },
+  {
+   "beat": "V5-091",
+   "scene": "S36",
+   "image": "S36_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 263.659,
+   "end_s": 265.936,
+   "text": "Then he and four men lift it"
+  },
+  {
+   "beat": "V5-092",
+   "scene": "S36",
+   "image": "S36_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 265.936,
+   "end_s": 268.322,
+   "text": "and put it in the giant's eye."
+  },
+  {
+   "beat": "V5-093",
+   "scene": "S36",
+   "image": "S36_v2.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 268.322,
+   "end_s": 271.777,
+   "text": "The cave fills with a sound that is not quite a roar."
+  },
+  {
+   "beat": "V5-094",
+   "scene": "S37",
+   "image": "S37_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 271.777,
+   "end_s": 274.9,
+   "text": "Homer reaches for a blacksmith's simile:"
+  },
+  {
+   "beat": "V5-095",
+   "scene": "S37",
+   "image": "S37_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 274.9,
+   "end_s": 278.79,
+   "text": "an axe plunged into cold water, hissing."
+  },
+  {
+   "beat": "V5-096",
+   "scene": "S38",
+   "image": "S38_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 278.79,
+   "end_s": 282.288,
+   "text": "The giant's scream brings his neighbours to the cave."
+  },
+  {
+   "beat": "V5-097",
+   "scene": "S38",
+   "image": "S38_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 282.288,
+   "end_s": 284.766,
+   "text": "They ask if someone is killing him."
+  },
+  {
+   "beat": "V5-098",
+   "scene": "S39",
+   "image": "S39_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 284.766,
+   "end_s": 289.999,
+   "text": "He shouts back that Nobody is killing him, by trickery and not by force."
+  },
+  {
+   "beat": "V5-099",
+   "scene": "S40",
+   "image": "S40_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 289.999,
+   "end_s": 293.25,
+   "text": "The neighbours reply that if nobody is hurting him,"
+  },
+  {
+   "beat": "V5-100",
+   "scene": "S40",
+   "image": "S40_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 293.25,
+   "end_s": 296.042,
+   "text": "it must be a sickness from Zeus."
+  },
+  {
+   "beat": "V5-101",
+   "scene": "S40",
+   "image": "S40_v2.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 296.042,
+   "end_s": 299.266,
+   "text": "He should pray to his father and let them sleep."
+  },
+  {
+   "beat": "V5-102",
+   "scene": "S41",
+   "image": "S41_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    120,
+    620,
+    520,
+    293
+   ],
+   "start_s": 299.266,
+   "end_s": 302.487,
+   "text": "They go home, and the trick has worked."
+  },
+  {
+   "beat": "V5-103",
+   "scene": "S41",
+   "image": "S41_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 302.487,
+   "end_s": 306.927,
+   "text": "The giant has lost his eye, but he has not lost his strength,"
+  },
+  {
+   "beat": "V5-104",
+   "scene": "S41",
+   "image": "S41_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 306.927,
+   "end_s": 311.065,
+   "text": "and the stone still waits at the door."
+  },
+  {
+   "beat": "V5-105",
+   "scene": "S42",
+   "image": "S42_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 311.065,
+   "end_s": 313.516,
+   "text": "At dawn the sheep file out,"
+  },
+  {
+   "beat": "V5-106",
+   "scene": "S42",
+   "image": "S42_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 313.516,
+   "end_s": 317.507,
+   "text": "and the blind giant sits in the doorway with his hands out."
+  },
+  {
+   "beat": "V5-107",
+   "scene": "S42",
+   "image": "S42_v1.png",
+   "move": "crop_close",
+   "crop_rect": [
+    300,
+    280,
+    1000,
+    563
+   ],
+   "start_s": 317.507,
+   "end_s": 321.918,
+   "text": "The flock is all he can still count, and he counts it by touch."
+  },
+  {
+   "beat": "V5-108",
+   "scene": "S43",
+   "image": "S43_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    60,
+    600,
+    720,
+    405
+   ],
+   "start_s": 321.918,
+   "end_s": 324.321,
+   "text": "Odysseus has tied the sheep in threes,"
+  },
+  {
+   "beat": "V5-109",
+   "scene": "S43",
+   "image": "S43_v3.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 324.321,
+   "end_s": 327.16,
+   "text": "with a man hanging under each middle one."
+  },
+  {
+   "beat": "V5-110",
+   "scene": "S43",
+   "image": "S43_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    700,
+    330,
+    760,
+    428
+   ],
+   "start_s": 327.16,
+   "end_s": 329.68,
+   "text": "He saves the best ram for himself,"
+  },
+  {
+   "beat": "V5-111",
+   "scene": "S43",
+   "image": "S43_v2.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 329.68,
+   "end_s": 331.868,
+   "text": "and clings to its belly."
+  },
+  {
+   "beat": "V5-112",
+   "scene": "S44",
+   "image": "S44_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    820,
+    540,
+    700,
+    394
+   ],
+   "start_s": 331.868,
+   "end_s": 335.398,
+   "text": "The giant feels along their backs as they pass,"
+  },
+  {
+   "beat": "V5-113",
+   "scene": "S44",
+   "image": "S44_base.png",
+   "move": "pull_out",
+   "crop_rect": null,
+   "push": {
+    "from": 1.06,
+    "to": 1
+   },
+   "start_s": 335.398,
+   "end_s": 337.214,
+   "text": "but never their bellies."
+  },
+  {
+   "beat": "V5-115",
+   "scene": "S44",
+   "image": "S44_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    600,
+    640,
+    500,
+    281
+   ],
+   "start_s": 337.214,
+   "end_s": 342.873,
+   "text": "Every sheep is a risk. If one man slips, or one animal bleats,"
+  },
+  {
+   "beat": "V5-116",
+   "scene": "S44",
+   "image": "S44_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 342.873,
+   "end_s": 346.994,
+   "text": "the plan ends in the dark, with a very large hand."
+  },
+  {
+   "beat": "V5-117",
+   "scene": "S45",
+   "image": "S45_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 346.994,
+   "end_s": 350.944,
+   "text": "Last of all comes the ram that carries Odysseus."
+  },
+  {
+   "beat": "V5-118",
+   "scene": "S45",
+   "image": "S45_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 350.944,
+   "end_s": 353.427,
+   "text": "And the giant speaks to it tenderly:"
+  },
+  {
+   "beat": "V5-119",
+   "scene": "S45",
+   "image": "S45_v2.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 353.427,
+   "end_s": 357.317,
+   "text": "\"My good ram… you lag last of all."
+  },
+  {
+   "beat": "V5-120",
+   "scene": "S45",
+   "image": "S45_v2.png",
+   "move": "crop_close",
+   "crop_rect": [
+    700,
+    520,
+    640,
+    360
+   ],
+   "start_s": 357.317,
+   "end_s": 361.072,
+   "text": "Is it because you know your master has lost his eye?\""
+  },
+  {
+   "beat": "V5-121",
+   "scene": "S46",
+   "image": "S46_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 361.072,
+   "end_s": 364.474,
+   "text": "It is the gentlest moment the giant has in the poem,"
+  },
+  {
+   "beat": "V5-122",
+   "scene": "S46",
+   "image": "S46_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    1000,
+    560,
+    500,
+    281
+   ],
+   "start_s": 364.474,
+   "end_s": 366.708,
+   "text": "and it is aimed at a ram."
+  },
+  {
+   "beat": "V5-123",
+   "scene": "S46",
+   "image": "S46_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 366.708,
+   "end_s": 368.608,
+   "text": "Then he lets it go."
+  },
+  {
+   "beat": "V5-124",
+   "scene": "S46",
+   "image": "S46_v2.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 368.608,
+   "end_s": 373.399,
+   "text": "He does not know that he has just let his whole victory walk out of the door."
+  },
+  {
+   "beat": "V5-125",
+   "scene": "S47",
+   "image": "S47_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 373.399,
+   "end_s": 376.325,
+   "text": "Outside, the men drop from the sheep"
+  },
+  {
+   "beat": "V5-126",
+   "scene": "S47",
+   "image": "S47_v1.png",
+   "move": "pan_right",
+   "crop_rect": null,
+   "push": {
+    "translate_pct": 4
+   },
+   "start_s": 376.325,
+   "end_s": 380.024,
+   "text": "and drive the whole flock down to the ship."
+  },
+  {
+   "beat": "V5-127",
+   "scene": "S48",
+   "image": "S48_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 380.024,
+   "end_s": 382.485,
+   "text": "Odysseus should sail away quietly,"
+  },
+  {
+   "beat": "V5-128",
+   "scene": "S48",
+   "image": "S48_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    1000,
+    250,
+    520,
+    293
+   ],
+   "start_s": 382.485,
+   "end_s": 384.046,
+   "text": "now that he has won."
+  },
+  {
+   "beat": "V5-129",
+   "scene": "S48",
+   "image": "S48_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 384.046,
+   "end_s": 388.536,
+   "text": "Instead, he stands on the deck and jeers at the giant."
+  },
+  {
+   "beat": "V5-131",
+   "scene": "S48",
+   "image": "S48_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    1000,
+    250,
+    520,
+    293
+   ],
+   "start_s": 388.536,
+   "end_s": 393.807,
+   "text": "It is the one mistake in the whole plan, and it is a mistake of pride."
+  },
+  {
+   "beat": "V5-132",
+   "scene": "S49",
+   "image": "S49_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 393.807,
+   "end_s": 397.762,
+   "text": "The giant tears the top off a mountain and throws it."
+  },
+  {
+   "beat": "V5-133",
+   "scene": "S49",
+   "image": "S49_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 397.762,
+   "end_s": 400.061,
+   "text": "It lands just in front of the ship,"
+  },
+  {
+   "beat": "V5-134",
+   "scene": "S49",
+   "image": "S49_v2.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 400.061,
+   "end_s": 403.236,
+   "text": "and the wave sweeps them back toward the shore."
+  },
+  {
+   "beat": "V5-135",
+   "scene": "S50",
+   "image": "S50_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    900,
+    380,
+    520,
+    293
+   ],
+   "start_s": 403.236,
+   "end_s": 405.047,
+   "text": "The crew begs him to stop,"
+  },
+  {
+   "beat": "V5-136",
+   "scene": "S50",
+   "image": "S50_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 405.047,
+   "end_s": 408.55,
+   "text": "because the giant has already thrown one rock at them."
+  },
+  {
+   "beat": "V5-137",
+   "scene": "S50",
+   "image": "S50_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    1050,
+    330,
+    480,
+    270
+   ],
+   "start_s": 408.55,
+   "end_s": 413.083,
+   "text": "But Odysseus shouts once more, and this time he gives his name."
+  },
+  {
+   "beat": "V5-138",
+   "scene": "S50",
+   "image": "S50_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    1100,
+    360,
+    400,
+    225
+   ],
+   "start_s": 413.083,
+   "end_s": 415.266,
+   "text": "If anyone asks who blinded you,"
+  },
+  {
+   "beat": "V5-139",
+   "scene": "S50",
+   "image": "S50_base.png",
+   "move": "pull_out",
+   "crop_rect": null,
+   "push": {
+    "from": 1.06,
+    "to": 1
+   },
+   "start_s": 415.266,
+   "end_s": 419.66,
+   "text": "tell them it was Odysseus, son of Laertes, of Ithaca."
+  },
+  {
+   "beat": "V5-140",
+   "scene": "S51",
+   "image": "S51_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    270,
+    330,
+    560,
+    315
+   ],
+   "start_s": 419.66,
+   "end_s": 421.43,
+   "text": "So much for Nobody."
+  },
+  {
+   "beat": "V5-142",
+   "scene": "S51",
+   "image": "S51_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 421.43,
+   "end_s": 425.264,
+   "text": "The giant answers that a prophet named Telemus once warned him"
+  },
+  {
+   "beat": "V5-143",
+   "scene": "S51",
+   "image": "S51_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 425.264,
+   "end_s": 427.696,
+   "text": "that Odysseus would take his eye."
+  },
+  {
+   "beat": "V5-144",
+   "scene": "S51",
+   "image": "S51_v2.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 427.696,
+   "end_s": 430.354,
+   "text": "He had expected a great warrior,"
+  },
+  {
+   "beat": "V5-145",
+   "scene": "S51",
+   "image": "S51_v3.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 430.354,
+   "end_s": 434.578,
+   "text": "and instead he got \"a little insignificant weakling.\""
+  },
+  {
+   "beat": "V5-146",
+   "scene": "S51",
+   "image": "S51_v4.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 434.578,
+   "end_s": 437.457,
+   "text": "He offers presents if Odysseus will come back,"
+  },
+  {
+   "beat": "V5-147",
+   "scene": "S52",
+   "image": "S52_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 437.457,
+   "end_s": 441.234,
+   "text": "and Odysseus answers that it will take more than Poseidon"
+  },
+  {
+   "beat": "V5-148",
+   "scene": "S52",
+   "image": "S52_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    1050,
+    300,
+    480,
+    270
+   ],
+   "start_s": 441.234,
+   "end_s": 443.05,
+   "text": "to cure that eye."
+  },
+  {
+   "beat": "V5-149",
+   "scene": "S53",
+   "image": "S53_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 443.05,
+   "end_s": 446.171,
+   "text": "Then the giant lifts both hands toward the sky,"
+  },
+  {
+   "beat": "V5-150",
+   "scene": "S53",
+   "image": "S53_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    300,
+    120,
+    640,
+    360
+   ],
+   "start_s": 446.171,
+   "end_s": 448.254,
+   "text": "and prays to Poseidon."
+  },
+  {
+   "beat": "V5-151",
+   "scene": "S53",
+   "image": "S53_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 448.254,
+   "end_s": 451.835,
+   "text": "Never let Odysseus reach his home, he asks."
+  },
+  {
+   "beat": "V5-152",
+   "scene": "S53",
+   "image": "S53_v1.png",
+   "move": "pull_out",
+   "crop_rect": null,
+   "push": {
+    "from": 1.06,
+    "to": 1
+   },
+   "start_s": 451.835,
+   "end_s": 455.986,
+   "text": "Or if he must, let him come \"late and in sore plight,"
+  },
+  {
+   "beat": "V5-153",
+   "scene": "S54",
+   "image": "S54_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 455.986,
+   "end_s": 458.571,
+   "text": "after losing all his men.\""
+  },
+  {
+   "beat": "V5-154",
+   "scene": "S54",
+   "image": "S54_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 458.571,
+   "end_s": 460.336,
+   "text": "Poseidon listens."
+  },
+  {
+   "beat": "V5-155",
+   "scene": "S55",
+   "image": "S55_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 460.336,
+   "end_s": 464.82,
+   "text": "The prayer is answered, and the rest of the Odyssey is the answer."
+  },
+  {
+   "beat": "V5-156",
+   "scene": "S55",
+   "image": "S55_v1.png",
+   "move": "pull_out",
+   "crop_rect": null,
+   "push": {
+    "from": 1.06,
+    "to": 1
+   },
+   "start_s": 464.82,
+   "end_s": 469.015,
+   "text": "It will be years before Odysseus sees Ithaca again."
+  },
+  {
+   "beat": "V5-157",
+   "scene": "S56",
+   "image": "S56_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 469.015,
+   "end_s": 471.656,
+   "text": "Homer never actually says one eye."
+  },
+  {
+   "beat": "V5-158",
+   "scene": "S56",
+   "image": "S56_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    850,
+    470,
+    440,
+    248
+   ],
+   "start_s": 471.656,
+   "end_s": 475.72,
+   "text": "He says \"the eye,\" and takes the rest for granted."
+  },
+  {
+   "beat": "V5-159",
+   "scene": "S57",
+   "image": "S57_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 475.72,
+   "end_s": 480.62,
+   "text": "For the one eye, you need Hesiod, around seven hundred B.C."
+  },
+  {
+   "beat": "V5-160",
+   "scene": "S58",
+   "image": "S58_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 480.62,
+   "end_s": 485.317,
+   "text": "He has three Cyclopes at a forge, making the thunderbolt for Zeus."
+  },
+  {
+   "beat": "V5-161",
+   "scene": "S58",
+   "image": "S58_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    420,
+    380,
+    600,
+    338
+   ],
+   "start_s": 485.317,
+   "end_s": 489.4,
+   "text": "So one idea is that the Cyclopes began as smiths."
+  },
+  {
+   "beat": "V5-162",
+   "scene": "S59",
+   "image": "S59_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 489.4,
+   "end_s": 494.853,
+   "text": "In 1914, a palaeontologist named Othenio Abel imagined sailors"
+  },
+  {
+   "beat": "V5-163",
+   "scene": "S60",
+   "image": "S60_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 494.853,
+   "end_s": 499.984,
+   "text": "lighting a fire in a beach cave and seeing an elephant skull in the clay."
+  },
+  {
+   "beat": "V5-164",
+   "scene": "S60",
+   "image": "S60_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 499.984,
+   "end_s": 503.38,
+   "text": "Abel thought it might be where the Cyclops came from."
+  },
+  {
+   "beat": "V5-165",
+   "scene": "S61",
+   "image": "S61_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 503.38,
+   "end_s": 511.133,
+   "text": "Ice Age Sicily had dwarf elephants. Head on, their skulls show one great hole in the middle,"
+  },
+  {
+   "beat": "V5-166",
+   "scene": "S61",
+   "image": "S61_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 511.133,
+   "end_s": 513.577,
+   "text": "which is really the nasal cavity."
+  },
+  {
+   "beat": "V5-167",
+   "scene": "S61",
+   "image": "S61_v2.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 513.577,
+   "end_s": 515.62,
+   "text": "But Abel's sailors are imagined,"
+  },
+  {
+   "beat": "V5-168",
+   "scene": "S62",
+   "image": "S62_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 515.62,
+   "end_s": 519.293,
+   "text": "and it is a modern claim, not ancient evidence."
+  },
+  {
+   "beat": "V5-169",
+   "scene": "S63",
+   "image": "S63_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 519.293,
+   "end_s": 521.437,
+   "text": "Then there are the walls."
+  },
+  {
+   "beat": "V5-170",
+   "scene": "S63",
+   "image": "S63_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 521.437,
+   "end_s": 524.319,
+   "text": "At Tiryns, the traveller Pausanias wrote"
+  },
+  {
+   "beat": "V5-171",
+   "scene": "S63",
+   "image": "S63_v2.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 524.319,
+   "end_s": 528.084,
+   "text": "that a pair of mules could not move even the smallest stone,"
+  },
+  {
+   "beat": "V5-172",
+   "scene": "S63",
+   "image": "S63_v3.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 528.084,
+   "end_s": 530.272,
+   "text": "and that the Cyclopes built it."
+  },
+  {
+   "beat": "V5-173",
+   "scene": "S64",
+   "image": "S64_v2.png",
+   "move": "push_in",
+   "crop_rect": null,
+   "push": {
+    "from": 1,
+    "to": 1.06
+   },
+   "start_s": 530.272,
+   "end_s": 534.032,
+   "text": "People built those walls, around twelve fifty B.C.,"
+  },
+  {
+   "beat": "V5-174",
+   "scene": "S64",
+   "image": "S64_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 534.032,
+   "end_s": 537.729,
+   "text": "though archaeologists still call the style cyclopean."
+  },
+  {
+   "beat": "V5-175",
+   "scene": "S65",
+   "image": "S65_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 537.729,
+   "end_s": 541.024,
+   "text": "In 1904, the scholar Oskar Hackman"
+  },
+  {
+   "beat": "V5-176",
+   "scene": "S65",
+   "image": "S65_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 541.024,
+   "end_s": 545.374,
+   "text": "catalogued two hundred and twenty-one versions of one tale."
+  },
+  {
+   "beat": "V5-177",
+   "scene": "S66",
+   "image": "S66_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 545.374,
+   "end_s": 550.119,
+   "text": "In it, a man trapped by a giant blinds him and escapes."
+  },
+  {
+   "beat": "V5-178",
+   "scene": "S67",
+   "image": "S67_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 550.119,
+   "end_s": 553.01,
+   "text": "They come from Iceland, Portugal and Russia,"
+  },
+  {
+   "beat": "V5-179",
+   "scene": "S67",
+   "image": "S67_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    830,
+    620,
+    700,
+    394
+   ],
+   "start_s": 553.01,
+   "end_s": 555.56,
+   "text": "and even from the Arabian Nights."
+  },
+  {
+   "beat": "V5-180",
+   "scene": "S68",
+   "image": "S68_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 555.56,
+   "end_s": 558.746,
+   "text": "Many scholars think that tale is older than Homer."
+  },
+  {
+   "beat": "V5-181",
+   "scene": "S68",
+   "image": "S68_v1.png",
+   "move": "variant",
+   "crop_rect": null,
+   "start_s": 558.746,
+   "end_s": 560.737,
+   "text": "None of them can be proved."
+  },
+  {
+   "beat": "V5-182",
+   "scene": "S69",
+   "image": "S69_base.png",
+   "move": "crop_close",
+   "crop_rect": [
+    900,
+    520,
+    420,
+    236
+   ],
+   "start_s": 560.737,
+   "end_s": 563.953,
+   "text": "Ask who can prove where the Cyclops came from,"
+  },
+  {
+   "beat": "V5-183",
+   "scene": "S69",
+   "image": "S69_base.png",
+   "move": "pull_out",
+   "crop_rect": null,
+   "push": {
+    "from": 1.06,
+    "to": 1
+   },
+   "start_s": 563.953,
+   "end_s": 567.643,
+   "text": "and the honest answer is the one Odysseus gave him."
+  },
+  {
+   "beat": "V5-184",
+   "scene": "S70",
+   "image": "S70_base.png",
+   "move": "hold",
+   "crop_rect": null,
+   "start_s": 567.643,
+   "end_s": 570.537,
+   "text": "Nobody."
+  }
+ ]
+}

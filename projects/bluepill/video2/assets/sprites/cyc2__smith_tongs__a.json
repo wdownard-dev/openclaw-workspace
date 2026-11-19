@@ -1,0 +1,21 @@
+{
+ "file": "cyc2__smith_tongs__a.png",
+ "source": "../gen/cyc2__smith_tongs__a1.png",
+ "width": 876,
+ "height": 998,
+ "feet": {
+  "x": 303,
+  "y": 989
+ },
+ "height_px_at_1080": 998,
+ "src_bbox": [
+  125,
+  16,
+  984,
+  997
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

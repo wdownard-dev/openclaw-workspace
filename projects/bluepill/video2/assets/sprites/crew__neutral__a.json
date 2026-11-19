@@ -1,0 +1,21 @@
+{
+ "file": "crew__neutral__a.png",
+ "source": "../masters/crew_master_white.png",
+ "width": 462,
+ "height": 1018,
+ "feet": {
+  "x": 225,
+  "y": 1009
+ },
+ "height_px_at_1080": 1018,
+ "src_bbox": [
+  280,
+  11,
+  725,
+  1012
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

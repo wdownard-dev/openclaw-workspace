@@ -1,0 +1,21 @@
+{
+ "file": "polyphemus__wave__a.png",
+ "source": "../gen/polyphemus__wave__a1.png",
+ "width": 668,
+ "height": 1015,
+ "feet": {
+  "x": 235,
+  "y": 1006
+ },
+ "height_px_at_1080": 1015,
+ "src_bbox": [
+  174,
+  13,
+  825,
+  1011
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

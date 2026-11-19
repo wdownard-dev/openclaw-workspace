@@ -1,0 +1,21 @@
+{
+ "file": "prop__dung__a.png",
+ "source": "../gen/prop__dung__a1.png",
+ "width": 1354,
+ "height": 694,
+ "feet": {
+  "x": 597,
+  "y": 685
+ },
+ "height_px_at_1080": 694,
+ "src_bbox": [
+  93,
+  148,
+  1430,
+  825
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

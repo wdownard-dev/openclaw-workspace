@@ -1,0 +1,21 @@
+{
+ "file": "prop__drawer_open_empty__a.png",
+ "source": "../gen/prop__drawer_open_empty__a1.png",
+ "width": 823,
+ "height": 833,
+ "feet": {
+  "x": 411,
+  "y": 824
+ },
+ "height_px_at_1080": 833,
+ "src_bbox": [
+  364,
+  22,
+  1170,
+  838
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

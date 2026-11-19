@@ -1,0 +1,112 @@
+{
+ "video_id": "Gkyy7mWYeko",
+ "title": "The ENTIRE History of Alexander The Great in 14 Minutes",
+ "duration_s": 865.5,
+ "visual": {
+  "shots": 237,
+  "cuts_per_min": 16.4,
+  "pops_per_min": 0.1,
+  "visible_changes_per_min": 16.4,
+  "shot_p10_s": 1.83,
+  "shot_median_s": 3.37,
+  "shot_p90_s": 5.93,
+  "shot_max_s": 8.6,
+  "white_dominant_pct_gt60": 0.0,
+  "white_dominant_pct_gt40": 0.3,
+  "mean_luminance": 134.2,
+  "text_edge_density_mean_E": 0.0397,
+  "text_heavy_frames_pct_E": 80.8,
+  "palette": [
+   {
+    "hex": "#736145",
+    "share_pct": 25.1
+   },
+   {
+    "hex": "#9e9476",
+    "share_pct": 19.4
+   },
+   {
+    "hex": "#2f2c2e",
+    "share_pct": 17.9
+   },
+   {
+    "hex": "#dad7c1",
+    "share_pct": 15.0
+   },
+   {
+    "hex": "#e0ad4b",
+    "share_pct": 14.7
+   },
+   {
+    "hex": "#66a9d1",
+    "share_pct": 7.9
+   }
+  ]
+ },
+ "text": {
+  "sentence_split": "punctuation",
+  "words": 2151,
+  "wpm": 149.1,
+  "wpm_speaking_span": 149.3,
+  "sentences": 150,
+  "sentences_per_min": 10.4,
+  "words_per_sentence_mean": 14.4,
+  "words_per_sentence_median": 14.0,
+  "pct_sentences_le6w": 10.7,
+  "questions_per_min": 0.14
+ },
+ "hook": {
+  "shots": [
+   {
+    "start": 0.0,
+    "len": 2.2
+   },
+   {
+    "start": 2.2,
+    "len": 4.33
+   },
+   {
+    "start": 6.53,
+    "len": 2.87
+   },
+   {
+    "start": 9.4,
+    "len": 1.0
+   },
+   {
+    "start": 10.4,
+    "len": 1.13
+   },
+   {
+    "start": 11.53,
+    "len": 2.34
+   },
+   {
+    "start": 13.87,
+    "len": 2.6
+   },
+   {
+    "start": 16.47,
+    "len": 2.06
+   },
+   {
+    "start": 18.53,
+    "len": 2.34
+   },
+   {
+    "start": 20.87,
+    "len": 2.96
+   },
+   {
+    "start": 23.83,
+    "len": 3.34
+   },
+   {
+    "start": 27.17,
+    "len": 4.56
+   }
+  ],
+  "words": "By the time he was 30 years old, he had conquered the largest empire the ancient world had ever seen. He fought in the front lines of every single battle, got stabbed, shot with arrows, and had his helmet split in half. Yet, he never lost a single fight. He founded over 70 cities, named almost all of them after himself, and even named one after his favorite horse. Legend says that when he realized the size of the world, he wept because there were no more worlds left"
+ },
+ "chapters": null
+}

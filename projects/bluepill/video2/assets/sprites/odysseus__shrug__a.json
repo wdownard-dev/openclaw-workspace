@@ -1,0 +1,21 @@
+{
+ "file": "odysseus__shrug__a.png",
+ "source": "../gen/odysseus__shrug__a1.png",
+ "width": 727,
+ "height": 1012,
+ "feet": {
+  "x": 234,
+  "y": 1003
+ },
+ "height_px_at_1080": 1012,
+ "src_bbox": [
+  155,
+  12,
+  865,
+  1007
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "file": "prop__gift_basket__a.png",
+ "source": "../gen/prop__gift_basket__a1.png",
+ "width": 933,
+ "height": 859,
+ "feet": {
+  "x": 450,
+  "y": 850
+ },
+ "height_px_at_1080": 859,
+ "src_bbox": [
+  300,
+  13,
+  1216,
+  855
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

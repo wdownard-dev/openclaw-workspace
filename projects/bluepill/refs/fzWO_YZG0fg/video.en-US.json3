@@ -1,0 +1,805 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "At its peak, Rome controlled 1/4 of \nthe entire human population on Earth.  "
+    } ]
+  }, {
+    "tStartMs": 4680,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "Not one country, not one continent. 1/4 of \nevery single person alive on the planet.  "
+    } ]
+  }, {
+    "tStartMs": 11120,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "They built roads so perfectly engineered that cars \nstill drive on them today. They invented concrete,  "
+    } ]
+  }, {
+    "tStartMs": 17000,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "running water, and the idea that every citizen \ndeserves the protection of the law. And then,  "
+    } ]
+  }, {
+    "tStartMs": 23080,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "in less than a century, it all came crashing \ndown. But here's what makes the story different.  "
+    } ]
+  }, {
+    "tStartMs": 29280,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Rome didn't start as a superpower. It started as \na tiny, muddy village on a riverbank. Surrounded  "
+    } ]
+  }, {
+    "tStartMs": 34240,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "by enemies that nobody took seriously. So, how \ndid it happen? How did a group of farmers and  "
+    } ]
+  }, {
+    "tStartMs": 40800,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "outcasts turn that little village into the most \npowerful empire the ancient world had ever seen?  "
+    } ]
+  }, {
+    "tStartMs": 46400,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "And why did the very same system that made \nRome unstoppable eventually become the thing  "
+    } ]
+  }, {
+    "tStartMs": 51320,
+    "dDurationMs": 8120,
+    "segs": [ {
+      "utf8": "that destroyed it? This is that story. The year \nis 753 BC. Imagine the world at this moment.  "
+    } ]
+  }, {
+    "tStartMs": 59440,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "Egypt already has pyramids. Assyria has armies so \nterrifying that entire kingdoms surrender without  "
+    } ]
+  }, {
+    "tStartMs": 65080,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "a fight. And in a small, muddy corner of Italy, a \ngroup of outcasts nobody had ever heard of decided  "
+    } ]
+  }, {
+    "tStartMs": 70800,
+    "dDurationMs": 7400,
+    "segs": [ {
+      "utf8": "to build a city. Nobody noticed. Nobody cared. \nBut here's the thing. That's exactly why they won.  "
+    } ]
+  }, {
+    "tStartMs": 79520,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "According to the story Romans told themselves for \ngenerations, it all started with two brothers,  "
+    } ]
+  }, {
+    "tStartMs": 84680,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "Romulus and Remus, twin sons of a god. Or so \nthey claimed. As babies, they were thrown into  "
+    } ]
+  }, {
+    "tStartMs": 91880,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "the Tiber River and left to die. They didn't die. \nPicture this. A wolf finds two screaming babies  "
+    } ]
+  }, {
+    "tStartMs": 98840,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "floating down a river. And instead of eating \nthem, she feeds them, raises them as her own.  "
+    } ]
+  }, {
+    "tStartMs": 104480,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "And when they grow up, they come back to \nthat same river with one goal. Build a city.  "
+    } ]
+  }, {
+    "tStartMs": 110440,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "But they couldn't agree on where. The argument \nturned violent. And Romulus did something that  "
+    } ]
+  }, {
+    "tStartMs": 115640,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "would define Rome forever. He picked up a rock \nand killed his own brother. Think about that for a  "
+    } ]
+  }, {
+    "tStartMs": 121840,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "second. [music] The greatest civilization in human \nhistory began with a murder. Romulus became the  "
+    } ]
+  }, {
+    "tStartMs": 127200,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "first king. But he had an immediate problem. His \ncity was empty. No people, no families, no future.  "
+    } ]
+  }, {
+    "tStartMs": 134040,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "So he did something nobody else had ever done. He \nopened the gates to everyone nobody else wanted.  "
+    } ]
+  }, {
+    "tStartMs": 140200,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "Runaway slaves, criminals, debt dodgers, exiles, \nmen who had burned every bridge they ever had.  "
+    } ]
+  }, {
+    "tStartMs": 147160,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Now here's what nobody tells you about this \nmoment. This wasn't desperation. This was genius.  "
+    } ]
+  }, {
+    "tStartMs": 152560,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Because these people had nothing to lose. And \npeople with nothing to lose fight harder than  "
+    } ]
+  }, {
+    "tStartMs": 157080,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "anyone. That, right there, is the first \nclue to why Rome became what it became.  "
+    } ]
+  }, {
+    "tStartMs": 163480,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "For the next 200 years, seven kings ruled Rome. \nEach one built something new. Temples, roads.  "
+    } ]
+  }, {
+    "tStartMs": 169560,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "And here's one that will blow your mind. \nThe underground sewer system so perfectly  "
+    } ]
+  }, {
+    "tStartMs": 173360,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "engineered that parts of it still carry water \ntoday. 2,000 years later. Sound familiar?  "
+    } ]
+  }, {
+    "tStartMs": 179800,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "That's Rome. Always building things that outlast \neveryone. But the seventh king broke everything.  "
+    } ]
+  }, {
+    "tStartMs": 185560,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "His name was Tarquin the Proud. And he ruled \nlike Rome was his personal property. He taxed  "
+    } ]
+  }, {
+    "tStartMs": 190880,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "people into poverty. He executed anyone who \ndisagreed. He treated Roman citizens like slaves.  "
+    } ]
+  }, {
+    "tStartMs": 196800,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "And this is where everything changes. \nThe people rose up, dragged him out,  "
+    } ]
+  }, {
+    "tStartMs": 200640,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and made a vow that would echo through the next \n500 years. Rome would never have a king again.  "
+    } ]
+  }, {
+    "tStartMs": 206320,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "Ever. The word for king, Rex, became the \nmost hated word in the Latin language.  "
+    } ]
+  }, {
+    "tStartMs": 213080,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Call someone Rex and you were accusing \nthem of the worst crime imaginable.  "
+    } ]
+  }, {
+    "tStartMs": 217480,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "From the ashes of the monarchy, Rome built \nsomething the ancient world had never seen.  "
+    } ]
+  }, {
+    "tStartMs": 222360,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "A republic. Two elected leaders who could cancel \neach other out. No single man could ever become  "
+    } ]
+  }, {
+    "tStartMs": 228560,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "too powerful. Brilliant idea. Worked perfectly \nfor a while. So, Rome has a republic now.  "
+    } ]
+  }, {
+    "tStartMs": 235680,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "But, they're still tiny, still nobody. \nAnd this is where everything changes.  "
+    } ]
+  }, {
+    "tStartMs": 241640,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Here's what nobody tells you about \nhow Rome conquered the world.  "
+    } ]
+  }, {
+    "tStartMs": 245320,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "They never actually planned to. Every war \nstarted the same way. A neighbor attacked.  "
+    } ]
+  }, {
+    "tStartMs": 251720,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "Rome fought back, took their land, built a road \nthrough it, then the next neighbor got nervous,  "
+    } ]
+  }, {
+    "tStartMs": 258240,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "and attacked. And Rome obliterated them, \ntoo. It was like a snowball rolling downhill.  "
+    } ]
+  }, {
+    "tStartMs": 264760,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Rome never chose to get bigger. Getting bigger \nwas just what happened every time someone tried  "
+    } ]
+  }, {
+    "tStartMs": 269320,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "to stop them. But, here's what made Rome \ntruly unstoppable. They were students.  "
+    } ]
+  }, {
+    "tStartMs": 274000,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Beat the Greeks, copied their tactics. Beat the \nhill tribes, learned mountain warfare. Every  "
+    } ]
+  }, {
+    "tStartMs": 279520,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "enemy taught them something new. Within a hundred \nyears, Rome owned the entire Italian peninsula.  "
+    } ]
+  }, {
+    "tStartMs": 285520,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "And then they looked across the sea and saw \nCarthage, the richest city in the ancient world,  "
+    } ]
+  }, {
+    "tStartMs": 291040,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "a navy that controlled the Mediterranean, the \none rival that could actually destroy Rome.  "
+    } ]
+  }, {
+    "tStartMs": 296880,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "In the first war, Rome had almost no experience at \nsea. So, they found a wrecked Carthaginian warship  "
+    } ]
+  }, {
+    "tStartMs": 302360,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "on a beach, studied its design, and built a fleet \nof a hundred ships in two months. Two months.  "
+    } ]
+  }, {
+    "tStartMs": 308920,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "But, the second war almost ended everything. \nA general named Hannibal did something nobody  "
+    } ]
+  }, {
+    "tStartMs": 313640,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "thought was possible. He led his army across \nthe Alps in winter paired with 37 war elephants.  "
+    } ]
+  }, {
+    "tStartMs": 320080,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "The crossing alone killed thousands of his \nmen. And when the survivors reached Italy,  "
+    } ]
+  }, {
+    "tStartMs": 324160,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "unexhausted, freezing, half-starved, they \nstill destroyed Roman army after Roman army.  "
+    } ]
+  }, {
+    "tStartMs": 330560,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Most nations would have surrendered after the \nfirst defeat. Rome just kept raising new armies.  "
+    } ]
+  }, {
+    "tStartMs": 336160,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "For over a decade, Hannibal remained undefeated \non Italian soil. And Rome never quit. Eventually,  "
+    } ]
+  }, {
+    "tStartMs": 342120,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "they took the fight to Africa, beat Hannibal on \nhis own ground, and in the third war, and Carthage  "
+    } ]
+  }, {
+    "tStartMs": 347920,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "to the ground and enslaved every survivor. Rome \ndidn't just defeat its enemies, it deleted them.  "
+    } ]
+  }, {
+    "tStartMs": 355320,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "By 146 BC, Rome had become the dominant power of \nthe ancient world. No serious rivals remained.  "
+    } ]
+  }, {
+    "tStartMs": 362160,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "They had won everything. And it right there is \nexactly when things started to go wrong. Rome had  "
+    } ]
+  }, {
+    "tStartMs": 367880,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "won everything. And that was the problem. Winning \ntoo much can be just as dangerous as losing.  "
+    } ]
+  }, {
+    "tStartMs": 373800,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "Picture this. You're a Roman soldier. You spent \n10 years fighting for Rome in Spain, in Greece,  "
+    } ]
+  }, {
+    "tStartMs": 379880,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "in Africa. You watched your friends die. You \nnearly died yourself. And then the war ends.  "
+    } ]
+  }, {
+    "tStartMs": 386320,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "You come home, but your farm is gone. While you \nwere away fighting, wealthy Romans were buying up  "
+    } ]
+  }, {
+    "tStartMs": 392480,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "land across Italy using slaves captured from the \nvery wars you just fought. Slaves who worked for  "
+    } ]
+  }, {
+    "tStartMs": 399040,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "nothing. The small farmers who built Rome, the \nmen who filled the legions who fought Hannibal,  "
+    } ]
+  }, {
+    "tStartMs": 405080,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "were slowly being pushed off their land. \nThe Republic was built on citizen soldiers.  "
+    } ]
+  }, {
+    "tStartMs": 410360,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Men who owned land. Men who had something \nto fight for. Take away the land,  "
+    } ]
+  }, {
+    "tStartMs": 415520,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "you take away the foundation everything was built \non. A man named Tiberius Gracchus decided to do  "
+    } ]
+  }, {
+    "tStartMs": 421760,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "something about it. Simple idea. Take the public \nland wealthy senators had illegally occupied,  "
+    } ]
+  }, {
+    "tStartMs": 428600,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "give it back to the poor. The Senate \nwas furious. So, they killed him.  "
+    } ]
+  }, {
+    "tStartMs": 433240,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "A group of senators surrounded Tiberius and beat \nhim to death. Rome had crossed a line it could  "
+    } ]
+  }, {
+    "tStartMs": 438440,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "never uncross. His brother Gaius continued the \nfight. The Senate's response was even more brutal.  "
+    } ]
+  }, {
+    "tStartMs": 444960,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "Thousands of his supporters killed. Gaius himself \ndying in the chaos. Power now came from violence,  "
+    } ]
+  }, {
+    "tStartMs": 451880,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "not from law. And the generals understood this \nperfectly. Marius began recruiting men who had  "
+    } ]
+  }, {
+    "tStartMs": 458120,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "little or no property. Suddenly soldiers had \nno farm to return to. No life outside the army.  "
+    } ]
+  }, {
+    "tStartMs": 464720,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "They became loyal, not to Rome, not to the \nRepublic, but to the general who paid them.  "
+    } ]
+  }, {
+    "tStartMs": 470640,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "Rome had just handed its most powerful weapon \nto individual men. And then came Spartacus,  "
+    } ]
+  }, {
+    "tStartMs": 476280,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "a gladiator slave who walked out of a training \nschool with 70 men and started a revolution.  "
+    } ]
+  }, {
+    "tStartMs": 481920,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "Within months, tens of thousands. For 2 years \nhe moved across Italy defeating Roman army  "
+    } ]
+  }, {
+    "tStartMs": 487840,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "after Roman army. Rome eventually crushed it. \n6,000 followers crucified along the main road. The  "
+    } ]
+  }, {
+    "tStartMs": 494440,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "greatest military power in the ancient world had \njust spent 2 years struggling to defeat a slave  "
+    } ]
+  }, {
+    "tStartMs": 499960,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "army. Rome had survived Hannibal. It had survived \nevery enemy that ever came for it from outside.  "
+    } ]
+  }, {
+    "tStartMs": 507080,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "But nobody had figured out how to save Rome from \nRome itself. And that was exactly what was coming  "
+    } ]
+  }, {
+    "tStartMs": 513320,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "next. Into this broken Republic walked Julius \nCaesar. And nothing would ever be the same.  "
+    } ]
+  }, {
+    "tStartMs": 520200,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "Caesar wasn't just a general. He \nwasn't just a politician. He was both.  "
+    } ]
+  }, {
+    "tStartMs": 525040,
+    "dDurationMs": 7800,
+    "segs": [ {
+      "utf8": "Better than anyone who had ever lived. 58 BC, \nCaesar takes command in Gaul, modern-day France.  "
+    } ]
+  }, {
+    "tStartMs": 533600,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "What was supposed to be a routine assignment \nturned into something nobody expected. 8 years  "
+    } ]
+  }, {
+    "tStartMs": 538840,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "of relentless campaigning. An entire region \nconquered. His soldiers didn't just follow him.  "
+    } ]
+  }, {
+    "tStartMs": 545040,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "They would die for him. He knew their names, \nate the same food, slept in the same conditions.  "
+    } ]
+  }, {
+    "tStartMs": 551360,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "And he was sending back so much gold to Rome that \nhe was becoming the most popular man in the city.  "
+    } ]
+  }, {
+    "tStartMs": 556680,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "Which was exactly the problem. The Senate was \nwatching. And they were terrified. A man this  "
+    } ]
+  }, {
+    "tStartMs": 562600,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "popular, this powerful, [music] this loved by his \narmy. There was only one word for what Caesar was  "
+    } ]
+  }, {
+    "tStartMs": 568640,
+    "dDurationMs": 7640,
+    "segs": [ {
+      "utf8": "becoming. Rex. So they gave him an ultimatum. \nDisband your army. Come back to Rome alone. Or  "
+    } ]
+  }, {
+    "tStartMs": 576280,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "be declared an enemy of the state. Caesar stood at \nthe Rubicon River. The line no Roman general was  "
+    } ]
+  }, {
+    "tStartMs": 582640,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "allowed to cross with his army. He thought about \nit. The die is cast and he crossed. Civil war.  "
+    } ]
+  }, {
+    "tStartMs": 589840,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "His rival Pompey fled and was assassinated in \nEgypt before Caesar could even face him in battle.  "
+    } ]
+  }, {
+    "tStartMs": 596280,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Caesar spent the next years hunting down \nPompey's allies across Africa and Spain.  "
+    } ]
+  }, {
+    "tStartMs": 601320,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "One by one they fell. Within 3 years \nCaesar had won everything. He came back  "
+    } ]
+  }, {
+    "tStartMs": 607280,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "to Rome [music] as the undisputed master of \nthe Roman world. He didn't call himself king  "
+    } ]
+  }, {
+    "tStartMs": 612560,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "but he made himself dictator for life. His face \non the coins, a golden throne, a purple robe.  "
+    } ]
+  }, {
+    "tStartMs": 619560,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "The Senate saw a king in everything but name. \nOn the Ides of March, March 15th, 44 BC,  "
+    } ]
+  }, {
+    "tStartMs": 627320,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "the conspirators surrounded Caesar in the theater \nof Pompey. Among them was a man named Brutus.  "
+    } ]
+  }, {
+    "tStartMs": 633160,
+    "dDurationMs": 8600,
+    "segs": [ {
+      "utf8": "Someone Caesar had trusted deeply. Caesar saw him. \nYou too, Brutus? 23 wounds. The most powerful man  "
+    } ]
+  }, {
+    "tStartMs": 641760,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "in the world dead on the floor of a theater. The \nconspirators thought they had saved the Republic.  "
+    } ]
+  }, {
+    "tStartMs": 647400,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "They were wrong. Caesar's death didn't restore the \nRepublic. It destroyed it. Waiting in the shadows  "
+    } ]
+  }, {
+    "tStartMs": 653920,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "was an 18-year-old boy Caesar had named as his \nheir. His name was Octavian [music] and he was  "
+    } ]
+  }, {
+    "tStartMs": 659840,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "about to finish what Caesar started. The Republic \nwas already dead. Rome just didn't know it yet.  "
+    } ]
+  }, {
+    "tStartMs": 665800,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "Caesar was dead. The Republic was dead. But \nRome was just getting started. The boy Caesar  "
+    } ]
+  }, {
+    "tStartMs": 672680,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "left behind was 18 years old. Nobody took \nhim seriously. His enemies laughed at him.  "
+    } ]
+  }, {
+    "tStartMs": 678760,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "They shouldn't have. [music] One by one he \ndefeated every rival, every threat, every enemy.  "
+    } ]
+  }, {
+    "tStartMs": 684720,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "And when it was over he stood alone. He didn't \ncall himself king. He learned from Caesar's  "
+    } ]
+  }, {
+    "tStartMs": 690320,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "mistake. He called himself Augustus. He kept the \nSenate, kept the elections, kept all the symbols  "
+    } ]
+  }, {
+    "tStartMs": 696800,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "of the Republic, but make no mistake, Rome was now \nan empire, and Augustus was its [music] emperor.  "
+    } ]
+  }, {
+    "tStartMs": 703280,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "For generations, Rome had known nothing but \nwar. Now, for the first time, Rome knew peace.  "
+    } ]
+  }, {
+    "tStartMs": 709800,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "For nearly two centuries, the empire entered a \nlong period of relative peace. Cities grew, trade  "
+    } ]
+  }, {
+    "tStartMs": 716280,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "flourished, the Pantheon, the Colosseum, aqueducts \nfeeding fresh water to a million [music] people.  "
+    } ]
+  }, {
+    "tStartMs": 722760,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "The greatest civilization the Western world \nhad ever seen. But the system Augustus built  "
+    } ]
+  }, {
+    "tStartMs": 727920,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "was only as good as the man [music] sitting \non the throne. Caligula claimed divine status,  "
+    } ]
+  }, {
+    "tStartMs": 733400,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "and according to ancient accounts, planned to \nmake his horse a consul. Nero was blamed for  "
+    } ]
+  }, {
+    "tStartMs": 738560,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "the fire that destroyed [music] half of Rome, \nand used the disaster to build his own palace.  "
+    } ]
+  }, {
+    "tStartMs": 743760,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "The throne became a revolving door. 20 emperors \nin 50 [music] years. Most were assassinated.  "
+    } ]
+  }, {
+    "tStartMs": 750040,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "Some lasted weeks. The borders cracked. Tribes \npushed in from the north. The economy was battered  "
+    } ]
+  }, {
+    "tStartMs": 756320,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "by inflation, [music] civil wars, and repeated \ncrises. The empire split in two, and in 476 AD,  "
+    } ]
+  }, {
+    "tStartMs": 763840,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "the last Western emperor [music] was deposed. \nNo final battle, no dramatic last stand, just  "
+    } ]
+  }, {
+    "tStartMs": 770880,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "the end. Except Rome didn't disappear. The roads \nare still there. Latin became French, Spanish,  "
+    } ]
+  }, {
+    "tStartMs": 777480,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "Italian, Portuguese. The laws, the architecture, \nthe calendar, the alphabet, your government,  "
+    } ]
+  }, {
+    "tStartMs": 782960,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "your city, your language, Rome. The empire was \ngone, but Rome never left. Every empire in history  "
+    } ]
+  }, {
+    "tStartMs": 789720,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "thought it would last forever. None of them did. \nSubscribe, and every week we'll find out why."
+    } ]
+  } ]
+}

@@ -1,0 +1,133 @@
+{
+ "character": "cyc2",
+ "palette": {
+  "skin": "#8b8c70",
+  "apron": "#7a4a27",
+  "rope": "#d8c08a",
+  "ink": "#3a2412"
+ },
+ "immutable_features": [
+  "exactly one eye",
+  "no bells, nothing hanging from the rope belt",
+  "leather smith apron",
+  "grey cropped hair and short grey beard"
+ ],
+ "master": "cyc2__neutral__a.png",
+ "poses": [
+  {
+   "file": "cyc2__back__a.png",
+   "pose": "back",
+   "variant": "a",
+   "facing": "away",
+   "emotion": "dismissive",
+   "hands": "waving",
+   "props": "",
+   "width": 618,
+   "height": 1015,
+   "feet": {
+    "x": 104,
+    "y": 1006
+   },
+   "height_px_at_1080": 1015,
+   "accepted": "2026-11-13",
+   "source_call": "cyc2__back__a1"
+  },
+  {
+   "file": "cyc2__neutral__a.png",
+   "pose": "neutral",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "calm",
+   "hands": "at sides",
+   "props": "",
+   "width": 577,
+   "height": 998,
+   "feet": {
+    "x": 295,
+    "y": 989
+   },
+   "height_px_at_1080": 998,
+   "accepted": "2026-11-13",
+   "source_call": "no-spend reuse: cyc2_master_white.png"
+  },
+  {
+   "file": "cyc2__shrug__a.png",
+   "pose": "shrug",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "puzzled",
+   "hands": "palms out",
+   "props": "",
+   "width": 813,
+   "height": 1007,
+   "feet": {
+    "x": 354,
+    "y": 998
+   },
+   "height_px_at_1080": 1007,
+   "accepted": "2026-11-13",
+   "source_call": "cyc2__shrug__a1"
+  },
+  {
+   "file": "cyc2__smith_flat__a.png",
+   "pose": "smith_flat",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "flat",
+   "hands": "hanging",
+   "props": "hammer",
+   "width": 511,
+   "height": 999,
+   "feet": {
+    "x": 271,
+    "y": 990
+   },
+   "height_px_at_1080": 999,
+   "accepted": "2026-11-13",
+   "source_call": "cyc2__smith_flat__a1"
+  },
+  {
+   "file": "cyc2__smith_hammer__a.png",
+   "pose": "smith_hammer",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "intent",
+   "hands": "raised",
+   "props": "hammer",
+   "width": 677,
+   "height": 1008,
+   "feet": {
+    "x": 360,
+    "y": 999
+   },
+   "height_px_at_1080": 1008,
+   "accepted": "2026-11-13",
+   "source_call": "cyc2__smith_hammer__a1"
+  },
+  {
+   "file": "cyc2__smith_tongs__a.png",
+   "pose": "smith_tongs",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "working",
+   "hands": "holding",
+   "props": "tongs",
+   "width": 876,
+   "height": 998,
+   "feet": {
+    "x": 303,
+    "y": 989
+   },
+   "height_px_at_1080": 998,
+   "accepted": "2026-11-13",
+   "source_call": "cyc2__smith_tongs__a1"
+  }
+ ],
+ "aliases": {
+  "cyc2__smith_hat_tip__a": "cyc2__shrug__a.png",
+  "cyc2__trio_backs__a": "cyc2__back__a.png",
+  "cyc2__trio_leaving__a": "cyc2__back__a.png",
+  "cyc2__smiths_trio_hammers_up__a": "cyc2__smith_hammer__a.png",
+  "cyc2__smiths_trio_stare__a": "cyc2__smith_tongs__a.png"
+ }
+}

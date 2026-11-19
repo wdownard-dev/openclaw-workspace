@@ -1,0 +1,21 @@
+{
+ "file": "polyphemus__armswide__a.png",
+ "source": "../gen/polyphemus__armswide__a1.png",
+ "width": 1003,
+ "height": 1017,
+ "feet": {
+  "x": 296,
+  "y": 1008
+ },
+ "height_px_at_1080": 1017,
+ "src_bbox": [
+  19,
+  11,
+  1005,
+  1011
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

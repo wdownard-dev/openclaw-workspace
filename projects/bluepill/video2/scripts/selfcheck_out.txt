@@ -1,0 +1,48 @@
+== 1. beats and trace tags
+spoken beats: 117 ; chip beats: 4 ; numbering contiguous: True
+beats with no trace line: []
+beats with a trace but neither a source id nor an ours/gag/structure tag: []
+beats with a soft tag and no research id (no factual claim in the line): [4, 20, 24, 25, 33, 51, 58, 64, 66, 68, 75, 85, 86, 100, 107, 111, 115, 116, 119]
+beats with a V/E/U label but no research id: []
+
+== 2. retired and forbidden wordings (spoken text, chips and visual notes)
+forbidden-wording hits in spoken/chip/visual: 0
+  note: beat 60 mentions Sicily in the spoken line (check it is not Homer's setting): Ice Age Sicily had elephants, and island life shrank them until the smallest stood under a
+  note: beat 61 mentions Sicily in the spoken line (check it is not Homer's setting): Their bones have turned up in caves on Sicily and Malta. Head-on, the skull shows two smal
+  note: beat 74 mentions Sicily in the spoken line (check it is not Homer's setting): Then there is the famous version. In Abel's telling, the philosopher Empedocles reported s
+  note: beat 90 mentions Sicily in the spoken line (check it is not Homer's setting): By the fifth century BC, the Cyclopes have a Sicilian address, next to Mount Etna. Euripid
+  note: beat 92 mentions Sicily in the spoken line (check it is not Homer's setting): Thucydides lists the Cyclopes among the earliest people spoken of in Sicily. Then he admit
+  note: beat 94 mentions Sicily in the spoken line (check it is not Homer's setting): Forges need fire. Sicily had volcanoes. You can see how the two met.
+  note: beat 107 mentions Sicily in the spoken line (check it is not Homer's setting): Suspect four does not need an elephant, a smith, or a wall. It does not even need Sicily.
+
+== 3. FACTCHECK-V2 FIX and UNVERIFIED items: where applied
+  [OK] FIX 05  Abel imagined sailors, hedged                -> V3 beat 62
+  [OK] FIX 10  chip says some lines invented                -> V3 beat 04
+  [OK] FIX 11  disclosure wording                           -> V3 beat 04
+  [OK] FIX 24  sword impulse is Odysseus (not crew)         -> V3 beat 18-20
+  [OK] FIX 29  no number in Odysseus line                   -> V3 beat 23
+  [OK] FIX 48  mountain, whisker from the rudder            -> V3 beat 47-48
+  [OK] FIX 55  years before Ithaca (not rest of poem)       -> V3 beat 55
+  [OK] FIX 61  caves on Sicily and Malta, no "still do"     -> V3 beat 61
+  [OK] FIX 63  Alexander line is Discover, not Mayor        -> V3 beat 70
+  [OK] FIX 64  no Abel "one great eye" callback             -> V3 beat 62-67
+  [OK] FIX 70  Empedocles "reported", not "found"           -> V3 beat 74
+  [OK] FIX 78  "make the thunderbolt"                       -> V3 beat 84
+  [OK] FIX 81  Sicilian address; smiths later via Callimachus -> V3 beat 90-91
+  [OK] FIX 86  love song, not "gives a love life"           -> V3 beat 95
+  [OK] FIX 92  wagons and mules                             -> V3 beat 103
+  [OK] FIX 93  Cyclopes built it; Mycenae "said to be"      -> V3 beat 102
+  [OK] FIX 94  no "assumed only Cyclopes could move"        -> V3 beat 104
+  [OK] FIX 104 real skulls, imaginary sailor                -> V3 beat 114
+  [OK] UNV 72  Witton and Hing not named, no baseless       -> V3 beat 77
+  [OK] UNV 73  serious doubts, no "unfalsifiable"           -> V3 beat 79
+  [OK] UNV 85  Aci Trezza cut                               -> V3 beat cut
+  [OK] UNV 100 Hackman-verified places only                 -> V3 beat 109
+  [OK] UNV 109 unresearched promise cut                     -> V3 beat 120
+applied: 23 of 23 (18 FIX + 5 UNVERIFIED = 23; UNV 85 is satisfied by the cut)
+
+== 4. visual grammar
+banned camera/transition words in visual notes: []
+quote-card notes holding a full sentence: []
+longest spoken sentence (words, beat): (22, 72)
+ALL CHECKS PASS

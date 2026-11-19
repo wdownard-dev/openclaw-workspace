@@ -1,0 +1,21 @@
+{
+ "file": "odysseus__tiptoe__a.png",
+ "source": "../gen/odysseus__tiptoe__a1.png",
+ "width": 487,
+ "height": 1001,
+ "feet": {
+  "x": 168,
+  "y": 992
+ },
+ "height_px_at_1080": 1001,
+ "src_bbox": [
+  257,
+  12,
+  727,
+  996
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

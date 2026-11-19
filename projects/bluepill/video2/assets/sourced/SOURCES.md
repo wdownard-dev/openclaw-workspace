@@ -1,0 +1,30 @@
+# SOURCES.md: sourced (no-spend) pictures and text for video 1
+
+Written 2026-11-13. Labels: [V] verified by reading the file or page listed; [E] judgement.
+
+## 1. Skull plate: `skull_front_pd.png` (815x1030) and `skull_front_pd_small.png` (cutout with alpha)
+
+- **Source:** Othenio Abel, *Die vorweltlichen Tiere in Märchen, Sage und Aberglauben* (Karlsruhe: G. Braun, 1923), text figure 9, p. 35. Caption (verbatim): "Elefantenschädel, von vorne gesehen, um die ein auf der Stirne stehendes Auge vortäuschende Nasenöffnung zu zeigen." ("Elephant skull, seen from the front, to show the nasal opening that simulates a single eye on the forehead.") [V, page image `work/pg-41.png`, PDF page 41]
+- **Scan:** Internet Archive item `vorweltlichentier00` (digitising sponsor Deutsche Nationalbibliothek), file `vorweltlichentier00.pdf`, rendered at 300 dpi with pdftoppm; full page kept as `work/abel1923_p35_300dpi.png`. Archive.org licence field: Public Domain Mark 1.0 [V, `archive.org/metadata/vorweltlichentier00`].
+- **Licence reasoning [E]:** published 1923 (before 1929) so public domain in the US; the author died 1946, so public domain in life+70 countries since 2017. The engraving's draughtsman is not credited in the caption.
+- **Species: NOT stated in the caption.** Abel's text (pp. 33-35) argues from "any elephant skull" (*irgend einen Elefantenschädel*) and from the Sicilian dwarf elephants he discusses on the page before (he names *Elephas mnaidriensis* in the cave-fauna passage). The figure is captioned generically as an elephant skull. **The on-screen chip must not claim "Sicilian dwarf elephant" for this figure.** Recommended chip: "ELEPHANT SKULL, FRONT VIEW (ABEL, 1923)". If the script needs a *Palaeoloxodon falconeri* skull specifically, the only candidates found are modern museum photographs on Wikimedia Commons, all CC BY-SA (not public domain): `File:Elephas Falconeri Skull.png` (CC BY-SA 4.0, juvenile female, Grotta Spinagallo, Syracuse), `File:Palaeoloxodon falconeri skull female.JPG` (CC BY-SA 3.0, MUSE Trento), `File:Skull and mandibula of Elephas Falconeri, Sicily, AM Syracuse, 121262.jpg` (CC BY-SA 4.0). [V, Commons imageinfo API]
+- The task brief's candidate "Abel 1914 figure 5" was not confirmed: Abel's two 1914 books on archive.org (*Die Tiere der Vorwelt*, `dietieredervorw00abelgoog`, and *Die vorzeitlichen Säugetiere*, `dievorzeitlichen00abel`) have the Polyphemus argument in prose (the latter at p. 209-210, "Fund eines Zwergelefantenschädels in einer sizilianischen Knochenhöhle") but their OCR shows no front-view skull figure in that passage; the 1923 book is where the figure appears, and its text says "wie ich schon 1914 dargelegt habe". [V OCR, E for "no figure"]
+- **Cutout method:** `skull_front_pd_small.png` alpha = silhouette of the ink (pixels darker than 200) blurred sigma 8 and thresholded, exterior flood-filled from the borders, holes kept white, edge smoothed. Sidecar `skull_front_pd_small.json`. Plate levels: greyscale, normalised, contrast 1.25.
+
+## 2. Homer bust: `homer_bust_pd.png` (840x1296, two-tone with alpha)
+
+- **Source:** engraving "Homer" after Visconti, *Iconographie grecque* I, pl. 1/4 (fig. 755), reproduced in August Baumeister, *Denkmäler des klassischen Altertums*, vol. I, p. 698 (Munich/Leipzig, 1885). Depicts the bust type attributed to Homer in the Capitoline Museum, Rome. Wikimedia Commons `File:Homer.png`, licence template `pd` ("Public domain") [V, Commons imageinfo API]. Original downloaded as `homer_baumeister1885_commons.png`.
+- **Alternative kept:** `homer_leney1808_loc.jpg`, "Sculpture of Homer, bust portrait, facing front", engraving by William Satchwell Leney, 1808, Library of Congress LCCN 2004670099 (Commons `File:Sculpture of Homer, bust portrait, facing front) - Leney sculp LCCN2004670099.jpg`, licence `pd`) [V]. Not processed; use if the Baumeister one reads too dark.
+- **Processing:** greyscale, normalised, threshold 150: ink `#1a1204`, paper transparent. [E] it is heavy at small sizes; a lighter threshold (120) or a 70% opacity in the renderer would lift it.
+
+## 3. Greek line for beat 56a: `greek_line_9_394.png` (1800x260, ink on transparent)
+
+- **Line:** *Odyssey* 9.394 — **ὣς τοῦ σίζ᾽ ὀφθαλμὸς ἐλαϊνέῳ περὶ μοχλῷ.** ("so his eye hissed round the olive stake"). The word ὀφθαλμός ("the eye") is the subject. Context 9.391-394 is the smith simile (χαλκεύς … πέλεκυν … εἰν ὕδατι ψυχρῷ βάπτῃ), which is the smith beat of the script, so this line serves both "the eye" and the smith image. [V]
+- **Text source:** Perseus Digital Library, canonical-greekLit repository, `tlg0012.tlg002.perseus-grc2.xml` (Homer, *Odyssey*, Greek text of the Loeb edition ed. A. T. Murray, Harvard University Press, 1919), book 9 `<l n="394">`. Digital text licence: CC BY-SA 4.0, credit "Perseus Digital Library, https://www.perseus.tufts.edu/" and link the GitHub source. [V, file header] Lines 9.382-398 saved in `odyssey_9_382-398_perseus.txt`.
+- **Caveat on "Allen text":** the Perseus repository holds only the Murray (1919) Greek for the *Odyssey* (`perseus-grc1` does not exist for tlg002 on GitHub; the Scaife reader is behind a bot wall). The Allen OCT (1917/1919) reading of 9.394 is the same words; I did not have an Allen page image to confirm punctuation. Murray 1919 and Allen 1917 are both public domain as printed texts. [E]
+- **Font:** GFS Didot Regular (Greek Font Society), SIL Open Font License 1.1, from the google/fonts repository (`fonts/GFSDidot-Regular.ttf`, licence `fonts/OFL-GFSDidot.txt`). OFL allows commercial use and embedding in video. Render script `render_greek.js` (sharp + SVG, fontconfig `fonts/fonts.conf`); the second line "Ὀδύσσεια 9.394" is in ink blue `#1f3a5f` and can be dropped if the chip carries the citation.
+
+## 4. Files
+- `skull_front_pd.png`, `skull_front_pd_small.png` (+ `.json`), `work/` (page renders, crop try)
+- `homer_bust_pd.png`, `homer_baumeister1885_commons.png`, `homer_leney1808_loc.jpg`
+- `greek_line_9_394.png`, `render_greek.js`, `odyssey_9_382-398_perseus.txt`, `fonts/`

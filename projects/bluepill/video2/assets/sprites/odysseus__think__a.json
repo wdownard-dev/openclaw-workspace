@@ -1,0 +1,21 @@
+{
+ "file": "odysseus__think__a.png",
+ "source": "../gen/odysseus__think__a1.png",
+ "width": 406,
+ "height": 997,
+ "feet": {
+  "x": 200,
+  "y": 988
+ },
+ "height_px_at_1080": 997,
+ "src_bbox": [
+  258,
+  11,
+  647,
+  991
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

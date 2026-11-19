@@ -1,0 +1,21 @@
+{
+ "file": "prop__sheeptrio__a.png",
+ "source": "../gen/prop__sheeptrio__a1.png",
+ "width": 1365,
+ "height": 780,
+ "feet": {
+  "x": 716,
+  "y": 771
+ },
+ "height_px_at_1080": 780,
+ "src_bbox": [
+  78,
+  56,
+  1426,
+  819
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

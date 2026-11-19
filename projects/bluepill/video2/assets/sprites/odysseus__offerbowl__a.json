@@ -1,0 +1,21 @@
+{
+ "file": "odysseus__offerbowl__a.png",
+ "source": "../gen/odysseus__offerbowl__a1.png",
+ "width": 475,
+ "height": 1012,
+ "feet": {
+  "x": 115,
+  "y": 1003
+ },
+ "height_px_at_1080": 1012,
+ "src_bbox": [
+  310,
+  12,
+  768,
+  1007
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

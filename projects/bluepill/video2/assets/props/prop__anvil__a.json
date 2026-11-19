@@ -1,0 +1,21 @@
+{
+ "file": "prop__anvil__a.png",
+ "source": "../gen/prop__anvil__a1.png",
+ "width": 924,
+ "height": 850,
+ "feet": {
+  "x": 480,
+  "y": 841
+ },
+ "height_px_at_1080": 850,
+ "src_bbox": [
+  285,
+  18,
+  1192,
+  851
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

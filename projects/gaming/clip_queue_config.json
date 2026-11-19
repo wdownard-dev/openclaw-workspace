@@ -1,0 +1,23 @@
+{
+ "daily_cap": 8,
+ "launch_week": {
+  "start": "2026-11-19",
+  "end": "2026-11-25",
+  "cap": 14
+ },
+ "skips_to_ignore": 3,
+ "opus_max_min": 40,
+ "opus_min_min": 20,
+ "max_make_per_run": 1,
+ "posting_window_et": [
+  7,
+  23
+ ],
+ "clip_seconds": 40,
+ "accounts": {
+  "yt_opus": "6aee359f69f72aca6cb4207e",
+  "tiktok": "6afa5abf5a226aba99eb2d09"
+ },
+ "review_hold": 20,
+ "channel_questions": false
+}

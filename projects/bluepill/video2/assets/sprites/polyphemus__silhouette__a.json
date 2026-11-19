@@ -1,0 +1,21 @@
+{
+ "file": "polyphemus__neutral__a.png",
+ "source": "../masters/polyphemus_master_white.png",
+ "width": 629,
+ "height": 984,
+ "feet": {
+  "x": 310,
+  "y": 975
+ },
+ "height_px_at_1080": 984,
+ "src_bbox": [
+  204,
+  54,
+  816,
+  1021
+ ],
+ "src_size": [
+  1024,
+  1088
+ ]
+}

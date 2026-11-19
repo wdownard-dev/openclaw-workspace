@@ -1,0 +1,21 @@
+{
+ "file": "prop__etna_icon__a.png",
+ "source": "../gen/prop__etna_icon__a1.png",
+ "width": 791,
+ "height": 871,
+ "feet": {
+  "x": 342,
+  "y": 862
+ },
+ "height_px_at_1080": 871,
+ "src_bbox": [
+  354,
+  5,
+  1128,
+  859
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

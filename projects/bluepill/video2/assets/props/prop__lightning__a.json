@@ -1,0 +1,21 @@
+{
+ "file": "prop__lightning__a.png",
+ "source": "../gen/prop__lightning__a1.png",
+ "width": 558,
+ "height": 853,
+ "feet": {
+  "x": 22,
+  "y": 844
+ },
+ "height_px_at_1080": 853,
+ "src_bbox": [
+  490,
+  13,
+  1031,
+  849
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

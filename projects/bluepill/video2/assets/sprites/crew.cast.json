@@ -1,0 +1,132 @@
+{
+ "character": "crew",
+ "palette": {
+  "tunic": "#5a6f86",
+  "strap": "#7a4a27",
+  "skin": "#f1c9a0",
+  "ink": "#3a2412"
+ },
+ "immutable_features": [
+  "slate-blue sleeveless tunic",
+  "brown chest strap",
+  "rope belt",
+  "bare-headed, no weapon"
+ ],
+ "master": "crew__neutral__a.png",
+ "poses": [
+  {
+   "file": "crew__alarmed__a.png",
+   "pose": "alarmed",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "alarmed",
+   "hands": "up",
+   "props": "",
+   "width": 592,
+   "height": 1014,
+   "feet": {
+    "x": 141,
+    "y": 1005
+   },
+   "height_px_at_1080": 1014,
+   "accepted": "2026-11-13",
+   "source_call": "crew__alarmed__a1"
+  },
+  {
+   "file": "crew__lookup__a.png",
+   "pose": "lookup",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "awed",
+   "hands": "hanging",
+   "props": "",
+   "width": 416,
+   "height": 1019,
+   "feet": {
+    "x": 119,
+    "y": 1010
+   },
+   "height_px_at_1080": 1019,
+   "accepted": "2026-11-13",
+   "source_call": "crew__lookup__a1"
+  },
+  {
+   "file": "crew__neutral__a.png",
+   "pose": "neutral",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "calm",
+   "hands": "at sides",
+   "props": "",
+   "width": 462,
+   "height": 1018,
+   "feet": {
+    "x": 225,
+    "y": 1009
+   },
+   "height_px_at_1080": 1018,
+   "accepted": "2026-11-13",
+   "source_call": "no-spend reuse: crew_master_white.png"
+  },
+  {
+   "file": "crew__plead__a.png",
+   "pose": "plead",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "pleading",
+   "hands": "clasped",
+   "props": "sweat drop",
+   "width": 326,
+   "height": 1019,
+   "feet": {
+    "x": 109,
+    "y": 1010
+   },
+   "height_px_at_1080": 1019,
+   "accepted": "2026-11-13",
+   "source_call": "crew__plead__a4"
+  },
+  {
+   "file": "crew__point__a.png",
+   "pose": "point",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "urgent",
+   "hands": "pointing",
+   "props": "",
+   "width": 667,
+   "height": 1013,
+   "feet": {
+    "x": 177,
+    "y": 1004
+   },
+   "height_px_at_1080": 1013,
+   "accepted": "2026-11-13",
+   "source_call": "crew__point__a4"
+  },
+  {
+   "file": "crew__torch__a.png",
+   "pose": "torch",
+   "variant": "a",
+   "facing": "right",
+   "emotion": "wary",
+   "hands": "holding",
+   "props": "torch",
+   "width": 586,
+   "height": 1015,
+   "feet": {
+    "x": 191,
+    "y": 1006
+   },
+   "height_px_at_1080": 1015,
+   "accepted": "2026-11-13",
+   "source_call": "crew__torch__a4"
+  }
+ ],
+ "aliases": {
+  "crew__worried__a": "crew__plead__a.png",
+  "crew__squint__a": "crew__lookup__a.png",
+  "crew__torch_wave__a": "crew__torch__a.png",
+  "crew__magnifier__a": "crew__lookup__a.png"
+ }
+}

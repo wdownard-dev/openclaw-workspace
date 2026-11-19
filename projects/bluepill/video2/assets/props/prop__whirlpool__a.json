@@ -1,0 +1,21 @@
+{
+ "file": "prop__whirlpool__a.png",
+ "source": "../gen/prop__whirlpool__a1.png",
+ "width": 903,
+ "height": 871,
+ "feet": {
+  "x": 433,
+  "y": 862
+ },
+ "height_px_at_1080": 871,
+ "src_bbox": [
+  323,
+  5,
+  1209,
+  859
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

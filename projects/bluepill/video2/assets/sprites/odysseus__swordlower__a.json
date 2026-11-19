@@ -1,0 +1,21 @@
+{
+ "file": "odysseus__swordlower__a.png",
+ "source": "../gen/odysseus__swordlower__a1.png",
+ "width": 387,
+ "height": 1009,
+ "feet": {
+  "x": 139,
+  "y": 1000
+ },
+ "height_px_at_1080": 1009,
+ "src_bbox": [
+  295,
+  15,
+  665,
+  1007
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

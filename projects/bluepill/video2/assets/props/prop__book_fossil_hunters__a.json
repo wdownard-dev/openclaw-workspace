@@ -1,0 +1,21 @@
+{
+ "file": "prop__book_fossil_hunters__a.png",
+ "source": "../gen/prop__book_fossil_hunters__a1.png",
+ "width": 675,
+ "height": 865,
+ "feet": {
+  "x": 164,
+  "y": 856
+ },
+ "height_px_at_1080": 865,
+ "src_bbox": [
+  438,
+  7,
+  1096,
+  855
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

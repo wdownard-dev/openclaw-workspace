@@ -1,0 +1,10 @@
+{
+  "launch_week_start": "2026-11-19",
+  "launch_week_end": "2026-11-25",
+  "launch_week_cap": 600,
+  "daily_cap": 120,
+  "credits_per_source_minute": 1,
+  "auto_submit_max_source_min": 40,
+  "posting_window_et": [7, 23],
+  "notes": "Caps proposed by William 11/15 for launch week. Over-40-min sources are never auto-submitted: cut a segment with ffmpeg first or ask William."
+}

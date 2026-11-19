@@ -1,0 +1,173 @@
+{
+ "video_id": "QID56-rbWqQ",
+ "title": "Square Grouper - The History of Drug Smuggling in the Everglades with Captain (Ret.) Tom Storrar",
+ "duration_s": 2806.73,
+ "visual": {
+  "shots": 209,
+  "cuts_per_min": 4.5,
+  "pops_per_min": 2.3,
+  "visible_changes_per_min": 7.7,
+  "shot_p10_s": 0.63,
+  "shot_median_s": 3.94,
+  "shot_p90_s": 28.37,
+  "shot_max_s": 528.4,
+  "white_dominant_pct_gt60": 0.0,
+  "white_dominant_pct_gt40": 0.0,
+  "mean_luminance": 93.1,
+  "text_edge_density_mean_E": 0.006,
+  "text_heavy_frames_pct_E": 1.1,
+  "palette": [
+   {
+    "hex": "#040404",
+    "share_pct": 24.6
+   },
+   {
+    "hex": "#9c8fd9",
+    "share_pct": 22.9
+   },
+   {
+    "hex": "#635d87",
+    "share_pct": 17.7
+   },
+   {
+    "hex": "#402c2a",
+    "share_pct": 17.7
+   },
+   {
+    "hex": "#e2deed",
+    "share_pct": 8.8
+   },
+   {
+    "hex": "#c16244",
+    "share_pct": 8.2
+   }
+  ]
+ },
+ "text": {
+  "sentence_split": "pause",
+  "words": 7308,
+  "wpm": 156.2,
+  "wpm_speaking_span": 156.2,
+  "sentences": 345,
+  "sentences_per_min": 7.4,
+  "words_per_sentence_mean": 21.3,
+  "words_per_sentence_median": 13,
+  "pct_sentences_le6w": 31.6,
+  "questions_per_min": 0.0,
+  "note": "auto captions without punctuation: sentence metrics are [E] (pause-split)"
+ },
+ "hook": {
+  "shots": [
+   {
+    "start": 0.0,
+    "len": 1.43
+   },
+   {
+    "start": 1.43,
+    "len": 1.0
+   },
+   {
+    "start": 2.43,
+    "len": 0.87
+   },
+   {
+    "start": 3.3,
+    "len": 1.17
+   },
+   {
+    "start": 4.47,
+    "len": 1.9
+   },
+   {
+    "start": 6.37,
+    "len": 1.06
+   },
+   {
+    "start": 7.43,
+    "len": 0.87
+   },
+   {
+    "start": 8.3,
+    "len": 1.2
+   },
+   {
+    "start": 9.5,
+    "len": 0.5
+   },
+   {
+    "start": 10.0,
+    "len": 1.2
+   },
+   {
+    "start": 11.2,
+    "len": 0.97
+   },
+   {
+    "start": 12.17,
+    "len": 0.5
+   },
+   {
+    "start": 12.67,
+    "len": 0.56
+   },
+   {
+    "start": 13.23,
+    "len": 0.54
+   },
+   {
+    "start": 13.77,
+    "len": 0.6
+   },
+   {
+    "start": 14.37,
+    "len": 0.6
+   },
+   {
+    "start": 14.97,
+    "len": 0.53
+   },
+   {
+    "start": 15.5,
+    "len": 0.53
+   },
+   {
+    "start": 16.03,
+    "len": 0.5
+   },
+   {
+    "start": 16.53,
+    "len": 0.84
+   },
+   {
+    "start": 17.37,
+    "len": 1.33
+   },
+   {
+    "start": 18.7,
+    "len": 0.47
+   },
+   {
+    "start": 19.17,
+    "len": 1.5
+   },
+   {
+    "start": 20.67,
+    "len": 2.76
+   },
+   {
+    "start": 23.43,
+    "len": 1.84
+   },
+   {
+    "start": 25.27,
+    "len": 2.23
+   },
+   {
+    "start": 27.5,
+    "len": 3.03
+   }
+  ],
+  "words": "collier county was like big time drugs bug everglades city all those stories all the things that have come up it's a lot of activity i mean we worked non-stop for several several years and here was another trip they get the dope there was so much money and importation of bail marijuana back in those days and these guys were running full speed at night no lights number one you're going to jail number two i'll try to answer any question but please be a gentleman i'll be a gentleman welcome uncle"
+ },
+ "chapters": null
+}

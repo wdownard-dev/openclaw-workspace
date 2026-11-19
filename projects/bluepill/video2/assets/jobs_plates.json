@@ -1,0 +1,58 @@
+[
+ {
+  "id": "NB_prayer__a1",
+  "out": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/gen/NB_prayer__a1.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/prompts/NB_prayer__a1.txt",
+  "refs": [
+   "/home/williamdownard/.openclaw/workspace/projects/bluepill/tests/stress_test/refs/cy_v4_flat.png",
+   "/home/williamdownard/.openclaw/workspace/projects/bluepill/video1/refs/sty_land.png"
+  ],
+  "size": "1536x864"
+ },
+ {
+  "id": "NB_forge__a1",
+  "out": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/gen/NB_forge__a1.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/prompts/NB_forge__a1.txt",
+  "refs": [
+   "/home/williamdownard/.openclaw/workspace/projects/bluepill/video1/refs/sty_cave.png",
+   "/home/williamdownard/.openclaw/workspace/projects/bluepill/video1/refs/sty_stone.png"
+  ],
+  "size": "1536x864"
+ },
+ {
+  "id": "NBG02_mouth__a1",
+  "out": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/gen/NBG02_mouth__a1.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/prompts/NBG02_mouth__a1.txt",
+  "refs": [
+   "/home/williamdownard/.openclaw/workspace/projects/bluepill/video1/images/NBG02.png",
+   "/home/williamdownard/.openclaw/workspace/projects/bluepill/video1/refs/sty_cave.png"
+  ],
+  "size": "1536x864"
+ },
+ {
+  "id": "NBG06_day__a1",
+  "out": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/gen/NBG06_day__a1.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/prompts/NBG06_day__a1.txt",
+  "refs": [
+   "/home/williamdownard/.openclaw/workspace/projects/bluepill/video1/images/NBG06.png",
+   "/home/williamdownard/.openclaw/workspace/projects/bluepill/video1/refs/sty_land.png"
+  ],
+  "size": "1536x864"
+ },
+ {
+  "id": "board_base__a1",
+  "out": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/gen/board_base__a1.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/prompts/board_base__a1.txt",
+  "refs": [],
+  "size": "1536x864"
+ },
+ {
+  "id": "NB_ram__a1",
+  "out": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/gen/NB_ram__a1.png",
+  "prompt_file": "/home/williamdownard/.openclaw/workspace/projects/bluepill/video2/assets/prompts/NB_ram__a1.txt",
+  "refs": [
+   "/home/williamdownard/.openclaw/workspace/projects/bluepill/tests/stress_test/refs/odysseus_A_flat.png"
+  ],
+  "size": "1536x864"
+ }
+]

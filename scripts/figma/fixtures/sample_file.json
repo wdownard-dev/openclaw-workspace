@@ -1,0 +1,506 @@
+{
+ "name": "FIXTURE previz",
+ "lastModified": "2026-11-13T00:00:00Z",
+ "version": "fixture",
+ "document": {
+  "id": "0:0",
+  "type": "DOCUMENT",
+  "children": [
+   {
+    "id": "0:1",
+    "name": "Video 1",
+    "type": "CANVAS",
+    "children": [
+     {
+      "id": "1:2",
+      "name": "B001",
+      "type": "FRAME",
+      "absoluteBoundingBox": {
+       "x": 0,
+       "y": 0,
+       "width": 1920,
+       "height": 1080
+      },
+      "size": {
+       "x": 1920,
+       "y": 1080
+      },
+      "children": [
+       {
+        "id": "1:3",
+        "name": "NBG01",
+        "type": "RECTANGLE",
+        "visible": true,
+        "opacity": 1,
+        "size": {
+         "x": 1920,
+         "y": 1080
+        },
+        "absoluteBoundingBox": {
+         "x": 0,
+         "y": 0,
+         "width": 1920,
+         "height": 1080
+        },
+        "relativeTransform": [
+         [
+          1,
+          0,
+          0
+         ],
+         [
+          0,
+          1,
+          0
+         ]
+        ]
+       },
+       {
+        "id": "1:4",
+        "name": "odysseus__walk__a",
+        "type": "RECTANGLE",
+        "visible": true,
+        "opacity": 1,
+        "size": {
+         "x": 176,
+         "y": 300
+        },
+        "absoluteBoundingBox": {
+         "x": 553,
+         "y": 600,
+         "width": 176,
+         "height": 300
+        },
+        "relativeTransform": [
+         [
+          1,
+          0,
+          0
+         ],
+         [
+          0,
+          1,
+          0
+         ]
+        ]
+       },
+       {
+        "id": "1:5",
+        "name": "crew__line12__a",
+        "type": "RECTANGLE",
+        "visible": true,
+        "opacity": 1,
+        "size": {
+         "x": 260,
+         "y": 240
+        },
+        "absoluteBoundingBox": {
+         "x": 390,
+         "y": 660,
+         "width": 260,
+         "height": 240
+        },
+        "relativeTransform": [
+         [
+          1,
+          0,
+          0
+         ],
+         [
+          0,
+          1,
+          0
+         ]
+        ]
+       },
+       {
+        "id": "1:6",
+        "name": "mystery sticker",
+        "type": "RECTANGLE",
+        "visible": true,
+        "opacity": 1,
+        "size": {
+         "x": 80,
+         "y": 80
+        },
+        "absoluteBoundingBox": {
+         "x": 100,
+         "y": 100,
+         "width": 80,
+         "height": 80
+        },
+        "relativeTransform": [
+         [
+          1,
+          0,
+          0
+         ],
+         [
+          0,
+          1,
+          0
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "2:2",
+      "name": "B003",
+      "type": "FRAME",
+      "absoluteBoundingBox": {
+       "x": 2200,
+       "y": 0,
+       "width": 1920,
+       "height": 1080
+      },
+      "size": {
+       "x": 1920,
+       "y": 1080
+      },
+      "children": [
+       {
+        "id": "2:3",
+        "name": "board_base",
+        "type": "RECTANGLE",
+        "visible": true,
+        "opacity": 1,
+        "size": {
+         "x": 1920,
+         "y": 1080
+        },
+        "absoluteBoundingBox": {
+         "x": 2200,
+         "y": 0,
+         "width": 1920,
+         "height": 1080
+        },
+        "relativeTransform": [
+         [
+          1,
+          0,
+          0
+         ],
+         [
+          0,
+          1,
+          0
+         ]
+        ]
+       },
+       {
+        "id": "2:4",
+        "name": "odysseus__point__a",
+        "type": "RECTANGLE",
+        "visible": true,
+        "opacity": 1,
+        "size": {
+         "x": 420,
+         "y": 720
+        },
+        "absoluteBoundingBox": {
+         "x": 2500,
+         "y": 180,
+         "width": 420,
+         "height": 720
+        },
+        "relativeTransform": [
+         [
+          1,
+          0,
+          0
+         ],
+         [
+          0,
+          1,
+          0
+         ]
+        ]
+       },
+       {
+        "id": "2:5",
+        "name": "odysseus__point__a",
+        "type": "RECTANGLE",
+        "visible": true,
+        "opacity": 1,
+        "size": {
+         "x": 420,
+         "y": 720
+        },
+        "absoluteBoundingBox": {
+         "x": 3100,
+         "y": 180,
+         "width": 420,
+         "height": 720
+        },
+        "relativeTransform": [
+         [
+          -1,
+          0,
+          3520
+         ],
+         [
+          0,
+          1,
+          180
+         ]
+        ]
+       },
+       {
+        "id": "2:6",
+        "name": "odysseus__shrug__a 2",
+        "type": "RECTANGLE",
+        "visible": true,
+        "opacity": 0.5,
+        "size": {
+         "x": 330,
+         "y": 570
+        },
+        "absoluteBoundingBox": {
+         "x": 3650,
+         "y": 300,
+         "width": 330,
+         "height": 570
+        },
+        "relativeTransform": [
+         [
+          0.9781476007338057,
+          -0.20791169081775934,
+          0
+         ],
+         [
+          0.20791169081775934,
+          0.9781476007338057,
+          0
+         ]
+        ]
+       },
+       {
+        "id": "2:9",
+        "name": "Group 1",
+        "type": "GROUP",
+        "absoluteBoundingBox": {
+         "x": 3400,
+         "y": 200,
+         "width": 300,
+         "height": 420
+        },
+        "children": [
+         {
+          "id": "2:10",
+          "name": "prop__anvil__a",
+          "type": "RECTANGLE",
+          "visible": true,
+          "opacity": 1,
+          "size": {
+           "x": 300,
+           "y": 320
+          },
+          "absoluteBoundingBox": {
+           "x": 3400,
+           "y": 300,
+           "width": 300,
+           "height": 320
+          },
+          "relativeTransform": [
+           [
+            1,
+            0,
+            0
+           ],
+           [
+            0,
+            1,
+            0
+           ]
+          ]
+         }
+        ]
+       },
+       {
+        "id": "2:11",
+        "name": "CAPTION",
+        "type": "TEXT",
+        "visible": true,
+        "opacity": 1,
+        "size": {
+         "x": 900,
+         "y": 60
+        },
+        "absoluteBoundingBox": {
+         "x": 2400,
+         "y": 950,
+         "width": 900,
+         "height": 60
+        },
+        "relativeTransform": [
+         [
+          1,
+          0,
+          0
+         ],
+         [
+          0,
+          1,
+          0
+         ]
+        ],
+        "characters": "Odysseus asks nicely"
+       },
+       {
+        "id": "2:7",
+        "name": "prop__ram_with_feet__a | inset",
+        "type": "RECTANGLE",
+        "visible": true,
+        "opacity": 1,
+        "size": {
+         "x": 300,
+         "y": 300
+        },
+        "absoluteBoundingBox": {
+         "x": 3650,
+         "y": 270,
+         "width": 300,
+         "height": 300
+        },
+        "relativeTransform": [
+         [
+          1,
+          0,
+          0
+         ],
+         [
+          0,
+          1,
+          0
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "4:2",
+      "name": "B040",
+      "type": "FRAME",
+      "absoluteBoundingBox": {
+       "x": 0,
+       "y": 1300,
+       "width": 1920,
+       "height": 1080
+      },
+      "size": {
+       "x": 1920,
+       "y": 1080
+      },
+      "children": [
+       {
+        "id": "4:3",
+        "name": "cyc2__neutral__a",
+        "type": "RECTANGLE",
+        "visible": true,
+        "opacity": 1,
+        "size": {
+         "x": 450,
+         "y": 900
+        },
+        "absoluteBoundingBox": {
+         "x": 200,
+         "y": 1380,
+         "width": 450,
+         "height": 900
+        },
+        "relativeTransform": [
+         [
+          1,
+          0,
+          0
+         ],
+         [
+          0,
+          1,
+          0
+         ]
+        ]
+       },
+       {
+        "id": "4:4",
+        "name": "cyc2__neutral__a",
+        "type": "RECTANGLE",
+        "visible": true,
+        "opacity": 1,
+        "size": {
+         "x": 450,
+         "y": 900
+        },
+        "absoluteBoundingBox": {
+         "x": 1000,
+         "y": 1380,
+         "width": 450,
+         "height": 900
+        },
+        "relativeTransform": [
+         [
+          1,
+          0,
+          0
+         ],
+         [
+          0,
+          1,
+          0
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "3:2",
+      "name": "notes frame",
+      "type": "FRAME",
+      "absoluteBoundingBox": {
+       "x": 4400,
+       "y": 0,
+       "width": 1920,
+       "height": 1080
+      },
+      "size": {
+       "x": 1920,
+       "y": 1080
+      },
+      "children": [
+       {
+        "id": "3:3",
+        "name": "odysseus__walk__a",
+        "type": "RECTANGLE",
+        "visible": true,
+        "opacity": 1,
+        "size": {
+         "x": 100,
+         "y": 170
+        },
+        "absoluteBoundingBox": {
+         "x": 4500,
+         "y": 100,
+         "width": 100,
+         "height": 170
+        },
+        "relativeTransform": [
+         [
+          1,
+          0,
+          0
+         ],
+         [
+          0,
+          1,
+          0
+         ]
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

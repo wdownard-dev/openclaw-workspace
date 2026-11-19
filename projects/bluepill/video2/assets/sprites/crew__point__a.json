@@ -1,0 +1,21 @@
+{
+ "file": "crew__point__a.png",
+ "source": "../gen/crew__point__a4.png",
+ "width": 667,
+ "height": 1013,
+ "feet": {
+  "x": 177,
+  "y": 1004
+ },
+ "height_px_at_1080": 1013,
+ "src_bbox": [
+  236,
+  10,
+  886,
+  1006
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

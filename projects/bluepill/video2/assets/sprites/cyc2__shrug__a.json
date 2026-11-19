@@ -1,0 +1,21 @@
+{
+ "file": "cyc2__shrug__a.png",
+ "source": "../gen/cyc2__shrug__a1.png",
+ "width": 813,
+ "height": 1007,
+ "feet": {
+  "x": 354,
+  "y": 998
+ },
+ "height_px_at_1080": 1007,
+ "src_bbox": [
+  102,
+  15,
+  898,
+  1005
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

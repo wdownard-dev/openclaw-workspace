@@ -1,0 +1,21 @@
+{
+ "file": "polyphemus__beam__a.png",
+ "source": "../gen/polyphemus__beam__a1.png",
+ "width": 868,
+ "height": 1012,
+ "feet": {
+  "x": 354,
+  "y": 1003
+ },
+ "height_px_at_1080": 1012,
+ "src_bbox": [
+  72,
+  10,
+  923,
+  1005
+ ],
+ "src_size": [
+  1024,
+  1024
+ ]
+}

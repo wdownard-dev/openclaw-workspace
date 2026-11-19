@@ -1,0 +1,21 @@
+{
+ "file": "prop__magnifier__a.png",
+ "source": "../gen/prop__magnifier__a1.png",
+ "width": 1253,
+ "height": 872,
+ "feet": {
+  "x": 1121,
+  "y": 863
+ },
+ "height_px_at_1080": 872,
+ "src_bbox": [
+  147,
+  6,
+  1383,
+  861
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

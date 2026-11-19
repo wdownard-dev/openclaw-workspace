@@ -1,0 +1,1320 @@
+{
+ "passages": [
+  {
+   "id": "P1",
+   "label": "Cold open",
+   "beats": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "text": "Twelve men follow Odysseus into a cave, and six of them never come out.\n\nThe cave belongs to a giant, and he seals its door with a stone that twenty-two wagons could not move.\n\nHe eats two men at a time.\n\nOdysseus has no way past that stone, only a sharpened stake and a skin of wine.\n\nAnd then he tells the giant that his name is Nobody.\n\nThe giant is Pollifeemus, and nobody agrees on where he came from.\n\nSo where did the Cyclops come from?\n\nFirst, the story.",
+   "segs": [
+    {
+     "beat": 1,
+     "start": 0,
+     "end": 39,
+     "script": "Twelve men follow Odysseus into a cave,"
+    },
+    {
+     "beat": 2,
+     "start": 40,
+     "end": 71,
+     "script": "and six of them never come out."
+    },
+    {
+     "beat": 3,
+     "start": 73,
+     "end": 101,
+     "script": "The cave belongs to a giant,"
+    },
+    {
+     "beat": 4,
+     "start": 102,
+     "end": 175,
+     "script": "and he seals its door with a stone that twenty-two wagons could not move."
+    },
+    {
+     "beat": 5,
+     "start": 177,
+     "end": 203,
+     "script": "He eats two men at a time."
+    },
+    {
+     "beat": 6,
+     "start": 205,
+     "end": 241,
+     "script": "Odysseus has no way past that stone,"
+    },
+    {
+     "beat": 7,
+     "start": 242,
+     "end": 284,
+     "script": "only a sharpened stake and a skin of wine."
+    },
+    {
+     "beat": 8,
+     "start": 286,
+     "end": 338,
+     "script": "And then he tells the giant that his name is Nobody."
+    },
+    {
+     "beat": 9,
+     "start": 340,
+     "end": 406,
+     "script": "The giant is Polyphemus, and nobody agrees on where he came from."
+    },
+    {
+     "beat": 10,
+     "start": 408,
+     "end": 443,
+     "script": "So where did the Cyclops come from?"
+    },
+    {
+     "beat": 11,
+     "start": 445,
+     "end": 462,
+     "script": "First, the story."
+    }
+   ],
+   "chars": 462,
+   "prev": "",
+   "next": "Sailing home from Troy, Odysseus lands in the country of the Cyclopes.\n\nBook Nine never says where, because Homer cares about what happens next, not about a map.\n\nHe picks twelve men, takes a goatskin of wine, and walks up to a cave.\n\nInside, the racks are heavy with cheese, the pens are crowded with lambs, and nobody is home.\n\nThe crew beg him to take the cheeses and run.\n\nBut Odysseus wants to m"
+  },
+  {
+   "id": "P2",
+   "label": "The Cave",
+   "beats": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    23,
+    24,
+    25,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+   ],
+   "text": "Sailing home from Troy, Odysseus lands in the country of the Cyclopes.\n\nBook Nine never says where, because Homer cares about what happens next, not about a map.\n\nHe picks twelve men, takes a goatskin of wine, and walks up to a cave.\n\nInside, the racks are heavy with cheese, the pens are crowded with lambs, and nobody is home.\n\nThe crew beg him to take the cheeses and run.\n\nBut Odysseus wants to meet the owner, and he hopes the owner will give him a present. but Odysseus is famous for being clever, not sensible.\n\nIt is the first of many decisions his men will regret.\n\nAt dusk the owner comes home, and he looks less like a man than a wooded mountain peak standing alone.\n\nThe men press back into the shadows and hold their breath.\n\nHe drives the flock inside and rolls a stone across the door.\n\nHomer says twenty-two wagons could not have moved it.\n\nHe asks the strangers who they are, and whether they are traders or pirates.\n\nOdysseus asks for hospitality in the name of Zeus, who protects guests.\n\nThe giant answers that Cyclopes do not care about Zeus.\n\nThey keep no laws and hold no assemblies, and they think themselves stronger than the gods.\n\nThe men are shut in with a creature who fears nothing.\n\nThe only way out is behind a stone no human can lift.",
+   "segs": [
+    {
+     "beat": 12,
+     "start": 0,
+     "end": 23,
+     "script": "Sailing home from Troy,"
+    },
+    {
+     "beat": 13,
+     "start": 24,
+     "end": 70,
+     "script": "Odysseus lands in the country of the Cyclopes."
+    },
+    {
+     "beat": 14,
+     "start": 72,
+     "end": 99,
+     "script": "Book Nine never says where,"
+    },
+    {
+     "beat": 15,
+     "start": 100,
+     "end": 161,
+     "script": "because Homer cares about what happens next, not about a map."
+    },
+    {
+     "beat": 16,
+     "start": 163,
+     "end": 183,
+     "script": "He picks twelve men,"
+    },
+    {
+     "beat": 17,
+     "start": 184,
+     "end": 209,
+     "script": "takes a goatskin of wine,"
+    },
+    {
+     "beat": 18,
+     "start": 210,
+     "end": 233,
+     "script": "and walks up to a cave."
+    },
+    {
+     "beat": 19,
+     "start": 235,
+     "end": 275,
+     "script": "Inside, the racks are heavy with cheese,"
+    },
+    {
+     "beat": 20,
+     "start": 276,
+     "end": 308,
+     "script": "the pens are crowded with lambs,"
+    },
+    {
+     "beat": 21,
+     "start": 309,
+     "end": 328,
+     "script": "and nobody is home."
+    },
+    {
+     "beat": 23,
+     "start": 330,
+     "end": 375,
+     "script": "The crew beg him to take the cheeses and run."
+    },
+    {
+     "beat": 24,
+     "start": 377,
+     "end": 414,
+     "script": "But Odysseus wants to meet the owner,"
+    },
+    {
+     "beat": 25,
+     "start": 415,
+     "end": 462,
+     "script": "and he hopes the owner will give him a present."
+    },
+    {
+     "beat": 27,
+     "start": 463,
+     "end": 517,
+     "script": "but Odysseus is famous for being clever, not sensible."
+    },
+    {
+     "beat": 28,
+     "start": 519,
+     "end": 573,
+     "script": "It is the first of many decisions his men will regret."
+    },
+    {
+     "beat": 29,
+     "start": 575,
+     "end": 604,
+     "script": "At dusk the owner comes home,"
+    },
+    {
+     "beat": 30,
+     "start": 605,
+     "end": 677,
+     "script": "and he looks less like a man than a wooded mountain peak standing alone."
+    },
+    {
+     "beat": 31,
+     "start": 679,
+     "end": 737,
+     "script": "The men press back into the shadows and hold their breath."
+    },
+    {
+     "beat": 32,
+     "start": 739,
+     "end": 765,
+     "script": "He drives the flock inside"
+    },
+    {
+     "beat": 33,
+     "start": 766,
+     "end": 800,
+     "script": "and rolls a stone across the door."
+    },
+    {
+     "beat": 34,
+     "start": 802,
+     "end": 855,
+     "script": "Homer says twenty-two wagons could not have moved it."
+    },
+    {
+     "beat": 35,
+     "start": 857,
+     "end": 892,
+     "script": "He asks the strangers who they are,"
+    },
+    {
+     "beat": 36,
+     "start": 893,
+     "end": 933,
+     "script": "and whether they are traders or pirates."
+    },
+    {
+     "beat": 37,
+     "start": 935,
+     "end": 985,
+     "script": "Odysseus asks for hospitality in the name of Zeus,"
+    },
+    {
+     "beat": 38,
+     "start": 986,
+     "end": 1006,
+     "script": "who protects guests."
+    },
+    {
+     "beat": 39,
+     "start": 1008,
+     "end": 1063,
+     "script": "The giant answers that Cyclopes do not care about Zeus."
+    },
+    {
+     "beat": 40,
+     "start": 1065,
+     "end": 1106,
+     "script": "They keep no laws and hold no assemblies,"
+    },
+    {
+     "beat": 41,
+     "start": 1107,
+     "end": 1156,
+     "script": "and they think themselves stronger than the gods."
+    },
+    {
+     "beat": 42,
+     "start": 1158,
+     "end": 1212,
+     "script": "The men are shut in with a creature who fears nothing."
+    },
+    {
+     "beat": 43,
+     "start": 1214,
+     "end": 1267,
+     "script": "The only way out is behind a stone no human can lift."
+    }
+   ],
+   "chars": 1267,
+   "prev": "come out.\n\nThe cave belongs to a giant, and he seals its door with a stone that twenty-two wagons could not move.\n\nHe eats two men at a time.\n\nOdysseus has no way past that stone, only a sharpened stake and a skin of wine.\n\nAnd then he tells the giant that his name is Nobody.\n\nThe giant is Pollifeemus, and nobody agrees on where he came from.\n\nSo where did the Cyclops come from?\n\nFirst, the story.",
+   "next": "Then the giant seizes two of the men and eats them for his supper.\n\nAfterwards he falls asleep among his sheep.\n\nOdysseus stands over him with his sword half drawn, and for a moment it seems the story is over.\n\nThen he thinks of the stone, and of who would move it, so he waits for the morning.\n\nHe lies awake and counts the men who are left, and the number keeps him awake.\n\nAt breakfast, two more m"
+  },
+  {
+   "id": "P3",
+   "label": "The Meals",
+   "beats": [
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70
+   ],
+   "text": "Then the giant seizes two of the men and eats them for his supper.\n\nAfterwards he falls asleep among his sheep.\n\nOdysseus stands over him with his sword half drawn, and for a moment it seems the story is over.\n\nThen he thinks of the stone, and of who would move it, so he waits for the morning.\n\nHe lies awake and counts the men who are left, and the number keeps him awake.\n\nAt breakfast, two more men go, and Homer gives the details, but we will spare you.\n\nThen the giant drives his flock out to pasture, and Odysseus gets to work.\n\nHe finds the giant's own club, an olive trunk as big as a ship's mast.\n\nHe cuts off a length, sharpens it to a point, and hardens the point in the fire.\n\nFor the first time since they entered the cave, the crew have something to do.\n\nThen he hides it under the dung, the one thing a cave full of sheep has plenty of.\n\nFour men are chosen by lot to help him carry it.\n\nThat evening the giant comes home and takes two more.\n\nNow six of the twelve are gone.\n\nEach meal makes the circle of survivors smaller, and the cave a little quieter.",
+   "segs": [
+    {
+     "beat": 44,
+     "start": 0,
+     "end": 36,
+     "script": "Then the giant seizes two of the men"
+    },
+    {
+     "beat": 45,
+     "start": 37,
+     "end": 66,
+     "script": "and eats them for his supper."
+    },
+    {
+     "beat": 46,
+     "start": 68,
+     "end": 111,
+     "script": "Afterwards he falls asleep among his sheep."
+    },
+    {
+     "beat": 47,
+     "start": 113,
+     "end": 164,
+     "script": "Odysseus stands over him with his sword half drawn,"
+    },
+    {
+     "beat": 48,
+     "start": 165,
+     "end": 209,
+     "script": "and for a moment it seems the story is over."
+    },
+    {
+     "beat": 49,
+     "start": 211,
+     "end": 239,
+     "script": "Then he thinks of the stone,"
+    },
+    {
+     "beat": 50,
+     "start": 240,
+     "end": 265,
+     "script": "and of who would move it,"
+    },
+    {
+     "beat": 51,
+     "start": 266,
+     "end": 294,
+     "script": "so he waits for the morning."
+    },
+    {
+     "beat": 52,
+     "start": 296,
+     "end": 342,
+     "script": "He lies awake and counts the men who are left,"
+    },
+    {
+     "beat": 53,
+     "start": 343,
+     "end": 374,
+     "script": "and the number keeps him awake."
+    },
+    {
+     "beat": 54,
+     "start": 376,
+     "end": 406,
+     "script": "At breakfast, two more men go,"
+    },
+    {
+     "beat": 55,
+     "start": 407,
+     "end": 458,
+     "script": "and Homer gives the details, but we will spare you."
+    },
+    {
+     "beat": 56,
+     "start": 460,
+     "end": 507,
+     "script": "Then the giant drives his flock out to pasture,"
+    },
+    {
+     "beat": 57,
+     "start": 508,
+     "end": 534,
+     "script": "and Odysseus gets to work."
+    },
+    {
+     "beat": 59,
+     "start": 536,
+     "end": 606,
+     "script": "He finds the giant's own club, an olive trunk as big as a ship's mast."
+    },
+    {
+     "beat": 60,
+     "start": 608,
+     "end": 629,
+     "script": "He cuts off a length,"
+    },
+    {
+     "beat": 61,
+     "start": 630,
+     "end": 653,
+     "script": "sharpens it to a point,"
+    },
+    {
+     "beat": 62,
+     "start": 654,
+     "end": 688,
+     "script": "and hardens the point in the fire."
+    },
+    {
+     "beat": 63,
+     "start": 690,
+     "end": 768,
+     "script": "For the first time since they entered the cave, the crew have something to do."
+    },
+    {
+     "beat": 64,
+     "start": 770,
+     "end": 802,
+     "script": "Then he hides it under the dung,"
+    },
+    {
+     "beat": 65,
+     "start": 803,
+     "end": 852,
+     "script": "the one thing a cave full of sheep has plenty of."
+    },
+    {
+     "beat": 66,
+     "start": 854,
+     "end": 902,
+     "script": "Four men are chosen by lot to help him carry it."
+    },
+    {
+     "beat": 67,
+     "start": 904,
+     "end": 957,
+     "script": "That evening the giant comes home and takes two more."
+    },
+    {
+     "beat": 68,
+     "start": 959,
+     "end": 990,
+     "script": "Now six of the twelve are gone."
+    },
+    {
+     "beat": 69,
+     "start": 992,
+     "end": 1040,
+     "script": "Each meal makes the circle of survivors smaller,"
+    },
+    {
+     "beat": 70,
+     "start": 1041,
+     "end": 1071,
+     "script": "and the cave a little quieter."
+    }
+   ],
+   "chars": 1071,
+   "prev": "e strangers who they are, and whether they are traders or pirates.\n\nOdysseus asks for hospitality in the name of Zeus, who protects guests.\n\nThe giant answers that Cyclopes do not care about Zeus.\n\nThey keep no laws and hold no assemblies, and they think themselves stronger than the gods.\n\nThe men are shut in with a creature who fears nothing.\n\nThe only way out is behind a stone no human can lift.",
+   "next": "Odysseus steps forward with a bowl of wine and offers it to the giant.\n\nThe wine came from Maron, a priest of Apollo, whose household drank it mixed with twenty parts of water to one.\n\nThe giant drinks three bowls, and Homer counts them.\n\nThen he asks the guest's name, and promises a present.\n\nOdysseus tells him his name is Nobody.\n\nThe giant laughs and says that his present will be this: he will "
+  },
+  {
+   "id": "P4",
+   "label": "Nobody",
+   "beats": [
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104
+   ],
+   "text": "Odysseus steps forward with a bowl of wine and offers it to the giant.\n\nThe wine came from Maron, a priest of Apollo, whose household drank it mixed with twenty parts of water to one.\n\nThe giant drinks three bowls, and Homer counts them.\n\nThen he asks the guest's name, and promises a present.\n\nOdysseus tells him his name is Nobody.\n\nThe giant laughs and says that his present will be this: he will eat Nobody last.\n\nA name like that is a joke, and the giant is the only one who does not hear it.\n\nIt is a small trick, and the whole escape will hang on it.\n\nThe giant sinks to the floor and passes out.\n\nOdysseus looks at the sleeping giant, then at his men, and nods.\n\nOdysseus pushes the stake into the fire and holds it there until the point glows.\n\nNo one speaks, because no one needs to.\n\nThen he and four men lift it and put it in the giant's eye.\n\nThe cave fills with a sound that is not quite a roar.\n\nHomer reaches for a blacksmith's simile: an axe plunged into cold water, hissing.\n\nThe giant's scream brings his neighbours to the cave.\n\nThey ask if someone is killing him.\n\nHe shouts back that Nobody is killing him, by trickery and not by force.\n\nThe neighbours reply that if nobody is hurting him, it must be a sickness from Zeus.\n\nHe should pray to his father and let them sleep.\n\nThey go home, and the trick has worked.\n\nThe giant has lost his eye, but he has not lost his strength, and the stone still waits at the door.",
+   "segs": [
+    {
+     "beat": 71,
+     "start": 0,
+     "end": 42,
+     "script": "Odysseus steps forward with a bowl of wine"
+    },
+    {
+     "beat": 72,
+     "start": 43,
+     "end": 70,
+     "script": "and offers it to the giant."
+    },
+    {
+     "beat": 73,
+     "start": 72,
+     "end": 117,
+     "script": "The wine came from Maron, a priest of Apollo,"
+    },
+    {
+     "beat": 74,
+     "start": 118,
+     "end": 183,
+     "script": "whose household drank it mixed with twenty parts of water to one."
+    },
+    {
+     "beat": 75,
+     "start": 185,
+     "end": 237,
+     "script": "The giant drinks three bowls, and Homer counts them."
+    },
+    {
+     "beat": 76,
+     "start": 239,
+     "end": 269,
+     "script": "Then he asks the guest's name,"
+    },
+    {
+     "beat": 77,
+     "start": 270,
+     "end": 293,
+     "script": "and promises a present."
+    },
+    {
+     "beat": 78,
+     "start": 295,
+     "end": 333,
+     "script": "Odysseus tells him his name is Nobody."
+    },
+    {
+     "beat": 79,
+     "start": 335,
+     "end": 391,
+     "script": "The giant laughs and says that his present will be this:"
+    },
+    {
+     "beat": 80,
+     "start": 392,
+     "end": 416,
+     "script": "he will eat Nobody last."
+    },
+    {
+     "beat": 81,
+     "start": 418,
+     "end": 497,
+     "script": "A name like that is a joke, and the giant is the only one who does not hear it."
+    },
+    {
+     "beat": 84,
+     "start": 499,
+     "end": 557,
+     "script": "It is a small trick, and the whole escape will hang on it."
+    },
+    {
+     "beat": 85,
+     "start": 559,
+     "end": 587,
+     "script": "The giant sinks to the floor"
+    },
+    {
+     "beat": 86,
+     "start": 588,
+     "end": 603,
+     "script": "and passes out."
+    },
+    {
+     "beat": 87,
+     "start": 605,
+     "end": 669,
+     "script": "Odysseus looks at the sleeping giant, then at his men, and nods."
+    },
+    {
+     "beat": 88,
+     "start": 671,
+     "end": 710,
+     "script": "Odysseus pushes the stake into the fire"
+    },
+    {
+     "beat": 89,
+     "start": 711,
+     "end": 752,
+     "script": "and holds it there until the point glows."
+    },
+    {
+     "beat": 90,
+     "start": 754,
+     "end": 793,
+     "script": "No one speaks, because no one needs to."
+    },
+    {
+     "beat": 91,
+     "start": 795,
+     "end": 823,
+     "script": "Then he and four men lift it"
+    },
+    {
+     "beat": 92,
+     "start": 824,
+     "end": 854,
+     "script": "and put it in the giant's eye."
+    },
+    {
+     "beat": 93,
+     "start": 856,
+     "end": 909,
+     "script": "The cave fills with a sound that is not quite a roar."
+    },
+    {
+     "beat": 94,
+     "start": 911,
+     "end": 951,
+     "script": "Homer reaches for a blacksmith's simile:"
+    },
+    {
+     "beat": 95,
+     "start": 952,
+     "end": 992,
+     "script": "an axe plunged into cold water, hissing."
+    },
+    {
+     "beat": 96,
+     "start": 994,
+     "end": 1047,
+     "script": "The giant's scream brings his neighbours to the cave."
+    },
+    {
+     "beat": 97,
+     "start": 1049,
+     "end": 1084,
+     "script": "They ask if someone is killing him."
+    },
+    {
+     "beat": 98,
+     "start": 1086,
+     "end": 1158,
+     "script": "He shouts back that Nobody is killing him, by trickery and not by force."
+    },
+    {
+     "beat": 99,
+     "start": 1160,
+     "end": 1211,
+     "script": "The neighbours reply that if nobody is hurting him,"
+    },
+    {
+     "beat": 100,
+     "start": 1212,
+     "end": 1244,
+     "script": "it must be a sickness from Zeus."
+    },
+    {
+     "beat": 101,
+     "start": 1246,
+     "end": 1294,
+     "script": "He should pray to his father and let them sleep."
+    },
+    {
+     "beat": 102,
+     "start": 1296,
+     "end": 1335,
+     "script": "They go home, and the trick has worked."
+    },
+    {
+     "beat": 103,
+     "start": 1337,
+     "end": 1398,
+     "script": "The giant has lost his eye, but he has not lost his strength,"
+    },
+    {
+     "beat": 104,
+     "start": 1399,
+     "end": 1437,
+     "script": "and the stone still waits at the door."
+    }
+   ],
+   "chars": 1437,
+   "prev": "oint in the fire.\n\nFor the first time since they entered the cave, the crew have something to do.\n\nThen he hides it under the dung, the one thing a cave full of sheep has plenty of.\n\nFour men are chosen by lot to help him carry it.\n\nThat evening the giant comes home and takes two more.\n\nNow six of the twelve are gone.\n\nEach meal makes the circle of survivors smaller, and the cave a little quieter.",
+   "next": "At dawn the sheep file out, and the blind giant sits in the doorway with his hands out.\n\nThe flock is all he can still count, and he counts it by touch.\n\nOdysseus has tied the sheep in threes, with a man hanging under each middle one.\n\nHe saves the best ram for himself, and clings to its belly.\n\nThe giant feels along their backs as they pass, but never their bellies.\n\nEvery sheep is a risk. If one"
+  },
+  {
+   "id": "P5",
+   "label": "The Rams",
+   "beats": [
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126
+   ],
+   "text": "At dawn the sheep file out, and the blind giant sits in the doorway with his hands out.\n\nThe flock is all he can still count, and he counts it by touch.\n\nOdysseus has tied the sheep in threes, with a man hanging under each middle one.\n\nHe saves the best ram for himself, and clings to its belly.\n\nThe giant feels along their backs as they pass, but never their bellies.\n\nEvery sheep is a risk. If one man slips, or one animal bleats, the plan ends in the dark, with a very large hand.\n\nLast of all comes the ram that carries Odysseus.\n\nAnd the giant speaks to it tenderly: \"My good ram\u2026 you lag last of all.\n\nIs it because you know your master has lost his eye?\"\n\nIt is the gentlest moment the giant has in the poem, and it is aimed at a ram.\n\nThen he lets it go.\n\nHe does not know that he has just let his whole victory walk out of the door.\n\nOutside, the men drop from the sheep and drive the whole flock down to the ship.",
+   "segs": [
+    {
+     "beat": 105,
+     "start": 0,
+     "end": 27,
+     "script": "At dawn the sheep file out,"
+    },
+    {
+     "beat": 106,
+     "start": 28,
+     "end": 87,
+     "script": "and the blind giant sits in the doorway with his hands out."
+    },
+    {
+     "beat": 107,
+     "start": 89,
+     "end": 152,
+     "script": "The flock is all he can still count, and he counts it by touch."
+    },
+    {
+     "beat": 108,
+     "start": 154,
+     "end": 192,
+     "script": "Odysseus has tied the sheep in threes,"
+    },
+    {
+     "beat": 109,
+     "start": 193,
+     "end": 234,
+     "script": "with a man hanging under each middle one."
+    },
+    {
+     "beat": 110,
+     "start": 236,
+     "end": 270,
+     "script": "He saves the best ram for himself,"
+    },
+    {
+     "beat": 111,
+     "start": 271,
+     "end": 295,
+     "script": "and clings to its belly."
+    },
+    {
+     "beat": 112,
+     "start": 297,
+     "end": 344,
+     "script": "The giant feels along their backs as they pass,"
+    },
+    {
+     "beat": 113,
+     "start": 345,
+     "end": 369,
+     "script": "but never their bellies."
+    },
+    {
+     "beat": 115,
+     "start": 371,
+     "end": 433,
+     "script": "Every sheep is a risk. If one man slips, or one animal bleats,"
+    },
+    {
+     "beat": 116,
+     "start": 434,
+     "end": 484,
+     "script": "the plan ends in the dark, with a very large hand."
+    },
+    {
+     "beat": 117,
+     "start": 486,
+     "end": 534,
+     "script": "Last of all comes the ram that carries Odysseus."
+    },
+    {
+     "beat": 118,
+     "start": 536,
+     "end": 572,
+     "script": "And the giant speaks to it tenderly:"
+    },
+    {
+     "beat": 119,
+     "start": 573,
+     "end": 607,
+     "script": "\"My good ram\u2026 you lag last of all."
+    },
+    {
+     "beat": 120,
+     "start": 609,
+     "end": 662,
+     "script": "Is it because you know your master has lost his eye?\""
+    },
+    {
+     "beat": 121,
+     "start": 664,
+     "end": 716,
+     "script": "It is the gentlest moment the giant has in the poem,"
+    },
+    {
+     "beat": 122,
+     "start": 717,
+     "end": 742,
+     "script": "and it is aimed at a ram."
+    },
+    {
+     "beat": 123,
+     "start": 744,
+     "end": 763,
+     "script": "Then he lets it go."
+    },
+    {
+     "beat": 124,
+     "start": 765,
+     "end": 842,
+     "script": "He does not know that he has just let his whole victory walk out of the door."
+    },
+    {
+     "beat": 125,
+     "start": 844,
+     "end": 880,
+     "script": "Outside, the men drop from the sheep"
+    },
+    {
+     "beat": 126,
+     "start": 881,
+     "end": 924,
+     "script": "and drive the whole flock down to the ship."
+    }
+   ],
+   "chars": 924,
+   "prev": " the cave.\n\nThey ask if someone is killing him.\n\nHe shouts back that Nobody is killing him, by trickery and not by force.\n\nThe neighbours reply that if nobody is hurting him, it must be a sickness from Zeus.\n\nHe should pray to his father and let them sleep.\n\nThey go home, and the trick has worked.\n\nThe giant has lost his eye, but he has not lost his strength, and the stone still waits at the door.",
+   "next": "Odysseus should sail away quietly, now that he has won.\n\nInstead, he stands on the deck and jeers at the giant.\n\nIt is the one mistake in the whole plan, and it is a mistake of pride.\n\nThe giant tears the top off a mountain and throws it.\n\nIt lands just in front of the ship, and the wave sweeps them back toward the shore.\n\nThe crew begs him to stop, because the giant has already thrown one rock at"
+  },
+  {
+   "id": "P6",
+   "label": "The Curse",
+   "beats": [
+    127,
+    128,
+    129,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156
+   ],
+   "text": "Odysseus should sail away quietly, now that he has won.\n\nInstead, he stands on the deck and jeers at the giant.\n\nIt is the one mistake in the whole plan, and it is a mistake of pride.\n\nThe giant tears the top off a mountain and throws it.\n\nIt lands just in front of the ship, and the wave sweeps them back toward the shore.\n\nThe crew begs him to stop, because the giant has already thrown one rock at them.\n\nBut Odysseus shouts once more, and this time he gives his name.\n\nIf anyone asks who blinded you, tell them it was Odysseus, son of Laertes, of Ithaca.\n\nSo much for Nobody.\n\nThe giant answers that a prophet named Tell-ih-muss once warned him that Odysseus would take his eye.\n\nHe had expected a great warrior, and instead he got \"a little insignificant weakling.\"\n\nHe offers presents if Odysseus will come back, and Odysseus answers that it will take more than Poseidon to cure that eye.\n\nThen the giant lifts both hands toward the sky, and prays to Poseidon.\n\nNever let Odysseus reach his home, he asks.\n\nOr if he must, let him come \"late and in sore plight, after losing all his men.\"\n\nPoseidon listens.\n\nThe prayer is answered, and the rest of the Odyssey is the answer.\n\nIt will be years before Odysseus sees Ithaca again.",
+   "segs": [
+    {
+     "beat": 127,
+     "start": 0,
+     "end": 34,
+     "script": "Odysseus should sail away quietly,"
+    },
+    {
+     "beat": 128,
+     "start": 35,
+     "end": 55,
+     "script": "now that he has won."
+    },
+    {
+     "beat": 129,
+     "start": 57,
+     "end": 111,
+     "script": "Instead, he stands on the deck and jeers at the giant."
+    },
+    {
+     "beat": 131,
+     "start": 113,
+     "end": 183,
+     "script": "It is the one mistake in the whole plan, and it is a mistake of pride."
+    },
+    {
+     "beat": 132,
+     "start": 185,
+     "end": 238,
+     "script": "The giant tears the top off a mountain and throws it."
+    },
+    {
+     "beat": 133,
+     "start": 240,
+     "end": 275,
+     "script": "It lands just in front of the ship,"
+    },
+    {
+     "beat": 134,
+     "start": 276,
+     "end": 323,
+     "script": "and the wave sweeps them back toward the shore."
+    },
+    {
+     "beat": 135,
+     "start": 325,
+     "end": 351,
+     "script": "The crew begs him to stop,"
+    },
+    {
+     "beat": 136,
+     "start": 352,
+     "end": 406,
+     "script": "because the giant has already thrown one rock at them."
+    },
+    {
+     "beat": 137,
+     "start": 408,
+     "end": 471,
+     "script": "But Odysseus shouts once more, and this time he gives his name."
+    },
+    {
+     "beat": 138,
+     "start": 473,
+     "end": 504,
+     "script": "If anyone asks who blinded you,"
+    },
+    {
+     "beat": 139,
+     "start": 505,
+     "end": 558,
+     "script": "tell them it was Odysseus, son of Laertes, of Ithaca."
+    },
+    {
+     "beat": 140,
+     "start": 560,
+     "end": 579,
+     "script": "So much for Nobody."
+    },
+    {
+     "beat": 142,
+     "start": 581,
+     "end": 648,
+     "script": "The giant answers that a prophet named Telemus once warned him"
+    },
+    {
+     "beat": 143,
+     "start": 649,
+     "end": 682,
+     "script": "that Odysseus would take his eye."
+    },
+    {
+     "beat": 144,
+     "start": 684,
+     "end": 716,
+     "script": "He had expected a great warrior,"
+    },
+    {
+     "beat": 145,
+     "start": 717,
+     "end": 770,
+     "script": "and instead he got \"a little insignificant weakling.\""
+    },
+    {
+     "beat": 146,
+     "start": 772,
+     "end": 818,
+     "script": "He offers presents if Odysseus will come back,"
+    },
+    {
+     "beat": 147,
+     "start": 819,
+     "end": 876,
+     "script": "and Odysseus answers that it will take more than Poseidon"
+    },
+    {
+     "beat": 148,
+     "start": 877,
+     "end": 894,
+     "script": "to cure that eye."
+    },
+    {
+     "beat": 149,
+     "start": 896,
+     "end": 943,
+     "script": "Then the giant lifts both hands toward the sky,"
+    },
+    {
+     "beat": 150,
+     "start": 944,
+     "end": 966,
+     "script": "and prays to Poseidon."
+    },
+    {
+     "beat": 151,
+     "start": 968,
+     "end": 1011,
+     "script": "Never let Odysseus reach his home, he asks."
+    },
+    {
+     "beat": 152,
+     "start": 1013,
+     "end": 1066,
+     "script": "Or if he must, let him come \"late and in sore plight,"
+    },
+    {
+     "beat": 153,
+     "start": 1067,
+     "end": 1093,
+     "script": "after losing all his men.\""
+    },
+    {
+     "beat": 154,
+     "start": 1095,
+     "end": 1112,
+     "script": "Poseidon listens."
+    },
+    {
+     "beat": 155,
+     "start": 1114,
+     "end": 1180,
+     "script": "The prayer is answered, and the rest of the Odyssey is the answer."
+    },
+    {
+     "beat": 156,
+     "start": 1182,
+     "end": 1233,
+     "script": "It will be years before Odysseus sees Ithaca again."
+    }
+   ],
+   "chars": 1233,
+   "prev": " Odysseus.\n\nAnd the giant speaks to it tenderly: \"My good ram\u2026 you lag last of all.\n\nIs it because you know your master has lost his eye?\"\n\nIt is the gentlest moment the giant has in the poem, and it is aimed at a ram.\n\nThen he lets it go.\n\nHe does not know that he has just let his whole victory walk out of the door.\n\nOutside, the men drop from the sheep and drive the whole flock down to the ship.",
+   "next": "Homer never actually says one eye.\n\nHe says \"the eye,\" and takes the rest for granted.\n\nFor the one eye, you need Hesiod, around seven hundred B.C.\n\nHe has three Cyclopes at a forge, making the thunderbolt for Zeus.\n\nSo one idea is that the Cyclopes began as smiths.\n\nIn 1914, a palaeontologist named Othenio Abel imagined sailors lighting a fire in a beach cave and seeing an elephant skull in the c"
+  },
+  {
+   "id": "P7",
+   "label": "Where did he come from?",
+   "beats": [
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184
+   ],
+   "text": "Homer never actually says one eye.\n\nHe says \"the eye,\" and takes the rest for granted.\n\nFor the one eye, you need Hesiod, around seven hundred B.C.\n\nHe has three Cyclopes at a forge, making the thunderbolt for Zeus.\n\nSo one idea is that the Cyclopes began as smiths.\n\nIn 1914, a palaeontologist named Othenio Abel imagined sailors lighting a fire in a beach cave and seeing an elephant skull in the clay.\n\nAbel thought it might be where the Cyclops came from.\n\nIce Age Sicily had dwarf elephants. Head on, their skulls show one great hole in the middle, which is really the nasal cavity.\n\nBut Abel's sailors are imagined, and it is a modern claim, not ancient evidence.\n\nThen there are the walls.\n\nAt Tie-rinz, the traveller Paw-sayneeus wrote that a pair of mules could not move even the smallest stone, and that the Cyclopes built it.\n\nPeople built those walls, around twelve fifty B.C., though archaeologists still call the style cyclopean.\n\nIn 1904, the scholar Oskar Hackman catalogued two hundred and twenty-one versions of one tale.\n\nIn it, a man trapped by a giant blinds him and escapes.\n\nThey come from Iceland, Portugal and Russia, and even from the Arabian Nights.\n\nMany scholars think that tale is older than Homer.\n\nNone of them can be proved.\n\nAsk who can prove where the Cyclops came from, and the honest answer is the one Odysseus gave him.\n\nNobody.",
+   "segs": [
+    {
+     "beat": 157,
+     "start": 0,
+     "end": 34,
+     "script": "Homer never actually says one eye."
+    },
+    {
+     "beat": 158,
+     "start": 36,
+     "end": 86,
+     "script": "He says \"the eye,\" and takes the rest for granted."
+    },
+    {
+     "beat": 159,
+     "start": 88,
+     "end": 147,
+     "script": "For the one eye, you need Hesiod, around seven hundred B.C."
+    },
+    {
+     "beat": 160,
+     "start": 149,
+     "end": 215,
+     "script": "He has three Cyclopes at a forge, making the thunderbolt for Zeus."
+    },
+    {
+     "beat": 161,
+     "start": 217,
+     "end": 266,
+     "script": "So one idea is that the Cyclopes began as smiths."
+    },
+    {
+     "beat": 162,
+     "start": 268,
+     "end": 330,
+     "script": "In 1914, a palaeontologist named Othenio Abel imagined sailors"
+    },
+    {
+     "beat": 163,
+     "start": 331,
+     "end": 404,
+     "script": "lighting a fire in a beach cave and seeing an elephant skull in the clay."
+    },
+    {
+     "beat": 164,
+     "start": 406,
+     "end": 459,
+     "script": "Abel thought it might be where the Cyclops came from."
+    },
+    {
+     "beat": 165,
+     "start": 461,
+     "end": 553,
+     "script": "Ice Age Sicily had dwarf elephants. Head on, their skulls show one great hole in the middle,"
+    },
+    {
+     "beat": 166,
+     "start": 554,
+     "end": 587,
+     "script": "which is really the nasal cavity."
+    },
+    {
+     "beat": 167,
+     "start": 589,
+     "end": 621,
+     "script": "But Abel's sailors are imagined,"
+    },
+    {
+     "beat": 168,
+     "start": 622,
+     "end": 669,
+     "script": "and it is a modern claim, not ancient evidence."
+    },
+    {
+     "beat": 169,
+     "start": 671,
+     "end": 696,
+     "script": "Then there are the walls."
+    },
+    {
+     "beat": 170,
+     "start": 698,
+     "end": 743,
+     "script": "At Tiryns, the traveller Pausanias wrote"
+    },
+    {
+     "beat": 171,
+     "start": 744,
+     "end": 804,
+     "script": "that a pair of mules could not move even the smallest stone,"
+    },
+    {
+     "beat": 172,
+     "start": 805,
+     "end": 836,
+     "script": "and that the Cyclopes built it."
+    },
+    {
+     "beat": 173,
+     "start": 838,
+     "end": 889,
+     "script": "People built those walls, around twelve fifty B.C.,"
+    },
+    {
+     "beat": 174,
+     "start": 890,
+     "end": 943,
+     "script": "though archaeologists still call the style cyclopean."
+    },
+    {
+     "beat": 175,
+     "start": 945,
+     "end": 979,
+     "script": "In 1904, the scholar Oskar Hackman"
+    },
+    {
+     "beat": 176,
+     "start": 980,
+     "end": 1039,
+     "script": "catalogued two hundred and twenty-one versions of one tale."
+    },
+    {
+     "beat": 177,
+     "start": 1041,
+     "end": 1096,
+     "script": "In it, a man trapped by a giant blinds him and escapes."
+    },
+    {
+     "beat": 178,
+     "start": 1098,
+     "end": 1142,
+     "script": "They come from Iceland, Portugal and Russia,"
+    },
+    {
+     "beat": 179,
+     "start": 1143,
+     "end": 1176,
+     "script": "and even from the Arabian Nights."
+    },
+    {
+     "beat": 180,
+     "start": 1178,
+     "end": 1228,
+     "script": "Many scholars think that tale is older than Homer."
+    },
+    {
+     "beat": 181,
+     "start": 1230,
+     "end": 1257,
+     "script": "None of them can be proved."
+    },
+    {
+     "beat": 182,
+     "start": 1259,
+     "end": 1305,
+     "script": "Ask who can prove where the Cyclops came from,"
+    },
+    {
+     "beat": 183,
+     "start": 1306,
+     "end": 1357,
+     "script": "and the honest answer is the one Odysseus gave him."
+    },
+    {
+     "beat": 184,
+     "start": 1359,
+     "end": 1366,
+     "script": "Nobody."
+    }
+   ],
+   "chars": 1366,
+   "prev": "nswers that it will take more than Poseidon to cure that eye.\n\nThen the giant lifts both hands toward the sky, and prays to Poseidon.\n\nNever let Odysseus reach his home, he asks.\n\nOr if he must, let him come \"late and in sore plight, after losing all his men.\"\n\nPoseidon listens.\n\nThe prayer is answered, and the rest of the Odyssey is the answer.\n\nIt will be years before Odysseus sees Ithaca again.",
+   "next": ""
+  }
+ ]
+}

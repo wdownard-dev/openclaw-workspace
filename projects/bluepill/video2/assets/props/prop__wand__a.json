@@ -1,0 +1,21 @@
+{
+ "file": "prop__wand__a.png",
+ "source": "../gen/prop__wand__a1.png",
+ "width": 1435,
+ "height": 754,
+ "feet": {
+  "x": 63,
+  "y": 745
+ },
+ "height_px_at_1080": 754,
+ "src_bbox": [
+  71,
+  72,
+  1489,
+  809
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}

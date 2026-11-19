@@ -1,0 +1,21 @@
+{
+ "file": "prop__stake__a.png",
+ "source": "../gen/prop__stake__a1.png",
+ "width": 1467,
+ "height": 523,
+ "feet": {
+  "x": 55,
+  "y": 514
+ },
+ "height_px_at_1080": 523,
+ "src_bbox": [
+  43,
+  190,
+  1493,
+  696
+ ],
+ "src_size": [
+  1536,
+  864
+ ]
+}
