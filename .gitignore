@@ -40,3 +40,7 @@ projects/bluepill/**/_superseded/
 projects/bluepill/**/_notused/
 projects/bluepill/**/rejects/
 projects/bluepill/**/tests/
+# working imagery (screens, contact sheets, previz) - regenerable, keeps pack under remote push limit
+projects/opusclip/screens/
+projects/opusclip/supercut/work/
+projects/bluepill/video2/previz/
