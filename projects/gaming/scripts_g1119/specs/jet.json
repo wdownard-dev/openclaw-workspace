@@ -1,0 +1,204 @@
+{
+ "slug": "jet",
+ "title": "STEAL A FIGHTER JET",
+ "yt_title": "How to Steal a Fighter Jet in GTA 6 (Military Base)",
+ "hook": "Here's how to steal a fighter jet at the GTA 6 military base, and what happens the second you take off.",
+ "tips": [
+  "1. Steal a jet from the military base at the bottom of the Keys (TGG hlEojE7w0Zw 0:09-0:19 location, 0:175-0:194 get to jets before they box you in; Typical Gamer cyAPzaLcEsM 4092-4200 base, parachute in, jet)",
+  "2. Main entrance is packed with guards; alternate route via stunt jump on a dirt bike (TGG only, not on any streamer frame) - description only",
+  "3. Body armor (up to three, from an ammunition store) as step one; bank your cash first (TGG 54-129 + Mr Lawrence Hd3QiIsF8Vc: die = lose carried cash) - cash tip description-only",
+  "4. Jet weapons: machine gun and missile turret (TGG 226; TG 4210; weapon wheel on frame 4214-4221)",
+  "5. Five-star wanted level on takeoff (TGG 216; TG frames 4190+)"
+ ],
+ "segs": {
+  "jet": {
+   "file": "tg_jet",
+   "base": 4085,
+   "mask": [
+    0,
+    0.385,
+    0.25,
+    0.285
+   ]
+  },
+  "arm": {
+   "file": "tg_armor",
+   "base": 2440,
+   "mask": [
+    0,
+    0.385,
+    0.25,
+    0.285
+   ]
+  }
+ },
+ "parts": [
+  {
+   "key": "hook",
+   "text": "Here's how to steal a fighter jet in GTA 6. And you'll have five stars the second you take off.",
+   "label": null,
+   "clips": [
+    [
+     "jet",
+     4235,
+     1
+    ]
+   ],
+   "proof": "jet in flight, 5 stars on HUD"
+  },
+  {
+   "key": "s0",
+   "text": "One. Gear up first. Buy body armor at an ammunition store, up to three, and equip it from the wheel for extra health.",
+   "label": "1  Body armor",
+   "clips": [
+    [
+     "arm",
+     2473,
+     1
+    ],
+    [
+     "arm",
+     2478,
+     1.2
+    ]
+   ],
+   "proof": "armored vest on character 2473; wheel 'Body armor' item 2476-2482 (TGG 54-82 buy body armor up to three; TG 2472)"
+  },
+  {
+   "key": "s1",
+   "text": "Two. Find the military base at the bottom of the Keys. The front gate is packed with guards, so skip it and come in from the sky.",
+   "label": "2  Military base",
+   "clips": [
+    [
+     "jet",
+     4100,
+     1
+    ],
+    [
+     "jet",
+     4122,
+     1
+    ]
+   ],
+   "proof": "seaplane over the base island 4100-4130 (TG 4092 'this is the military base'; TGG 0:09-0:28 bottom of the Keys, gate guards)"
+  },
+  {
+   "key": "s2",
+   "text": "Three. Fly in over the fence and bail out on your parachute, right above the hangars. The jets are parked out in the open.",
+   "label": "3  Bail out",
+   "clips": [
+    [
+     "jet",
+     4138,
+     1
+    ],
+    [
+     "jet",
+     4152,
+     1
+    ]
+   ],
+   "proof": "base from air 4138-4150, parachute 4152-4168 (TG 4153)"
+  },
+  {
+   "key": "s3",
+   "text": "Four. Run straight to a jet and get in fast. The military tries to box in your exit, so don't stop to look around.",
+   "label": "4  Get in a jet",
+   "clips": [
+    [
+     "jet",
+     4168,
+     1
+    ],
+    [
+     "jet",
+     4175,
+     1
+    ]
+   ],
+   "proof": "chute lands by jet 4168; P-996 Lazer prompt 4175 (TGG 175-194 box in the exit; TG 4167 'get me in')"
+  },
+  {
+   "key": "s4",
+   "text": "Five. Take off straight away. The moment you do, you're at five stars.",
+   "label": "5  Take off - 5 stars",
+   "clips": [
+    [
+     "jet",
+     4182,
+     1
+    ],
+    [
+     "jet",
+     4192,
+     1
+    ]
+   ],
+   "proof": "takeoff 4182-4198, stars 2 -> 5 on HUD (TGG 216 'five star wanted level')"
+  },
+  {
+   "key": "s5",
+   "text": "Six. Open the weapon wheel and pick the machine gun or the missile turret. Fighter jets lock on to you fast, so be ready.",
+   "label": "6  Weapon wheel",
+   "clips": [
+    [
+     "jet",
+     4214,
+     1.7
+    ],
+    [
+     "jet",
+     4229,
+     1
+    ],
+    [
+     "jet",
+     4242,
+     1
+    ]
+   ],
+   "proof": "wheel 4214-4221; dogfight 4229 (TG), missile lock-on (TGG 245)"
+  },
+  {
+   "key": "end",
+   "text": "That's a fighter jet stolen. Did you make it out alive? Drop a comment and tell me how long you lasted.",
+   "label": null,
+   "clips": [
+    [
+     "jet",
+     4252,
+     1
+    ]
+   ],
+   "proof": "jet flying"
+  }
+ ],
+ "desc_steps": [
+  "1. Gear up first: buy body armor (up to three) at an ammunition store, equip it, stock up on health items, and bank your cash. If you die you lose the cash you're carrying.",
+  "2. Find the military base at the bottom of the Keys. The main entrance is packed with guards.",
+  "3. Skip the gate: fly in over the fence and bail out on a parachute above the hangars (shown in the video), or take the side route over the stunt jump on a dirt bike.",
+  "4. Run to a jet and get in fast. The military tries to box in your exit.",
+  "5. Take off immediately. You get a five-star wanted level.",
+  "6. Open the weapon wheel for the machine gun or missile turret. Other jets lock on to you fast.",
+  "Tank option: the same side route also gets you to the tanks."
+ ],
+ "hashtags": "#GTA6 #GrandTheftAuto6 #GTAVI",
+ "tags": [
+  "gta 6",
+  "gta6",
+  "grand theft auto 6",
+  "grand theft auto vi",
+  "gta vi",
+  "rockstar games",
+  "gta 6 fighter jet",
+  "gta 6 military base",
+  "gta 6 steal jet",
+  "gta 6 guide"
+ ],
+ "credits": [
+  "Footage via Typical Gamer: https://www.youtube.com/watch?v=cyAPzaLcEsM",
+  "Route info via TGG: https://www.youtube.com/watch?v=hlEojE7w0Zw"
+ ],
+ "source_date": "November 19, 2026",
+ "verify": "Tip: steal a jet at the military base (TGG hlEojE7w0Zw: location 0:09, box-in 3:15, five stars 3:36, weapons 3:46) matched on Typical Gamer cyAPzaLcEsM 4092-4258 (base, parachute 4152, jet prompt 4175, five stars 4190, weapon wheel 4214, dogfight 4229). Body armor / stunt-jump route / bank cash are TGG-only or unseen, so they are in the description, not the video. Step 1 body armor: TGG 0:54-1:12 ('buy up to three'), Typical Gamer 2472 vest on frame 2473 and 'Body armor' wheel item 2476-2482."
+}

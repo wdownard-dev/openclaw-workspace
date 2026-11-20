@@ -1,0 +1,197 @@
+{
+ "slug": "safecode",
+ "title": "JEWELRY STORE SAFE CODE",
+ "yt_title": "Jewelry Store Safe Code 9357 in GTA 6 (Don't Blow It)",
+ "hook": "Here's the jewelry store safe code in GTA 6: 9357, and where the game hides it.",
+ "tips": [
+  "1. Jewelry store safe code is on the wall by the counter: 9357 (TG cyAPzaLcEsM 2174-2198; 'Safe code: 9357' HUD on frame)",
+  "2. Game hint: a safe code is sometimes kept at the location or known by staff (on-frame tooltip 2132; Mr Lawrence FGT8wNrw6Pw 0:58 'find the code or use explosives'; Zancudo qRbrGtiLKxU 4:54 code in employee desk)",
+  "3. Explosives are the alternative (Plant explosive prompt on frame 2150-2186)"
+ ],
+ "segs": {
+  "jew": {
+   "file": "tg_jewel",
+   "base": 2090,
+   "mask": [
+    0,
+    0.385,
+    0.25,
+    0.285
+   ]
+  }
+ },
+ "parts": [
+  {
+   "key": "hook",
+   "text": "Here's the jewelry store safe code in GTA 6. It's nine three five seven, and the game hides it in plain sight.",
+   "label": "Safe code 9357",
+   "clips": [
+    [
+     "jew",
+     2182,
+     1
+    ],
+    [
+     "jew",
+     2189,
+     1.1
+    ]
+   ],
+   "proof": "'Safe code: 9357' HUD at the wall 2182, keypad + Notes 9357 2189"
+  },
+  {
+   "key": "s1",
+   "text": "One. Walk into the jewelry store in the mall and point a weapon at the staff. That starts the robbery.",
+   "label": "1  Rob the store",
+   "clips": [
+    [
+     "jew",
+     2090,
+     1
+    ],
+    [
+     "jew",
+     2097,
+     1
+    ]
+   ],
+   "proof": "aiming at staff 2090-2102 (TG 2064 'I'm about to rob this place')"
+  },
+  {
+   "key": "s2",
+   "text": "Two. Head through the back room. The safe is in the workshop, and it asks you for a code.",
+   "label": "2  Back room safe",
+   "clips": [
+    [
+     "jew",
+     2108,
+     1
+    ],
+    [
+     "jew",
+     2126,
+     1
+    ],
+    [
+     "jew",
+     2150,
+     1
+    ]
+   ],
+   "proof": "back door 2108, workshop 2114-2126, ENTER CODE prompt 2150-2162 (TG 2137 'where's the code at?')"
+  },
+  {
+   "key": "s3",
+   "text": "Three. You can plant explosives, but don't. The game tells you a safe code is sometimes kept at the location, or known by staff.",
+   "label": "3  Find the code",
+   "clips": [
+    [
+     "jew",
+     2132,
+     1.3
+    ],
+    [
+     "jew",
+     2156,
+     1
+    ]
+   ],
+   "proof": "tooltip 'A safe code is sometimes kept at the location or known by staff' 2132; keypad 2156; Plant explosive prompt 2150"
+  },
+  {
+   "key": "s4",
+   "text": "Four. Look around the front counter. The code is on the wall: nine three five seven. The game saves it in your notes.",
+   "label": "4  Code 9357",
+   "clips": [
+    [
+     "jew",
+     2172,
+     1
+    ],
+    [
+     "jew",
+     2178,
+     1
+    ],
+    [
+     "jew",
+     2182,
+     1.4
+    ]
+   ],
+   "proof": "'Safe code: 9357' HUD 2182-2186 (TG 2174 'you see that on the wall? 9357'); Notes 9357 in corner 2188+"
+  },
+  {
+   "key": "s5",
+   "text": "Five. Go back and punch nine three five seven into the keypad. Then take what's inside.",
+   "label": "5  Enter 9357",
+   "clips": [
+    [
+     "jew",
+     2184,
+     1
+    ],
+    [
+     "jew",
+     2189,
+     1.5
+    ],
+    [
+     "jew",
+     2199,
+     1
+    ]
+   ],
+   "proof": "walk back 2184; keypad entry 2189-2196 with Notes 9357 (TG 2187 'put it all in'); workshop after 2199"
+  },
+  {
+   "key": "end",
+   "text": "Safe code nine three five seven. Did it work for you? Drop a comment and tell me how much you got.",
+   "label": "9357",
+   "clips": [
+    [
+     "jew",
+     2210,
+     1
+    ]
+   ],
+   "proof": "leaving store"
+  }
+ ],
+ "desc_steps": [
+  "1. Walk into the jewelry store in the mall (Legendary Custom Jewelry) and point a weapon at the staff to start the robbery.",
+  "2. Go through the back room to the workshop. The safe there asks for a code.",
+  "3. You can plant explosives, but the game also tells you a safe code is sometimes kept at the location or known by staff.",
+  "4. Look around the front counter. The code is on the wall: 9357. The game saves it in your notes.",
+  "5. Go back, enter 9357 on the safe keypad, take what's inside, then get out before the police arrive."
+ ],
+ "hashtags": "#GTA6 #GrandTheftAuto6 #GTAVI",
+ "tags": [
+  "gta 6",
+  "gta6",
+  "grand theft auto 6",
+  "grand theft auto vi",
+  "gta vi",
+  "rockstar games",
+  "gta 6 safe code",
+  "gta 6 jewelry store",
+  "gta 6 robbery",
+  "gta 6 guide"
+ ],
+ "credits": [
+  "Footage via Typical Gamer: https://www.youtube.com/watch?v=cyAPzaLcEsM"
+ ],
+ "source_date": "November 19, 2026",
+ "verify": "Tip: jewelry-store safe code 9357 on the wall by the counter. Transcript: Typical Gamer cyAPzaLcEsM 2174 ('you see that on the wall? 9357'). Frame: 'Safe code: 9357' HUD at 2182-2186, 'Notes 9357' at the keypad 2188-2198, in-game hint at 2132. Single streamer source, but the number and hint are both on screen; Mr Lawrence/Zancudo guides confirm the 'find the code or explode it' mechanic.",
+ "cap_merge": [
+  [
+   [
+    "nine",
+    "three",
+    "five",
+    "seven"
+   ],
+   "9357"
+  ]
+ ]
+}

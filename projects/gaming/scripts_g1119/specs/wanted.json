@@ -1,0 +1,195 @@
+{
+ "slug": "wanted",
+ "title": "LOSE YOUR WANTED LEVEL",
+ "yt_title": "How to Lose the Cops in GTA 6 (3 Things They Remember)",
+ "hook": "Here's how to lose your wanted level in GTA 6. The cops remember three things, and you have to clear all of them.",
+ "tips": [
+  "1. Cops track outfit, appearance and vehicle - clear all three (Zancudo Xi6a6cUYbEM 0:35-1:40; Mr Lawrence FGT8wNrw6Pw 1:26; TG cyAPzaLcEsM 1042 'cops are searching for you and they have your description')",
+  "2. Break the chase first: get out of the search area / alley (Zancudo 3:27; TG 1431)",
+  "3. Appearance: wheel > items > cap / glasses ('Appearance heat cleared' on frame) (Zancudo 4:41; TG 1460-1500)",
+  "4. Vehicle: paint spray / respray (TG 2577-2606; Zancudo; Mr Lawrence 1:35 respray, swap vehicle)",
+  "5. Leave the red heat zone on the map and the stars drop (Mr Lawrence 1:45; TG 2638-2660)"
+ ],
+ "segs": {
+  "stars": {
+   "file": "tg_stars",
+   "base": 1010,
+   "mask": [
+    0,
+    0.385,
+    0.25,
+    0.285
+   ]
+  },
+  "outfit": {
+   "file": "tg_outfit",
+   "base": 1425,
+   "mask": [
+    0,
+    0.385,
+    0.25,
+    0.285
+   ]
+  },
+  "spray": {
+   "file": "tg_spray",
+   "base": 2570,
+   "mask": [
+    0,
+    0.385,
+    0.25,
+    0.285
+   ]
+  }
+ },
+ "parts": [
+  {
+   "key": "hook",
+   "text": "Here's how to lose your wanted level in GTA 6. The cops remember three things, and you have to clear all three.",
+   "label": null,
+   "clips": [
+    [
+     "spray",
+     2646,
+     1
+    ]
+   ],
+   "proof": "clean drive, no stars"
+  },
+  {
+   "key": "s1",
+   "text": "One. Check the icons under your stars. Outfit, appearance and vehicle. The message says they have your description.",
+   "label": "1  Three icons",
+   "clips": [
+    [
+     "stars",
+     1038,
+     1
+    ],
+    [
+     "stars",
+     1049,
+     1.4
+    ]
+   ],
+   "proof": "stars + icons, 'The cops are searching for you and they have your description' 1050-1056"
+  },
+  {
+   "key": "s2",
+   "text": "Two. Break the chase first. Get out of the search area and duck into an alley before you do anything else.",
+   "label": "2  Break the chase",
+   "clips": [
+    [
+     "spray",
+     2570,
+     1
+    ],
+    [
+     "spray",
+     2578,
+     1
+    ]
+   ],
+   "proof": "alley with 3 stars 2570-2586 (TG 1431 'pull into alley'; Zancudo step one)"
+  },
+  {
+   "key": "s3",
+   "text": "Three. Open the wheel, go to items, and put on a cap or glasses. It's free and takes seconds, and the game says appearance heat cleared.",
+   "label": "3  Cap or glasses",
+   "clips": [
+    [
+     "outfit",
+     1470,
+     1
+    ],
+    [
+     "outfit",
+     1479,
+     1.6
+    ]
+   ],
+   "proof": "character in cap 1470; items wheel + 'Appearance heat cleared' 1479-1502"
+  },
+  {
+   "key": "s4",
+   "text": "Four. Pull into a paint spray shop and pick respray. That clears the vehicle.",
+   "label": "4  Respray the car",
+   "clips": [
+    [
+     "spray",
+     2590,
+     1.2
+    ],
+    [
+     "spray",
+     2602,
+     1.2
+    ]
+   ],
+   "proof": "Repair/Respray menu 2590-2598, red respray 2602-2606 (TG 2592 'change the vehicle colour to reduce recognition')"
+  },
+  {
+   "key": "s5",
+   "text": "Five. Drive out of the red area on your map. Once you're clear of it, the stars drop away.",
+   "label": "5  Leave the red zone",
+   "clips": [
+    [
+     "spray",
+     2618,
+     1
+    ],
+    [
+     "spray",
+     2628,
+     1.2
+    ],
+    [
+     "spray",
+     2636,
+     1
+    ]
+   ],
+   "proof": "map with red search area 2618-2622; stars 3 -> 0 by 2636 (TG 2638 'out of the cop wanted area', 2660 'my wanted level is gone')"
+  },
+  {
+   "key": "end",
+   "text": "Three icons, three fixes. Which one got you caught? Drop it in the comments.",
+   "label": null,
+   "clips": [
+    [
+     "spray",
+     2644,
+     1
+    ]
+   ],
+   "proof": "clean drive"
+  }
+ ],
+ "desc_steps": [
+  "1. The cops remember three things: your outfit, your appearance and your vehicle. Look at the icons under your stars, and open the map to see which ones are still known.",
+  "2. Break the chase first. While the stars are white you are still being hunted, so get out of the search area or duck into an alley.",
+  "3. Fix your face: open the wheel, go to items, and put on a cap or glasses. It shows 'Appearance heat cleared'.",
+  "4. Fix your outfit: change clothes (a spare outfit in your trunk works), or swap to a different vehicle.",
+  "5. Fix your car: drive to a paint spray shop and pick Respray, or swap vehicles. The price is shown before you pay.",
+  "6. Leave the red heat zone on your map. When all three are cleared and you are out of the zone, your wanted level is gone."
+ ],
+ "hashtags": "#GTA6 #GrandTheftAuto6 #GTAVI",
+ "tags": [
+  "gta 6",
+  "gta6",
+  "grand theft auto 6",
+  "grand theft auto vi",
+  "gta vi",
+  "rockstar games",
+  "gta 6 wanted level",
+  "gta 6 lose cops",
+  "gta 6 pay n spray",
+  "gta 6 guide"
+ ],
+ "credits": [
+  "Footage via Typical Gamer: https://www.youtube.com/watch?v=cyAPzaLcEsM",
+  "Tips via Zancudo (https://www.youtube.com/watch?v=Xi6a6cUYbEM) and Mr Lawrence (https://www.youtube.com/watch?v=FGT8wNrw6Pw)"
+ ],
+ "source_date": "November 19, 2026",
+ "verify": "Tip: clear outfit + appearance + vehicle (Zancudo Xi6a6cUYbEM 0:35-1:40, Mr Lawrence FGT8wNrw6Pw 1:26-1:55) matched on Typical Gamer cyAPzaLcEsM: description message 1050, alley 1431, items wheel 'Appearance heat cleared' 1479-1502, respray menu 2590-2606, map red zone 2618, stars gone 2636. Step 4 outfit-swap and Zancudo's timings (42 s / 52 s) are not on frame, so they are description-only / omitted."
+}

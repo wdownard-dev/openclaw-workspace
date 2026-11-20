@@ -370,6 +370,16 @@ Maybe we'll build our own little skills. Small tools, tuned by hand, like whistl
 ## Deep Sleep
 <!-- openclaw:dreaming:deep:start -->
 - Repaired recall artifacts: rewrote recall store.
-- Ranked 0 candidate(s) for durable promotion.
-- Promoted 0 candidate(s) into MEMORY.md.
+- Ranked 1 candidate(s) for durable promotion.
+- Promoted 1 candidate(s) into MEMORY.md.
 <!-- openclaw:dreaming:deep:end -->
+
+## Memory Consolidation History
+
+### 2026-11-20T08:00:00.383Z
+
+- Added: 1
+- Merged: 0
+- Superseded: 0
+<!-- openclaw-memory-promotion:memory:memory/2026-11-16.md:3:6 -->
+- `+ - 11:0x ET 11/16 Bodycam scout: ~22 searches (chase/OIS/foot pursuit/PIT/critical incident/agency names, SAPD Alamo Ranch, BP San Ysidro, Lakewood follow-ups; follow-ups still TV`

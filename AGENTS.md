@@ -137,3 +137,6 @@ Send decision buttons as value-only (`{"label":"A","value":"codm_a"}`), never wi
 
 ## Lesson (2026-11-13): one message per turn in webchat
 William sees three near-identical messages per turn: the pre-work progress line, the sessions_yield acknowledgment, and the final reply repeating it. Root cause: webchat streams any text written BEFORE a tool call, then shows the whole turn's text again as the final reply, so mid-turn commentary appears twice. Rule: write NO text before or between tool calls; call tools silently and write exactly one block of text at the end of the turn. When yielding for a worker, put the one-line status in the sessions_yield acknowledgment and write nothing else. Usage is driven by worker context size, not these messages; prefer fewer, larger Sonnet workers over one worker per step.
+
+## Setting (2026-11-19): background exec no longer wakes the chat
+`tools.exec.notifyOnExit` is false (William approved, to stop "Exec completed" noise in Telegram). Background exec results are NOT pushed to me: after starting one (e.g. `clip_queue.py cycle`), collect it with `process poll` (timeout up to 30000) before ending the turn, then relay any TGSEND lines. Never reply to a bare "Exec completed" notice; if one arrives, stay silent unless I am waiting on that result.

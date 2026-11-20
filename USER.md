@@ -100,6 +100,10 @@ Format: `<!-- observed: YYYY-MM-DD | status: active|superseded -->` then one imp
 
 - wrdgamingclipz / GTA 6 push (William, 2026-11-15): push is BIG, YouTube wrdgamingclipz + TikTok rvclips6, both via OpusClip API (Buffer not used). STANDING APPROVAL: for streamers/YouTubers on the approved list (to be agreed with William), clip and post their new videos without a per-clip 'clip it'; clips from anyone NOT on the list still need his go. Rockstar footage only matters until release (11/19). Plan: projects/gaming/GTA6-PLAN.md. Safety rules, source wait rules, frame screening and fact accuracy still apply. Credit (William, 11/16): NO source-credit line or overlay on the video itself; put a short credit line at the END of the description. Captions: rely on YouTube's auto-captions, do not burn in. No permission emails to creators. Guide/walkthrough lane = 'medium rework' (our own script and TTS voiceover over their footage, their audio muted, numbered step text); example in projects/gaming/out/guide_example.mp4. Guide-lane rules (William, 11/16, after the Fortnite Pirate Shop Token test): NEVER burn disclaimers or hedge banners onto the video (hedge in the narration only if needed); read the WHOLE transcript including intros and rank ALL key tips (setup/loadout/prerequisite tips like a recommended sprite or item count as much as location) and make sure the biggest tips are in the Short before building; gaming guide voice = ElevenLabs Liam (TX3LPaxmHKxFdv7VOQHJ, William chose 11/16; Daniel stays Blue Pill only); never use 'reportedly' or other hedge words in guide scripts (William 11/16: it signals unoriginal content), state tips plainly but only claims the source transcript supports; footage must visibly match each spoken step.
 
+<!-- observed: 2026-11-19 | status: active -->
+
+- GTA 6 content type (William, 11/19, SUPERSEDED same day by the next entry): the focus is WALKTHROUGH/guide-type Shorts. Plain gameplay with just an overlay is not enough.
+
 ## Related
 
 - [Agent workspace](/concepts/agent-workspace)
@@ -109,3 +113,13 @@ Format: `<!-- observed: YYYY-MM-DD | status: active|superseded -->` then one imp
 
 <!-- observed: 2026-11-18 | status: active -->
 - Always treat Typical Gamer (@TypicalGamer, YT channel UC2wKfjlioOCLP4xQMOWNcgg) as an approved streamer for wrdgamingclipz / GTA 6 clipping: standing approval, clip and post without a per-clip ask. Added by William 11/18 alongside Adin Ross, IShowSpeed, xQc. N3on is NOT on the list (one-off approval only).
+
+<!-- observed: 2026-11-19 | status: active -->
+- GTA 6 lanes (William, 11/19): the winning formula is walkthrough/guide Shorts PLUS wild-moment Shorts ("the sauce"). Build on what is working. Moment lane = a clip with a payoff clear in the first 5 s, from a source already proven (e.g. TikTok 200K+ views), packaged like the Polar Bear Incident Short (2i60B0AGrm8, 3.1K views in 4 h, best on channel): named-incident title, cliffhanger text line in the first 7 s, facecam cut, 9:16 blurred fill, 30-45 s. Add something of our own (voiceover or context) where it fits, because reused-content review is a monetization risk. Plain gameplay with no payoff and no teaching is still out. Track source views vs our views for the next ~10 moment clips (projects/gaming/out/lane_tracker.csv) before deciding whether 'proven source' predicts anything.
+
+
+<!-- observed: 2026-11-19 | status: active -->
+- wrdgamingclipz end goal (William, 11/19): get monetized through YouTube Partner Program. Early tier needs 500 subs (met) + 3 uploads/90 d (met) + 3M Shorts views in 90 d; full ad tier needs 1,000 subs + 10M Shorts views in 90 d (watch hours at 0, Shorts watch time does not count). Judge every GTA 6 content decision by (1) Shorts views growth and (2) reused-content/inauthentic-activity risk. Never buy views; the ~1,000 bought subs are a flagged risk. Track progress via projects/gaming/lane_report.py.
+
+<!-- observed: 2026-11-19 | status: active -->
+- Liam voiceover standard (William, 11/19, to avoid the reused-content flag and protect monetization): nearly every wrdgamingclipz Short should carry Liam's voiceover (our own script over the footage), not just an overlay text line or the creator's audio. Applies to guide Shorts (already the case) and to moment-lane clips (new: write a short Liam narration for each, creator audio muted or ducked). Exceptions only when William approves a clip as-is. Automations that post own-cuts (watch/discovery cycle) should add Liam narration before posting or hold the clip for it.

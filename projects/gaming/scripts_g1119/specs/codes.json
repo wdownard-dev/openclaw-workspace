@@ -1,0 +1,188 @@
+{
+ "slug": "codes",
+ "title": "TWO DOOR CODES",
+ "yt_title": "Two GTA 6 Door Codes: 0420 and 7700 (Donnie Jobs)",
+ "hook": "Two GTA 6 codes you need on the Donnie jobs: 0420 and 7700.",
+ "tips": [
+  "1. Boutique back-room keypad code 0420 (xQc UfmrSYPbvfw 2778; subtitle 'The code is 0420' + Notes 0420 on frame 2780-2812)",
+  "2. El Tropical Private Club code 7700 (xQc UfmrSYPbvfw 2875 + subtitle on frame 2878; Typical Gamer cyAPzaLcEsM 1075 'Entry code is 770[0]')",
+  "3. Brian sends you for rent, the lab pays cash, then the club strong box (xQc 2715-2875)"
+ ],
+ "segs": {
+  "xq": {
+   "file": "xqc_codes",
+   "base": 2764,
+   "mask": [
+    0,
+    0.49,
+    0.205,
+    0.3
+   ]
+  }
+ },
+ "parts": [
+  {
+   "key": "hook",
+   "text": "Two GTA 6 codes you need on the Donnie jobs. Zero four two zero, and seven seven zero zero.",
+   "label": "0420  and  7700",
+   "clips": [
+    [
+     "xq",
+     2779,
+     1
+    ]
+   ],
+   "proof": "subtitle 'It's in the backroom! The code is 0420' 2779-2784"
+  },
+  {
+   "key": "s1",
+   "text": "One. Brian sends you to a boutique to collect his rent. The owner says he doesn't have it, and gives up the code to the back room instead.",
+   "label": "1  Collect the rent",
+   "clips": [
+    [
+     "xq",
+     2764,
+     1
+    ],
+    [
+     "xq",
+     2770,
+     1
+    ]
+   ],
+   "proof": "boutique conversation 2764-2776 (xQc 2715 'Brian sent me over for the rent', 2769 'just take the acid')"
+  },
+  {
+   "key": "s2",
+   "text": "Two. The code is zero four two zero. Punch it into the keypad on the back room door. The game saves it in your notes.",
+   "label": "2  Back room: 0420",
+   "clips": [
+    [
+     "xq",
+     2782,
+     1
+    ],
+    [
+     "xq",
+     2794,
+     1
+    ],
+    [
+     "xq",
+     2806,
+     1.2
+    ]
+   ],
+   "proof": "subtitle 0420 2782; keypad on wall + Notes 0420 2806-2812 (xQc 2778 'THE CODE IS 0420')"
+  },
+  {
+   "key": "s3",
+   "text": "Three. Inside is an acid lab. Check the register for cash, grab what you can carry, then call Brian.",
+   "label": "3  Acid lab",
+   "clips": [
+    [
+     "xq",
+     2818,
+     1
+    ],
+    [
+     "xq",
+     2828,
+     1
+    ],
+    [
+     "xq",
+     2850,
+     1
+    ]
+   ],
+   "proof": "lab 2818-2848 (xQc 2817 'stove, bags', 2828 'finally some real cash'); phone call 2854 (xQc 2856 'How we looking, Jason?')"
+  },
+  {
+   "key": "s4",
+   "text": "Four. Next up, the El Tropical Private Club next door. Brian says put whatever you got in the strong box. The code is seven seven zero zero.",
+   "label": "4  El Tropical: 7700",
+   "clips": [
+    [
+     "xq",
+     2860,
+     1
+    ],
+    [
+     "xq",
+     2866,
+     1
+    ],
+    [
+     "xq",
+     2872,
+     1
+    ],
+    [
+     "xq",
+     2878,
+     1.3
+    ]
+   ],
+   "proof": "Brian call 2860-2878: subtitle 'lockup next door at the El Tropical Private Club' 2866, 'strong box' 2872, 'The code is 7700' 2878 (xQc 2866-2875; TG 1075)"
+  },
+  {
+   "key": "end",
+   "text": "Zero four two zero, and seven seven zero zero. Screenshot this, then drop a comment with which job you're on.",
+   "label": "0420  and  7700",
+   "clips": [
+    [
+     "xq",
+     2886,
+     1
+    ]
+   ],
+   "proof": "phone call continues"
+  }
+ ],
+ "desc_steps": [
+  "1. Brian sends you to a boutique in Vice City to collect his rent. Push the owner and he gives up the back room code: 0420.",
+  "2. Enter 0420 on the keypad on the back room door. The game saves the code in your notes.",
+  "3. Inside is an acid lab. Take the cash and call Brian.",
+  "4. Brian then sends you to the El Tropical Private Club next door. The code is 7700. Put what you have in the strong box.",
+  "Codes: 0420 (boutique back room), 7700 (El Tropical Private Club)."
+ ],
+ "hashtags": "#GTA6 #GrandTheftAuto6 #GTAVI",
+ "tags": [
+  "gta 6",
+  "gta6",
+  "grand theft auto 6",
+  "grand theft auto vi",
+  "gta vi",
+  "rockstar games",
+  "gta 6 codes",
+  "gta 6 keypad code",
+  "gta 6 safe code",
+  "gta 6 guide"
+ ],
+ "credits": [
+  "Footage via xQc: https://www.youtube.com/watch?v=UfmrSYPbvfw&t=2764s"
+ ],
+ "source_date": "November 19, 2026",
+ "verify": "Tip: codes 0420 (boutique back room) and 7700 (El Tropical Private Club). Transcript: xQc UfmrSYPbvfw 2778 and 2875; 7700 also in Typical Gamer cyAPzaLcEsM 1075 ('Entry code is 770[0]', auto-caption cut a zero) and 2150. Frames: subtitles 'The code is 0420' (2780), 'The code is 7700' (2878), keypad + 'Notes 0420' (2806). 0420 is single-source (xQc) but on screen.",
+ "cap_merge": [
+  [
+   [
+    "zero",
+    "four",
+    "two",
+    "zero"
+   ],
+   "0420"
+  ],
+  [
+   [
+    "seven",
+    "seven",
+    "zero",
+    "zero"
+   ],
+   "7700"
+  ]
+ ]
+}

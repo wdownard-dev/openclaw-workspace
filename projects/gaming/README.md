@@ -30,8 +30,12 @@ ONLY to approved entries; everything else stays "ask William / clip it".
 2. Submit to OpusClip (opusclip/opus.py), then `python3 gaming_budget.py record VIDEO_ID CREDITS --note ...`.
 3. Screen: `opusclip/screen_clip.py PROJECT CLIP`, view every frame. Reject visible blood/gore/graphic injury, keep the first
    7 s clean of graphic violence, no isolated cutscene/story/ending clips (Rockstar takes those down), no leaked footage.
-4. Post only inside 7 AM-11 PM ET, with a rewritten title, source credit ("Via <creator>"), and an original text line or
-   voiceover on the clip (reused-content rule).
+4. Post only inside 7 AM-11 PM ET, with a rewritten title, source credit ("Via <creator>"), and LIAM VOICEOVER on the clip
+   (William, 11/19: standing rule to avoid the reused-content flag and protect monetization). An overlay text line alone is NOT enough.
+   Write a 2-4 sentence narration (about 40-60 words, our own script, no claims the footage does not show), mute or duck the creator's
+   audio, synthesize with Liam (voice TX3LPaxmHKxFdv7VOQHJ, see GUIDE-RULES.md and scripts_g1119/gbuild.py) and mix over the cut.
+   If you cannot add narration in this run, DO NOT POST: save the cut under out/ and report it as 'held for narration'.
+   Exceptions only when William approves a specific clip as-is.
    YouTube: `opus.py post --account wrdgamingclipz` (postAccountId 6aee359f69f72aca6cb4207e)
    TikTok rvclips6 (postAccountId 6afa5abf5a226aba99eb2d09). Cadence per plan: YT 3/day (4 on 11/19-21), TikTok 2/day (3 on 11/19-20).
 
@@ -48,9 +52,10 @@ For a long approved-channel VOD/stream, cut moments ourselves instead of submitt
    build segfaults on DNS).
 3. **Screen:** view the whole contact sheet (and extra frames if needed). Reject visible blood/gore/graphic injury, keep the first 7 s
    clean, no isolated cutscene/story/ending clips, no leaked footage.
-4. **Post:** `opusclip/opus.py post --account wrdgamingclipz ...` (or `clips/scripts/upload.py` for a local mp4). Standing approval
-   applies only to channels with `"approved": true`; anything else, ask William. Add an original text line or voiceover (reused-content
-   rule), rewrite the title, and credit the source ("Via <creator>"). Post only 7 AM-11 PM ET.
+4. **Narrate, then post:** add Liam voiceover first (2-4 sentences, creator audio muted/ducked; William's standing rule 11/19, see step 4
+   of "Alert to post"). No narration = hold, do not post. Then `opusclip/opus.py post --account wrdgamingclipz ...` (or `clips/scripts/upload.py`
+   for a local mp4). Standing approval applies only to channels with `"approved": true`; anything else, ask William. Rewrite the title and
+   credit the source ("Via <creator>"). Post only 7 AM-11 PM ET.
 
 ## Multi-signal picker (transcript + audio [+ chat])
     python3 signals_audio.py VIDEO_ID            # bestaudio download + loudness signals -> out/ID.audio.json (208 min VOD: ~10 s download, ~26 s compute)
