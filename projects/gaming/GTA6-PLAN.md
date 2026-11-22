@@ -29,3 +29,6 @@ Launch: 11/19. William 11/15: push is BIG; Rockstar-footage clips matter only un
 - Standing approval for GTA clips vs per-clip 'clip it'.
 - Streamer/creator list (to build).
 - rvclips6 link.
+
+## RECIPE (William, 2026-11-21, supersedes the mix above)
+Daily: 3-4 walkthrough/secret-location GUIDES (topics approved via the guide scout; template in GUIDE-RULES.md; custom thumbnail style 1) + 1-2 WOW-MOMENT clips (approved streamers/proven moments, Liam VO). Guides drive. Wow-moment lane max 2/day per platform. Platform caps stay as set until William changes them (YouTube 3/day from 11/22, TikTok 2/day); open question to William: raise caps to fit 4-6 posts/day.

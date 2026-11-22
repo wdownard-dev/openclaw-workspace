@@ -7,11 +7,13 @@
   guide_make.py URL build            TTS (Liam) + render + description + contact sheet from out/ID.guide.json
   guide_make.py URL upload [--publish-at ISO]   upload out/ID.mp4 PRIVATE via yt_upload_gaming.py (privacy is hard-coded private;
                                      --publish-at e.g. 2026-11-18T09:00:00-05:00 schedules it: privacyStatus stays private + status.publishAt)
+A clip's optional 4th element is another source video id (default: the guide's own source); fetch it first (`guide_make.py OTHER_ID fetch`).
+guide.json optional "credits": [["Channel", "VIDEO_ID"], ...] adds extra "Guide via" lines after the main credit (description only).
 guide.json optional "evergreen": true -> patch stamp says 'Works as of <build month year>' instead of the source date.
 
 SCRIPT STEP (separate, reviewable): the writer reads work/guides/ID/transcript.txt, ranks every tip, and writes out/ID.guide.json:
   {"title": "HOW TO ...", "yt_title": "...", "hook": "...", "tips": ["ranked tip + transcript time", ...],
-   "parts": [{"key":"hook","text":"...","label":null,"clips":[[src_s, dur_weight, zoom], ...]},
+   "parts": [{"key":"hook","text":"...","label":null,"clips":[[src_s, dur_weight, zoom, optional_source_video_id], ...]},
              {"key":"s1","text":"One. ...","label":"1  Short label","clips":[...]}, ..., {"key":"end","text":"...","label":null,"clips":[...]}],
    "desc_steps": ["1. full step text, including tips cut from the Short", ...],
    "tags": ["#Fortnite", ...], "crop_top": 0.12, "crop_bottom": 0, "crop_left": 0}  (crop to hide source watermark/captions/facecam)
@@ -26,8 +28,25 @@ FF = "/home/williamdownard/openclaw-sites/bin/ffmpeg"
 OUT = B + "/out"
 VOICE = "TX3LPaxmHKxFdv7VOQHJ"  # ElevenLabs Liam, the only gaming voice
 FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+ANTON = B + "/assets/fonts/Anton-Regular.ttf"  # open-license headline font (William picked this title style 2026-11-21)
 HEDGES = ["reportedly", "apparently", "supposedly", "according to", "allegedly", "rumored", "rumoured", "it seems", "might be", "i think"]
 TTS_USD_PER_CHAR = 0.22 / 1000
+
+
+def title_png(W, lines):
+    """Headline title (guide.json "title_lines": [line1, line2?]): Anton, line 1 yellow, line 2 white, thick black stroke."""
+    from PIL import Image, ImageDraw, ImageFont
+    im = Image.new("RGBA", (1080, 1920), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
+    y = 95
+    for i, text in enumerate(lines[:2]):
+        size = 112 if i == 0 else 88
+        f = ImageFont.truetype(ANTON, size)
+        while d.textlength(text, font=f) > 1000 and size > 50:  # shrink long lines to fit
+            size -= 4; f = ImageFont.truetype(ANTON, size)
+        tw = d.textlength(text, font=f)
+        d.text(((1080 - tw) / 2, y), text, font=f, fill="#FFE14D" if i == 0 else "white", stroke_width=10 if i == 0 else 9, stroke_fill="black")
+        y += 130
+    p_ = f"{W}/title_headline.png"; im.save(p_); return p_
 
 
 def vid_id(s):
@@ -114,7 +133,7 @@ def lint(g, vid):
     if bad:
         sys.exit("LINT FAIL hedge words: " + str(bad))
     words = len(text.split())
-    print("words", words, "(target 90-115)")
+    print("words", words, "(no length target: as long as the guide needs; William 2026-11-21)")
     tr = open(wdir(vid) + "/transcript.txt").read().lower()
     ordw = {"One", "Two", "Three", "Four", "Five", "Here's", "Got", "Drop", "Equip", "Expect", "Don't", "Or", "You", "It"}
     miss = []
@@ -156,14 +175,14 @@ def build(vid):
         starts.append(t); t += d_ + GAP
     total = t + 0.3; N = len(P)
     print("durs", [round(x, 2) for x in ds], "total", round(total, 1))
-    if not 30 <= total <= 58:
-        print("WARN length", round(total, 1), "s (target 35-45)")
+    if total > 175:
+        print("WARN length", round(total, 1), "s: Shorts cap is 3 min; trim or split Part 1/2")
     edges = [0] + [starts[i] - 0.05 for i in range(1, N)] + [total]
     segs = []
     for i, p in enumerate(P):
         a, b = edges[i], edges[i + 1]; cl = p["clips"]; ws = sum(c[1] for c in cl)
-        for s, w, z in cl:
-            segs.append((s, (b - a) * w / ws, z))
+        for c_ in cl:  # optional 4th element: another source video id (fetched into work/guides/<id>/)
+            segs.append((c_[0], (b - a) * c_[1] / ws, c_[2], src_path(c_[3]) if len(c_) > 3 else SRC))
     ct = g.get("crop_top", 0.12); cb = g.get("crop_bottom", 0.0); cl = g.get("crop_left", 0.0); cr = g.get("crop_right", 0.0); keep = 1 - ct - cb
 
     def png(name, text, size, y, color, box=False):
@@ -176,17 +195,17 @@ def build(vid):
             if box: d_.rounded_rectangle([x - 24, yy - 14, x + tw + 24, yy + size + 18], 18, fill=(0, 0, 0, 115))
             d_.text((x, yy), l, font=f, fill=color, stroke_width=5, stroke_fill="black")
         p_ = f"{W}/{name}.png"; im.save(p_); return p_
-    ov = [(png("title", g["title"], 54, 130, "white"), None, None)]
+    ov = [(title_png(W, g["title_lines"]) if g.get("title_lines") else png("title", g["title"], 54, 130, "white"), None, None)]
     for i, p in enumerate(P):
         if p.get("label"):
             ov.append((png(p["key"], p["label"], 44, 330, "#FFE14D", True), starts[i], starts[i + 1] - 0.05 if i < N - 1 else total))
     cin = []
     for p in P: cin += ["-i", f"{W}/{p['key']}.mp3"]
-    for s, d_, z in segs: cin += ["-ss", str(s), "-t", f"{d_+0.2:.2f}", "-i", SRC]
+    for s, d_, z, sp_ in segs: cin += ["-ss", str(s), "-t", f"{d_+0.2:.2f}", "-i", sp_]
     for o in ov: cin += ["-i", o[0]]
     nv = len(segs); fc = []
     for i in range(N): fc.append(f"[{i}:a]adelay={int(starts[i]*1000)}|{int(starts[i]*1000)}[a{i}]")
-    for j, (s, d_, z) in enumerate(segs):
+    for j, (s, d_, z, _sp) in enumerate(segs):
         fc.append(f"[{N+j}:v]fps=30,setpts=PTS-STARTPTS,crop=iw*(1-{cl}-{cr})/{z}:ih*{keep}/{z}:iw*{cl}+iw*(1-{cl}-{cr})*(1-1/{z})/2:ih*{ct}+ih*{keep}*(1-1/{z})*0.45,scale=1080:-2,setsar=1[v{j}]")
         fc.append(f"[{N+j}:v]fps=30,setpts=PTS-STARTPTS,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=30:5[b{j}]")
         fc.append(f"[b{j}][v{j}]overlay=(W-w)/2:(H-h)/2[s{j}]")
@@ -224,7 +243,8 @@ def build(vid):
     # evergreen guides (e.g. Elden Ring, patch-stable) stamp the build month, not the source's date
     stamp_d = datetime.datetime.now().strftime("%B %Y") if g.get("evergreen") else datetime.datetime.strptime(g["source_date"], "%Y%m%d").strftime("%B %-d, %Y")
     desc = (g["yt_title"] + "\n\n" + g["hook"] + "\n\n" + "\n".join(g["desc_steps"]) + f"\n\nWorks as of {stamp_d}; update if the game changes.\n\n" +
-            " ".join(g["tags"]) + f"\n\nGuide via {g['creator']}: https://www.youtube.com/watch?v={g.get('source_id', vid)}\n")
+            " ".join(g["tags"]) + f"\n\nGuide via {g['creator']}: https://www.youtube.com/watch?v={g.get('source_id', vid)}\n" +
+            "".join(f"Guide via {ch}: https://www.youtube.com/watch?v={cv}\n" for ch, cv in g.get("credits", [])))  # optional extra credit lines
     open(f"{OUT}/{vid}.desc.txt", "w").write(desc)
     cost = {"id": vid, "tts_chars_new": chars, "tts_usd_est": round(chars * TTS_USD_PER_CHAR, 3), "tts_secs": round(tts_s, 1), "render_secs": round(render_s, 1), "duration": round(d_, 1)}
     json.dump(cost, open(f"{OUT}/{vid}.COSTS.json", "w")); print("BUILT", mp4, cost)
@@ -233,6 +253,11 @@ def build(vid):
 def upload(vid, publish_at=None):
     g = json.load(open(f"{OUT}/{vid}.guide.json"))
     extra = ["--publish-at", publish_at] if publish_at else []
+    tj = f"{OUT}/{vid}.thumb.jpg"  # custom cover (guide_thumb.py); shows on the channel page and in search, not the Shorts feed
+    if not os.path.exists(tj) and g.get("thumb"):
+        subprocess.run([sys.executable, B + "/guide_thumb.py", vid], check=False)
+    if os.path.exists(tj):
+        extra += ["--thumb", tj]
     r = subprocess.run([sys.executable, B + "/yt_upload_gaming.py", f"{OUT}/{vid}.mp4", "--title", g["yt_title"], "--desc-file", f"{OUT}/{vid}.desc.txt", "--privacy", "private", "--category", "20"] + extra, capture_output=True, text=True)
     open(f"{OUT}/{vid}.upload.txt", "w").write(r.stdout + r.stderr); print(r.stdout, r.stderr[-400:])
 

@@ -123,3 +123,9 @@ Format: `<!-- observed: YYYY-MM-DD | status: active|superseded -->` then one imp
 
 <!-- observed: 2026-11-19 | status: active -->
 - Liam voiceover standard (William, 11/19, to avoid the reused-content flag and protect monetization): nearly every wrdgamingclipz Short should carry Liam's voiceover (our own script over the footage), not just an overlay text line or the creator's audio. Applies to guide Shorts (already the case) and to moment-lane clips (new: write a short Liam narration for each, creator audio muted or ducked). Exceptions only when William approves a clip as-is. Automations that post own-cuts (watch/discovery cycle) should add Liam narration before posting or hold the clip for it.
+
+<!-- observed: 2026-11-21 | status: active -->
+- GTA 6 Shorts (William, 2026-11-21): 60-75% walkthrough/secret-location guides, 25-40% wow moments from approved streamers; wow moments are nice but not the driver. Guides have NO length limit (90 s or 3 min fine; 3 min Shorts cap, longer = Part 1/2). William approves TOPICS, not sources; sources are picked by us (temporary route until he captures his own footage). Guide style: fluid spoken Liam script ("First you want to...", "Then when you get there..."), never counting steps, title-only yellow Anton headline, letterbox. Supersedes the 'numbered step text' and '35-45 s' guide rules. See GUIDE-RULES.md.
+
+<!-- observed: 2026-11-21 | status: active -->
+- GTA 6 daily recipe (William, 2026-11-21): 3-4 walkthrough guides + 1-2 wow-moment clips per day. Guides are the driver; wow moments come from approved streamers. Supersedes the earlier 60-75%/25-40% split. All workers/automations must follow it (GTA6-PLAN.md, GUIDE-RULES.md, the GAMEWATCH prompt, the guide scout prompt).

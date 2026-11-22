@@ -370,8 +370,8 @@ Maybe we'll build our own little skills. Small tools, tuned by hand, like whistl
 ## Deep Sleep
 <!-- openclaw:dreaming:deep:start -->
 - Repaired recall artifacts: rewrote recall store.
-- Ranked 1 candidate(s) for durable promotion.
-- Promoted 1 candidate(s) into MEMORY.md.
+- Ranked 0 candidate(s) for durable promotion.
+- Promoted 0 candidate(s) into MEMORY.md.
 <!-- openclaw:dreaming:deep:end -->
 
 ## Memory Consolidation History

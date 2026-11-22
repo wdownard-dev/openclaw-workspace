@@ -103,3 +103,14 @@ Rules: `GUIDE-RULES.md`. Candidates: `guides_week1.json`. Tool: `guide_make.py` 
     python3 guide_make.py URL upload         # PRIVATE only
 
 - Metadata rules (hashtags, titles, tags; standing since 2026-11-18): see METADATA_RULES.md.
+
+## Guide scout (topic-level intake for guide Shorts)
+William approves TOPICS ("Paul Walker's Eclipse", "Early sniper rifle"), never sources; we pick and cross-check the sources ourselves. `guide_scout.py` is the intake: yt-dlp search through the local proxy (rate-limited, 429 backoff, cached under `work/guide_scout_cache/`), no downloads, no LLM. State `guide_topics.json` (statuses proposed/approved/rejected/built/stale), tuning `guide_scout_config.json` (queries, stop/exclude/risk word lists, thresholds, weights; no code change needed). Output `out/guide_scout/YYYY-MM-DD.json`, `out/guide_scout/latest.md`, log `out/guide_scout/scan.log`. Nothing is sent, posted or scheduled from the script; `digest` only prints `TGSEND` lines (value-only buttons) for the caller to deliver.
+
+    python3 guide_scout.py scan [--offline] [--rebuild]   # ~27 queries x 2 orderings, filter, score, cluster into topics (4-9 min cold, ~1 min when cached)
+    python3 guide_scout.py digest [--top 8] [--dry]       # one TGSEND per proposed topic: guide_ok_<id> / guide_no_<id>; marks them sent (resent after 3 days) unless --dry
+    python3 guide_scout.py callback guide_ok_<id>         # approve / reject (guide_no_<id>); prints one confirmation line
+    python3 guide_scout.py next [N] [--json]              # approved, unbuilt topics: primary source, 2-3 cross-check sources, frame checks still needed, caption status
+    python3 guide_scout.py show [ID]  |  built ID VIDEO_ID  |  add-topic "name" --query "search"  |  status
+
+Pipeline: title filter (GTA 6 in title, no spoiler/ending/story/live/leak/gore words) -> detail fetch (age, views, captions, chapters) -> views/hour floor -> items (single guides plus every chapter of a roundup, so each roundup item can become its own topic) -> each item joins its most specific shared token (no chaining) -> score = demand (log views/hour) + consensus (independent channels) + recency + specificity + guide-ability + caption availability + type bonus minus risk (glitch, spoiler adjacency, single unknown channel, weak type); components are printed in `latest.md`. Already built/posted topics are detected (out/*.guide.json, lane_tracker.csv, opusclip/experiment-log.csv, `built_name_regex` in the config) and not re-proposed. Daily flow: scan -> digest --top N -> William taps Approve/Skip -> callback -> `next` feeds the guide build (guide_make.py: fetch, sheet frames to clear facecam/watermark/first 7 s, script, build) -> `built ID VIDEO_ID`. Queue goal: 5-8 approved guides/day (`status` shows depth and days of queue).
